@@ -1,2 +1,2 @@
-# iiitb.RTOS
+# RTOS
 Everything related to the RTOS course at IIITB
