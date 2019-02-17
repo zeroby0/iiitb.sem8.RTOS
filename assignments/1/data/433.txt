@@ -1,0 +1,72 @@
+{
+    "name": "Chad Gleason",
+    "username": "Amparo30",
+    "email": "Nona_Becker5@hotmail.com",
+    "address": {
+        "streetA": "Pfeffer Junctions",
+        "streetB": "29478 Jaskolski Brook",
+        "streetC": "4316 Modesto Lock Apt. 271",
+        "streetD": "Suite 918",
+        "city": "Alexafurt",
+        "state": "Colorado",
+        "country": "Burundi",
+        "zipcode": "79425",
+        "geo": {
+            "lat": "37.2338",
+            "lng": "-110.7118"
+        }
+    },
+    "phone": "1-061-664-0543",
+    "website": "krystel.net",
+    "company": {
+        "name": "Runolfsdottir and Sons",
+        "catchPhrase": "Inverse exuding process improvement",
+        "bs": "dot-com brand communities"
+    },
+    "posts": [
+        {
+            "words": "blanditiis voluptas a",
+            "sentence": "Illum quidem tempora magnam cumque.",
+            "sentences": "Suscipit ratione consequatur voluptas distinctio vel ut qui aliquid animi. Ea quas sit fugit nam. Libero vero beatae eos quo corporis et velit omnis. Veniam voluptatem odio expedita illo eum sunt reiciendis.",
+            "paragraph": "Ad voluptatem dolores commodi eligendi ad ratione. Perspiciatis eos omnis voluptas eligendi est. Nostrum quis voluptatum dolor ab consequatur. Cumque fuga ut laudantium quos totam. Atque deserunt ut doloribus occaecati dignissimos voluptas nihil."
+        },
+        {
+            "words": "qui possimus et",
+            "sentence": "Praesentium culpa a explicabo optio quasi explicabo illum laborum.",
+            "sentences": "Consequuntur amet voluptatem et iusto aut vel ipsam est illo. Rem quis veritatis alias sed et et. Ut ut laborum velit. Et inventore optio fugit atque aut modi repudiandae veniam possimus.",
+            "paragraph": "Corporis exercitationem eius consequuntur ut consequatur nihil error et. Aspernatur doloremque perferendis ipsam dicta sit. Neque neque et voluptatem ducimus id."
+        },
+        {
+            "words": "enim dolorem consequuntur",
+            "sentence": "Odio dolorem voluptas libero aut dicta voluptatem eius beatae expedita.",
+            "sentences": "Est assumenda asperiores magni officiis optio error. Aliquid cupiditate minima voluptates sunt eveniet ab provident corrupti aut.",
+            "paragraph": "Saepe nemo qui nemo placeat maiores iure. Vitae ipsam praesentium. Velit veritatis vitae similique voluptas eum ea voluptatem autem sapiente."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "411.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kozey, Bahringer and Mann",
+            "name": "Checking Account 2814",
+            "type": "deposit",
+            "account": "43626739"
+        },
+        {
+            "amount": "754.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobs, Beier and Yundt",
+            "name": "Auto Loan Account 1814",
+            "type": "payment",
+            "account": "36666497"
+        },
+        {
+            "amount": "545.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Boehm - Yundt",
+            "name": "Savings Account 7301",
+            "type": "payment",
+            "account": "81074537"
+        }
+    ]
+}

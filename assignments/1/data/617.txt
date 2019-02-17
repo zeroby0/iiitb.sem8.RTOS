@@ -1,0 +1,72 @@
+{
+    "name": "Emmet Senger",
+    "username": "Susan65",
+    "email": "Dagmar_Effertz28@gmail.com",
+    "address": {
+        "streetA": "Russel Expressway",
+        "streetB": "16067 Karson Plaza",
+        "streetC": "237 Catherine Freeway Suite 567",
+        "streetD": "Suite 879",
+        "city": "Maximefort",
+        "state": "California",
+        "country": "Eritrea",
+        "zipcode": "06896",
+        "geo": {
+            "lat": "-75.4227",
+            "lng": "52.6597"
+        }
+    },
+    "phone": "1-004-897-5410 x4618",
+    "website": "abbigail.com",
+    "company": {
+        "name": "Breitenberg, Bashirian and Leannon",
+        "catchPhrase": "Expanded global attitude",
+        "bs": "B2C unleash infrastructures"
+    },
+    "posts": [
+        {
+            "words": "omnis in debitis",
+            "sentence": "Laboriosam doloribus sit possimus pariatur porro est qui.",
+            "sentences": "Autem amet culpa fuga. Labore iste atque. Amet error at. Laudantium sit esse aut.",
+            "paragraph": "Quo placeat dolores voluptatem nobis voluptas dolor. Quia rerum ratione possimus dolores sequi quaerat fugiat est. Excepturi consequuntur qui autem sunt corporis optio qui. Omnis corporis rerum sit blanditiis et natus id aut suscipit."
+        },
+        {
+            "words": "cupiditate esse ipsum",
+            "sentence": "Molestiae doloribus quo blanditiis molestiae.",
+            "sentences": "Odit non nihil ut omnis consequuntur mollitia illo maiores nihil. Ut consequatur sed est at hic facilis. Minima sunt quo error.",
+            "paragraph": "Quo et nostrum et possimus praesentium voluptate. Perferendis qui vel veritatis rerum occaecati quae. Voluptatem quibusdam eius est corrupti vel saepe quam iusto deleniti. Non consequuntur reprehenderit iusto nisi. Fugit voluptatem modi deserunt."
+        },
+        {
+            "words": "beatae fuga maiores",
+            "sentence": "Fugit voluptates doloremque quam voluptate veniam expedita dolores.",
+            "sentences": "Eum atque ea aliquam. Beatae necessitatibus repellat laudantium rem culpa sunt officia sapiente. Voluptas beatae aut dolorum nulla laborum non vero. Necessitatibus consequuntur odit similique. Accusamus alias consequatur quas voluptas nihil eaque.",
+            "paragraph": "Ab est aliquid est. Nesciunt et quisquam ipsam expedita alias eos aliquid qui. Earum aut omnis voluptatem eveniet. Nisi voluptates nihil velit nulla nam dolorum corrupti."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "626.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuhlman, Lehner and Huel",
+            "name": "Credit Card Account 9799",
+            "type": "payment",
+            "account": "22053797"
+        },
+        {
+            "amount": "354.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stanton LLC",
+            "name": "Home Loan Account 5174",
+            "type": "withdrawal",
+            "account": "45414250"
+        },
+        {
+            "amount": "402.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hintz - Kling",
+            "name": "Investment Account 3586",
+            "type": "invoice",
+            "account": "96289816"
+        }
+    ]
+}

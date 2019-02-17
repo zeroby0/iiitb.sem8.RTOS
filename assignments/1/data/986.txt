@@ -1,0 +1,72 @@
+{
+    "name": "Milo Bednar",
+    "username": "Mossie_Walter9",
+    "email": "Geovany_Parker94@yahoo.com",
+    "address": {
+        "streetA": "Hills Crossing",
+        "streetB": "99623 Matt Meadows",
+        "streetC": "5722 Hand Glen Suite 453",
+        "streetD": "Suite 240",
+        "city": "West Jefffurt",
+        "state": "Idaho",
+        "country": "Panama",
+        "zipcode": "10574",
+        "geo": {
+            "lat": "-43.1359",
+            "lng": "112.8457"
+        }
+    },
+    "phone": "938.259.7341",
+    "website": "eugenia.org",
+    "company": {
+        "name": "Okuneva - Fay",
+        "catchPhrase": "Managed system-worthy utilisation",
+        "bs": "strategic envisioneer initiatives"
+    },
+    "posts": [
+        {
+            "words": "unde aliquam voluptate",
+            "sentence": "Aut ut blanditiis non aliquam optio exercitationem earum unde tenetur.",
+            "sentences": "Et facilis ut modi nihil consequatur qui culpa explicabo. Voluptas et sunt. Atque id nihil fugit consectetur aperiam iusto.",
+            "paragraph": "Molestiae nisi consequatur soluta eum ratione et. Repellendus exercitationem quibusdam iste ea non fugiat quis. Libero qui voluptatibus a quos cum. Est et possimus. Ut veritatis dolor corrupti a in voluptas quisquam. Quae voluptatem officia aut sed dolores."
+        },
+        {
+            "words": "dolores in distinctio",
+            "sentence": "Exercitationem illum delectus quam asperiores deserunt.",
+            "sentences": "Est temporibus aut ducimus asperiores. Accusantium occaecati deserunt ut veniam repellendus consequatur deleniti.",
+            "paragraph": "Dolore voluptatem accusamus. Exercitationem nam quaerat alias voluptate repellendus repellendus nam. Rerum beatae unde nam. Odit mollitia adipisci modi et."
+        },
+        {
+            "words": "nisi aspernatur totam",
+            "sentence": "Et in voluptatem rerum.",
+            "sentences": "Et dignissimos et voluptate. Molestias sequi sunt commodi voluptate quod soluta id. Voluptas perferendis repellat dignissimos et. Debitis autem officia.",
+            "paragraph": "Nostrum dolorem reprehenderit cum voluptas voluptas. Quod nostrum ut consequuntur ad. Sapiente ut amet aut. Sequi commodi eveniet eius dolor alias sit unde ipsa. Error nemo eligendi odit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "450.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Steuber LLC",
+            "name": "Money Market Account 9601",
+            "type": "invoice",
+            "account": "90350845"
+        },
+        {
+            "amount": "481.01",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mante - O'Conner",
+            "name": "Auto Loan Account 5700",
+            "type": "withdrawal",
+            "account": "10183431"
+        },
+        {
+            "amount": "72.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Klocko, Gerhold and Witting",
+            "name": "Checking Account 1869",
+            "type": "invoice",
+            "account": "27287053"
+        }
+    ]
+}

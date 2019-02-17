@@ -1,0 +1,72 @@
+{
+    "name": "Alycia Kovacek",
+    "username": "Pasquale.Kemmer90",
+    "email": "Destin42@gmail.com",
+    "address": {
+        "streetA": "Turcotte Hills",
+        "streetB": "1445 Alva Rue",
+        "streetC": "59240 Ryan Fields Apt. 717",
+        "streetD": "Apt. 260",
+        "city": "Kilbackchester",
+        "state": "Idaho",
+        "country": "Somalia",
+        "zipcode": "82900-4257",
+        "geo": {
+            "lat": "77.5004",
+            "lng": "-76.6071"
+        }
+    },
+    "phone": "(553) 450-2277 x130",
+    "website": "micheal.org",
+    "company": {
+        "name": "Sporer Group",
+        "catchPhrase": "Team-oriented explicit process improvement",
+        "bs": "cross-media recontextualize markets"
+    },
+    "posts": [
+        {
+            "words": "quo cupiditate a",
+            "sentence": "Sed voluptatem eveniet veniam doloribus error quas molestiae accusamus unde.",
+            "sentences": "Est dolore ut porro rem quas omnis. Sed assumenda illum minus repellat. Vitae eligendi voluptatem qui ex est.",
+            "paragraph": "Est sit qui nam. Consectetur praesentium maiores eius quis ea ratione excepturi corrupti quia. Doloribus ut iste nisi. Eveniet est ut unde qui."
+        },
+        {
+            "words": "repellendus nostrum doloremque",
+            "sentence": "Et excepturi eaque omnis voluptas.",
+            "sentences": "Non aut maxime. Aliquam deleniti illum voluptatem cum aspernatur est explicabo animi cum. Et praesentium amet doloremque autem.",
+            "paragraph": "Ut quisquam ut enim occaecati mollitia qui odit optio voluptatem. Doloremque eligendi ullam odio quis. Porro vitae laudantium culpa quos non veritatis laboriosam."
+        },
+        {
+            "words": "et voluptatem explicabo",
+            "sentence": "Consequatur illo ducimus temporibus officia.",
+            "sentences": "Aperiam dolorem sequi dolore doloremque esse. Aut explicabo dignissimos quisquam aut dolores ad a. Voluptatem consequatur voluptatem consequuntur. Quasi rerum culpa sint sit mollitia molestiae ipsum.",
+            "paragraph": "Atque sapiente accusamus aperiam. Debitis quod aut similique ipsa ea iste assumenda nisi. Aut sint at accusantium perspiciatis laborum voluptatibus quod. Autem sunt harum asperiores aliquam nisi tempora neque at ipsam. Alias quia et quia quam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "428.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Paucek Inc",
+            "name": "Personal Loan Account 5579",
+            "type": "withdrawal",
+            "account": "99969874"
+        },
+        {
+            "amount": "870.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Heaney Group",
+            "name": "Credit Card Account 7711",
+            "type": "invoice",
+            "account": "84481957"
+        },
+        {
+            "amount": "732.66",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ryan - Sawayn",
+            "name": "Money Market Account 4276",
+            "type": "payment",
+            "account": "21366537"
+        }
+    ]
+}

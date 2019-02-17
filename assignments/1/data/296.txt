@@ -1,0 +1,72 @@
+{
+    "name": "Melissa Schuppe",
+    "username": "Delta91",
+    "email": "Toby.Franecki93@gmail.com",
+    "address": {
+        "streetA": "Spinka Knoll",
+        "streetB": "782 D'Amore Extensions",
+        "streetC": "18725 Hickle Viaduct Apt. 256",
+        "streetD": "Suite 823",
+        "city": "East Onatown",
+        "state": "New Jersey",
+        "country": "Kazakhstan",
+        "zipcode": "40273",
+        "geo": {
+            "lat": "25.3267",
+            "lng": "-178.3203"
+        }
+    },
+    "phone": "(856) 122-5984 x692",
+    "website": "davin.com",
+    "company": {
+        "name": "Marquardt and Sons",
+        "catchPhrase": "Proactive bandwidth-monitored archive",
+        "bs": "bleeding-edge enable infrastructures"
+    },
+    "posts": [
+        {
+            "words": "incidunt facilis modi",
+            "sentence": "Magni officiis fuga.",
+            "sentences": "Totam odit eaque et. Excepturi sequi est deserunt et beatae. Et perspiciatis enim in id laboriosam est. Neque illo eos a ut. Et illum et totam blanditiis assumenda est non. Occaecati dolores eveniet ipsum odit aut qui natus distinctio vel.",
+            "paragraph": "Minima eos et est in id veniam. Aspernatur reprehenderit repellat culpa veniam rerum. Rerum error voluptatum aperiam quaerat voluptatibus consectetur et autem corporis. Impedit voluptatem inventore expedita maxime dignissimos veritatis. Fugiat atque ut sunt voluptatem possimus sed ab. Modi molestias id qui quia laudantium nam sequi vel quod."
+        },
+        {
+            "words": "omnis ea et",
+            "sentence": "Et est est itaque sint.",
+            "sentences": "Maxime similique ea. Qui reiciendis et fuga odit dolores eveniet incidunt excepturi. Ea illo omnis. Et eaque et cumque. Rerum debitis repellat cumque natus saepe.",
+            "paragraph": "Dolor aliquid soluta voluptas. Sapiente dolor maiores in perferendis a quis. Sapiente magnam voluptatem qui. Saepe et dignissimos voluptas enim optio sit eos."
+        },
+        {
+            "words": "ratione dolore et",
+            "sentence": "Omnis est sapiente sit consequatur natus sed.",
+            "sentences": "Quasi omnis labore et itaque est voluptatem voluptas. Consectetur aliquam eum voluptate officiis. Nulla ea non quis aut eius.",
+            "paragraph": "Est in possimus expedita quisquam nihil dolor quia dolore. Vitae quia tempora. Sequi ipsum quia animi et. Ipsum officiis consequatur voluptate fugiat qui similique est commodi quas. Et eaque fugit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "667.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mertz Group",
+            "name": "Investment Account 2520",
+            "type": "withdrawal",
+            "account": "26929840"
+        },
+        {
+            "amount": "729.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Luettgen - Gaylord",
+            "name": "Credit Card Account 9420",
+            "type": "deposit",
+            "account": "05240265"
+        },
+        {
+            "amount": "841.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kautzer - Hoeger",
+            "name": "Auto Loan Account 3647",
+            "type": "payment",
+            "account": "96009079"
+        }
+    ]
+}

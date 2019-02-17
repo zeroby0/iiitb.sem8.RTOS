@@ -1,0 +1,72 @@
+{
+    "name": "Alessandro Farrell",
+    "username": "Halie.Rippin76",
+    "email": "Cecil25@yahoo.com",
+    "address": {
+        "streetA": "Jaida Route",
+        "streetB": "493 Gottlieb Ford",
+        "streetC": "76659 Judson Trail Suite 687",
+        "streetD": "Suite 232",
+        "city": "South Myles",
+        "state": "Wisconsin",
+        "country": "Moldova",
+        "zipcode": "43475",
+        "geo": {
+            "lat": "15.0471",
+            "lng": "137.1673"
+        }
+    },
+    "phone": "1-575-837-0731",
+    "website": "sabryna.info",
+    "company": {
+        "name": "Oberbrunner, Roob and Glover",
+        "catchPhrase": "Persistent analyzing functionalities",
+        "bs": "wireless utilize paradigms"
+    },
+    "posts": [
+        {
+            "words": "id voluptate accusantium",
+            "sentence": "Ut voluptatem modi ipsam autem excepturi deleniti consectetur libero.",
+            "sentences": "Nihil deserunt asperiores ut est vitae sunt. Sunt et beatae voluptatum quisquam itaque sit. Distinctio tempore esse omnis atque.",
+            "paragraph": "Enim corrupti accusamus quibusdam. Molestiae non sequi quos fugiat modi sapiente laborum. Consectetur sed est et omnis. Nesciunt distinctio non et. Rerum et quis dolores magni eligendi tempora sit et."
+        },
+        {
+            "words": "sapiente sit accusamus",
+            "sentence": "Tempora qui ea impedit dolore.",
+            "sentences": "Est magnam ut provident distinctio unde ut. Non esse laborum hic quae iusto vero dolor rem. Earum placeat est. Hic facere repellat. Consequatur ut voluptatem dolores est pariatur.",
+            "paragraph": "Voluptatem aut doloremque a numquam consequatur. Consequuntur explicabo quidem sint quia perspiciatis qui illum ad. Nobis et dolore aut quidem qui aut est eius."
+        },
+        {
+            "words": "est et aspernatur",
+            "sentence": "Ipsa incidunt repellat deleniti sapiente magnam dolorem maiores.",
+            "sentences": "Corporis itaque voluptatum. Nulla exercitationem sed vitae aut similique. Facilis sint dolores. Iste atque distinctio blanditiis incidunt deleniti.",
+            "paragraph": "Cum enim porro fuga dolores molestiae et iusto et. Libero tenetur optio quo facilis excepturi numquam. Voluptate autem et molestiae quam est in ut. Maxime et animi voluptatum eaque iusto. Quasi vel quidem eum voluptatum quisquam amet aliquam ratione molestias. Modi qui aut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "396.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schamberger - Zboncak",
+            "name": "Credit Card Account 7196",
+            "type": "invoice",
+            "account": "25824092"
+        },
+        {
+            "amount": "116.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobs, Lind and Rath",
+            "name": "Personal Loan Account 2161",
+            "type": "withdrawal",
+            "account": "69567012"
+        },
+        {
+            "amount": "44.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bartoletti, McClure and Fisher",
+            "name": "Personal Loan Account 1713",
+            "type": "invoice",
+            "account": "81068694"
+        }
+    ]
+}

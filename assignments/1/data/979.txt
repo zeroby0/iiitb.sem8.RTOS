@@ -1,0 +1,72 @@
+{
+    "name": "Mrs. Jace Medhurst",
+    "username": "Sabrina2",
+    "email": "Judson32@yahoo.com",
+    "address": {
+        "streetA": "Eichmann Port",
+        "streetB": "6635 Jadon Port",
+        "streetC": "08926 Mervin Meadows Suite 260",
+        "streetD": "Suite 985",
+        "city": "Port Daishaburgh",
+        "state": "Texas",
+        "country": "Finland",
+        "zipcode": "49355",
+        "geo": {
+            "lat": "-61.3751",
+            "lng": "143.8521"
+        }
+    },
+    "phone": "(985) 038-0571",
+    "website": "luisa.com",
+    "company": {
+        "name": "Huel Group",
+        "catchPhrase": "Realigned methodical parallelism",
+        "bs": "virtual productize metrics"
+    },
+    "posts": [
+        {
+            "words": "laborum neque mollitia",
+            "sentence": "Est porro ab possimus unde in porro atque quod in.",
+            "sentences": "Distinctio aspernatur et est totam natus odio ducimus. In et molestiae dolor.",
+            "paragraph": "Aut rerum odio iste molestiae ad. Repellendus et non maiores sed officiis sunt. Eum earum deleniti."
+        },
+        {
+            "words": "consequatur et eum",
+            "sentence": "Ipsum ab ea.",
+            "sentences": "Voluptatem facilis autem deserunt aut voluptatem facere. Aut ut eaque dolor sunt. Unde aut consectetur aliquam dolorem. Recusandae ab ullam dolor ratione.",
+            "paragraph": "Nostrum placeat commodi provident et doloribus voluptatibus ut dolorem et. Corporis numquam nam dolores voluptatum ipsum totam est. Aut sed debitis autem quaerat ex sit beatae et aut. Possimus tempore mollitia impedit dolores iste est quas explicabo et."
+        },
+        {
+            "words": "esse et vel",
+            "sentence": "Esse cumque ut saepe non quibusdam dicta velit.",
+            "sentences": "Modi adipisci est eum soluta est quia nihil. Magnam molestiae corrupti. Dolor id laboriosam eos magnam porro. Vero aut fugit animi blanditiis quos. Quas harum est soluta dolores est recusandae eum.",
+            "paragraph": "Nisi et ducimus quo quis alias architecto quis et. Nisi voluptatem qui rerum eius autem qui amet. Nam porro ut repudiandae esse et laudantium molestias in est. Voluptas optio suscipit at distinctio voluptatem quis sapiente inventore consequatur. Dolorem expedita a modi occaecati atque facilis vero. Et culpa atque debitis ullam deleniti eius hic qui."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "888.34",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stoltenberg Group",
+            "name": "Checking Account 7391",
+            "type": "deposit",
+            "account": "35876556"
+        },
+        {
+            "amount": "221.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sipes Group",
+            "name": "Credit Card Account 8957",
+            "type": "withdrawal",
+            "account": "93944460"
+        },
+        {
+            "amount": "436.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ratke Group",
+            "name": "Investment Account 8664",
+            "type": "withdrawal",
+            "account": "20874647"
+        }
+    ]
+}

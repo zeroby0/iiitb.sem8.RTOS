@@ -1,0 +1,72 @@
+{
+    "name": "Bart Cummings V",
+    "username": "Chasity87",
+    "email": "Rose_Kuhn79@hotmail.com",
+    "address": {
+        "streetA": "Buckridge Brook",
+        "streetB": "3169 Price Station",
+        "streetC": "466 Santos Mountain Apt. 186",
+        "streetD": "Apt. 173",
+        "city": "South Loufort",
+        "state": "Indiana",
+        "country": "Serbia",
+        "zipcode": "80053-2676",
+        "geo": {
+            "lat": "2.9121",
+            "lng": "179.0132"
+        }
+    },
+    "phone": "(161) 848-1143 x320",
+    "website": "maida.biz",
+    "company": {
+        "name": "Carter - Beer",
+        "catchPhrase": "Grass-roots global monitoring",
+        "bs": "clicks-and-mortar seize architectures"
+    },
+    "posts": [
+        {
+            "words": "facilis nam consequuntur",
+            "sentence": "Commodi voluptas a autem aspernatur voluptatem sequi vel repellat voluptatem.",
+            "sentences": "Hic quisquam iste nam magnam et explicabo vel. Sit quibusdam voluptatem. Fugit quo dicta optio odio quod sunt. Consequatur quia ipsa et et. Velit quidem minima harum ex dolorum harum et autem.",
+            "paragraph": "Est est neque molestias maiores ipsam labore magni commodi sequi. Ab voluptates nostrum labore ad repellendus odio sed. Quas voluptate et. Velit beatae laboriosam. Delectus et maxime molestias qui sapiente."
+        },
+        {
+            "words": "id sit aut",
+            "sentence": "Facilis est et.",
+            "sentences": "Qui sunt ab laudantium veniam aspernatur assumenda. Sapiente expedita incidunt corporis. Doloremque autem natus consequatur et consequatur officia.",
+            "paragraph": "Fugit quaerat aut error cumque eum aut repudiandae est facere. Ut voluptatem fugit animi omnis. Mollitia repellat atque libero. Adipisci occaecati voluptatem est autem incidunt nam aut. Odit ratione cumque et dolore et ut ducimus et expedita."
+        },
+        {
+            "words": "rerum dolores et",
+            "sentence": "Accusamus corrupti non ad.",
+            "sentences": "Deserunt id ipsam sequi qui provident architecto magnam quia odit. Fuga est fugit quasi qui sit. Architecto aut iste maiores eos molestiae. Mollitia dignissimos tenetur qui id eveniet dolor incidunt harum ea. Eum qui est omnis ut non rerum. Rerum odio vitae sunt et iure.",
+            "paragraph": "Aspernatur dolores maiores repellat. Nobis quis accusantium aut dolorem sint. Eveniet repellendus deserunt eligendi. Culpa iusto ea placeat molestiae dolores."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "681.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hilll - Quigley",
+            "name": "Checking Account 7143",
+            "type": "payment",
+            "account": "61911990"
+        },
+        {
+            "amount": "417.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Franecki, Lakin and Gusikowski",
+            "name": "Home Loan Account 8800",
+            "type": "invoice",
+            "account": "45130016"
+        },
+        {
+            "amount": "837.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fay, Crist and Dibbert",
+            "name": "Auto Loan Account 5674",
+            "type": "payment",
+            "account": "08969285"
+        }
+    ]
+}

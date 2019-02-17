@@ -1,0 +1,72 @@
+{
+    "name": "Irwin Shields",
+    "username": "Kelvin_Kuhn",
+    "email": "Alexandrea_McGlynn67@gmail.com",
+    "address": {
+        "streetA": "Mollie Valley",
+        "streetB": "312 Kurt Views",
+        "streetC": "406 Graham Valleys Suite 796",
+        "streetD": "Suite 957",
+        "city": "Port Jordan",
+        "state": "Louisiana",
+        "country": "Nauru",
+        "zipcode": "55749-7730",
+        "geo": {
+            "lat": "-48.3897",
+            "lng": "-174.8188"
+        }
+    },
+    "phone": "285.534.3929",
+    "website": "leanna.info",
+    "company": {
+        "name": "Oberbrunner - Bergstrom",
+        "catchPhrase": "Front-line bandwidth-monitored flexibility",
+        "bs": "frictionless engineer supply-chains"
+    },
+    "posts": [
+        {
+            "words": "aut illo qui",
+            "sentence": "Quae nemo in.",
+            "sentences": "Eum sit culpa eos neque omnis voluptatem suscipit. Ullam nisi dolores quo. Tenetur soluta nobis corporis.",
+            "paragraph": "Accusantium consequuntur blanditiis ut voluptas repellendus unde placeat occaecati. Perferendis nulla non natus. Ut dolores enim. Non aliquid tempora. Unde sapiente nihil. Eum doloribus provident ut dolore inventore iste qui rem illo."
+        },
+        {
+            "words": "distinctio aut quo",
+            "sentence": "Et ducimus asperiores et velit commodi.",
+            "sentences": "Molestiae optio ex facere rerum. Recusandae error voluptatem nostrum aut vero nemo optio. Nam est provident ea alias quod eaque. Incidunt ut reiciendis repellat ipsum voluptatum qui maxime magnam quisquam. Quia vitae cum porro porro nam nam in quae dicta. Veniam qui odit nihil sapiente rerum est aut.",
+            "paragraph": "Qui voluptatem aut ducimus quo suscipit eligendi ab repellendus. Nesciunt qui facilis. Culpa et voluptatem rerum libero sed illo beatae quidem. Commodi magni ut tempora eaque modi rem est eum recusandae. Ullam molestiae hic incidunt id ut quibusdam hic eveniet. Veniam vero ratione qui."
+        },
+        {
+            "words": "recusandae molestiae id",
+            "sentence": "Eaque iste odio error iusto qui saepe rem.",
+            "sentences": "Non facilis ea quia ut. Ea consequatur inventore aliquam et iste quaerat dolor culpa aliquid. Nesciunt dolorem ipsum rerum consequatur odio sed quis voluptatem.",
+            "paragraph": "Itaque architecto accusamus molestias. Optio quaerat voluptatum debitis eius quia est aperiam assumenda fugit. Explicabo accusantium autem similique. Qui aspernatur nulla quia pariatur quibusdam. Est accusamus illum ipsa culpa. Tenetur voluptas est ut quas sint eum et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "100.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Moore and Sons",
+            "name": "Checking Account 6608",
+            "type": "withdrawal",
+            "account": "91688882"
+        },
+        {
+            "amount": "439.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dare Inc",
+            "name": "Home Loan Account 1722",
+            "type": "deposit",
+            "account": "02894887"
+        },
+        {
+            "amount": "165.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kiehn, Koepp and Jast",
+            "name": "Savings Account 7100",
+            "type": "withdrawal",
+            "account": "67545775"
+        }
+    ]
+}

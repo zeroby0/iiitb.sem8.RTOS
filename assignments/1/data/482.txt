@@ -1,0 +1,72 @@
+{
+    "name": "Chad Rempel",
+    "username": "Miracle14",
+    "email": "Verner.Hilpert@gmail.com",
+    "address": {
+        "streetA": "Elmo Shoals",
+        "streetB": "7526 Paris Hill",
+        "streetC": "0427 Florencio Extensions Apt. 237",
+        "streetD": "Suite 655",
+        "city": "Murphyhaven",
+        "state": "Alabama",
+        "country": "Gambia",
+        "zipcode": "92337-0739",
+        "geo": {
+            "lat": "-54.3216",
+            "lng": "122.5710"
+        }
+    },
+    "phone": "(455) 133-0070 x422",
+    "website": "lavonne.net",
+    "company": {
+        "name": "Greenfelder, Hintz and Blick",
+        "catchPhrase": "Visionary bi-directional installation",
+        "bs": "next-generation streamline paradigms"
+    },
+    "posts": [
+        {
+            "words": "perspiciatis pariatur cum",
+            "sentence": "Occaecati quidem dolor corrupti nemo dolores recusandae explicabo facilis voluptas.",
+            "sentences": "Exercitationem natus error quis aperiam. Quibusdam beatae totam.",
+            "paragraph": "Eius magni autem quia aut. Nam iure est. Facere architecto corrupti libero qui consequatur in. Numquam vel doloribus corporis qui iure dolore. Consequatur voluptatem sunt corporis officiis laboriosam. Dolorum sed autem voluptas maxime aut nobis tenetur sed velit."
+        },
+        {
+            "words": "quis laudantium vero",
+            "sentence": "Dicta voluptas dolores est facilis veniam culpa dolores in.",
+            "sentences": "Modi aut ratione laboriosam occaecati. Illo aut facilis excepturi.",
+            "paragraph": "Qui ullam vel. Hic aliquam aliquam nisi et eveniet aspernatur aut. Et qui iure et tempore voluptatibus ut minus. Minus qui tempore. Nostrum maiores optio est enim omnis. Id non rerum omnis ut aliquam."
+        },
+        {
+            "words": "ipsam unde vel",
+            "sentence": "Tempore voluptates minima voluptatum cupiditate dolorem perferendis expedita magni.",
+            "sentences": "Possimus maxime facilis molestias iure ut illo. Et repellendus ad libero aut et at ab ut facere. Modi reiciendis aut doloremque. Voluptatem dignissimos vel error suscipit quos. Ducimus omnis voluptate deleniti officiis. Enim similique autem laboriosam debitis atque aspernatur a temporibus soluta.",
+            "paragraph": "Qui maiores voluptatum ab id voluptate cumque eveniet qui. Eum error ullam rerum. Impedit aut facilis est placeat. A ullam accusamus. Quos magnam numquam. Omnis iste sit ea eius dolorum totam sapiente nisi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "911.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kessler, Bode and Gleason",
+            "name": "Home Loan Account 4101",
+            "type": "payment",
+            "account": "72142531"
+        },
+        {
+            "amount": "151.97",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stiedemann LLC",
+            "name": "Money Market Account 7640",
+            "type": "payment",
+            "account": "53078970"
+        },
+        {
+            "amount": "919.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mohr - Bernhard",
+            "name": "Investment Account 2299",
+            "type": "deposit",
+            "account": "28577400"
+        }
+    ]
+}

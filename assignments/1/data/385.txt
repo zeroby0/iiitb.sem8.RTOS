@@ -1,0 +1,72 @@
+{
+    "name": "Lucas Spinka",
+    "username": "Hilton44",
+    "email": "King39@hotmail.com",
+    "address": {
+        "streetA": "Mante Spurs",
+        "streetB": "2322 King Falls",
+        "streetC": "410 Mills Port Suite 829",
+        "streetD": "Apt. 232",
+        "city": "North Cornellside",
+        "state": "Indiana",
+        "country": "Kiribati",
+        "zipcode": "19264",
+        "geo": {
+            "lat": "76.6619",
+            "lng": "84.4892"
+        }
+    },
+    "phone": "826.912.4523",
+    "website": "elmo.org",
+    "company": {
+        "name": "Morar LLC",
+        "catchPhrase": "Ergonomic fault-tolerant concept",
+        "bs": "dynamic aggregate models"
+    },
+    "posts": [
+        {
+            "words": "possimus eveniet et",
+            "sentence": "Iste corrupti non itaque.",
+            "sentences": "Eveniet qui assumenda eos libero a. Consequuntur accusantium non doloremque velit perspiciatis omnis. Et ipsa iusto totam incidunt blanditiis. Vel earum dicta aut dicta. Aliquam et necessitatibus aut et tempore minima.",
+            "paragraph": "Eligendi accusamus aut optio excepturi illo deleniti. Velit iusto ut neque. Qui accusantium eos et. Fugit quia magnam fuga sunt quidem aut molestiae autem illo. Quas et enim vero. Accusamus quo delectus laudantium deserunt sint voluptate enim."
+        },
+        {
+            "words": "numquam quisquam quae",
+            "sentence": "Sit illo qui neque sit ut.",
+            "sentences": "Consequatur tempora eius alias voluptatem qui dolor. Dolores voluptatem dolorem incidunt suscipit nisi ipsum.",
+            "paragraph": "Sit et ut velit a vero et molestiae minus assumenda. Ducimus consequatur voluptas. Recusandae mollitia expedita est sapiente. Ea mollitia velit dolor neque."
+        },
+        {
+            "words": "fugit sint atque",
+            "sentence": "Quibusdam harum omnis nihil accusantium dolores nam in consectetur.",
+            "sentences": "Veritatis impedit soluta amet. Asperiores et molestias vel autem. Ut nobis eveniet veritatis voluptas. Fuga dolores aut velit quae molestiae.",
+            "paragraph": "Est quia est voluptatibus praesentium. Quibusdam fugit ut aperiam repellendus possimus nobis dicta. Aperiam ducimus qui quas veritatis quia quo. Cumque tempora et molestiae eos quos amet deleniti deleniti suscipit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "660.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Goyette, Franecki and Smith",
+            "name": "Personal Loan Account 0692",
+            "type": "invoice",
+            "account": "76637422"
+        },
+        {
+            "amount": "564.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Treutel - Baumbach",
+            "name": "Checking Account 8996",
+            "type": "withdrawal",
+            "account": "96010499"
+        },
+        {
+            "amount": "705.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hintz - Streich",
+            "name": "Auto Loan Account 4721",
+            "type": "deposit",
+            "account": "73716664"
+        }
+    ]
+}

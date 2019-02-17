@@ -1,0 +1,72 @@
+{
+    "name": "Javonte Dickinson",
+    "username": "Vincenzo.Hermann85",
+    "email": "Arnaldo.Howe72@yahoo.com",
+    "address": {
+        "streetA": "Princess Underpass",
+        "streetB": "12841 Stroman Estate",
+        "streetC": "3989 Moen Orchard Apt. 302",
+        "streetD": "Apt. 355",
+        "city": "South Aracelyton",
+        "state": "Montana",
+        "country": "New Zealand",
+        "zipcode": "35412-3567",
+        "geo": {
+            "lat": "-83.1813",
+            "lng": "52.5818"
+        }
+    },
+    "phone": "818.688.7061",
+    "website": "rhett.info",
+    "company": {
+        "name": "Padberg LLC",
+        "catchPhrase": "Switchable web-enabled challenge",
+        "bs": "sexy engage action-items"
+    },
+    "posts": [
+        {
+            "words": "reprehenderit animi saepe",
+            "sentence": "Consequatur ut blanditiis occaecati adipisci dolor repellat provident eum.",
+            "sentences": "Aperiam et est exercitationem dolores animi. Dolores debitis in quibusdam sequi architecto nisi. Earum libero iusto reiciendis aut qui mollitia. Vitae quo et magnam et quasi aut consequatur. Nostrum doloribus impedit culpa.",
+            "paragraph": "Voluptatibus iusto vitae saepe illo. Quia aut totam magnam rerum et voluptatem tempora ipsa. Explicabo quam voluptas animi ullam vero architecto. Maxime velit maiores. Voluptas quasi praesentium esse et fuga nemo."
+        },
+        {
+            "words": "sed quod dolore",
+            "sentence": "Excepturi iure dignissimos quisquam enim.",
+            "sentences": "Possimus qui laudantium quia similique voluptatibus rerum reprehenderit. Asperiores in inventore ut et et vitae et praesentium suscipit. Atque quam minus.",
+            "paragraph": "Veniam et quia quo eligendi. Nesciunt ut maxime possimus dolores qui nihil. Reprehenderit et facilis necessitatibus quia dolore fugiat fuga sunt fugiat. Numquam modi impedit id necessitatibus."
+        },
+        {
+            "words": "voluptatem voluptatum omnis",
+            "sentence": "Eveniet ipsa nostrum ratione aut rem eaque.",
+            "sentences": "In qui quas quia aperiam cupiditate. Sunt nihil fugit aut fugit quia tempora velit hic quas.",
+            "paragraph": "Asperiores fugit aspernatur consequuntur sed. Minus voluptatum dolorum id iusto quia voluptatem. Vero explicabo accusamus error quo consequatur. Qui aut officia fuga. Ipsa deleniti ratione."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "366.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bailey, Crooks and Marks",
+            "name": "Savings Account 1601",
+            "type": "deposit",
+            "account": "84874445"
+        },
+        {
+            "amount": "696.86",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Moen, Hilpert and West",
+            "name": "Savings Account 8218",
+            "type": "withdrawal",
+            "account": "04367959"
+        },
+        {
+            "amount": "822.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Renner - Lowe",
+            "name": "Savings Account 9782",
+            "type": "invoice",
+            "account": "89239504"
+        }
+    ]
+}

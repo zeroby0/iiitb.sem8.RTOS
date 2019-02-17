@@ -1,0 +1,72 @@
+{
+    "name": "Raina Lebsack",
+    "username": "Retta11",
+    "email": "Mariela.Ledner@hotmail.com",
+    "address": {
+        "streetA": "Bauch Shores",
+        "streetB": "25428 Predovic Glens",
+        "streetC": "4427 Mosciski Run Suite 871",
+        "streetD": "Apt. 928",
+        "city": "Gibsonhaven",
+        "state": "Oregon",
+        "country": "Antigua and Barbuda",
+        "zipcode": "03723",
+        "geo": {
+            "lat": "-43.2273",
+            "lng": "146.5724"
+        }
+    },
+    "phone": "1-982-779-2310",
+    "website": "jacklyn.name",
+    "company": {
+        "name": "Spencer, Fisher and Howe",
+        "catchPhrase": "Total composite challenge",
+        "bs": "synergistic empower users"
+    },
+    "posts": [
+        {
+            "words": "aut dolor eius",
+            "sentence": "Voluptatum laborum sit sint est perspiciatis nulla explicabo.",
+            "sentences": "Similique pariatur voluptatem adipisci enim ut consectetur sunt ea assumenda. Error commodi illo eum eligendi nulla. Deleniti enim alias autem architecto perferendis vero enim quam.",
+            "paragraph": "Nulla veniam voluptatem quo eligendi et. Cupiditate ratione dolorem temporibus aliquam voluptatem temporibus corrupti et. Illum est rerum dolores architecto in porro optio. Sapiente doloremque saepe a eum rerum autem tenetur. Ullam perferendis omnis voluptatibus."
+        },
+        {
+            "words": "aut maiores enim",
+            "sentence": "Voluptatem ea ad.",
+            "sentences": "Aut omnis delectus rerum et dolor minima sed qui. Dolorum nulla magni debitis quas at consequuntur. Impedit consequatur odit sit.",
+            "paragraph": "Eum repellendus sunt magnam consequatur. Consequatur quas molestias consectetur. Et beatae enim autem pariatur. Dolorum eligendi mollitia possimus voluptas nihil."
+        },
+        {
+            "words": "dolore rerum nemo",
+            "sentence": "Consequatur expedita et sit.",
+            "sentences": "Quo accusantium cum et voluptatem tenetur aut eligendi. Cumque perferendis aliquid voluptatem et vel. Reiciendis necessitatibus facere perspiciatis laborum eaque numquam at omnis. Sed debitis occaecati voluptatem pariatur quod.",
+            "paragraph": "Qui sed doloribus dolorem reprehenderit accusantium ipsam odit. Illum cupiditate omnis ut quis sit modi accusantium ex officia. Eligendi et est voluptatem magni et. Voluptatem qui aliquam molestiae. Quidem tenetur harum sapiente et vel qui. Porro dignissimos aut earum itaque dignissimos nihil."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "631.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmitt - Heathcote",
+            "name": "Credit Card Account 4551",
+            "type": "deposit",
+            "account": "67040629"
+        },
+        {
+            "amount": "528.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Carter Inc",
+            "name": "Auto Loan Account 4387",
+            "type": "withdrawal",
+            "account": "68534085"
+        },
+        {
+            "amount": "730.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Huel, Feest and Crist",
+            "name": "Investment Account 8663",
+            "type": "payment",
+            "account": "65184982"
+        }
+    ]
+}

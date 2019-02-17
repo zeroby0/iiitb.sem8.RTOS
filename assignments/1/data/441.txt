@@ -1,0 +1,72 @@
+{
+    "name": "Haleigh Schamberger",
+    "username": "Camden_Schowalter",
+    "email": "Isaias14@gmail.com",
+    "address": {
+        "streetA": "Flavie Field",
+        "streetB": "63957 Rosenbaum Summit",
+        "streetC": "71363 Hessel Village Suite 021",
+        "streetD": "Suite 234",
+        "city": "West Aaliyah",
+        "state": "Wisconsin",
+        "country": "Guinea",
+        "zipcode": "73336-9942",
+        "geo": {
+            "lat": "58.4746",
+            "lng": "-48.5260"
+        }
+    },
+    "phone": "552.915.2240",
+    "website": "dennis.com",
+    "company": {
+        "name": "Greenholt - Stehr",
+        "catchPhrase": "Realigned contextually-based orchestration",
+        "bs": "synergistic transition infomediaries"
+    },
+    "posts": [
+        {
+            "words": "veritatis aut deserunt",
+            "sentence": "Beatae magnam voluptates unde et quia sint.",
+            "sentences": "Sit repudiandae reiciendis voluptate sed. Non dolorum est non a officiis. Eaque perferendis commodi ratione nulla debitis nulla voluptas. Laudantium non aspernatur dolorum ea consequatur aut. Necessitatibus aspernatur eius.",
+            "paragraph": "Voluptates omnis velit dolore nobis. Consequatur porro quo voluptates a qui rerum harum. Fuga tempore libero reiciendis culpa."
+        },
+        {
+            "words": "enim ab est",
+            "sentence": "Similique consectetur qui quasi aliquam nobis quaerat necessitatibus pariatur.",
+            "sentences": "Esse similique harum sit. Quis eligendi vitae autem minus rerum non occaecati harum omnis.",
+            "paragraph": "Amet perferendis dolorem eius. Quasi illum labore. Et animi ut laudantium amet laudantium eos alias. Qui consequatur rerum ducimus quas numquam. Nam sapiente ipsum reiciendis ipsam ad aut ipsa necessitatibus."
+        },
+        {
+            "words": "quam dolorem quis",
+            "sentence": "Autem voluptatem totam sit repudiandae accusamus et voluptatem aut quia.",
+            "sentences": "Voluptates maiores vel. Saepe laborum quos. Ducimus perspiciatis ut sit molestiae saepe nulla enim non molestias.",
+            "paragraph": "Dolorem unde dolores magnam quia minus. Et esse eum. Neque consequatur perspiciatis porro sequi. Rerum accusantium itaque molestiae sapiente voluptatibus. Aut expedita quia aut sed perspiciatis cumque aut. Qui culpa et iste facere sed velit ipsa."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "924.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Kon - Greenfelder",
+            "name": "Checking Account 1488",
+            "type": "invoice",
+            "account": "86843050"
+        },
+        {
+            "amount": "515.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McLaughlin - Considine",
+            "name": "Checking Account 8973",
+            "type": "withdrawal",
+            "account": "17007908"
+        },
+        {
+            "amount": "65.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stroman - Stiedemann",
+            "name": "Checking Account 6043",
+            "type": "invoice",
+            "account": "44961028"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Kenyatta Zieme",
+    "username": "Vladimir.Cole37",
+    "email": "Paige.Beier75@gmail.com",
+    "address": {
+        "streetA": "Everardo Parkway",
+        "streetB": "8933 Wisoky Walks",
+        "streetC": "27161 Nikolaus Ramp Suite 787",
+        "streetD": "Apt. 268",
+        "city": "South Waltonshire",
+        "state": "Illinois",
+        "country": "Tajikistan",
+        "zipcode": "02428-7335",
+        "geo": {
+            "lat": "-25.5807",
+            "lng": "-48.4119"
+        }
+    },
+    "phone": "1-143-135-2226",
+    "website": "ahmed.biz",
+    "company": {
+        "name": "Larson, Padberg and Hansen",
+        "catchPhrase": "Versatile asynchronous capability",
+        "bs": "global matrix action-items"
+    },
+    "posts": [
+        {
+            "words": "sunt adipisci aut",
+            "sentence": "Vitae porro excepturi et occaecati.",
+            "sentences": "Est dolor cumque vel non ducimus iste qui. Et soluta voluptate totam quia repellendus ipsam adipisci dolores id. Deleniti cumque nihil voluptate qui. Qui ea non delectus.",
+            "paragraph": "Exercitationem quia deserunt aut deleniti. Ut voluptas corrupti repudiandae ut optio blanditiis excepturi nihil. Non quia possimus aut quia. Culpa quaerat qui voluptatem illum quae itaque accusamus consequatur. Harum totam consectetur quaerat alias aperiam."
+        },
+        {
+            "words": "occaecati labore ipsa",
+            "sentence": "Et ut qui rerum molestiae dolor iure.",
+            "sentences": "Enim earum saepe ut dignissimos autem corrupti itaque. Nam et optio minima qui totam. Animi mollitia vel odio aperiam inventore non ducimus consequatur doloremque.",
+            "paragraph": "Sit aut sed voluptatem. Autem omnis ratione unde voluptas quia ut adipisci. Ut voluptas nihil quo velit voluptas non quo. Dolor animi est sapiente est veritatis in explicabo excepturi. Cum voluptatum et quas aliquid aspernatur."
+        },
+        {
+            "words": "quia nesciunt aut",
+            "sentence": "Reiciendis consequuntur sequi perferendis.",
+            "sentences": "Ex veniam dolores. Voluptatem debitis deserunt doloremque. Nihil voluptatem corrupti inventore corporis eligendi provident. Asperiores qui alias sed vero accusantium adipisci aliquid officia. Accusamus quia magni rerum incidunt mollitia. Est animi consectetur ratione odio quas saepe ut.",
+            "paragraph": "Harum ipsam quis ea labore consequatur vel iusto nobis. Et laborum nulla et. Nemo sit magni commodi explicabo vel. Veritatis ratione mollitia in facilis qui et ut optio. Quos quos tempora voluptates quasi et officiis architecto voluptas. Dicta ipsa deserunt inventore ab voluptatem qui quo officiis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "930.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Murazik - Reinger",
+            "name": "Checking Account 0638",
+            "type": "invoice",
+            "account": "21584358"
+        },
+        {
+            "amount": "841.42",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rohan, Kunde and Hickle",
+            "name": "Credit Card Account 9701",
+            "type": "withdrawal",
+            "account": "41335214"
+        },
+        {
+            "amount": "303.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fadel Inc",
+            "name": "Personal Loan Account 7793",
+            "type": "withdrawal",
+            "account": "85803010"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Florence Larson DDS",
+    "username": "Maxie20",
+    "email": "Foster_Jacobs72@hotmail.com",
+    "address": {
+        "streetA": "Sherwood Ford",
+        "streetB": "17993 O'Keefe Spurs",
+        "streetC": "752 Katherine Walks Suite 969",
+        "streetD": "Apt. 125",
+        "city": "South Ettieview",
+        "state": "Georgia",
+        "country": "Guyana",
+        "zipcode": "28321-8412",
+        "geo": {
+            "lat": "-8.1247",
+            "lng": "178.2022"
+        }
+    },
+    "phone": "175.172.5650",
+    "website": "joseph.org",
+    "company": {
+        "name": "Strosin and Sons",
+        "catchPhrase": "Mandatory discrete infrastructure",
+        "bs": "killer revolutionize supply-chains"
+    },
+    "posts": [
+        {
+            "words": "quae impedit perferendis",
+            "sentence": "Nemo reiciendis provident esse recusandae omnis in eos.",
+            "sentences": "Unde corporis nesciunt. Molestiae perspiciatis et laboriosam vitae rem nobis. Pariatur pariatur voluptates incidunt eos dignissimos corporis. Et id magnam qui blanditiis sed.",
+            "paragraph": "At perspiciatis veniam odit consequatur facilis hic consequuntur. Dolore assumenda tenetur eius perspiciatis neque. Qui fugiat quos et error quia eum. Iure recusandae aperiam velit consectetur. Assumenda reiciendis repellat in et sunt nobis autem laboriosam rerum."
+        },
+        {
+            "words": "dolores cupiditate reiciendis",
+            "sentence": "Ut exercitationem dicta.",
+            "sentences": "Dolores sit facere vel velit quaerat voluptas eaque. Nisi inventore quaerat quas sint sunt. Incidunt voluptatem velit porro laudantium sit ut asperiores culpa nemo. Ut cumque doloremque non. Ut temporibus sunt odit.",
+            "paragraph": "Qui placeat voluptatem officia reiciendis et eos magnam. Facilis quo perspiciatis sed officia est quas omnis et. Et non facere expedita neque dolores ea. Possimus fugiat quis et aut. Consequatur et illum at quos magni molestiae sapiente."
+        },
+        {
+            "words": "iure sed ullam",
+            "sentence": "Sed nam nulla quia est modi eligendi facilis delectus.",
+            "sentences": "Veniam ut aut ut nisi qui. Praesentium est placeat dolores consequuntur praesentium. Expedita ipsam est voluptate omnis quisquam quam. Aut aut quia sed fuga.",
+            "paragraph": "Aut debitis harum ut commodi sapiente nesciunt magnam. Earum sint porro est. Veniam cumque exercitationem et est voluptas est in. Fugiat vel eligendi occaecati nam architecto quis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "957.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schuster Group",
+            "name": "Personal Loan Account 4288",
+            "type": "payment",
+            "account": "77480174"
+        },
+        {
+            "amount": "57.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Toy, Kshlerin and Feest",
+            "name": "Checking Account 6617",
+            "type": "invoice",
+            "account": "89837410"
+        },
+        {
+            "amount": "565.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McDermott Inc",
+            "name": "Savings Account 8645",
+            "type": "invoice",
+            "account": "35736543"
+        }
+    ]
+}

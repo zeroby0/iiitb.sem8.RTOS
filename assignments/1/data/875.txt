@@ -1,0 +1,72 @@
+{
+    "name": "Glennie Davis",
+    "username": "Jason.Paucek86",
+    "email": "Destany.Lueilwitz52@gmail.com",
+    "address": {
+        "streetA": "Kellen Union",
+        "streetB": "565 Shanie Street",
+        "streetC": "024 Lynch Views Suite 210",
+        "streetD": "Apt. 671",
+        "city": "New Janiya",
+        "state": "Louisiana",
+        "country": "Djibouti",
+        "zipcode": "69484-1411",
+        "geo": {
+            "lat": "-27.9587",
+            "lng": "-168.3032"
+        }
+    },
+    "phone": "375-507-6793",
+    "website": "charlie.info",
+    "company": {
+        "name": "Schowalter - Bailey",
+        "catchPhrase": "Integrated solution-oriented parallelism",
+        "bs": "turn-key reinvent web services"
+    },
+    "posts": [
+        {
+            "words": "ut ullam fugiat",
+            "sentence": "Officiis esse qui et voluptatem nemo repellat eius.",
+            "sentences": "Animi modi ab atque vel debitis. At molestiae quam voluptas exercitationem deserunt ut rerum accusantium in.",
+            "paragraph": "Veniam consequatur et est consectetur odio. Consequatur cumque ut esse perspiciatis placeat nihil quia. Pariatur aut et amet."
+        },
+        {
+            "words": "debitis quia vero",
+            "sentence": "Nam ducimus est et maxime doloribus id.",
+            "sentences": "Praesentium cum alias alias rerum consequuntur ea. Dolor et quia nisi deleniti eos sit eos. Modi voluptatem provident iure voluptate. Doloremque voluptas eveniet.",
+            "paragraph": "Quas quia odio ab rerum voluptatum. Distinctio dicta soluta eum odit repellendus. Voluptas vero aut impedit voluptatem consequatur. Culpa tempora numquam magnam nemo reprehenderit alias."
+        },
+        {
+            "words": "doloribus quo eligendi",
+            "sentence": "Ipsum eos vel illo excepturi dignissimos asperiores beatae.",
+            "sentences": "Libero dolor non quis inventore ut. Exercitationem molestias est aliquid vero quod. Quae nam officiis dignissimos consectetur. Et voluptatem eum et laboriosam voluptatibus. Rem accusamus non laboriosam qui modi.",
+            "paragraph": "Animi sed quaerat iusto ad corporis ex ullam dolores. Molestias eius enim exercitationem omnis fuga sunt eius et. Temporibus incidunt est. Laborum optio architecto velit ut cumque quae possimus nostrum dolor."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "120.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gutmann and Sons",
+            "name": "Home Loan Account 5758",
+            "type": "deposit",
+            "account": "05721947"
+        },
+        {
+            "amount": "193.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lind and Sons",
+            "name": "Personal Loan Account 7696",
+            "type": "deposit",
+            "account": "26982249"
+        },
+        {
+            "amount": "473.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schimmel, Durgan and Borer",
+            "name": "Auto Loan Account 3356",
+            "type": "payment",
+            "account": "96593555"
+        }
+    ]
+}

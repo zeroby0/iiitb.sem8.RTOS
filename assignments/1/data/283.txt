@@ -1,0 +1,72 @@
+{
+    "name": "Vella Lehner",
+    "username": "Lexi_Bartell94",
+    "email": "Neha53@yahoo.com",
+    "address": {
+        "streetA": "Florian Square",
+        "streetB": "7027 Brice Parkway",
+        "streetC": "175 Steve Centers Apt. 327",
+        "streetD": "Apt. 904",
+        "city": "Runteland",
+        "state": "Michigan",
+        "country": "Puerto Rico",
+        "zipcode": "14610",
+        "geo": {
+            "lat": "19.8336",
+            "lng": "-42.2050"
+        }
+    },
+    "phone": "1-200-971-4616 x00131",
+    "website": "gabriella.net",
+    "company": {
+        "name": "Upton, Anderson and Hessel",
+        "catchPhrase": "Adaptive systematic monitoring",
+        "bs": "web-enabled integrate e-commerce"
+    },
+    "posts": [
+        {
+            "words": "aut accusantium cupiditate",
+            "sentence": "Occaecati fugit sed eum.",
+            "sentences": "Repellat nam harum totam accusantium tenetur doloribus exercitationem sed. Et laborum quas. Voluptates odio iure delectus quo. Itaque voluptas est itaque deleniti qui. Maiores nisi aut corrupti cupiditate neque facere tenetur.",
+            "paragraph": "Iure quia accusantium odit repellendus fugit. Consectetur aut mollitia ut sint et architecto. Aliquid esse qui maxime consequuntur. Corrupti magnam maiores aut illo. Cumque consequatur blanditiis qui."
+        },
+        {
+            "words": "doloribus enim consectetur",
+            "sentence": "Iure repellendus maxime placeat accusamus repellendus ratione harum.",
+            "sentences": "Suscipit assumenda facere quia. Et est iusto provident aspernatur dolores consequatur quidem veritatis possimus. Non voluptas eum.",
+            "paragraph": "Rem culpa dolor aut harum vel reprehenderit voluptatem vel. Iusto sint pariatur porro accusamus inventore numquam et repudiandae earum. Sapiente ut minima molestiae suscipit nostrum."
+        },
+        {
+            "words": "et nostrum ut",
+            "sentence": "Voluptatem dolor odio incidunt sed consectetur non sed cumque.",
+            "sentences": "Voluptates repudiandae perferendis est. Qui architecto qui iste magnam voluptatem voluptatem ut rerum consequatur.",
+            "paragraph": "Cum voluptas aut omnis est dolorum minus dignissimos quia eveniet. Quia et sit asperiores doloribus dolorum quia ratione. Ut maiores consequuntur. Reiciendis vitae eius id est incidunt. Alias ipsam perferendis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "428.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cruickshank, Effertz and Nikolaus",
+            "name": "Investment Account 3040",
+            "type": "payment",
+            "account": "94699205"
+        },
+        {
+            "amount": "437.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lubowitz - Keeling",
+            "name": "Auto Loan Account 5482",
+            "type": "invoice",
+            "account": "41559359"
+        },
+        {
+            "amount": "120.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Brekke Inc",
+            "name": "Money Market Account 7111",
+            "type": "invoice",
+            "account": "57230460"
+        }
+    ]
+}

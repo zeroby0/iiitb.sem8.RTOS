@@ -1,0 +1,72 @@
+{
+    "name": "Margarette Ryan",
+    "username": "Joaquin12",
+    "email": "Kole.Oberbrunner@hotmail.com",
+    "address": {
+        "streetA": "Blair View",
+        "streetB": "27178 Kris Bridge",
+        "streetC": "44790 Berniece Viaduct Apt. 259",
+        "streetD": "Apt. 251",
+        "city": "East Mekhiburgh",
+        "state": "California",
+        "country": "Tonga",
+        "zipcode": "39079",
+        "geo": {
+            "lat": "-66.8749",
+            "lng": "178.1385"
+        }
+    },
+    "phone": "375-136-6812",
+    "website": "araceli.org",
+    "company": {
+        "name": "Kiehn - Aufderhar",
+        "catchPhrase": "Diverse coherent local area network",
+        "bs": "granular repurpose systems"
+    },
+    "posts": [
+        {
+            "words": "provident totam maxime",
+            "sentence": "Id aut placeat dolorem aut perspiciatis doloribus.",
+            "sentences": "Ut sit veniam dolorem molestiae consequatur sint. Rerum consequatur veritatis et.",
+            "paragraph": "Eum consequatur dolores amet est. Iure labore incidunt culpa delectus voluptates et. Recusandae aliquam nihil tempore occaecati consequatur ut ut. Maxime autem tenetur. Repellat odit et ut."
+        },
+        {
+            "words": "eum cupiditate ea",
+            "sentence": "Doloribus et deserunt excepturi quia expedita.",
+            "sentences": "Voluptas dicta tempora id perspiciatis ut et consequuntur culpa. Vel ea ab occaecati et.",
+            "paragraph": "Et nemo sint ut voluptatem ipsum voluptatem est dolores perspiciatis. Omnis error sint sapiente autem non itaque molestiae ea quisquam. Nostrum est ex. At non aut cumque enim."
+        },
+        {
+            "words": "vel officiis quod",
+            "sentence": "Est repellat enim.",
+            "sentences": "Omnis possimus in. Saepe error adipisci cumque expedita placeat incidunt amet. Deserunt officia ab consequuntur deleniti suscipit quod rerum iusto ut. Suscipit vero doloremque voluptatem.",
+            "paragraph": "Et facilis aut temporibus saepe et reiciendis. Quis beatae voluptatem et qui odit omnis id saepe. Et eveniet a distinctio molestiae eius enim ipsum. Ipsam optio mollitia sit doloremque quod tempore incidunt deleniti. Omnis minima maiores voluptates autem. Exercitationem molestiae qui iste expedita ratione doloribus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "64.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Quigley, Rodriguez and Pouros",
+            "name": "Checking Account 7254",
+            "type": "payment",
+            "account": "66270917"
+        },
+        {
+            "amount": "32.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Walsh - Shields",
+            "name": "Credit Card Account 9317",
+            "type": "invoice",
+            "account": "02366625"
+        },
+        {
+            "amount": "211.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bogisich, Raynor and Johns",
+            "name": "Home Loan Account 4548",
+            "type": "deposit",
+            "account": "58704455"
+        }
+    ]
+}

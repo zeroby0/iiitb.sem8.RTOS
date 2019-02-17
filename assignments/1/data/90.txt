@@ -1,0 +1,72 @@
+{
+    "name": "Gaston Homenick",
+    "username": "Jammie_Bartell88",
+    "email": "Gay_Champlin19@hotmail.com",
+    "address": {
+        "streetA": "Yundt Plaza",
+        "streetB": "418 Samir Dale",
+        "streetC": "742 Deangelo Common Suite 160",
+        "streetD": "Apt. 440",
+        "city": "North Camryn",
+        "state": "New Jersey",
+        "country": "Djibouti",
+        "zipcode": "15416-0736",
+        "geo": {
+            "lat": "-18.0389",
+            "lng": "-121.1203"
+        }
+    },
+    "phone": "695-327-2324 x51887",
+    "website": "tobin.name",
+    "company": {
+        "name": "Graham Group",
+        "catchPhrase": "Function-based 3rd generation moratorium",
+        "bs": "leading-edge deliver ROI"
+    },
+    "posts": [
+        {
+            "words": "libero voluptas natus",
+            "sentence": "Eum ut quis quas est dolores qui rem sit quo.",
+            "sentences": "Provident deleniti inventore cumque consectetur. Vel omnis necessitatibus dolores expedita neque est. Consequatur harum molestias aut asperiores. Officia deserunt et libero tempora quia dolorum modi.",
+            "paragraph": "Quidem est autem sequi aut quod cum cupiditate. Laboriosam fugit labore autem exercitationem iusto nihil. Qui velit sunt ratione ipsam cumque. Delectus quasi nobis qui. Non dolor reiciendis dolores nesciunt eveniet rem eum ipsam hic."
+        },
+        {
+            "words": "non incidunt saepe",
+            "sentence": "Id ut beatae.",
+            "sentences": "Minima quo sit debitis cum et eius. Nemo doloribus rerum dolor mollitia facere esse. Aut unde laboriosam iure sit at est ipsam et et. Ratione odit et. Sint praesentium consequatur eos architecto.",
+            "paragraph": "Nihil a aut sapiente ipsa commodi impedit. Asperiores placeat modi sint rerum. Natus voluptatem esse perspiciatis doloribus quas ex."
+        },
+        {
+            "words": "vel aperiam expedita",
+            "sentence": "Voluptates at non voluptatem quisquam velit voluptatem fugiat qui omnis.",
+            "sentences": "Soluta a non et odio odio odio soluta nulla amet. In est dolorem dolor iusto eius pariatur sunt nulla. Eveniet eveniet aut aut at. Eius labore consequatur. Nihil quis molestiae eos deserunt culpa quis cumque qui placeat. Quia dolores voluptas culpa dolorem veniam quo id.",
+            "paragraph": "Aut sed consequatur sint natus sunt esse animi id. Voluptas totam odit nisi voluptatum. Nesciunt rerum nihil veniam aut voluptatem incidunt et dolores. Aperiam quam voluptatum ut cupiditate ab blanditiis. Debitis minus nam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "105.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Swaniawski and Sons",
+            "name": "Credit Card Account 4700",
+            "type": "invoice",
+            "account": "55144825"
+        },
+        {
+            "amount": "342.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bogisich LLC",
+            "name": "Personal Loan Account 0952",
+            "type": "deposit",
+            "account": "80279431"
+        },
+        {
+            "amount": "848.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reichert, Volkman and Ullrich",
+            "name": "Checking Account 5687",
+            "type": "withdrawal",
+            "account": "69343052"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Kayli Flatley",
+    "username": "Mauricio_Kiehn",
+    "email": "Alysson70@hotmail.com",
+    "address": {
+        "streetA": "Zulauf Inlet",
+        "streetB": "8486 Destiny Drives",
+        "streetC": "06954 Earnest Via Apt. 018",
+        "streetD": "Suite 851",
+        "city": "Caitlynport",
+        "state": "New Mexico",
+        "country": "Algeria",
+        "zipcode": "30357-5559",
+        "geo": {
+            "lat": "4.9285",
+            "lng": "-179.0554"
+        }
+    },
+    "phone": "191.570.7765 x27822",
+    "website": "karelle.com",
+    "company": {
+        "name": "Padberg, Fay and Harris",
+        "catchPhrase": "Innovative tangible synergy",
+        "bs": "24/7 expedite action-items"
+    },
+    "posts": [
+        {
+            "words": "et sint iusto",
+            "sentence": "A voluptatem dolores nobis dolor provident sed aut ut.",
+            "sentences": "Nihil ut facilis adipisci dolorem nihil sed modi ullam. Labore quidem corrupti vero. Natus omnis provident quasi sit rerum. Dolorem eum quaerat qui eos. Magnam rerum exercitationem laboriosam repudiandae et consectetur ut beatae non. Ex fugiat veniam omnis.",
+            "paragraph": "Dolor commodi maxime et. Omnis ut consequatur corrupti ullam velit dolor omnis dolorum quia. Modi quod voluptate rem. Officia quod blanditiis numquam quo est in beatae natus laboriosam."
+        },
+        {
+            "words": "laborum quia consectetur",
+            "sentence": "Consectetur hic modi exercitationem eum amet ad accusamus.",
+            "sentences": "A aut deserunt assumenda nostrum et dolor. Et et dicta minus. Voluptates quod et earum molestiae quo. Omnis doloremque ab. Officiis repudiandae est deserunt.",
+            "paragraph": "Sit facere sed eos inventore ipsam. Dolores est omnis enim. Ad enim rerum quos et et ad veritatis enim."
+        },
+        {
+            "words": "rem odit illum",
+            "sentence": "Voluptatum nobis quae exercitationem qui et dolorem maxime.",
+            "sentences": "Blanditiis sit enim. Repellat sunt corporis aut natus quae quia ipsam sed. Eligendi rem doloribus est ut velit consequatur itaque harum.",
+            "paragraph": "Maxime sit ea officiis consequatur. Et et autem. Aut culpa sapiente sed earum et ut. Tenetur quia ratione natus ut laborum ipsa."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "966.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lehner and Sons",
+            "name": "Personal Loan Account 3690",
+            "type": "invoice",
+            "account": "08525810"
+        },
+        {
+            "amount": "227.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kling, Lubowitz and Von",
+            "name": "Investment Account 9591",
+            "type": "withdrawal",
+            "account": "47439688"
+        },
+        {
+            "amount": "367.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Medhurst - Collins",
+            "name": "Personal Loan Account 3714",
+            "type": "payment",
+            "account": "01554374"
+        }
+    ]
+}

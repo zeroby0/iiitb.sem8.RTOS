@@ -1,0 +1,72 @@
+{
+    "name": "Aaliyah Prohaska",
+    "username": "Cortney_Ruecker",
+    "email": "Jovany12@yahoo.com",
+    "address": {
+        "streetA": "Cleo Circles",
+        "streetB": "93492 Kihn Spring",
+        "streetC": "38803 Schuster Ports Suite 871",
+        "streetD": "Apt. 793",
+        "city": "Lake Jose",
+        "state": "Missouri",
+        "country": "Zimbabwe",
+        "zipcode": "71527-1348",
+        "geo": {
+            "lat": "47.7181",
+            "lng": "35.9046"
+        }
+    },
+    "phone": "492-872-8517",
+    "website": "keenan.name",
+    "company": {
+        "name": "Hodkiewicz LLC",
+        "catchPhrase": "Multi-tiered 3rd generation database",
+        "bs": "best-of-breed leverage metrics"
+    },
+    "posts": [
+        {
+            "words": "deleniti assumenda sed",
+            "sentence": "Et vitae omnis et sed.",
+            "sentences": "Fugiat dolorum non quibusdam sit explicabo quam numquam omnis aut. Ab consequuntur provident nam veniam quaerat molestiae error eius. Sint illum occaecati. Voluptatibus quo at. Quas quam nihil est aut facere nostrum illo. Corrupti alias est animi perferendis est eligendi placeat fugit.",
+            "paragraph": "Itaque velit sequi magni molestias. Illo nemo ut praesentium eius accusantium. Pariatur consequatur aut repudiandae iure voluptas et blanditiis placeat error."
+        },
+        {
+            "words": "facilis aliquam beatae",
+            "sentence": "Possimus molestias sunt ut consequatur ut sed odit.",
+            "sentences": "Fuga impedit consequuntur neque minima rerum odio nihil. Et iure est. Dolore sed itaque id velit. Ut quibusdam atque quia. Voluptas incidunt autem voluptatem.",
+            "paragraph": "Iste non cumque modi est adipisci doloremque occaecati quibusdam. Quia qui dolore ut. Magni atque aut sunt nostrum. Et tempora non officiis ut qui distinctio."
+        },
+        {
+            "words": "omnis sequi vero",
+            "sentence": "Odio velit maiores quis fuga nobis et nostrum.",
+            "sentences": "Dolore necessitatibus laboriosam cumque et aut fugiat ut autem. Et nesciunt iure iure non. Est inventore reiciendis deserunt libero voluptas sapiente modi. Aut aut quia quisquam dignissimos non omnis ex reprehenderit unde.",
+            "paragraph": "Odit omnis rerum. Nisi distinctio doloribus ea eaque. Et et omnis reiciendis nihil est dolorum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "743.56",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Keebler Inc",
+            "name": "Money Market Account 0615",
+            "type": "withdrawal",
+            "account": "80112933"
+        },
+        {
+            "amount": "74.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Connelly - Ondricka",
+            "name": "Auto Loan Account 2329",
+            "type": "payment",
+            "account": "02404814"
+        },
+        {
+            "amount": "385.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Powlowski and Sons",
+            "name": "Savings Account 5856",
+            "type": "withdrawal",
+            "account": "33848558"
+        }
+    ]
+}

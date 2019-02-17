@@ -1,0 +1,72 @@
+{
+    "name": "Austin Wiza",
+    "username": "Ebba15",
+    "email": "Myah_Maggio@yahoo.com",
+    "address": {
+        "streetA": "Bergnaum Springs",
+        "streetB": "90068 Ebony Streets",
+        "streetC": "032 Marianne Crossing Suite 269",
+        "streetD": "Suite 601",
+        "city": "Lemkeshire",
+        "state": "South Dakota",
+        "country": "Tuvalu",
+        "zipcode": "31835",
+        "geo": {
+            "lat": "74.8945",
+            "lng": "110.3725"
+        }
+    },
+    "phone": "337-205-4237 x812",
+    "website": "bert.org",
+    "company": {
+        "name": "Berge - Hoppe",
+        "catchPhrase": "Realigned 5th generation benchmark",
+        "bs": "revolutionary cultivate niches"
+    },
+    "posts": [
+        {
+            "words": "temporibus ipsum et",
+            "sentence": "Perspiciatis ipsam voluptatum ut.",
+            "sentences": "Architecto voluptatem laboriosam maiores soluta animi. Accusantium consequuntur tempora natus. Quis tempora aliquid natus repudiandae explicabo quo cumque labore. Et dolores saepe. Animi nobis quis asperiores velit nisi dolorem officiis nihil magni.",
+            "paragraph": "Pariatur qui adipisci quod similique blanditiis perferendis. Corrupti fugiat eius laboriosam est est cum ratione. Officiis deserunt id sequi dicta magni quas. Mollitia id doloremque voluptatibus veritatis. Est rem unde est omnis suscipit ipsa et."
+        },
+        {
+            "words": "dolorem nobis voluptas",
+            "sentence": "Inventore cum architecto ut et impedit.",
+            "sentences": "Sapiente vero fugiat voluptatem. Porro in sit laborum. Recusandae quasi repellendus aut. Id molestiae et. Voluptatem ut vel quo aut minus ut vitae.",
+            "paragraph": "Ipsam temporibus quia corporis distinctio libero modi temporibus accusamus reiciendis. Eaque esse dolores repellendus eum est velit qui. Et blanditiis sunt sed. Ut aut accusantium impedit modi dolorem."
+        },
+        {
+            "words": "iure ea explicabo",
+            "sentence": "Quam perspiciatis necessitatibus qui nam omnis laudantium.",
+            "sentences": "Saepe ab magni aut quisquam. Quia numquam itaque tempora similique est error quo et pariatur. Et harum ducimus quo.",
+            "paragraph": "Sint eveniet dolorum illum maxime natus. Et numquam qui et porro numquam mollitia ullam qui deserunt. Facilis odio voluptas minima sunt et ab. Tenetur sed porro est voluptas. Consequatur molestiae quos sapiente qui."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "16.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Graham - McCullough",
+            "name": "Investment Account 2105",
+            "type": "deposit",
+            "account": "65065597"
+        },
+        {
+            "amount": "816.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kihn, Davis and Oberbrunner",
+            "name": "Credit Card Account 3500",
+            "type": "deposit",
+            "account": "24914121"
+        },
+        {
+            "amount": "940.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wiegand - Stoltenberg",
+            "name": "Credit Card Account 7821",
+            "type": "withdrawal",
+            "account": "51815911"
+        }
+    ]
+}

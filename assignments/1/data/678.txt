@@ -1,0 +1,72 @@
+{
+    "name": "Shad Ernser",
+    "username": "Michele_Medhurst",
+    "email": "Timmy_Maggio@hotmail.com",
+    "address": {
+        "streetA": "Isabella Streets",
+        "streetB": "70971 Shanon Meadow",
+        "streetC": "3423 Werner Loop Apt. 062",
+        "streetD": "Apt. 648",
+        "city": "West Duanefurt",
+        "state": "Massachusetts",
+        "country": "Georgia",
+        "zipcode": "45676",
+        "geo": {
+            "lat": "-3.4417",
+            "lng": "129.0082"
+        }
+    },
+    "phone": "114.450.5873",
+    "website": "alexzander.name",
+    "company": {
+        "name": "Considine, Pouros and Orn",
+        "catchPhrase": "Grass-roots full-range support",
+        "bs": "sexy target communities"
+    },
+    "posts": [
+        {
+            "words": "odio sed incidunt",
+            "sentence": "Blanditiis voluptatem esse quia voluptatibus amet quidem exercitationem harum accusamus.",
+            "sentences": "Eos quis vel. Inventore iure cupiditate aliquid amet vel. Dolorum laborum exercitationem et quidem velit reprehenderit nulla sapiente. Id veritatis dolor quos quisquam deleniti neque facere voluptatem. Laborum ut fugit quos quos ut consequatur ducimus.",
+            "paragraph": "Asperiores aut atque voluptate nihil magni quia rerum omnis. Doloribus assumenda et reiciendis et temporibus iusto ut quasi nulla. Dolorem occaecati eligendi debitis consequatur modi exercitationem ipsa. Ratione iure mollitia accusantium enim consequatur officia. Atque possimus quam quam."
+        },
+        {
+            "words": "nobis quia ut",
+            "sentence": "Incidunt eveniet animi.",
+            "sentences": "Itaque animi ipsa. Recusandae beatae exercitationem delectus quibusdam quasi molestiae et quo.",
+            "paragraph": "A odit blanditiis. Doloremque non maiores neque quia et quis. Exercitationem dolores qui minus iure. Eos blanditiis architecto eum aliquam itaque eum minima ab earum."
+        },
+        {
+            "words": "optio ab molestiae",
+            "sentence": "Libero molestiae minima voluptas voluptas aut voluptatem.",
+            "sentences": "Ut libero vel aut aut. Laudantium officia non sunt voluptas tempora. Assumenda sed et et. Quo sint quae minima alias sit enim quibusdam reiciendis.",
+            "paragraph": "Fugiat est veritatis ratione non eveniet magni sunt est. Id voluptatem aut quis. Omnis et totam. Qui voluptatem quia sunt repellat sint doloremque ex porro sit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "869.33",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beahan and Sons",
+            "name": "Personal Loan Account 3277",
+            "type": "withdrawal",
+            "account": "17770141"
+        },
+        {
+            "amount": "173.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Volkman, Rice and Russel",
+            "name": "Investment Account 8634",
+            "type": "withdrawal",
+            "account": "59534541"
+        },
+        {
+            "amount": "911.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Crooks Group",
+            "name": "Checking Account 6336",
+            "type": "withdrawal",
+            "account": "05072879"
+        }
+    ]
+}

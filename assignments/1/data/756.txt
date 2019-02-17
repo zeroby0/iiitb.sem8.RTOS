@@ -1,0 +1,72 @@
+{
+    "name": "Roselyn Rolfson",
+    "username": "Marguerite_Kuvalis",
+    "email": "Monique.Streich49@hotmail.com",
+    "address": {
+        "streetA": "Borer Avenue",
+        "streetB": "46251 Beier Alley",
+        "streetC": "03668 Newton Place Suite 882",
+        "streetD": "Suite 283",
+        "city": "Betsyside",
+        "state": "North Dakota",
+        "country": "Tanzania",
+        "zipcode": "39301",
+        "geo": {
+            "lat": "30.1788",
+            "lng": "124.7498"
+        }
+    },
+    "phone": "014-078-8921 x0550",
+    "website": "wayne.name",
+    "company": {
+        "name": "Friesen Inc",
+        "catchPhrase": "Polarised global pricing structure",
+        "bs": "distributed harness platforms"
+    },
+    "posts": [
+        {
+            "words": "aut illo ex",
+            "sentence": "Incidunt et debitis asperiores harum.",
+            "sentences": "Reprehenderit neque expedita necessitatibus. Magnam omnis reiciendis reprehenderit quia rerum officia voluptatibus. Officia magni ab sed blanditiis omnis ut commodi ratione voluptatibus. Eveniet voluptas vel in provident omnis delectus quo impedit quibusdam. Numquam maxime repellat dicta tempore id aut at incidunt culpa. Et atque ut.",
+            "paragraph": "Nulla error aut. Nesciunt deserunt quasi. Praesentium qui id dolores vitae quae sapiente modi. Sit mollitia omnis ipsam enim non porro sit."
+        },
+        {
+            "words": "amet ipsam hic",
+            "sentence": "Vero reiciendis ut dolore quia nihil consequatur nostrum voluptatem.",
+            "sentences": "Qui tempora doloremque aut. Ut et dolorem ullam dolorum explicabo similique sapiente sit ea.",
+            "paragraph": "Accusamus aut et ad. Nemo optio id dignissimos. Ut unde dignissimos ut deserunt accusamus et maxime. Exercitationem tempora harum impedit consequatur laborum provident et dignissimos mollitia. Amet ad quaerat explicabo architecto deleniti illum."
+        },
+        {
+            "words": "rerum rerum quae",
+            "sentence": "Est temporibus quis illo quisquam excepturi quo deleniti dignissimos.",
+            "sentences": "Qui culpa animi. Sint velit ab aspernatur non et et. Architecto sit et.",
+            "paragraph": "Hic eos rerum. Et impedit molestias eveniet doloremque officia sunt debitis sit. Aut aliquam accusamus dolor. Ipsa quaerat laborum totam nesciunt eligendi. Ab consequatur quasi quo voluptatem delectus ullam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "566.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Davis LLC",
+            "name": "Savings Account 8020",
+            "type": "deposit",
+            "account": "08577649"
+        },
+        {
+            "amount": "392.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kreiger LLC",
+            "name": "Money Market Account 6173",
+            "type": "deposit",
+            "account": "95790563"
+        },
+        {
+            "amount": "584.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mohr, Murray and Farrell",
+            "name": "Auto Loan Account 9047",
+            "type": "deposit",
+            "account": "12135822"
+        }
+    ]
+}

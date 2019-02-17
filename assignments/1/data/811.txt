@@ -1,0 +1,72 @@
+{
+    "name": "Mr. Eryn Altenwerth",
+    "username": "Deondre54",
+    "email": "Octavia_Ryan@hotmail.com",
+    "address": {
+        "streetA": "Briana Junction",
+        "streetB": "6062 Rodriguez Alley",
+        "streetC": "861 Isabel Ranch Suite 626",
+        "streetD": "Suite 481",
+        "city": "East Nicholetown",
+        "state": "New Mexico",
+        "country": "Jamaica",
+        "zipcode": "96776",
+        "geo": {
+            "lat": "11.9584",
+            "lng": "-120.1103"
+        }
+    },
+    "phone": "(646) 614-6829 x024",
+    "website": "selmer.info",
+    "company": {
+        "name": "Cummerata - Pouros",
+        "catchPhrase": "Intuitive upward-trending system engine",
+        "bs": "open-source synthesize relationships"
+    },
+    "posts": [
+        {
+            "words": "enim aut sit",
+            "sentence": "Sit exercitationem rerum eligendi.",
+            "sentences": "Veritatis illo facilis nihil in occaecati ab. Et cumque necessitatibus laboriosam. Velit enim et quam similique. Ut impedit delectus eligendi sint quos. Atque aut quam. Asperiores quia ipsa vero mollitia non quaerat suscipit unde.",
+            "paragraph": "Porro blanditiis cupiditate. Ducimus architecto unde perspiciatis blanditiis quas. Id odio et ipsa vel. Excepturi ex autem ipsam provident voluptas qui ipsum sit aut. Voluptates sit id sapiente dicta dolor asperiores modi. Sit eos ipsam nesciunt aut quibusdam atque."
+        },
+        {
+            "words": "laboriosam expedita et",
+            "sentence": "Ut at impedit ipsam nisi minima natus sit autem.",
+            "sentences": "Dolorem harum tenetur illum omnis sit accusamus sint. Enim sequi molestiae deleniti nostrum debitis doloribus.",
+            "paragraph": "Et eum aut in. Natus consequatur cum in vero dolore maiores. Qui harum dolor nemo quia non dolorem voluptas qui. Non qui dolores enim. Quod explicabo aut."
+        },
+        {
+            "words": "expedita reiciendis dolor",
+            "sentence": "Possimus repudiandae sint quis quibusdam nulla atque at voluptate sit.",
+            "sentences": "Enim vitae minus excepturi. Ea voluptas dolorem sint deserunt. Similique et quisquam aspernatur perspiciatis dolor a fuga. Voluptatem accusantium illo sit. Earum quisquam suscipit fuga et quasi illum quos aut.",
+            "paragraph": "Libero maiores nam qui rerum. Laudantium dicta ut consequuntur quae velit debitis provident quod repellat. Numquam provident quaerat magni repellendus est qui vel aut. Et rerum vel velit perferendis aut voluptatem vitae nisi. Temporibus quis accusamus quia vel possimus quam voluptas voluptas assumenda. Ut asperiores odit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "248.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fritsch, Douglas and Carter",
+            "name": "Credit Card Account 2262",
+            "type": "withdrawal",
+            "account": "53429421"
+        },
+        {
+            "amount": "697.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Runolfsson, Tremblay and Jerde",
+            "name": "Auto Loan Account 1954",
+            "type": "invoice",
+            "account": "51305395"
+        },
+        {
+            "amount": "986.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Howe - Macejkovic",
+            "name": "Personal Loan Account 4048",
+            "type": "withdrawal",
+            "account": "74267358"
+        }
+    ]
+}

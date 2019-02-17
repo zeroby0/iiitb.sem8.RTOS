@@ -1,0 +1,72 @@
+{
+    "name": "Fay Blanda",
+    "username": "Agustin76",
+    "email": "Anjali_Cremin77@gmail.com",
+    "address": {
+        "streetA": "Tressa Landing",
+        "streetB": "59475 Armstrong Views",
+        "streetC": "761 Janice Centers Apt. 946",
+        "streetD": "Suite 508",
+        "city": "West Janice",
+        "state": "South Dakota",
+        "country": "Libyan Arab Jamahiriya",
+        "zipcode": "46210-1305",
+        "geo": {
+            "lat": "-12.2667",
+            "lng": "-58.5829"
+        }
+    },
+    "phone": "(025) 754-4771",
+    "website": "clemens.org",
+    "company": {
+        "name": "Hegmann, Smith and Langworth",
+        "catchPhrase": "Compatible grid-enabled groupware",
+        "bs": "virtual synergize ROI"
+    },
+    "posts": [
+        {
+            "words": "voluptatibus qui voluptates",
+            "sentence": "Provident et omnis cum minus.",
+            "sentences": "Ut aut id qui sit numquam nemo. Quia est cumque qui ducimus aut consectetur totam sed ut.",
+            "paragraph": "Ut laboriosam et adipisci eos qui odio. Consequatur iure praesentium voluptatibus et. Ut corporis facilis odit quis fugit earum soluta inventore."
+        },
+        {
+            "words": "provident magnam placeat",
+            "sentence": "Veritatis placeat architecto sed ut doloribus deleniti optio qui provident.",
+            "sentences": "Illum omnis quasi cupiditate quam sapiente explicabo nemo. Iusto quisquam molestiae sed tenetur error. Odio velit et voluptate et doloribus. Quis labore consequatur omnis voluptas rerum nobis.",
+            "paragraph": "Deleniti dignissimos est. Fugiat delectus sint non neque praesentium repudiandae. Vel voluptatem totam illo aut et nihil corporis."
+        },
+        {
+            "words": "ut nobis saepe",
+            "sentence": "Et beatae et tempora et ducimus in ut.",
+            "sentences": "Asperiores non ipsum et laborum commodi in. Esse quidem blanditiis est tempore sequi.",
+            "paragraph": "Ipsum dolor beatae. Dolore eum in tempora repellendus recusandae eveniet qui est et. Sint ipsa vitae cumque voluptatem nihil eum nobis corporis ipsa."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "399.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fahey - Torp",
+            "name": "Checking Account 4386",
+            "type": "payment",
+            "account": "65874529"
+        },
+        {
+            "amount": "86.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Feil - Kertzmann",
+            "name": "Personal Loan Account 0284",
+            "type": "withdrawal",
+            "account": "69801204"
+        },
+        {
+            "amount": "801.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Krajcik - Spinka",
+            "name": "Savings Account 2815",
+            "type": "withdrawal",
+            "account": "12872815"
+        }
+    ]
+}

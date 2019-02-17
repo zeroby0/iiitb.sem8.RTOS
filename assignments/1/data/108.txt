@@ -1,0 +1,72 @@
+{
+    "name": "Mittie Jaskolski",
+    "username": "Lorine.Jast",
+    "email": "Preston_Legros@hotmail.com",
+    "address": {
+        "streetA": "Bethany Valleys",
+        "streetB": "44725 Wilkinson Extension",
+        "streetC": "26946 Cielo Parkway Apt. 565",
+        "streetD": "Suite 357",
+        "city": "Lake Ismael",
+        "state": "Illinois",
+        "country": "Nauru",
+        "zipcode": "47231-9087",
+        "geo": {
+            "lat": "42.3895",
+            "lng": "32.7779"
+        }
+    },
+    "phone": "872-867-4878",
+    "website": "ryder.net",
+    "company": {
+        "name": "Treutel, Roob and Runte",
+        "catchPhrase": "Programmable composite artificial intelligence",
+        "bs": "virtual whiteboard channels"
+    },
+    "posts": [
+        {
+            "words": "commodi quaerat dolor",
+            "sentence": "In officiis nesciunt est quia quidem et.",
+            "sentences": "Ab sunt itaque aut sequi quisquam eos veritatis qui aut. Accusamus cupiditate tempore tenetur sed autem nesciunt dolores nam dignissimos. Voluptatem quis doloribus omnis est voluptas ut saepe facilis est. Voluptatem in sunt omnis facilis.",
+            "paragraph": "Quod consectetur impedit deleniti possimus. Quia voluptas labore ipsam est eos deleniti rem. Cupiditate quidem vitae consectetur."
+        },
+        {
+            "words": "et sit et",
+            "sentence": "Nobis harum facere officia minima mollitia sit cumque.",
+            "sentences": "Pariatur qui est incidunt cumque. Cupiditate optio est molestiae id sunt. Voluptate delectus ab sunt culpa. Tempora autem id ut delectus nam velit qui ab ea.",
+            "paragraph": "Eos ipsa sit rerum est est reiciendis. Quam vero odio. Incidunt dolor a dignissimos qui."
+        },
+        {
+            "words": "repellat fugiat omnis",
+            "sentence": "Commodi aut aspernatur autem expedita adipisci at praesentium.",
+            "sentences": "Eum ea et. Qui deserunt sint enim voluptates molestiae saepe sequi quia mollitia. Aut molestias id minima animi. Velit dolorem nihil odit natus molestiae. Unde soluta suscipit dolorum. Quas corporis sint tenetur.",
+            "paragraph": "Earum sunt nam et dolorem est unde et alias. Eaque quae debitis temporibus consequuntur provident officiis possimus. Inventore quis rerum omnis. Velit qui omnis rerum saepe commodi officia alias quisquam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "806.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hoeger and Sons",
+            "name": "Personal Loan Account 8138",
+            "type": "withdrawal",
+            "account": "27060594"
+        },
+        {
+            "amount": "792.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schimmel - Gorczany",
+            "name": "Credit Card Account 6651",
+            "type": "deposit",
+            "account": "66767254"
+        },
+        {
+            "amount": "988.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Glover, Kertzmann and Crist",
+            "name": "Personal Loan Account 3962",
+            "type": "invoice",
+            "account": "29479282"
+        }
+    ]
+}

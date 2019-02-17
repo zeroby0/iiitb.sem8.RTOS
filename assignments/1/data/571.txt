@@ -1,0 +1,72 @@
+{
+    "name": "Uriah Robel",
+    "username": "Davonte.Wyman",
+    "email": "Gussie18@gmail.com",
+    "address": {
+        "streetA": "Upton Pass",
+        "streetB": "4297 Jacobs Rue",
+        "streetC": "40514 Jacynthe Way Apt. 258",
+        "streetD": "Suite 397",
+        "city": "Hermanbury",
+        "state": "Alaska",
+        "country": "China",
+        "zipcode": "62879",
+        "geo": {
+            "lat": "89.2219",
+            "lng": "-61.5960"
+        }
+    },
+    "phone": "1-046-602-3100 x48325",
+    "website": "cristian.info",
+    "company": {
+        "name": "Turner - Jaskolski",
+        "catchPhrase": "Polarised eco-centric application",
+        "bs": "synergistic e-enable e-markets"
+    },
+    "posts": [
+        {
+            "words": "aperiam ipsam quia",
+            "sentence": "Eos ab ea minima aspernatur esse.",
+            "sentences": "Atque vero non ratione iure voluptates cumque ut vel. Nulla reprehenderit dolores aliquam magnam ipsum est et. Cumque molestias iure ut impedit. Quisquam dolores voluptatem et. Et magni sit sint modi voluptas ex. Nesciunt ad sequi mollitia voluptas.",
+            "paragraph": "Deleniti rerum odit pariatur ipsam adipisci dignissimos minima. Ea aut suscipit ut hic deserunt consequuntur eligendi. Nemo culpa at ut quo eos."
+        },
+        {
+            "words": "in repellendus ratione",
+            "sentence": "Aut rerum eum rem dolor fugit.",
+            "sentences": "Molestias laborum sit est labore. Non sapiente accusantium magni qui aut. Quasi et eius veniam enim autem. Tempora soluta non libero dignissimos harum. Consequatur deserunt doloremque excepturi recusandae. Inventore eos error esse odio et quia sapiente non.",
+            "paragraph": "Omnis eveniet possimus tempore quisquam cumque laborum. Quisquam incidunt beatae nisi eaque dolorem et debitis a inventore. Et quibusdam deserunt necessitatibus. Veritatis omnis beatae distinctio culpa est assumenda. Consequuntur suscipit incidunt. Excepturi totam iusto enim cumque voluptatem velit quis."
+        },
+        {
+            "words": "eveniet dolorem facilis",
+            "sentence": "Fugit velit in error quia nobis laborum et incidunt.",
+            "sentences": "In dolorem recusandae et mollitia quaerat quia tenetur aspernatur sunt. Similique autem ut enim. Odit qui omnis nulla fugit impedit. Consequatur minima iure aut beatae cumque minima aut voluptates. Optio sit voluptatem omnis quod sed. Voluptas dolorem et veritatis voluptatem.",
+            "paragraph": "Asperiores enim omnis quidem. Explicabo dicta voluptatem optio enim dolorem. Sed alias sunt ipsam nihil omnis ea alias dicta quisquam. Ipsum recusandae veritatis delectus ut quas possimus. Explicabo perspiciatis quis tenetur est soluta non. Tenetur possimus ipsam rerum qui voluptates."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "870.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schroeder LLC",
+            "name": "Savings Account 0086",
+            "type": "deposit",
+            "account": "57747333"
+        },
+        {
+            "amount": "265.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tillman, Ratke and Breitenberg",
+            "name": "Checking Account 4288",
+            "type": "deposit",
+            "account": "80177121"
+        },
+        {
+            "amount": "156.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wolff Inc",
+            "name": "Savings Account 8915",
+            "type": "payment",
+            "account": "40552374"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Efren Welch",
+    "username": "Emil.Weissnat70",
+    "email": "Rhiannon_Lesch28@yahoo.com",
+    "address": {
+        "streetA": "Burnice Burg",
+        "streetB": "1695 Magali Lakes",
+        "streetC": "62668 Elvie Rest Suite 739",
+        "streetD": "Suite 281",
+        "city": "North Demario",
+        "state": "Connecticut",
+        "country": "Western Sahara",
+        "zipcode": "55327-2001",
+        "geo": {
+            "lat": "67.9783",
+            "lng": "-49.9654"
+        }
+    },
+    "phone": "1-416-887-2286 x2786",
+    "website": "audie.biz",
+    "company": {
+        "name": "Hamill and Sons",
+        "catchPhrase": "Synergized heuristic matrix",
+        "bs": "clicks-and-mortar iterate e-services"
+    },
+    "posts": [
+        {
+            "words": "ex amet consectetur",
+            "sentence": "Ad sunt minima libero blanditiis eveniet ipsa nemo et qui.",
+            "sentences": "Blanditiis consequuntur repellat incidunt officia aut dolore praesentium. Iure velit reiciendis voluptates doloremque placeat sed amet qui magni. Saepe expedita aut eum id alias sint atque fugit quod.",
+            "paragraph": "Quia facilis maxime vero totam. Repellendus ut ad sit modi. Voluptas fuga possimus sunt consequuntur perferendis quo. Id natus aut ratione. Veritatis omnis voluptas fugiat est sint dolorem rem aut veritatis."
+        },
+        {
+            "words": "quam et et",
+            "sentence": "Atque perferendis sunt.",
+            "sentences": "Accusamus et dicta qui possimus dolor dolor. Velit rem vero vero voluptatum quasi quo sit esse. Distinctio velit totam repudiandae sunt exercitationem earum. Ut optio unde dolores dolor excepturi.",
+            "paragraph": "Eos id nihil. Et numquam voluptatem ut. Et tempore neque nobis est. Ad molestiae officia qui qui necessitatibus."
+        },
+        {
+            "words": "ea non at",
+            "sentence": "Laborum repellendus quia.",
+            "sentences": "Magnam perferendis consequatur illum magnam atque ut. Id quo voluptas distinctio explicabo autem eaque recusandae velit eum. Quia dolorem cum odio molestiae cupiditate neque dolor ea aut. Dolor similique est. Culpa eum optio ex et nihil. Ut recusandae natus.",
+            "paragraph": "Tempore voluptatibus praesentium non voluptatem ipsa molestiae. Et aut et. Ipsa aut doloribus perspiciatis et. Voluptates expedita maiores debitis quaerat. Eum asperiores natus itaque officia aperiam deleniti. Rerum odit enim sapiente voluptas amet."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "480.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dickens Group",
+            "name": "Auto Loan Account 2021",
+            "type": "deposit",
+            "account": "11488909"
+        },
+        {
+            "amount": "776.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Keefe - Monahan",
+            "name": "Investment Account 0128",
+            "type": "deposit",
+            "account": "60387762"
+        },
+        {
+            "amount": "671.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bradtke - Smith",
+            "name": "Investment Account 9460",
+            "type": "invoice",
+            "account": "22379470"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Creola Hoppe",
+    "username": "Kameron.Schmidt",
+    "email": "Muriel.Collier@yahoo.com",
+    "address": {
+        "streetA": "Haley Well",
+        "streetB": "6512 Schmitt Row",
+        "streetC": "894 Anissa Garden Suite 139",
+        "streetD": "Suite 849",
+        "city": "Gregoriamouth",
+        "state": "Maryland",
+        "country": "Antigua and Barbuda",
+        "zipcode": "86699",
+        "geo": {
+            "lat": "-47.2144",
+            "lng": "58.6289"
+        }
+    },
+    "phone": "1-228-314-0363 x024",
+    "website": "terrell.biz",
+    "company": {
+        "name": "Trantow, Mayer and Schultz",
+        "catchPhrase": "User-centric scalable matrices",
+        "bs": "bricks-and-clicks engineer systems"
+    },
+    "posts": [
+        {
+            "words": "recusandae molestias praesentium",
+            "sentence": "Velit illo delectus nisi omnis laborum totam dolorum sit non.",
+            "sentences": "Reiciendis doloremque et saepe est quis facere eveniet et. Repellendus laboriosam ullam eum distinctio minus corporis. Dolorem cum facere excepturi in libero soluta.",
+            "paragraph": "Debitis architecto cum unde eaque recusandae dolorem enim debitis atque. Quia voluptatem aut. Sed labore assumenda iusto sit maxime consequatur reiciendis."
+        },
+        {
+            "words": "molestias est ad",
+            "sentence": "Et animi dolore amet atque itaque quia.",
+            "sentences": "Occaecati adipisci in minus et eveniet. Sunt beatae quod omnis aut alias. Error recusandae est. Est corporis eaque sunt et expedita voluptatem vero quibusdam. Dolor dolorem libero qui officiis quia dolor dicta quia quia. Consequuntur voluptatem qui qui totam aut omnis.",
+            "paragraph": "Excepturi id maiores. Quibusdam quia tempore vel deserunt. Optio quia qui. Non eaque maiores voluptatum sequi quo soluta distinctio suscipit."
+        },
+        {
+            "words": "autem deleniti iure",
+            "sentence": "Dolores ipsum exercitationem eos voluptas eligendi molestiae.",
+            "sentences": "Distinctio corrupti sed rerum blanditiis consequatur incidunt magnam maxime. Dolor veritatis at. Facere eligendi qui natus. Qui natus et sunt incidunt et et. Officiis atque quo omnis optio doloremque doloremque dolorem. Dolore exercitationem et.",
+            "paragraph": "Exercitationem nemo perspiciatis dicta similique iusto qui eveniet. Maiores libero maxime ratione. Adipisci accusamus dolores. Voluptates soluta ducimus aspernatur voluptas quia dicta. Quia voluptas rerum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "255.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Berge Group",
+            "name": "Checking Account 0140",
+            "type": "invoice",
+            "account": "12842776"
+        },
+        {
+            "amount": "671.86",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Crona and Sons",
+            "name": "Investment Account 5795",
+            "type": "invoice",
+            "account": "98203294"
+        },
+        {
+            "amount": "772.97",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kiehn - Mohr",
+            "name": "Credit Card Account 3285",
+            "type": "withdrawal",
+            "account": "53997361"
+        }
+    ]
+}

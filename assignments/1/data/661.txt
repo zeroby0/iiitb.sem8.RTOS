@@ -1,0 +1,72 @@
+{
+    "name": "Ara Conroy",
+    "username": "Ada18",
+    "email": "Gideon.Carroll@hotmail.com",
+    "address": {
+        "streetA": "Corwin Mountain",
+        "streetB": "7987 Bailey Prairie",
+        "streetC": "314 Halvorson Stream Suite 252",
+        "streetD": "Apt. 121",
+        "city": "Port Samanthachester",
+        "state": "Pennsylvania",
+        "country": "Sao Tome and Principe",
+        "zipcode": "53199",
+        "geo": {
+            "lat": "85.7029",
+            "lng": "-96.5024"
+        }
+    },
+    "phone": "1-763-148-5232",
+    "website": "emery.net",
+    "company": {
+        "name": "Collier Group",
+        "catchPhrase": "Front-line human-resource ability",
+        "bs": "seamless engineer markets"
+    },
+    "posts": [
+        {
+            "words": "aspernatur id veniam",
+            "sentence": "Voluptas qui ut aut et quis commodi.",
+            "sentences": "Eum perferendis assumenda tenetur aut voluptatum autem rem. Unde asperiores dolore distinctio saepe quod ab et a voluptatem. Culpa soluta beatae et.",
+            "paragraph": "Ut illum qui enim ratione corporis. Aut fugit quam totam consequatur ut. Pariatur natus unde. Aliquid iste aut quia. Incidunt deserunt explicabo sequi vel iure rem dolore qui consectetur."
+        },
+        {
+            "words": "harum incidunt pariatur",
+            "sentence": "Sapiente voluptatem ad.",
+            "sentences": "Minus tenetur velit aut at. Et eligendi adipisci debitis aliquam aut aspernatur culpa. Enim ut eum rerum laudantium voluptates ut delectus amet. Ab velit consequuntur voluptatibus dolorum accusantium.",
+            "paragraph": "Dolores quis ea fuga praesentium. Similique non non fugit voluptas et et soluta nisi. Omnis aut animi temporibus omnis perspiciatis non. Aut est exercitationem. Officiis cum qui ipsum qui dolor et placeat."
+        },
+        {
+            "words": "odio unde eos",
+            "sentence": "Et voluptatem quo et et itaque.",
+            "sentences": "Omnis ut sit et sunt nulla. Accusantium in vero accusamus ut nostrum qui.",
+            "paragraph": "Enim qui nihil eos non in. Est quis modi tempore et quos quis. Exercitationem fuga suscipit perferendis. Qui consequatur rerum deserunt. Sint voluptatibus dolore alias aut possimus nihil voluptatem facilis. Eum quia eum non minus voluptatibus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "729.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gleichner Group",
+            "name": "Credit Card Account 5742",
+            "type": "deposit",
+            "account": "37907955"
+        },
+        {
+            "amount": "908.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hagenes Group",
+            "name": "Savings Account 5524",
+            "type": "deposit",
+            "account": "48342403"
+        },
+        {
+            "amount": "572.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Olson Inc",
+            "name": "Home Loan Account 4961",
+            "type": "payment",
+            "account": "80494316"
+        }
+    ]
+}

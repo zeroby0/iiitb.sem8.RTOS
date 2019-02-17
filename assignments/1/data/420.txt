@@ -1,0 +1,72 @@
+{
+    "name": "Alan Simonis",
+    "username": "Aaron55",
+    "email": "Gloria_Ernser98@hotmail.com",
+    "address": {
+        "streetA": "Winston Estates",
+        "streetB": "2880 Blanca Points",
+        "streetC": "4278 Stephania Island Suite 950",
+        "streetD": "Suite 653",
+        "city": "East Carolynfurt",
+        "state": "Oregon",
+        "country": "Isle of Man",
+        "zipcode": "97908-8239",
+        "geo": {
+            "lat": "-51.9006",
+            "lng": "-153.4100"
+        }
+    },
+    "phone": "1-136-390-4381 x5507",
+    "website": "liana.name",
+    "company": {
+        "name": "Trantow and Sons",
+        "catchPhrase": "Monitored system-worthy structure",
+        "bs": "clicks-and-mortar benchmark solutions"
+    },
+    "posts": [
+        {
+            "words": "consequuntur sed commodi",
+            "sentence": "Iure impedit nihil sed quam.",
+            "sentences": "Enim quaerat voluptas rerum sed odit repellat officiis aut. Fuga hic velit quidem ratione. Deleniti magni et dolor dolores sint neque nobis qui.",
+            "paragraph": "Ut nihil quibusdam sunt. Sit consequatur voluptatem dignissimos voluptas suscipit beatae numquam eligendi. Voluptates ullam consectetur consequatur. Occaecati libero nostrum non et nulla fuga. Rem consequuntur laboriosam. Earum ut sunt quia asperiores neque perferendis."
+        },
+        {
+            "words": "laudantium facilis beatae",
+            "sentence": "Quo ipsam unde quis dolorum suscipit quam sunt.",
+            "sentences": "Saepe similique voluptates. Nemo consequuntur repudiandae culpa sapiente ea rerum aut. Ipsam repellendus eum laboriosam alias voluptas nihil qui dolor fugit.",
+            "paragraph": "Aut dolor reprehenderit cum expedita repellendus inventore amet. Magnam possimus doloremque id suscipit. Dolorem est doloribus enim impedit quasi consequuntur. Ullam quo facilis veritatis pariatur accusamus aut voluptas dicta dolores. Et facilis aspernatur sint inventore cumque qui ullam earum sed."
+        },
+        {
+            "words": "alias beatae culpa",
+            "sentence": "Laudantium qui rerum at iure quia veniam.",
+            "sentences": "Magnam porro quos voluptatem occaecati velit dignissimos. Vitae corrupti esse consequatur. Eius id magni aut. Ex et culpa fugiat et dignissimos laborum inventore excepturi quos. Quidem odio animi.",
+            "paragraph": "Non laboriosam exercitationem nobis vel eos officiis non reiciendis quia. Culpa ratione tempore qui sed tenetur aut non aut. Nisi doloribus amet autem quae eum quas qui sint consectetur. Ipsa nulla repellendus excepturi eveniet dolorem beatae quo provident quos."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "867.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lockman - Jacobs",
+            "name": "Personal Loan Account 0698",
+            "type": "withdrawal",
+            "account": "96814288"
+        },
+        {
+            "amount": "236.56",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Smith, Bechtelar and Skiles",
+            "name": "Personal Loan Account 6801",
+            "type": "payment",
+            "account": "87765149"
+        },
+        {
+            "amount": "379.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wolf - Blick",
+            "name": "Investment Account 5851",
+            "type": "withdrawal",
+            "account": "69988786"
+        }
+    ]
+}

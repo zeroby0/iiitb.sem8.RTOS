@@ -1,0 +1,72 @@
+{
+    "name": "Khalil Little",
+    "username": "Meaghan81",
+    "email": "Wyatt_Larson41@hotmail.com",
+    "address": {
+        "streetA": "Gerda Court",
+        "streetB": "38276 Huels Fall",
+        "streetC": "877 Batz Mews Suite 611",
+        "streetD": "Suite 838",
+        "city": "New Henriette",
+        "state": "Oregon",
+        "country": "Russian Federation",
+        "zipcode": "70715-7200",
+        "geo": {
+            "lat": "35.9956",
+            "lng": "-28.4862"
+        }
+    },
+    "phone": "(342) 548-4623 x58310",
+    "website": "bennett.com",
+    "company": {
+        "name": "Prohaska, Gaylord and Pfeffer",
+        "catchPhrase": "Synergized object-oriented instruction set",
+        "bs": "holistic redefine methodologies"
+    },
+    "posts": [
+        {
+            "words": "molestiae assumenda a",
+            "sentence": "Officia ipsum velit adipisci recusandae ratione laudantium.",
+            "sentences": "Molestiae commodi optio ipsam autem maiores beatae rerum laborum. Aspernatur officia aperiam impedit molestiae expedita.",
+            "paragraph": "Voluptate aut fugit culpa. Placeat adipisci earum consequuntur similique qui laboriosam doloremque. Consequatur quasi voluptatem atque qui nihil ea fuga eum doloremque. Et qui eum unde quis. Ea tenetur atque aut laboriosam accusamus. Quo ea distinctio aspernatur ipsa nam voluptas praesentium ducimus maxime."
+        },
+        {
+            "words": "qui in quod",
+            "sentence": "Officiis qui fuga asperiores odio vitae magnam.",
+            "sentences": "Repudiandae error aut accusamus quia amet. Illo vero in dolor. Sed sed ut beatae eum odio necessitatibus nemo aspernatur. Natus qui hic ratione iusto id in ut dicta.",
+            "paragraph": "Sequi temporibus sit consequatur mollitia numquam laudantium. Rerum commodi placeat ut. Reprehenderit est eaque vitae commodi aut et quaerat necessitatibus ut."
+        },
+        {
+            "words": "quos temporibus quia",
+            "sentence": "Numquam quam voluptas deleniti voluptatem accusamus dolore.",
+            "sentences": "Occaecati ut praesentium aliquid vitae sed neque. Maiores aut consequatur aperiam dolorem. In iste eveniet ea consequuntur vel nulla ad aut.",
+            "paragraph": "Quidem nisi excepturi nisi dolorum praesentium saepe non. Laboriosam omnis voluptatem. Dolorem exercitationem vel in delectus possimus aut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "311.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stiedemann - Crist",
+            "name": "Money Market Account 5431",
+            "type": "withdrawal",
+            "account": "85000678"
+        },
+        {
+            "amount": "719.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jones - Walker",
+            "name": "Money Market Account 7926",
+            "type": "payment",
+            "account": "40953941"
+        },
+        {
+            "amount": "135.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reynolds, Kunze and Stroman",
+            "name": "Checking Account 6763",
+            "type": "payment",
+            "account": "08629572"
+        }
+    ]
+}

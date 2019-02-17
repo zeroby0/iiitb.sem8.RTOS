@@ -1,0 +1,72 @@
+{
+    "name": "Cordie Abernathy",
+    "username": "Jonas5",
+    "email": "Jimmie.Kiehn6@gmail.com",
+    "address": {
+        "streetA": "Krystel Extensions",
+        "streetB": "0837 Cremin Islands",
+        "streetC": "12518 Mina Forge Suite 812",
+        "streetD": "Suite 672",
+        "city": "Adonisstad",
+        "state": "Oklahoma",
+        "country": "Honduras",
+        "zipcode": "66770",
+        "geo": {
+            "lat": "14.1418",
+            "lng": "84.9454"
+        }
+    },
+    "phone": "(359) 611-0639",
+    "website": "augustus.org",
+    "company": {
+        "name": "Denesik, Vandervort and Conn",
+        "catchPhrase": "Open-architected upward-trending parallelism",
+        "bs": "ubiquitous empower methodologies"
+    },
+    "posts": [
+        {
+            "words": "non quo ducimus",
+            "sentence": "Porro enim ut expedita ex dicta et.",
+            "sentences": "Alias dignissimos dicta illum accusantium et ut. Sed fuga qui odio velit non reiciendis unde et. Odit debitis natus ut aut. Soluta sunt dolor. A cupiditate asperiores illo placeat quia quia odio.",
+            "paragraph": "Soluta unde harum maiores sunt. Voluptate tenetur qui quo ducimus voluptates impedit. Pariatur optio sunt rem. Quia harum iusto aspernatur qui dolor nihil. Corporis unde qui."
+        },
+        {
+            "words": "nihil necessitatibus doloribus",
+            "sentence": "Temporibus quis consequatur aut nulla.",
+            "sentences": "Dolores ipsam repellendus perspiciatis ut excepturi libero doloribus doloribus suscipit. Voluptatem sapiente magni praesentium modi aspernatur eos mollitia accusantium. Corporis quaerat nesciunt facilis quod. Rerum et ad quo atque perspiciatis ut sit et consectetur. Culpa minima aliquam qui consequatur culpa dignissimos odit rerum. Id aliquam voluptates qui ut fuga optio qui omnis in.",
+            "paragraph": "Ex inventore aliquid delectus minima ipsa rerum sit. Omnis veritatis cum minus numquam cupiditate fugiat facere quaerat. Quaerat facere numquam similique incidunt."
+        },
+        {
+            "words": "alias suscipit omnis",
+            "sentence": "Doloremque qui nobis non reprehenderit illum ut quas illum commodi.",
+            "sentences": "Nulla omnis nihil quis nisi et quos. Ipsam aspernatur autem est molestias eligendi tenetur.",
+            "paragraph": "Aperiam est illo at voluptatum officiis quos accusamus nobis aut. Vel neque distinctio quo reiciendis. Tenetur harum culpa id."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "760.42",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Anderson, Crooks and Kertzmann",
+            "name": "Auto Loan Account 0992",
+            "type": "deposit",
+            "account": "08867220"
+        },
+        {
+            "amount": "364.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dickens, Spinka and Vandervort",
+            "name": "Savings Account 9600",
+            "type": "payment",
+            "account": "95443771"
+        },
+        {
+            "amount": "583.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Corkery - Waters",
+            "name": "Credit Card Account 8199",
+            "type": "withdrawal",
+            "account": "70858737"
+        }
+    ]
+}

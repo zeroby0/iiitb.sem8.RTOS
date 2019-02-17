@@ -1,0 +1,72 @@
+{
+    "name": "Godfrey Cronin",
+    "username": "Emmett_Effertz",
+    "email": "Stacy37@gmail.com",
+    "address": {
+        "streetA": "Kautzer Parkways",
+        "streetB": "6157 Demarcus Highway",
+        "streetC": "742 Hane Dam Suite 441",
+        "streetD": "Apt. 514",
+        "city": "North Linafurt",
+        "state": "Connecticut",
+        "country": "Argentina",
+        "zipcode": "28612-8613",
+        "geo": {
+            "lat": "31.2768",
+            "lng": "33.3766"
+        }
+    },
+    "phone": "656.838.7621",
+    "website": "reyna.org",
+    "company": {
+        "name": "Jenkins - Lockman",
+        "catchPhrase": "User-friendly modular capability",
+        "bs": "revolutionary engage infrastructures"
+    },
+    "posts": [
+        {
+            "words": "non natus voluptatem",
+            "sentence": "Dolores qui ipsam a quos libero non assumenda aut.",
+            "sentences": "Sed reprehenderit magni excepturi aut quo enim. Facilis porro voluptates quis. Voluptas doloremque praesentium quis et sint repellat enim. Odit sed vitae quaerat ratione hic sint ut tempore. Id ullam molestiae pariatur.",
+            "paragraph": "Sed soluta vel animi dolorem dolorem delectus dolor. Est ipsum nam aliquam non est doloribus odit alias. Voluptatem maxime voluptatum sit error."
+        },
+        {
+            "words": "minima quibusdam iste",
+            "sentence": "Quis commodi consectetur delectus dolorum dolorem.",
+            "sentences": "Cum possimus illum atque aut deserunt inventore consectetur. Id nam illo sit rem iure molestiae distinctio facere quis. Ut optio suscipit repudiandae esse perspiciatis aliquam odio hic. Eum vel nostrum repellat deleniti animi consequatur. Assumenda ea et magni vitae quas aut numquam. Alias animi quis iusto fuga perspiciatis illo quis molestiae voluptas.",
+            "paragraph": "Ullam consectetur voluptatibus impedit aut ut nulla. Quia officia molestiae minus rem est laboriosam repudiandae vel. Id earum qui totam officiis atque dignissimos minima laudantium. Et eius et maxime saepe voluptatem necessitatibus iure voluptas."
+        },
+        {
+            "words": "doloribus quis doloribus",
+            "sentence": "Incidunt eveniet culpa qui porro.",
+            "sentences": "Perferendis voluptas ea autem cumque laboriosam nihil aut cumque perspiciatis. Repellendus facere rerum at voluptas magni hic. Deserunt cum eaque consequatur. Quos ipsam sed rem velit ut minima. Explicabo id facilis reiciendis facere aspernatur debitis quia ipsum quo.",
+            "paragraph": "Magnam animi quaerat aliquid. Ut laudantium aspernatur quam quod enim. Velit error cum. Repudiandae consequatur numquam sed et beatae ut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "915.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Price, Mertz and Emard",
+            "name": "Investment Account 3750",
+            "type": "deposit",
+            "account": "41077121"
+        },
+        {
+            "amount": "84.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Johnston, Fisher and Legros",
+            "name": "Auto Loan Account 0027",
+            "type": "invoice",
+            "account": "32026168"
+        },
+        {
+            "amount": "648.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hoppe Group",
+            "name": "Auto Loan Account 9101",
+            "type": "deposit",
+            "account": "49669295"
+        }
+    ]
+}

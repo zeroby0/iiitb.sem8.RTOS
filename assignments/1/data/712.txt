@@ -1,0 +1,72 @@
+{
+    "name": "Gunnar Kihn",
+    "username": "Kailee50",
+    "email": "Aniyah.Armstrong@yahoo.com",
+    "address": {
+        "streetA": "Ankunding Pine",
+        "streetB": "01234 Melissa Via",
+        "streetC": "34598 Kreiger Extensions Apt. 115",
+        "streetD": "Suite 252",
+        "city": "Jonathanborough",
+        "state": "Florida",
+        "country": "Macedonia",
+        "zipcode": "99132",
+        "geo": {
+            "lat": "43.7521",
+            "lng": "-88.5484"
+        }
+    },
+    "phone": "1-747-966-3063",
+    "website": "lane.biz",
+    "company": {
+        "name": "Frami, Conn and Kshlerin",
+        "catchPhrase": "Expanded well-modulated capacity",
+        "bs": "user-centric orchestrate infomediaries"
+    },
+    "posts": [
+        {
+            "words": "dolor voluptate magnam",
+            "sentence": "Voluptatibus est aperiam aut ipsa facilis eum commodi.",
+            "sentences": "Consequatur veniam illum dignissimos eaque. Ipsam numquam harum atque id deserunt expedita numquam modi. Deleniti magni vel debitis. Quae provident perferendis ratione consequatur. Quibusdam similique alias nam deserunt harum est. Perferendis et enim totam rem iure.",
+            "paragraph": "Cum et quo in doloribus. Vel dolor ut corporis fugit harum id fugit ut culpa. Dolorem in aliquam sed beatae doloribus perspiciatis facilis qui. Perspiciatis asperiores atque eveniet. Qui laborum occaecati sint odio exercitationem molestias."
+        },
+        {
+            "words": "qui beatae maiores",
+            "sentence": "Voluptatibus reprehenderit ullam non quia similique assumenda.",
+            "sentences": "Quas repudiandae veritatis quidem. Placeat quae repellat repellat tempore nulla qui.",
+            "paragraph": "Excepturi et iure. Molestiae qui omnis sed aut consectetur a dolor. Voluptas quia laboriosam voluptas et possimus nulla illo. Et tempore harum rem."
+        },
+        {
+            "words": "voluptas rerum error",
+            "sentence": "Ea officia voluptas.",
+            "sentences": "Hic dolorem eius cumque ipsa ut nam. Nemo est aut sint exercitationem sed et maiores exercitationem inventore. Quis accusamus non quod iusto laudantium. Veniam asperiores cumque consectetur totam et vero error ducimus. Nam placeat voluptates et hic blanditiis hic.",
+            "paragraph": "Non ut ut ut eos maxime expedita adipisci. Temporibus eaque et. A quia eos repellendus id in voluptas omnis. Necessitatibus aut nisi numquam ratione maxime exercitationem labore ea. Aut aut quia neque nesciunt ducimus sint voluptatem delectus fugiat."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "970.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schneider Inc",
+            "name": "Savings Account 9179",
+            "type": "withdrawal",
+            "account": "75023259"
+        },
+        {
+            "amount": "419.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fritsch, Hoeger and Lubowitz",
+            "name": "Credit Card Account 6588",
+            "type": "withdrawal",
+            "account": "22244770"
+        },
+        {
+            "amount": "755.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobi, Harber and Grimes",
+            "name": "Savings Account 1606",
+            "type": "payment",
+            "account": "60744980"
+        }
+    ]
+}

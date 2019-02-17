@@ -1,0 +1,72 @@
+{
+    "name": "Ewell Lakin",
+    "username": "Mitchel.Schultz",
+    "email": "Tre_Reichert@yahoo.com",
+    "address": {
+        "streetA": "Lea Passage",
+        "streetB": "7714 Jakubowski Street",
+        "streetC": "362 Lexie Stream Apt. 878",
+        "streetD": "Apt. 006",
+        "city": "Howellfort",
+        "state": "Georgia",
+        "country": "Slovakia (Slovak Republic)",
+        "zipcode": "95058-9108",
+        "geo": {
+            "lat": "78.0170",
+            "lng": "-32.4875"
+        }
+    },
+    "phone": "073.170.0320 x78737",
+    "website": "mauricio.name",
+    "company": {
+        "name": "Dach, Hintz and Rau",
+        "catchPhrase": "Self-enabling analyzing projection",
+        "bs": "cross-media benchmark experiences"
+    },
+    "posts": [
+        {
+            "words": "sunt nam molestiae",
+            "sentence": "Deleniti odio repudiandae architecto eos facilis odio neque et.",
+            "sentences": "Veritatis animi saepe quod magnam enim iure aut. Eligendi maiores qui doloremque laudantium. Voluptates consequatur nobis. Sed numquam blanditiis architecto molestiae provident in nesciunt odio tempora. Veniam quam aliquam cum in vel. Quae et asperiores aliquam.",
+            "paragraph": "Voluptas tempore dolores quasi et eum est iusto reprehenderit distinctio. Architecto in qui aut quaerat at enim sint non et. Consequatur earum officia numquam autem libero. Aut voluptatem excepturi."
+        },
+        {
+            "words": "qui repellendus voluptas",
+            "sentence": "Fugit et deserunt possimus aut.",
+            "sentences": "Fugit velit sit delectus atque aut omnis. Sed sapiente qui excepturi.",
+            "paragraph": "Numquam quaerat asperiores qui. Nemo voluptatum quae blanditiis et. Dolor minima earum magni aut quia sed. Necessitatibus totam est. Perferendis sit quis. Qui officiis voluptatum."
+        },
+        {
+            "words": "minus quia aut",
+            "sentence": "Nemo sed aut rem molestias.",
+            "sentences": "Hic fuga sit possimus qui quisquam sint. Maxime qui rem pariatur labore nesciunt.",
+            "paragraph": "Odit ab consectetur natus culpa. Rem asperiores consectetur amet. Optio et sed enim voluptas tenetur commodi dolorem optio. Voluptatibus itaque libero voluptas officia voluptas. Quia maxime qui atque at est maxime. Aspernatur incidunt necessitatibus eaque."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "263.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Klein Inc",
+            "name": "Checking Account 4005",
+            "type": "payment",
+            "account": "71127820"
+        },
+        {
+            "amount": "505.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Daniel - Collier",
+            "name": "Checking Account 4250",
+            "type": "withdrawal",
+            "account": "55491218"
+        },
+        {
+            "amount": "656.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ledner, Purdy and White",
+            "name": "Credit Card Account 6409",
+            "type": "deposit",
+            "account": "97639700"
+        }
+    ]
+}

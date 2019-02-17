@@ -1,0 +1,72 @@
+{
+    "name": "Korbin Hermiston",
+    "username": "Hubert_Kuvalis",
+    "email": "Rubie46@yahoo.com",
+    "address": {
+        "streetA": "Orie Coves",
+        "streetB": "00112 Myron Motorway",
+        "streetC": "54263 Will Ranch Apt. 493",
+        "streetD": "Apt. 993",
+        "city": "New Edwin",
+        "state": "Georgia",
+        "country": "Brazil",
+        "zipcode": "35915-5953",
+        "geo": {
+            "lat": "61.3137",
+            "lng": "-135.4994"
+        }
+    },
+    "phone": "(959) 013-3198",
+    "website": "olin.net",
+    "company": {
+        "name": "Harvey Group",
+        "catchPhrase": "Open-architected next generation product",
+        "bs": "visionary transition e-business"
+    },
+    "posts": [
+        {
+            "words": "omnis velit voluptatibus",
+            "sentence": "Tempore nobis quisquam occaecati ex eum reiciendis sed et.",
+            "sentences": "Iste sit quis expedita dolorem. Consequatur ab natus est voluptatum vero. Qui dolores quidem molestiae ratione voluptatum eum rerum id aut. Qui nihil voluptatem sequi ea libero ut sed. Reiciendis voluptatibus debitis animi soluta eos quis. Asperiores sed quod asperiores velit.",
+            "paragraph": "Quia ea ullam dignissimos maxime quis dicta libero sit. Quia reiciendis facere qui neque et asperiores. Tempore tempora inventore sunt officia enim aperiam. Totam iure velit numquam mollitia sunt ut."
+        },
+        {
+            "words": "fuga quam est",
+            "sentence": "Doloribus voluptas dolorem nulla qui aperiam quo aut.",
+            "sentences": "Et ducimus dolor consequuntur et quis in tempora sed. In qui quidem deserunt facilis nam consequuntur. Quibusdam repellat perspiciatis labore voluptatem minima rerum. Dolorem quia optio aliquid aut dolorum magni dignissimos voluptas. Sint ratione qui.",
+            "paragraph": "Ducimus autem necessitatibus quasi tempora hic quo rerum modi exercitationem. Aut nihil nihil harum sapiente laudantium fuga. Quia distinctio nostrum cupiditate voluptatem qui nostrum. Magnam consequatur facere dolores. A mollitia et quia mollitia. Voluptatem distinctio nihil fugit aut exercitationem id ut ipsum."
+        },
+        {
+            "words": "omnis alias quidem",
+            "sentence": "Temporibus enim nobis non inventore iusto eligendi modi.",
+            "sentences": "Consequatur quia dolores. Aut vel provident modi error aliquid et id perferendis. Odio est ex ut pariatur rerum. Velit qui nisi et autem a sunt necessitatibus quas quae.",
+            "paragraph": "Et aperiam autem perferendis aliquid repudiandae ut enim at. Quidem amet sint itaque. Rerum neque perspiciatis adipisci. Sit officiis eum modi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "381.29",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mertz - McClure",
+            "name": "Checking Account 0294",
+            "type": "invoice",
+            "account": "72751538"
+        },
+        {
+            "amount": "110.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schulist - Bashirian",
+            "name": "Auto Loan Account 1428",
+            "type": "payment",
+            "account": "23583698"
+        },
+        {
+            "amount": "617.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stoltenberg Inc",
+            "name": "Personal Loan Account 2947",
+            "type": "deposit",
+            "account": "33492891"
+        }
+    ]
+}

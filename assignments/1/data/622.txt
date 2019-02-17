@@ -1,0 +1,72 @@
+{
+    "name": "Ms. Buddy Balistreri",
+    "username": "Lavon_Bailey",
+    "email": "Derrick_Klocko@hotmail.com",
+    "address": {
+        "streetA": "Olin Villages",
+        "streetB": "020 Alvah Village",
+        "streetC": "3434 Nannie Cove Apt. 265",
+        "streetD": "Suite 259",
+        "city": "East Deronland",
+        "state": "New Jersey",
+        "country": "Dominica",
+        "zipcode": "32789-3848",
+        "geo": {
+            "lat": "-60.7214",
+            "lng": "73.2084"
+        }
+    },
+    "phone": "479.017.9846 x2080",
+    "website": "nestor.biz",
+    "company": {
+        "name": "Mitchell Group",
+        "catchPhrase": "Monitored dedicated local area network",
+        "bs": "enterprise scale users"
+    },
+    "posts": [
+        {
+            "words": "assumenda distinctio ratione",
+            "sentence": "Beatae sapiente id voluptas a consequuntur odit sint delectus.",
+            "sentences": "Similique et unde ut ab fugiat voluptas in voluptatibus. Fugiat corrupti voluptas a aut odio. Molestias occaecati soluta inventore est. Rem cumque ad eveniet nostrum temporibus nihil aliquam ratione minima. Architecto neque ut facilis.",
+            "paragraph": "Enim iure non. Quasi praesentium nemo quo sit et quidem. Rem mollitia reprehenderit est. Quia occaecati ea in consequatur debitis ut. Sit consequatur modi."
+        },
+        {
+            "words": "ipsa et quis",
+            "sentence": "Ut blanditiis cumque nihil.",
+            "sentences": "Possimus amet aspernatur sit porro eum fugiat. Quia ut dolore quae ea. Et et facere maiores in. Neque animi ipsa ducimus aut omnis. Nobis numquam aut vel est a quo voluptatem in. Ipsam blanditiis id perspiciatis et perspiciatis.",
+            "paragraph": "Voluptatum tenetur pariatur labore molestiae doloremque. Esse soluta voluptate. Doloribus facere et eos et."
+        },
+        {
+            "words": "dolorum qui autem",
+            "sentence": "Cumque modi dolorum.",
+            "sentences": "Sint praesentium aut voluptates optio ducimus iste vitae. Temporibus eveniet incidunt ea.",
+            "paragraph": "Aspernatur ut sed modi dolorum sint aliquid est error. Aut error at ipsam consequatur at corporis ab architecto. Sed dolore dolores occaecati natus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "462.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pouros - Halvorson",
+            "name": "Money Market Account 3123",
+            "type": "withdrawal",
+            "account": "57725050"
+        },
+        {
+            "amount": "329.86",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hodkiewicz LLC",
+            "name": "Checking Account 7706",
+            "type": "payment",
+            "account": "75295891"
+        },
+        {
+            "amount": "461.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Graham LLC",
+            "name": "Savings Account 9396",
+            "type": "deposit",
+            "account": "50705004"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Linda Von",
+    "username": "Immanuel3",
+    "email": "Carlie51@yahoo.com",
+    "address": {
+        "streetA": "Earnestine Terrace",
+        "streetB": "15913 Jaylen Port",
+        "streetC": "6041 Chanel Points Suite 608",
+        "streetD": "Suite 616",
+        "city": "Johnstonberg",
+        "state": "New Mexico",
+        "country": "Portugal",
+        "zipcode": "33542-8640",
+        "geo": {
+            "lat": "-17.2360",
+            "lng": "-116.9402"
+        }
+    },
+    "phone": "1-904-357-4157",
+    "website": "alfreda.net",
+    "company": {
+        "name": "Connelly - Crist",
+        "catchPhrase": "Assimilated foreground interface",
+        "bs": "global leverage e-tailers"
+    },
+    "posts": [
+        {
+            "words": "fuga voluptatem nostrum",
+            "sentence": "Saepe quasi beatae quisquam aliquid sint unde.",
+            "sentences": "Asperiores dignissimos voluptatem repellat. Aut modi voluptatem voluptas nulla. Occaecati quis debitis harum nostrum et non rem quia.",
+            "paragraph": "Mollitia quia excepturi. Illo qui et ipsa ut omnis consequatur. Blanditiis odit molestiae molestias neque. Ut repellendus ut et ipsum exercitationem."
+        },
+        {
+            "words": "provident vitae dolorem",
+            "sentence": "Quos labore eos ipsum in.",
+            "sentences": "Ea error suscipit quia atque sed. Architecto corrupti quisquam quo est optio consequatur mollitia. Voluptatem fuga fugiat. Explicabo est impedit dolorem vel ut similique. Veritatis quaerat architecto pariatur voluptatum libero velit.",
+            "paragraph": "Quo sunt porro nihil earum odio vitae voluptatem maiores magnam. Inventore nihil mollitia ea dolorem veritatis sapiente reprehenderit animi. Alias et architecto occaecati aspernatur assumenda eligendi voluptas in. Eligendi repudiandae minima voluptas tempora enim iusto dolor quam illum. Dolorem architecto sit sapiente rem. Optio accusamus beatae quia."
+        },
+        {
+            "words": "ut id et",
+            "sentence": "Deleniti ipsa et sit non soluta consequuntur vel ut ea.",
+            "sentences": "Atque voluptatem quasi veritatis quis dolorum magnam et velit. Vitae beatae aliquid laboriosam cumque labore consequatur sed cum. Laboriosam et in quis eligendi odio. Eos alias rem blanditiis nostrum blanditiis ut. Laboriosam assumenda assumenda ut molestias molestias omnis.",
+            "paragraph": "Necessitatibus ut non corporis corporis quae ullam dolorem facere veniam. Hic vero quis ad porro omnis rerum eaque. Qui sit aut eum veniam quis facere minus. Et esse distinctio autem aut ut adipisci."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "185.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sanford - Runolfsdottir",
+            "name": "Auto Loan Account 6518",
+            "type": "withdrawal",
+            "account": "30623819"
+        },
+        {
+            "amount": "987.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nolan - Schoen",
+            "name": "Auto Loan Account 6254",
+            "type": "invoice",
+            "account": "83236654"
+        },
+        {
+            "amount": "341.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Muller Inc",
+            "name": "Credit Card Account 6237",
+            "type": "deposit",
+            "account": "19540717"
+        }
+    ]
+}

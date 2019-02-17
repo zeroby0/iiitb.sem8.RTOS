@@ -1,0 +1,72 @@
+{
+    "name": "Chadd Becker DDS",
+    "username": "Lesly_Wilderman12",
+    "email": "Rosella41@yahoo.com",
+    "address": {
+        "streetA": "Lillian Dale",
+        "streetB": "656 Hoeger Roads",
+        "streetC": "65387 Huels Ports Apt. 124",
+        "streetD": "Apt. 596",
+        "city": "McKenzieberg",
+        "state": "Nevada",
+        "country": "Botswana",
+        "zipcode": "93886",
+        "geo": {
+            "lat": "27.6425",
+            "lng": "-134.0200"
+        }
+    },
+    "phone": "1-830-121-2156",
+    "website": "rafael.name",
+    "company": {
+        "name": "Stokes - Weber",
+        "catchPhrase": "Multi-lateral radical budgetary management",
+        "bs": "leading-edge optimize platforms"
+    },
+    "posts": [
+        {
+            "words": "libero consequatur iusto",
+            "sentence": "Quis harum tempore enim voluptate et quis numquam sed.",
+            "sentences": "Rerum consequuntur quis. Reprehenderit porro non voluptatem non suscipit nobis quae.",
+            "paragraph": "Minus ullam eum saepe sit. Magnam quia sint incidunt itaque inventore incidunt est. Autem id quas quia sit. Minima repellat quod incidunt molestiae beatae eaque rerum."
+        },
+        {
+            "words": "eum voluptatem aut",
+            "sentence": "Quos odit facilis velit nulla.",
+            "sentences": "Et recusandae similique deserunt rerum labore. Expedita consequatur eum nemo et et fugit enim. Aspernatur dolores vitae ut quo voluptatem dolorem facere sint praesentium. Accusantium quibusdam est nihil.",
+            "paragraph": "Sint rerum alias exercitationem tenetur dolor et. Suscipit maxime qui quo consequatur ratione ab. Quasi dolor aspernatur. Possimus totam explicabo quia velit corporis ea excepturi."
+        },
+        {
+            "words": "est aliquid sed",
+            "sentence": "Eum quas qui blanditiis ipsam enim magnam non voluptas at.",
+            "sentences": "Consequatur facilis nulla ab. Dignissimos commodi voluptatem dolores nam eaque. Est sint illum incidunt consequatur earum tempore ad dolores. Natus ut facilis iure quidem aut veniam dignissimos accusantium illum.",
+            "paragraph": "Et blanditiis dolores quia et blanditiis voluptates est. Ducimus laboriosam debitis magni dolorem. Eaque amet eos. Corporis fuga animi repellendus. Fugiat delectus esse omnis temporibus quas reprehenderit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "994.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Roberts - Auer",
+            "name": "Home Loan Account 4688",
+            "type": "payment",
+            "account": "66259177"
+        },
+        {
+            "amount": "615.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Walsh - Howell",
+            "name": "Investment Account 5958",
+            "type": "withdrawal",
+            "account": "21536867"
+        },
+        {
+            "amount": "739.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beahan, Kub and Pfannerstill",
+            "name": "Credit Card Account 7767",
+            "type": "withdrawal",
+            "account": "42708964"
+        }
+    ]
+}

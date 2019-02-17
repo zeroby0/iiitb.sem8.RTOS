@@ -1,0 +1,72 @@
+{
+    "name": "Sedrick Huels",
+    "username": "Harmony92",
+    "email": "Brandon.Sawayn@gmail.com",
+    "address": {
+        "streetA": "Jarret Groves",
+        "streetB": "1260 Elmore Square",
+        "streetC": "336 Nicklaus Flats Apt. 770",
+        "streetD": "Suite 866",
+        "city": "New Grover",
+        "state": "Nebraska",
+        "country": "Seychelles",
+        "zipcode": "57740",
+        "geo": {
+            "lat": "-39.5861",
+            "lng": "-87.7220"
+        }
+    },
+    "phone": "1-559-200-5115 x8905",
+    "website": "daryl.name",
+    "company": {
+        "name": "Wilkinson - Gerlach",
+        "catchPhrase": "Expanded impactful internet solution",
+        "bs": "one-to-one enable applications"
+    },
+    "posts": [
+        {
+            "words": "maiores assumenda veritatis",
+            "sentence": "Id laborum blanditiis voluptas.",
+            "sentences": "Id recusandae quas. Rerum qui quo vel minus quos. Placeat officiis ex aperiam doloremque aut vitae. Voluptatem consequuntur et molestias neque. Ipsa illo laudantium veniam.",
+            "paragraph": "Totam iste impedit est. Mollitia omnis ut quas quo quia. Sed voluptas qui animi quidem ullam sit. Qui pariatur sint nemo. Maiores cupiditate id. Quibusdam facilis vero."
+        },
+        {
+            "words": "est minima aut",
+            "sentence": "Quibusdam nisi quia.",
+            "sentences": "Optio commodi eum delectus. Ut exercitationem id sit et temporibus. Possimus placeat voluptatem optio voluptas ducimus velit amet quidem vel.",
+            "paragraph": "Quibusdam reiciendis iste. Sit doloremque sed tempore qui aliquid quia. Vel rerum architecto sed eaque saepe odit eaque molestias debitis. Aut sint nihil inventore et similique aperiam eligendi. Similique et eum officiis molestiae et. Hic amet nam illum amet."
+        },
+        {
+            "words": "sint et incidunt",
+            "sentence": "Sit assumenda impedit eum a ea debitis ex dolore id.",
+            "sentences": "Est animi voluptatem culpa praesentium. Cumque ullam quia aut assumenda.",
+            "paragraph": "Laboriosam quasi commodi officiis voluptatum sit. Nulla iure alias fugiat ut eius aut non dolor. Ipsum dolorem dolor pariatur dicta in."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "703.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Prosacco - Mueller",
+            "name": "Credit Card Account 9988",
+            "type": "withdrawal",
+            "account": "27844807"
+        },
+        {
+            "amount": "867.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bernier Inc",
+            "name": "Credit Card Account 2193",
+            "type": "deposit",
+            "account": "12096744"
+        },
+        {
+            "amount": "802.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Baumbach, Witting and Raynor",
+            "name": "Checking Account 9809",
+            "type": "withdrawal",
+            "account": "99231108"
+        }
+    ]
+}

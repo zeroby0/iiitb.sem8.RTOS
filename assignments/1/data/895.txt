@@ -1,0 +1,72 @@
+{
+    "name": "Phyllis Lind",
+    "username": "Nathanial42",
+    "email": "Marvin.Brown@hotmail.com",
+    "address": {
+        "streetA": "Olga Port",
+        "streetB": "81132 Romaguera Pike",
+        "streetC": "4988 Joesph Creek Apt. 292",
+        "streetD": "Suite 526",
+        "city": "South Amyaside",
+        "state": "Arkansas",
+        "country": "Virgin Islands, U.S.",
+        "zipcode": "22347-1973",
+        "geo": {
+            "lat": "-38.7542",
+            "lng": "19.7469"
+        }
+    },
+    "phone": "988-027-4664 x92373",
+    "website": "henriette.com",
+    "company": {
+        "name": "Watsica, Hackett and Klein",
+        "catchPhrase": "Front-line encompassing application",
+        "bs": "viral reintermediate eyeballs"
+    },
+    "posts": [
+        {
+            "words": "rerum at est",
+            "sentence": "Praesentium repellat est quod.",
+            "sentences": "Autem quas quae asperiores. Reprehenderit aut commodi iste expedita harum. Non in consequuntur. Soluta ut aliquid praesentium commodi ipsa rerum ducimus enim sed. Unde voluptates aliquam eius sit necessitatibus voluptas non nostrum rem.",
+            "paragraph": "Iste et consequatur sed atque laborum quibusdam perspiciatis. Voluptatum sequi ut assumenda velit eum possimus. Assumenda aut ullam molestias. Ipsum incidunt ut quia reprehenderit impedit officia itaque quibusdam. Et consectetur quis consequatur explicabo vitae quod odit non."
+        },
+        {
+            "words": "consequatur iure minus",
+            "sentence": "Tempore ullam voluptas expedita quibusdam aliquam nam.",
+            "sentences": "Omnis sint aut ducimus aliquid quidem maiores. Quis voluptatem ut vel non accusamus quidem vel nobis.",
+            "paragraph": "Facilis asperiores quia quia vel sint quidem et. Ipsa illo eligendi dolores et rerum consequatur. Maiores quae at quos inventore quo voluptas explicabo praesentium tenetur."
+        },
+        {
+            "words": "ipsum dolore illum",
+            "sentence": "Est ratione dicta quo.",
+            "sentences": "Et sequi qui vel quo id ut. Est minima rerum. Deserunt recusandae minus sequi.",
+            "paragraph": "Reiciendis sed esse quas quas laborum minima nemo aut et. Aperiam natus et praesentium. Non iusto excepturi assumenda a et dicta."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "760.93",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Konopelski LLC",
+            "name": "Home Loan Account 6493",
+            "type": "deposit",
+            "account": "60423719"
+        },
+        {
+            "amount": "5.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Conn, Gleason and Toy",
+            "name": "Personal Loan Account 3709",
+            "type": "withdrawal",
+            "account": "72908420"
+        },
+        {
+            "amount": "456.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Willms, Hettinger and Ullrich",
+            "name": "Home Loan Account 9035",
+            "type": "deposit",
+            "account": "88240714"
+        }
+    ]
+}

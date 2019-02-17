@@ -1,0 +1,72 @@
+{
+    "name": "Alec Mertz",
+    "username": "Vesta34",
+    "email": "Elvera_Osinski40@hotmail.com",
+    "address": {
+        "streetA": "Hamill Isle",
+        "streetB": "433 Konopelski Turnpike",
+        "streetC": "53390 Murazik Manor Apt. 204",
+        "streetD": "Apt. 005",
+        "city": "Josiahmouth",
+        "state": "Montana",
+        "country": "Chile",
+        "zipcode": "40861",
+        "geo": {
+            "lat": "39.2566",
+            "lng": "177.3033"
+        }
+    },
+    "phone": "1-745-616-5166 x453",
+    "website": "glenda.net",
+    "company": {
+        "name": "Thiel - Wisozk",
+        "catchPhrase": "Diverse coherent open system",
+        "bs": "web-enabled mesh portals"
+    },
+    "posts": [
+        {
+            "words": "ad dolor ab",
+            "sentence": "Quas quam labore tenetur perferendis itaque.",
+            "sentences": "Dolorum quod qui. Dignissimos odit et dicta iste. Ipsum molestias deleniti aut dolor eos velit libero. Consectetur eligendi in excepturi porro nemo et totam.",
+            "paragraph": "Sed vel officia veritatis qui rerum voluptatem consectetur. Culpa vero tempora odio provident quo est nam doloremque. Porro veritatis ea est qui reprehenderit at. Eaque repellat architecto id officiis."
+        },
+        {
+            "words": "est soluta necessitatibus",
+            "sentence": "Amet repellat nobis minima dolore.",
+            "sentences": "Non sit sint sapiente. Voluptas deleniti consequatur dignissimos. Omnis commodi ut quisquam animi vero.",
+            "paragraph": "Ab deserunt culpa accusantium sed sit alias voluptatem. Eveniet odit asperiores. Non eum quod aut sint aut quibusdam beatae vitae velit. Ratione dolores sunt suscipit ducimus sunt quia modi consequatur. Aperiam voluptate et suscipit nemo exercitationem."
+        },
+        {
+            "words": "eaque saepe corrupti",
+            "sentence": "Voluptas perferendis quasi.",
+            "sentences": "Illo assumenda quo et. Corrupti repellendus omnis est aspernatur corrupti placeat aut quisquam qui.",
+            "paragraph": "Modi repellat occaecati ut. Beatae ut et. Velit soluta dicta atque ipsum quos sunt."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "316.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rogahn LLC",
+            "name": "Home Loan Account 2536",
+            "type": "payment",
+            "account": "41157381"
+        },
+        {
+            "amount": "280.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bruen and Sons",
+            "name": "Credit Card Account 1028",
+            "type": "payment",
+            "account": "81875226"
+        },
+        {
+            "amount": "296.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Aufderhar LLC",
+            "name": "Home Loan Account 2126",
+            "type": "invoice",
+            "account": "64340966"
+        }
+    ]
+}

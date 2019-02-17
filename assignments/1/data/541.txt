@@ -1,0 +1,72 @@
+{
+    "name": "Madisen Franecki",
+    "username": "Brigitte.Fritsch",
+    "email": "Conor.Haag@gmail.com",
+    "address": {
+        "streetA": "Myron Views",
+        "streetB": "454 Strosin Mountains",
+        "streetC": "16470 Homenick Court Suite 747",
+        "streetD": "Apt. 259",
+        "city": "Port Orpha",
+        "state": "Arkansas",
+        "country": "Vanuatu",
+        "zipcode": "88767",
+        "geo": {
+            "lat": "4.1749",
+            "lng": "-57.1261"
+        }
+    },
+    "phone": "524.679.8973 x26997",
+    "website": "shaylee.biz",
+    "company": {
+        "name": "Batz and Sons",
+        "catchPhrase": "Visionary empowering benchmark",
+        "bs": "real-time strategize bandwidth"
+    },
+    "posts": [
+        {
+            "words": "suscipit placeat iure",
+            "sentence": "Natus autem eum.",
+            "sentences": "Tempora et assumenda corrupti soluta hic. Et recusandae dolorem et eius laborum voluptatibus.",
+            "paragraph": "Omnis consequatur est deleniti nesciunt adipisci veniam dignissimos rem optio. Impedit dolores qui nisi quia odit quo corporis ea ab. Ut illum itaque. Voluptatem amet ea."
+        },
+        {
+            "words": "repudiandae facere sint",
+            "sentence": "Nihil ut omnis quo sint.",
+            "sentences": "Corporis et tenetur. Est consectetur nemo magnam quae ea sint voluptatem. Quibusdam in molestiae aut.",
+            "paragraph": "Ratione excepturi labore tempora veritatis repudiandae nulla sapiente odio. Laborum aliquid possimus aut vel corporis sed voluptatem. Quia doloremque et ex nemo commodi rerum quis delectus assumenda. Aut sint aliquid voluptatem in rerum nesciunt maxime vel fugiat. Doloribus earum laborum perspiciatis eum magni rerum dolorem pariatur. Nam nisi voluptas omnis facilis nisi ipsum voluptatem reiciendis."
+        },
+        {
+            "words": "aliquid repellendus assumenda",
+            "sentence": "Voluptatibus quaerat amet veritatis quia.",
+            "sentences": "Id consequatur pariatur velit. Labore sapiente provident ut sit aperiam minima voluptas cumque et. Laborum quaerat ut dolor facere. Ducimus qui ex soluta non cum qui. Et voluptas consectetur delectus consequatur error ad.",
+            "paragraph": "Quidem id dolore est odit dignissimos. Non voluptatem quo aliquam. Sed beatae recusandae. Sint fugiat dolores porro sunt corporis cum dolores aliquid necessitatibus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "329.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Johnston - Terry",
+            "name": "Savings Account 8556",
+            "type": "withdrawal",
+            "account": "29118165"
+        },
+        {
+            "amount": "406.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tillman, Boyle and Deckow",
+            "name": "Savings Account 8553",
+            "type": "deposit",
+            "account": "22313161"
+        },
+        {
+            "amount": "303.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gutkowski, Cremin and Volkman",
+            "name": "Personal Loan Account 4575",
+            "type": "withdrawal",
+            "account": "44300866"
+        }
+    ]
+}

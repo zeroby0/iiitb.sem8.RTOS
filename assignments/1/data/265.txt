@@ -1,0 +1,72 @@
+{
+    "name": "Hallie Cole",
+    "username": "Carlo15",
+    "email": "Houston.Beer39@hotmail.com",
+    "address": {
+        "streetA": "Marcel Harbor",
+        "streetB": "5722 Geo Stravenue",
+        "streetC": "5603 Brianne Fort Suite 495",
+        "streetD": "Suite 500",
+        "city": "North Murrayport",
+        "state": "California",
+        "country": "Algeria",
+        "zipcode": "61533",
+        "geo": {
+            "lat": "-37.8797",
+            "lng": "-171.0738"
+        }
+    },
+    "phone": "(465) 700-1539 x408",
+    "website": "antonietta.org",
+    "company": {
+        "name": "Dicki, Wunsch and Tremblay",
+        "catchPhrase": "Exclusive scalable open system",
+        "bs": "collaborative syndicate paradigms"
+    },
+    "posts": [
+        {
+            "words": "provident ipsa nemo",
+            "sentence": "In voluptate praesentium tempora vero.",
+            "sentences": "Qui temporibus sed voluptas. Voluptatum et ipsam provident iste dolore nostrum. At voluptatem optio voluptas sunt modi et. Iure libero aliquam molestiae. Voluptatem ipsa soluta minus tenetur accusantium voluptates veniam nobis.",
+            "paragraph": "Pariatur sint amet placeat dolore quo temporibus et unde qui. Quia cumque accusamus laboriosam facere excepturi ipsam esse fugiat. Aut est est distinctio ipsa porro autem. Vero deleniti error qui. Dolor perspiciatis vitae. Est vel facere consequatur quod eius."
+        },
+        {
+            "words": "doloremque quo libero",
+            "sentence": "Ea excepturi animi laborum sunt enim facere.",
+            "sentences": "Minus sed sed harum incidunt molestias adipisci. Ratione ex quis.",
+            "paragraph": "Dolorem ut nihil rerum. Dicta architecto et sunt occaecati. Ipsam modi autem laborum expedita dolorum nihil corrupti temporibus. Omnis quibusdam non rerum voluptas voluptas porro est."
+        },
+        {
+            "words": "ipsam placeat quia",
+            "sentence": "Ut corrupti maxime vitae.",
+            "sentences": "Incidunt maiores deleniti officiis. Hic ullam excepturi. Nulla qui consectetur enim earum laboriosam iusto incidunt molestiae.",
+            "paragraph": "Voluptates debitis aperiam consequatur. Ipsam voluptatem ratione id nesciunt ducimus iure blanditiis ut. Sit laboriosam cupiditate. Nihil est soluta qui officia accusantium."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "680.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ledner - Yost",
+            "name": "Investment Account 9261",
+            "type": "invoice",
+            "account": "68310947"
+        },
+        {
+            "amount": "730.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reichel, Conroy and Stanton",
+            "name": "Savings Account 3836",
+            "type": "payment",
+            "account": "76201492"
+        },
+        {
+            "amount": "855.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hackett LLC",
+            "name": "Auto Loan Account 0522",
+            "type": "withdrawal",
+            "account": "52896970"
+        }
+    ]
+}

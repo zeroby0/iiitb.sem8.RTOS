@@ -1,0 +1,72 @@
+{
+    "name": "Arlene Bergstrom",
+    "username": "Jalyn63",
+    "email": "Lolita.Douglas3@gmail.com",
+    "address": {
+        "streetA": "Donnelly Hill",
+        "streetB": "076 Stehr Road",
+        "streetC": "21060 Schamberger Loop Suite 396",
+        "streetD": "Apt. 358",
+        "city": "New Arnoldoborough",
+        "state": "Oklahoma",
+        "country": "Senegal",
+        "zipcode": "91257",
+        "geo": {
+            "lat": "28.0510",
+            "lng": "-26.0554"
+        }
+    },
+    "phone": "538.238.9693 x344",
+    "website": "evangeline.com",
+    "company": {
+        "name": "Murphy Group",
+        "catchPhrase": "Self-enabling tertiary strategy",
+        "bs": "frictionless transform schemas"
+    },
+    "posts": [
+        {
+            "words": "quis qui deleniti",
+            "sentence": "Et sit cupiditate aliquam quam ut.",
+            "sentences": "Similique odio maxime autem. Et harum eum et voluptate. Autem repellendus occaecati numquam et quis qui animi porro. Neque sunt quisquam provident quis dolore.",
+            "paragraph": "Mollitia et eos. Iure enim debitis non id ea hic. Error odit earum quaerat ut qui. At nam dolor. Quos quas blanditiis qui et aliquid assumenda quia aut tenetur. Aut minus quis assumenda vitae cum iure."
+        },
+        {
+            "words": "in in quam",
+            "sentence": "Corrupti nihil quaerat similique enim eius.",
+            "sentences": "Et sed laborum. Natus placeat autem. Quo accusamus nihil inventore. Tempora qui in dignissimos voluptates.",
+            "paragraph": "Eveniet rerum dolor. Cupiditate asperiores consectetur voluptatum est quam minus nam. Magnam et beatae quia voluptates qui in. Et quia quos modi id. Et dolores excepturi voluptas et debitis consequatur est. Enim sit et omnis."
+        },
+        {
+            "words": "quo quaerat non",
+            "sentence": "Possimus aliquam deleniti ut.",
+            "sentences": "Doloribus exercitationem quam odit temporibus in ipsam. Voluptatum sed impedit. Sed porro reprehenderit maiores nesciunt dolorem maiores ullam dolore. Perspiciatis mollitia est quia sed ad ab.",
+            "paragraph": "Laudantium magni inventore rerum. Et quasi doloremque harum. Molestiae quod id."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "998.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Borer, Shanahan and Brekke",
+            "name": "Credit Card Account 2417",
+            "type": "withdrawal",
+            "account": "67470575"
+        },
+        {
+            "amount": "708.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stanton Group",
+            "name": "Auto Loan Account 3177",
+            "type": "withdrawal",
+            "account": "95761518"
+        },
+        {
+            "amount": "810.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Funk LLC",
+            "name": "Savings Account 9800",
+            "type": "payment",
+            "account": "40065014"
+        }
+    ]
+}

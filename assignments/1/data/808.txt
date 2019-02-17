@@ -1,0 +1,72 @@
+{
+    "name": "Paris Lebsack",
+    "username": "Samson_Dickens",
+    "email": "Rozella87@yahoo.com",
+    "address": {
+        "streetA": "Spencer Place",
+        "streetB": "16407 Frederik Prairie",
+        "streetC": "2079 Abbigail Views Apt. 968",
+        "streetD": "Apt. 032",
+        "city": "Fritschshire",
+        "state": "Colorado",
+        "country": "Guinea-Bissau",
+        "zipcode": "72911",
+        "geo": {
+            "lat": "21.1898",
+            "lng": "154.2516"
+        }
+    },
+    "phone": "267.291.7271 x8556",
+    "website": "madelyn.com",
+    "company": {
+        "name": "Brekke, Balistreri and Russel",
+        "catchPhrase": "Visionary multi-tasking throughput",
+        "bs": "dynamic syndicate ROI"
+    },
+    "posts": [
+        {
+            "words": "et rem omnis",
+            "sentence": "Ea dolores sed accusantium et ducimus quos tempora et aut.",
+            "sentences": "Aut quo est nihil. Et non earum aut.",
+            "paragraph": "Est aut fuga deserunt incidunt voluptatibus quas. Et quod omnis. Voluptate omnis saepe mollitia fuga quae velit aliquam aspernatur beatae."
+        },
+        {
+            "words": "et ipsum aliquam",
+            "sentence": "Suscipit enim excepturi eaque et dolores modi cupiditate iste.",
+            "sentences": "Numquam maiores id dolore ab dolores amet sunt eum. Impedit saepe optio tenetur similique velit. Aut quod aut laudantium laboriosam. Et fugiat tenetur blanditiis aut deleniti qui at nobis maiores.",
+            "paragraph": "Voluptas sed impedit est quo voluptas in consectetur facere. Soluta aut ipsam iste alias impedit natus consectetur. Neque dolorem quis sit asperiores consequuntur id ea aliquam. Quia aliquid hic."
+        },
+        {
+            "words": "repellat iste fugiat",
+            "sentence": "Id numquam omnis nam.",
+            "sentences": "Sint distinctio odio deleniti autem tenetur alias illo. Voluptatibus rerum dolor hic aut minima quia nihil laboriosam. Deserunt quis facere et quod temporibus voluptate. Officiis similique ut veritatis. Qui velit alias.",
+            "paragraph": "Aut ratione ipsa alias et. Architecto est fugit reiciendis deserunt cumque. Cupiditate voluptatem qui aliquam sit suscipit. Quo voluptatibus est architecto odio est voluptatem ipsum quas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "890.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bogan, Weissnat and Hintz",
+            "name": "Home Loan Account 4051",
+            "type": "deposit",
+            "account": "39998902"
+        },
+        {
+            "amount": "480.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kerluke, Cronin and Lynch",
+            "name": "Money Market Account 7080",
+            "type": "withdrawal",
+            "account": "18680157"
+        },
+        {
+            "amount": "496.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Carter - Klein",
+            "name": "Personal Loan Account 3771",
+            "type": "payment",
+            "account": "54211968"
+        }
+    ]
+}

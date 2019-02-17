@@ -1,0 +1,72 @@
+{
+    "name": "Hobart Towne",
+    "username": "Wallace.Grant88",
+    "email": "Dax77@yahoo.com",
+    "address": {
+        "streetA": "Schuppe Avenue",
+        "streetB": "8935 Wolf Glen",
+        "streetC": "5055 Volkman Bridge Apt. 952",
+        "streetD": "Apt. 254",
+        "city": "Shieldshaven",
+        "state": "Indiana",
+        "country": "India",
+        "zipcode": "56233-2797",
+        "geo": {
+            "lat": "24.4364",
+            "lng": "176.8731"
+        }
+    },
+    "phone": "(595) 456-9472 x459",
+    "website": "gardner.net",
+    "company": {
+        "name": "Cremin - Gerlach",
+        "catchPhrase": "Expanded leading edge capability",
+        "bs": "one-to-one enhance networks"
+    },
+    "posts": [
+        {
+            "words": "corrupti ut mollitia",
+            "sentence": "Et consectetur inventore.",
+            "sentences": "Dignissimos temporibus magnam iste aspernatur et quibusdam possimus sequi earum. Repellat voluptatibus aut nemo sed tempora autem.",
+            "paragraph": "Aut aspernatur dolores. Aperiam accusantium dignissimos. Est molestiae est. Et distinctio qui expedita et magnam aut dolorem."
+        },
+        {
+            "words": "voluptatum dignissimos sunt",
+            "sentence": "Ipsa temporibus animi itaque tenetur blanditiis molestiae.",
+            "sentences": "Deserunt distinctio assumenda odio voluptatem quia ea in architecto aut. Voluptatum saepe asperiores rerum odio praesentium. Laborum aut quod commodi necessitatibus voluptatem cum doloremque tenetur facilis. Quidem id dolorum quod aut ea odio repudiandae ducimus. Mollitia excepturi rerum corrupti.",
+            "paragraph": "Est ipsam commodi. Dolorem ut totam et ut doloremque soluta dolorem voluptatem. Est facere molestiae sequi quae. Eveniet molestias ut ipsam tenetur ratione aut nihil fugiat quis."
+        },
+        {
+            "words": "natus placeat cupiditate",
+            "sentence": "Voluptatibus sapiente illum dignissimos.",
+            "sentences": "Placeat qui sit voluptas et quisquam est porro. Magni tempore veniam fugit est ex eum ipsam neque recusandae. Omnis et exercitationem ipsam cum omnis velit tempore minima excepturi. Rem et veritatis ducimus nihil eveniet aut qui nobis est. Voluptatem harum reiciendis rerum quia. Nostrum quo deleniti aut placeat delectus vitae nobis animi.",
+            "paragraph": "Praesentium voluptas quas officiis. Iusto maxime totam nesciunt voluptas iste facilis rerum repellat. Doloremque itaque et exercitationem aliquam itaque qui voluptas molestiae. Sed cumque minima dolore. Fuga voluptatibus qui necessitatibus temporibus repellat atque odio. Vitae molestias nesciunt saepe ea ipsum omnis mollitia voluptatem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "888.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Donnelly, Larson and Homenick",
+            "name": "Personal Loan Account 2088",
+            "type": "withdrawal",
+            "account": "18042555"
+        },
+        {
+            "amount": "226.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schneider, Hand and Mayer",
+            "name": "Investment Account 3313",
+            "type": "payment",
+            "account": "82286740"
+        },
+        {
+            "amount": "951.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tillman - Murray",
+            "name": "Home Loan Account 9290",
+            "type": "invoice",
+            "account": "81089015"
+        }
+    ]
+}

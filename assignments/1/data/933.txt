@@ -1,0 +1,72 @@
+{
+    "name": "Zaria Kovacek",
+    "username": "Nicole28",
+    "email": "Jazmin31@hotmail.com",
+    "address": {
+        "streetA": "Lubowitz Field",
+        "streetB": "74637 Hartmann Villages",
+        "streetC": "67979 Skiles Stravenue Apt. 193",
+        "streetD": "Suite 532",
+        "city": "Lake Rosalind",
+        "state": "Georgia",
+        "country": "Andorra",
+        "zipcode": "10768",
+        "geo": {
+            "lat": "-87.0298",
+            "lng": "103.4947"
+        }
+    },
+    "phone": "665-061-3909",
+    "website": "alek.info",
+    "company": {
+        "name": "Runte and Sons",
+        "catchPhrase": "Phased attitude-oriented model",
+        "bs": "integrated facilitate supply-chains"
+    },
+    "posts": [
+        {
+            "words": "eius quod officia",
+            "sentence": "Cum dicta aut.",
+            "sentences": "Voluptatem temporibus sit rem. Nostrum sint odit corrupti mollitia corrupti exercitationem labore qui et. Aut enim cum. Labore repellat voluptas culpa hic nihil pariatur aut ut voluptatibus. Quasi sint sint cupiditate dolorem maiores et eos.",
+            "paragraph": "Dolores id id adipisci id. Enim autem deserunt sed quia id ut similique placeat quo. Et sed odit."
+        },
+        {
+            "words": "quia vero quia",
+            "sentence": "Ipsam ullam eos fuga dolorem reiciendis reprehenderit.",
+            "sentences": "Animi consequuntur error libero explicabo quod. Quia corporis suscipit aut et iure occaecati id. Veritatis suscipit qui.",
+            "paragraph": "Nisi molestias tempore. Ducimus quis molestiae qui enim corrupti quis esse sed. Possimus odio consequatur optio facere."
+        },
+        {
+            "words": "consequatur maiores cumque",
+            "sentence": "Velit nulla amet voluptate ipsum numquam aut.",
+            "sentences": "Aliquam sunt est laboriosam aut. In veritatis voluptatem tenetur nihil veritatis porro fugiat molestiae. Provident odio qui voluptatum culpa.",
+            "paragraph": "Inventore quam velit occaecati. Molestias placeat sit expedita non eaque inventore. Voluptatem officia necessitatibus eos qui incidunt. Est nobis quia iusto reiciendis molestias aperiam quibusdam earum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "258.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Goldner - Howe",
+            "name": "Checking Account 3674",
+            "type": "deposit",
+            "account": "98391122"
+        },
+        {
+            "amount": "106.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Balistreri, Tillman and Abbott",
+            "name": "Money Market Account 4170",
+            "type": "withdrawal",
+            "account": "56030682"
+        },
+        {
+            "amount": "432.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schamberger - Walsh",
+            "name": "Investment Account 3945",
+            "type": "deposit",
+            "account": "92133026"
+        }
+    ]
+}

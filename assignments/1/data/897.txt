@@ -1,0 +1,72 @@
+{
+    "name": "Ms. Jody Quigley",
+    "username": "Lina.Treutel",
+    "email": "Aurelie_Keeling90@hotmail.com",
+    "address": {
+        "streetA": "Jesse Common",
+        "streetB": "0916 Macejkovic Plain",
+        "streetC": "252 Donald Hollow Apt. 466",
+        "streetD": "Apt. 348",
+        "city": "Alveratown",
+        "state": "Oklahoma",
+        "country": "Thailand",
+        "zipcode": "23159",
+        "geo": {
+            "lat": "33.5961",
+            "lng": "-162.5697"
+        }
+    },
+    "phone": "1-753-264-3741 x67675",
+    "website": "josefa.com",
+    "company": {
+        "name": "Sporer Inc",
+        "catchPhrase": "User-centric asynchronous capability",
+        "bs": "strategic visualize niches"
+    },
+    "posts": [
+        {
+            "words": "ipsum facilis rem",
+            "sentence": "Mollitia praesentium sed consequatur dolorem aliquid dolorem voluptas.",
+            "sentences": "Sint sit facere soluta consequatur ut at officiis. Dolorem veritatis et totam modi dicta aspernatur dolore omnis. Molestias et eligendi dolores vel.",
+            "paragraph": "Molestias pariatur consequuntur necessitatibus culpa dignissimos dolorum et eligendi. Consequuntur rerum nihil beatae. Modi laudantium animi quidem ut repellat totam. Quia officiis sint dicta mollitia maxime reiciendis ipsa expedita facere."
+        },
+        {
+            "words": "recusandae possimus ut",
+            "sentence": "Facere unde laborum accusamus.",
+            "sentences": "Aliquid voluptas possimus voluptas itaque. Aut corrupti provident fugiat nihil non facere sint et deserunt.",
+            "paragraph": "Voluptas natus fugit dolorum. Eos repudiandae hic quia suscipit. Quidem et perferendis fuga repellat quisquam tempore earum. Nostrum facilis nulla ad qui. Id ad est consequatur illo nesciunt quo aut et. Minima deleniti rerum tempora."
+        },
+        {
+            "words": "vitae assumenda et",
+            "sentence": "Maiores rerum architecto in asperiores provident saepe id.",
+            "sentences": "Labore rerum sapiente sit labore molestiae ea nisi incidunt. Quam quam error velit esse expedita est tenetur. Quia consequatur voluptas rerum qui est. Unde modi harum laudantium eius ea assumenda. Sunt quia suscipit excepturi dolores fuga optio et. Recusandae eos voluptatem ut ut optio qui neque eligendi recusandae.",
+            "paragraph": "Eum aut optio non vel aut quas eos. Et dignissimos et quaerat et non. Explicabo labore optio. Animi maiores aperiam animi ex officia maxime. Eos ut quidem libero. Ipsa explicabo voluptas repudiandae vel ut placeat officia vero nemo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "800.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sanford - Carter",
+            "name": "Home Loan Account 1558",
+            "type": "invoice",
+            "account": "76562570"
+        },
+        {
+            "amount": "766.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Armstrong, Jenkins and Schmitt",
+            "name": "Credit Card Account 0581",
+            "type": "deposit",
+            "account": "01364628"
+        },
+        {
+            "amount": "398.66",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Donnelly Inc",
+            "name": "Personal Loan Account 7909",
+            "type": "invoice",
+            "account": "19401232"
+        }
+    ]
+}

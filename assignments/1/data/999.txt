@@ -1,0 +1,72 @@
+{
+    "name": "Vito Dickinson",
+    "username": "Andre_Wiegand",
+    "email": "Mariana.Hettinger@gmail.com",
+    "address": {
+        "streetA": "Armstrong Key",
+        "streetB": "289 Cronin Plain",
+        "streetC": "3242 Toni Lane Apt. 816",
+        "streetD": "Apt. 422",
+        "city": "East Davonte",
+        "state": "California",
+        "country": "Maldives",
+        "zipcode": "78461",
+        "geo": {
+            "lat": "-25.8056",
+            "lng": "79.1835"
+        }
+    },
+    "phone": "1-192-376-3395 x689",
+    "website": "emmalee.biz",
+    "company": {
+        "name": "Deckow Group",
+        "catchPhrase": "Automated client-server parallelism",
+        "bs": "end-to-end synthesize networks"
+    },
+    "posts": [
+        {
+            "words": "omnis aut cum",
+            "sentence": "Dignissimos aliquam quo rerum facere distinctio architecto autem.",
+            "sentences": "Doloremque necessitatibus labore omnis et expedita. Ea voluptatibus quo molestiae sequi at facilis aspernatur architecto dolor. Dolore omnis possimus praesentium veritatis aperiam omnis et cumque. Fuga explicabo fugit ratione porro ut laboriosam quis voluptates. Aut quis est iusto similique.",
+            "paragraph": "Porro excepturi et dolorum voluptate. Aut consequuntur possimus quis. Soluta vel aliquid iusto modi rem eligendi."
+        },
+        {
+            "words": "omnis non ipsa",
+            "sentence": "Nostrum necessitatibus qui eveniet rerum dolores ut magni ea.",
+            "sentences": "Vel et adipisci. Rem quia eum.",
+            "paragraph": "Iusto eligendi sit similique ut. Qui rerum et eos earum provident voluptatem rerum dolores voluptas. Possimus ipsam aut est corrupti qui aut id omnis velit. Nulla consequatur eos. Sequi maxime iure."
+        },
+        {
+            "words": "hic aspernatur sapiente",
+            "sentence": "Qui maiores dolores et in est aut consequatur molestiae.",
+            "sentences": "Ratione ut libero enim. Aut ea quaerat distinctio iusto consequuntur adipisci et voluptatibus. Consequatur autem nisi eum totam voluptas.",
+            "paragraph": "Laborum dolores illum quia aut dolor voluptate quae voluptas rerum. Maiores molestias qui facere facilis maxime voluptates. Aut est beatae perspiciatis delectus sint officiis. Ad aperiam rem. Aliquam exercitationem autem. Saepe sequi suscipit eos."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "472.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Connell - Boyle",
+            "name": "Money Market Account 8690",
+            "type": "payment",
+            "account": "32954448"
+        },
+        {
+            "amount": "369.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Keefe, Roob and Runte",
+            "name": "Checking Account 7917",
+            "type": "invoice",
+            "account": "71385704"
+        },
+        {
+            "amount": "431.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kunde - Goodwin",
+            "name": "Savings Account 7208",
+            "type": "invoice",
+            "account": "36076941"
+        }
+    ]
+}

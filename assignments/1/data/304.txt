@@ -1,0 +1,72 @@
+{
+    "name": "Dr. Jovany Greenholt",
+    "username": "Cecil_OConnell65",
+    "email": "Shanelle_Barrows@hotmail.com",
+    "address": {
+        "streetA": "Hackett Harbor",
+        "streetB": "81075 Ullrich Rapid",
+        "streetC": "1437 Chaim Street Apt. 347",
+        "streetD": "Suite 899",
+        "city": "Bridieville",
+        "state": "Alabama",
+        "country": "Equatorial Guinea",
+        "zipcode": "69468-4654",
+        "geo": {
+            "lat": "5.3679",
+            "lng": "104.9147"
+        }
+    },
+    "phone": "(604) 175-2863 x129",
+    "website": "wiley.biz",
+    "company": {
+        "name": "Rolfson Inc",
+        "catchPhrase": "Focused object-oriented knowledge user",
+        "bs": "sticky empower infrastructures"
+    },
+    "posts": [
+        {
+            "words": "ut non autem",
+            "sentence": "Assumenda itaque esse laudantium quia alias et.",
+            "sentences": "Accusamus nostrum quod velit consequatur. Aperiam quia laudantium dolorum iure.",
+            "paragraph": "Autem quia quisquam ducimus aut architecto nam illo consequatur quo. Nobis consequatur excepturi fugiat ut molestias omnis porro molestias dolor. Numquam iste suscipit laudantium ea. Facilis eum qui quos ut."
+        },
+        {
+            "words": "quis voluptas sed",
+            "sentence": "Est numquam accusantium sunt quis ut sunt eius suscipit quia.",
+            "sentences": "Quia asperiores eum. Ullam iusto autem quia quia omnis eaque sed et. Enim et et ducimus laboriosam dolorem ducimus optio eum et.",
+            "paragraph": "Aut incidunt sit inventore nulla id. Et provident consequatur ut accusamus asperiores rerum repellat officiis. Fugit omnis dicta sit rerum aut accusantium dicta consequuntur. Aut tenetur molestias ipsam."
+        },
+        {
+            "words": "necessitatibus rem iusto",
+            "sentence": "Esse asperiores provident saepe.",
+            "sentences": "Est consequatur et ut cum deleniti. Nihil enim mollitia eos. Occaecati ut exercitationem quis ipsa nihil. Dolorem et maiores dolores nobis deserunt consectetur autem.",
+            "paragraph": "Placeat voluptatibus laudantium blanditiis repellat eum omnis dolor. Dolorum et debitis magnam minus. Quis facilis quos. Non in inventore aliquid quibusdam voluptatem et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "820.54",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ortiz, Rohan and Vandervort",
+            "name": "Auto Loan Account 4554",
+            "type": "payment",
+            "account": "94056078"
+        },
+        {
+            "amount": "705.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Huel, Mayert and Kovacek",
+            "name": "Money Market Account 1913",
+            "type": "deposit",
+            "account": "43010481"
+        },
+        {
+            "amount": "808.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bechtelar - Metz",
+            "name": "Home Loan Account 7492",
+            "type": "withdrawal",
+            "account": "57155516"
+        }
+    ]
+}

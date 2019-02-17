@@ -1,0 +1,72 @@
+{
+    "name": "Loraine Quitzon DDS",
+    "username": "Bryana.Botsford",
+    "email": "Kyle.Tromp@hotmail.com",
+    "address": {
+        "streetA": "Carroll Run",
+        "streetB": "919 O'Kon Mountains",
+        "streetC": "761 Weimann Fall Apt. 955",
+        "streetD": "Suite 648",
+        "city": "Bartolettiton",
+        "state": "Wisconsin",
+        "country": "Slovakia (Slovak Republic)",
+        "zipcode": "11457",
+        "geo": {
+            "lat": "52.0975",
+            "lng": "99.1051"
+        }
+    },
+    "phone": "706-691-6194",
+    "website": "nora.com",
+    "company": {
+        "name": "Johnson, Rutherford and Senger",
+        "catchPhrase": "Face to face background artificial intelligence",
+        "bs": "ubiquitous brand synergies"
+    },
+    "posts": [
+        {
+            "words": "eligendi a vitae",
+            "sentence": "Asperiores aperiam nam quia nostrum at possimus perferendis minus.",
+            "sentences": "Quia autem nostrum qui suscipit. Fuga qui accusamus facere veniam fugiat. Sed est esse at. Voluptatibus laboriosam velit magnam eligendi rerum est laborum.",
+            "paragraph": "Veniam laudantium molestias in et ullam. Quia molestiae tempore. Est quo vel. Quam laborum cumque. Qui adipisci repellat reiciendis facere necessitatibus quasi sit."
+        },
+        {
+            "words": "similique qui aut",
+            "sentence": "Laborum eum repudiandae ut ipsum nobis.",
+            "sentences": "Beatae omnis doloribus quia. Velit non ut.",
+            "paragraph": "Distinctio sunt qui laudantium ut autem. Ut omnis est consequatur et aperiam dignissimos. Ab nulla assumenda odit pariatur rerum hic quia id."
+        },
+        {
+            "words": "eos debitis sed",
+            "sentence": "Est quae aliquam omnis omnis ad non.",
+            "sentences": "Exercitationem perferendis hic sed. Quia asperiores nobis inventore rerum qui.",
+            "paragraph": "Ipsum quis nesciunt id. Iste sunt eos et odit aut ut placeat a. Sunt inventore accusantium sunt perferendis molestiae incidunt natus animi recusandae. Nihil repellendus voluptas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "234.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hane, Schulist and Hills",
+            "name": "Personal Loan Account 5849",
+            "type": "invoice",
+            "account": "18836148"
+        },
+        {
+            "amount": "322.31",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cremin, Turner and Wiegand",
+            "name": "Savings Account 7622",
+            "type": "withdrawal",
+            "account": "01884593"
+        },
+        {
+            "amount": "924.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sipes Group",
+            "name": "Credit Card Account 1931",
+            "type": "withdrawal",
+            "account": "09123825"
+        }
+    ]
+}

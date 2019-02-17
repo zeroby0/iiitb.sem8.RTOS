@@ -1,0 +1,72 @@
+{
+    "name": "Ms. Joaquin Reynolds",
+    "username": "Meagan66",
+    "email": "Elton.Thiel@yahoo.com",
+    "address": {
+        "streetA": "Dickens Trace",
+        "streetB": "74385 Hoeger Plain",
+        "streetC": "420 Rogahn Spurs Suite 579",
+        "streetD": "Suite 504",
+        "city": "Hermanntown",
+        "state": "Kansas",
+        "country": "Barbados",
+        "zipcode": "75931",
+        "geo": {
+            "lat": "-42.5586",
+            "lng": "71.1611"
+        }
+    },
+    "phone": "(543) 412-8957 x3396",
+    "website": "kacey.name",
+    "company": {
+        "name": "McLaughlin LLC",
+        "catchPhrase": "Monitored system-worthy application",
+        "bs": "impactful e-enable infrastructures"
+    },
+    "posts": [
+        {
+            "words": "qui pariatur a",
+            "sentence": "Quos debitis ducimus tenetur.",
+            "sentences": "Aut veniam rerum nemo iure fugiat. Voluptatem sit nihil et occaecati placeat laboriosam porro cumque non. Dicta et et assumenda. Deleniti doloribus dolor.",
+            "paragraph": "Architecto incidunt porro quia facere cum commodi facere aspernatur. Ut odit veritatis. Pariatur qui et non ut amet. Non ad eum aut. Minima molestias omnis illo. Consequatur corrupti adipisci."
+        },
+        {
+            "words": "id magni voluptas",
+            "sentence": "Ab dolorem rem.",
+            "sentences": "Necessitatibus voluptatem alias omnis laudantium aliquam ut nostrum iure qui. Nihil suscipit itaque ut ut eveniet vero harum.",
+            "paragraph": "Sunt nulla sint facere ut. Consequatur nihil enim sunt. Autem voluptas impedit ut rem. Non ratione autem consectetur quia. Tempore totam et quam magnam."
+        },
+        {
+            "words": "enim aperiam dicta",
+            "sentence": "Veritatis impedit corrupti voluptas et.",
+            "sentences": "Tempore qui earum saepe ipsa vitae aut temporibus officiis. Dolores qui maxime. Fugit et illum et molestias quidem consequatur sit aperiam nobis. Ducimus quia et tempora aspernatur. In harum quaerat qui molestiae iusto quibusdam asperiores et. Ex amet itaque sint corporis.",
+            "paragraph": "Alias omnis in. Quia veritatis molestiae sequi vitae iste ea. Quam neque et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "968.04",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hartmann Inc",
+            "name": "Money Market Account 7762",
+            "type": "invoice",
+            "account": "62906534"
+        },
+        {
+            "amount": "276.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dickens - Gorczany",
+            "name": "Checking Account 5767",
+            "type": "payment",
+            "account": "38158766"
+        },
+        {
+            "amount": "776.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Berge LLC",
+            "name": "Savings Account 9126",
+            "type": "deposit",
+            "account": "76724572"
+        }
+    ]
+}

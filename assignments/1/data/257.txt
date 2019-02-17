@@ -1,0 +1,72 @@
+{
+    "name": "Xavier Fay",
+    "username": "Ashton_Oberbrunner",
+    "email": "Cory81@hotmail.com",
+    "address": {
+        "streetA": "McDermott Hill",
+        "streetB": "029 Skiles Plaza",
+        "streetC": "9936 Gage Skyway Apt. 986",
+        "streetD": "Suite 531",
+        "city": "Crookston",
+        "state": "Nebraska",
+        "country": "Lao People's Democratic Republic",
+        "zipcode": "15185",
+        "geo": {
+            "lat": "-44.2405",
+            "lng": "-146.5042"
+        }
+    },
+    "phone": "1-060-623-8556",
+    "website": "enrique.com",
+    "company": {
+        "name": "Johnson - Abernathy",
+        "catchPhrase": "Up-sized systemic time-frame",
+        "bs": "B2C utilize technologies"
+    },
+    "posts": [
+        {
+            "words": "nam tenetur fugit",
+            "sentence": "Ipsum magni nemo quod.",
+            "sentences": "Sed iste nemo ea. Facilis non architecto rerum est aspernatur et maxime sint. Alias et rerum illo iste labore. Et id aperiam.",
+            "paragraph": "Eos nisi aut earum vitae magni est corrupti natus. Et nisi recusandae fugiat odio maiores ut omnis sapiente in. Et voluptas nulla. Libero et at neque in dolorum odit suscipit. Itaque dicta sit saepe id qui nostrum temporibus ut."
+        },
+        {
+            "words": "incidunt earum et",
+            "sentence": "Nam repellat harum placeat nostrum omnis consequuntur voluptates.",
+            "sentences": "Totam fuga error doloribus aut assumenda. Sunt itaque est qui sed voluptatem nulla laudantium et magni. Illum et corrupti totam eveniet distinctio consequatur ex qui. Maiores ipsam adipisci non sapiente occaecati culpa quibusdam et perspiciatis. Recusandae totam voluptatem. Ab in et perspiciatis iusto.",
+            "paragraph": "Nihil ut placeat eos eveniet reprehenderit hic quos atque. Nesciunt architecto suscipit quasi enim minus. Esse omnis voluptas. Neque inventore quae fuga nemo mollitia."
+        },
+        {
+            "words": "amet a non",
+            "sentence": "Quo soluta vero in.",
+            "sentences": "Veritatis sit aperiam est sunt non velit mollitia quos. Ut dolores cum tempore consequuntur occaecati. Autem dignissimos quo unde praesentium necessitatibus. Quisquam recusandae libero eum ut. Sed sit natus quia ipsa aut odit ea et.",
+            "paragraph": "Ratione velit quia praesentium assumenda. Quisquam enim nihil quia dolor natus et sed quae. Nihil voluptatem aut sit eaque placeat quia deleniti quidem. Qui velit ea voluptatum quidem quisquam deserunt ut deserunt iste. Consequuntur aut ex perferendis doloremque amet numquam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "676.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lindgren, Medhurst and Farrell",
+            "name": "Checking Account 9283",
+            "type": "withdrawal",
+            "account": "69949940"
+        },
+        {
+            "amount": "955.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Zieme Inc",
+            "name": "Personal Loan Account 1829",
+            "type": "payment",
+            "account": "66322637"
+        },
+        {
+            "amount": "236.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hettinger, O'Reilly and Johns",
+            "name": "Savings Account 6931",
+            "type": "payment",
+            "account": "56270090"
+        }
+    ]
+}

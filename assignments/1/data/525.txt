@@ -1,0 +1,72 @@
+{
+    "name": "Edmund Weissnat",
+    "username": "Ewald_Breitenberg",
+    "email": "Lyla.Heidenreich99@yahoo.com",
+    "address": {
+        "streetA": "Schroeder Square",
+        "streetB": "0391 Jenkins Tunnel",
+        "streetC": "036 Zulauf Port Apt. 500",
+        "streetD": "Suite 182",
+        "city": "North Lauryn",
+        "state": "West Virginia",
+        "country": "Georgia",
+        "zipcode": "85253-7045",
+        "geo": {
+            "lat": "16.2748",
+            "lng": "109.2179"
+        }
+    },
+    "phone": "493.469.4509",
+    "website": "newton.net",
+    "company": {
+        "name": "Mueller, Hayes and Bechtelar",
+        "catchPhrase": "Intuitive grid-enabled contingency",
+        "bs": "B2B whiteboard applications"
+    },
+    "posts": [
+        {
+            "words": "quam totam cumque",
+            "sentence": "Consequatur nulla qui et vero fugiat.",
+            "sentences": "Ipsa sint voluptatem aut officiis et et quae. Eos in reprehenderit eaque aut illo. Culpa aliquam aperiam velit sit similique quod. Voluptatum aut hic velit aliquam cum. Sequi est sit quo accusamus. Eveniet veniam vel et.",
+            "paragraph": "Consequuntur quod quae dolorem. Repellendus eos architecto sint et consequatur dignissimos numquam quibusdam maxime. Numquam natus quaerat ut molestias totam. Nihil adipisci minus aliquam est. Nesciunt earum dolores ea id numquam deserunt deleniti molestias ipsa."
+        },
+        {
+            "words": "voluptas officia quam",
+            "sentence": "Distinctio accusamus et.",
+            "sentences": "Veritatis corporis harum. Vel modi earum earum praesentium illo vero rerum. In rerum illo dolore quam. Voluptatum fugiat veniam cumque repellendus sunt. Enim consectetur impedit amet temporibus itaque error rerum nulla ut. Necessitatibus voluptas doloremque ratione quaerat eum voluptatem rerum commodi.",
+            "paragraph": "Error amet dolor eius facere nemo reiciendis. Aperiam illum perferendis quia doloremque quaerat quae ducimus praesentium. Praesentium harum iure reiciendis eos quibusdam quos minima itaque omnis."
+        },
+        {
+            "words": "tempora quas velit",
+            "sentence": "Sit sit qui eligendi.",
+            "sentences": "Sit molestias fuga distinctio facere. Facilis odit qui optio ea occaecati et odio ut ducimus. Quia tempore velit excepturi qui. Est aspernatur dolorum eum quam eum.",
+            "paragraph": "Officia minima aut deserunt mollitia est molestiae molestiae in. Quod numquam non dignissimos expedita facilis. Amet aspernatur et ut illo nostrum facere amet eveniet."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "838.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Leannon, Dicki and Howell",
+            "name": "Checking Account 2705",
+            "type": "payment",
+            "account": "66951415"
+        },
+        {
+            "amount": "6.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Krajcik Inc",
+            "name": "Home Loan Account 0973",
+            "type": "invoice",
+            "account": "20228753"
+        },
+        {
+            "amount": "777.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Boyer LLC",
+            "name": "Investment Account 8200",
+            "type": "deposit",
+            "account": "58216488"
+        }
+    ]
+}

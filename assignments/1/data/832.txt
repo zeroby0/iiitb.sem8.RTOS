@@ -1,0 +1,72 @@
+{
+    "name": "Genesis Satterfield",
+    "username": "Luisa_Dietrich51",
+    "email": "Vernie.Robel93@hotmail.com",
+    "address": {
+        "streetA": "Velda Flats",
+        "streetB": "8826 Will Streets",
+        "streetC": "02681 Evans Radial Suite 432",
+        "streetD": "Suite 923",
+        "city": "Geneville",
+        "state": "Arkansas",
+        "country": "Austria",
+        "zipcode": "62963",
+        "geo": {
+            "lat": "27.5660",
+            "lng": "-44.9314"
+        }
+    },
+    "phone": "826.078.4483",
+    "website": "aiyana.net",
+    "company": {
+        "name": "Dooley - Kirlin",
+        "catchPhrase": "Vision-oriented 6th generation matrix",
+        "bs": "magnetic engineer eyeballs"
+    },
+    "posts": [
+        {
+            "words": "qui iste nostrum",
+            "sentence": "Suscipit sequi ut.",
+            "sentences": "Quo rem vitae. Labore illo fugit aut dignissimos voluptatem error sed sed rerum. Rerum laborum repellendus vitae et in impedit sit et nihil. Magni et quia id et sint ut sit. Porro facilis exercitationem dignissimos sit vel autem necessitatibus alias repellendus. Nam et dolores ipsa unde odit dolor iusto voluptatum.",
+            "paragraph": "Aperiam aliquam tenetur. Velit eum nisi. Praesentium et sint quia blanditiis. Consequuntur id commodi nemo quos rerum harum molestiae dolores ut. Voluptas voluptas dolorum aut autem odio veniam."
+        },
+        {
+            "words": "commodi autem iure",
+            "sentence": "Nisi asperiores sapiente quis est atque sint sit distinctio quod.",
+            "sentences": "Occaecati porro praesentium fugiat praesentium pariatur voluptatum laborum. Autem eos voluptas. Reprehenderit recusandae ad similique occaecati consequuntur porro. Doloremque quas magni a qui optio.",
+            "paragraph": "Repudiandae laboriosam est consequuntur quam corporis animi qui numquam. Harum molestiae nobis adipisci. Ipsa eum sed et rerum voluptas. Voluptas ullam quod quia fuga."
+        },
+        {
+            "words": "qui enim culpa",
+            "sentence": "Eum consequatur quia minima minus eligendi.",
+            "sentences": "Dolorem culpa et est consectetur. Explicabo at consectetur. Eum ut ipsa qui aut culpa debitis saepe qui. Sequi sed vel animi magni quae. Eaque dolor omnis id consequatur magnam sit ut earum consequatur. Assumenda qui culpa ratione.",
+            "paragraph": "Est corrupti sit et fugiat dolores. Voluptatem pariatur sit quam et. Ut fugiat sunt explicabo. Fuga veritatis est alias. Aut vel voluptas voluptatibus qui doloremque enim corporis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "705.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Steuber - Hilll",
+            "name": "Personal Loan Account 3454",
+            "type": "withdrawal",
+            "account": "01324158"
+        },
+        {
+            "amount": "177.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cormier - Hoppe",
+            "name": "Savings Account 2251",
+            "type": "payment",
+            "account": "47686634"
+        },
+        {
+            "amount": "567.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kemmer Group",
+            "name": "Personal Loan Account 9321",
+            "type": "withdrawal",
+            "account": "02629234"
+        }
+    ]
+}

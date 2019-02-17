@@ -1,0 +1,72 @@
+{
+    "name": "Braden Stehr DDS",
+    "username": "Vickie.Ankunding",
+    "email": "Juanita_Muller93@yahoo.com",
+    "address": {
+        "streetA": "Emmanuel Ville",
+        "streetB": "483 Cummings Roads",
+        "streetC": "1622 Schaden Views Suite 350",
+        "streetD": "Suite 135",
+        "city": "MacGyverview",
+        "state": "Virginia",
+        "country": "French Guiana",
+        "zipcode": "40712-7290",
+        "geo": {
+            "lat": "52.4397",
+            "lng": "-97.5873"
+        }
+    },
+    "phone": "944-589-5828 x521",
+    "website": "waino.net",
+    "company": {
+        "name": "Swaniawski Inc",
+        "catchPhrase": "Re-contextualized analyzing hub",
+        "bs": "cutting-edge syndicate platforms"
+    },
+    "posts": [
+        {
+            "words": "ducimus accusamus et",
+            "sentence": "Quis omnis est modi impedit.",
+            "sentences": "Illo dignissimos eos repellat omnis. Reiciendis impedit sunt voluptatem laborum qui consequuntur. Facere nemo ut nemo maiores quas. Est ducimus voluptatem sunt quis ut nam laboriosam. Iusto ut non asperiores perspiciatis est. Quos corporis excepturi.",
+            "paragraph": "Animi et qui ipsam qui corporis enim. Autem ipsam magni cum enim eaque facilis ut. Praesentium quos nulla ut optio corporis eaque voluptas. Tempora eligendi beatae."
+        },
+        {
+            "words": "earum nulla aut",
+            "sentence": "Veniam nulla recusandae ullam quis.",
+            "sentences": "Et doloremque alias saepe cupiditate assumenda ut. Sed autem est. Maxime sunt ullam sit qui enim soluta. Voluptas et repellat repellat.",
+            "paragraph": "Dolore ratione ut illum. Molestiae numquam est voluptas quis. Possimus voluptatem dolorem ea."
+        },
+        {
+            "words": "quasi praesentium enim",
+            "sentence": "Reiciendis non et.",
+            "sentences": "Voluptatem distinctio iusto fuga voluptatem rerum assumenda. Eveniet necessitatibus delectus architecto. Neque in dolorum autem iusto assumenda. Porro placeat recusandae ipsa fugiat ducimus rerum accusamus incidunt vel. Voluptas hic quod id iste impedit deserunt. Voluptatum et harum consectetur.",
+            "paragraph": "Qui dolorem molestiae velit sunt aut id magnam est ullam. Aliquid porro est possimus eaque totam. Suscipit quasi non aut. Tenetur excepturi ea velit. Eos error a non voluptatem doloremque voluptatibus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "90.86",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Feest and Sons",
+            "name": "Money Market Account 2558",
+            "type": "withdrawal",
+            "account": "63179583"
+        },
+        {
+            "amount": "697.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schroeder Inc",
+            "name": "Home Loan Account 4437",
+            "type": "payment",
+            "account": "14998706"
+        },
+        {
+            "amount": "252.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McDermott Group",
+            "name": "Auto Loan Account 8079",
+            "type": "invoice",
+            "account": "94490813"
+        }
+    ]
+}

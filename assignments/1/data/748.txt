@@ -1,0 +1,72 @@
+{
+    "name": "Jordy Larson",
+    "username": "Rachelle.Keeling",
+    "email": "Leland.McClure17@hotmail.com",
+    "address": {
+        "streetA": "Fae Fords",
+        "streetB": "92524 Delta Club",
+        "streetC": "2103 Kulas Path Suite 572",
+        "streetD": "Apt. 443",
+        "city": "New Jaeden",
+        "state": "Florida",
+        "country": "Gambia",
+        "zipcode": "11851",
+        "geo": {
+            "lat": "-50.9650",
+            "lng": "178.7503"
+        }
+    },
+    "phone": "1-204-186-2867 x11962",
+    "website": "athena.com",
+    "company": {
+        "name": "Wilkinson, Abshire and Sauer",
+        "catchPhrase": "Public-key attitude-oriented standardization",
+        "bs": "interactive monetize functionalities"
+    },
+    "posts": [
+        {
+            "words": "perferendis sunt placeat",
+            "sentence": "Dolorum doloremque et quo odio rerum amet.",
+            "sentences": "Illum praesentium ut aliquid sunt similique deleniti. Repellat architecto ut eveniet. Velit quasi voluptates hic repudiandae deleniti maiores commodi deserunt natus.",
+            "paragraph": "Et laboriosam omnis soluta. Eaque nostrum aspernatur quaerat. Illo consequuntur omnis."
+        },
+        {
+            "words": "illum enim vero",
+            "sentence": "Non distinctio ducimus minus ad.",
+            "sentences": "Molestiae ut molestias rerum impedit itaque quo est accusamus est. Sit beatae est mollitia. Et maxime debitis quibusdam et consequatur accusantium.",
+            "paragraph": "Et autem molestiae eum illum. Reprehenderit vel fugiat et molestiae. Voluptatem reprehenderit cum aperiam aperiam saepe accusantium."
+        },
+        {
+            "words": "corrupti qui eveniet",
+            "sentence": "Rerum exercitationem aliquam.",
+            "sentences": "Dicta nostrum id quis a. Odio minima cumque aperiam.",
+            "paragraph": "At alias in voluptatem autem earum. Officia ut perspiciatis ut ea est voluptas. Eum aliquam repudiandae recusandae. Veniam officia voluptatem odio delectus enim omnis blanditiis. Reprehenderit amet veniam laudantium eveniet velit. At nihil et atque animi non."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "550.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Conner, O'Kon and Mraz",
+            "name": "Home Loan Account 2411",
+            "type": "withdrawal",
+            "account": "38095358"
+        },
+        {
+            "amount": "547.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sporer, Pfannerstill and Powlowski",
+            "name": "Savings Account 7471",
+            "type": "deposit",
+            "account": "77105801"
+        },
+        {
+            "amount": "511.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Becker, Littel and Homenick",
+            "name": "Personal Loan Account 8347",
+            "type": "withdrawal",
+            "account": "81969405"
+        }
+    ]
+}

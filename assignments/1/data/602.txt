@@ -1,0 +1,72 @@
+{
+    "name": "Rahsaan Waters",
+    "username": "Jarred_Bergnaum",
+    "email": "Guillermo49@yahoo.com",
+    "address": {
+        "streetA": "Lurline Ways",
+        "streetB": "833 Rocky Stravenue",
+        "streetC": "9409 Arnoldo Falls Suite 798",
+        "streetD": "Suite 260",
+        "city": "Wymanborough",
+        "state": "Connecticut",
+        "country": "Northern Mariana Islands",
+        "zipcode": "71542-6504",
+        "geo": {
+            "lat": "-50.3638",
+            "lng": "97.2092"
+        }
+    },
+    "phone": "715.598.0885 x0566",
+    "website": "cathryn.net",
+    "company": {
+        "name": "Hamill, Lueilwitz and Lindgren",
+        "catchPhrase": "Up-sized transitional firmware",
+        "bs": "clicks-and-mortar iterate paradigms"
+    },
+    "posts": [
+        {
+            "words": "assumenda cupiditate est",
+            "sentence": "Ea cum alias ut.",
+            "sentences": "At necessitatibus aut. Commodi sunt necessitatibus.",
+            "paragraph": "Quae ut beatae aspernatur saepe et aspernatur omnis. Quia quia dolorem voluptatem facere et et. Facilis aut aut repudiandae. Quis delectus et sint. Repellat illo inventore. Qui accusamus id quia earum minima ut."
+        },
+        {
+            "words": "enim rerum et",
+            "sentence": "Nihil veniam quasi cupiditate nesciunt vel quibusdam dicta odit tempora.",
+            "sentences": "Rerum voluptatibus ipsa labore velit quo quia aliquam. Dicta voluptas qui et dolores.",
+            "paragraph": "Ut in aut. Distinctio molestias saepe totam. Et dolore et voluptas aut aperiam repudiandae assumenda repudiandae. Voluptate mollitia ut dolorem illo sit."
+        },
+        {
+            "words": "animi voluptatem esse",
+            "sentence": "Praesentium et ullam ea.",
+            "sentences": "Esse ea harum ut voluptatum quibusdam dolor quae. Provident aliquam et quis id est repellat at sunt iusto. Dolore quidem in aspernatur quis. A fugiat similique in modi at saepe. Dicta deleniti placeat illum eligendi sint dolorum debitis quia. Placeat voluptates inventore quam accusantium molestiae qui.",
+            "paragraph": "Omnis ipsa enim et fuga possimus magni laboriosam est. Aliquam et esse doloremque est laborum sunt distinctio. Culpa sed labore blanditiis. Aliquid aut incidunt adipisci sint officiis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "622.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Collins - Torp",
+            "name": "Home Loan Account 2317",
+            "type": "withdrawal",
+            "account": "46760796"
+        },
+        {
+            "amount": "52.24",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mueller - Bosco",
+            "name": "Credit Card Account 1203",
+            "type": "withdrawal",
+            "account": "67664347"
+        },
+        {
+            "amount": "941.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wisozk, Flatley and Turner",
+            "name": "Credit Card Account 2635",
+            "type": "deposit",
+            "account": "20118115"
+        }
+    ]
+}

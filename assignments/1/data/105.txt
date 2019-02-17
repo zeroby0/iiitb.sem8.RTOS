@@ -1,0 +1,72 @@
+{
+    "name": "Kellen Hudson",
+    "username": "Eldridge_Deckow",
+    "email": "Walton.Ankunding63@hotmail.com",
+    "address": {
+        "streetA": "Kaycee Mission",
+        "streetB": "0428 Silas Junctions",
+        "streetC": "8429 Chauncey Squares Suite 336",
+        "streetD": "Suite 510",
+        "city": "Millerbury",
+        "state": "Arizona",
+        "country": "Cocos (Keeling) Islands",
+        "zipcode": "43223",
+        "geo": {
+            "lat": "20.2730",
+            "lng": "89.4202"
+        }
+    },
+    "phone": "479-441-0412 x74948",
+    "website": "eleanore.info",
+    "company": {
+        "name": "Huel, Corkery and Goyette",
+        "catchPhrase": "Stand-alone local knowledge base",
+        "bs": "proactive synergize architectures"
+    },
+    "posts": [
+        {
+            "words": "doloribus libero unde",
+            "sentence": "Quod exercitationem neque commodi consequatur laudantium consequuntur dolorum est illum.",
+            "sentences": "Quod illum ut occaecati error. Nulla dolore eum soluta nisi delectus saepe est. Et et aut commodi autem minus vitae dolorem fugiat. Odit animi dolor iusto tempore officiis nam impedit consequatur sapiente. Nulla qui non exercitationem. Maxime id esse doloribus.",
+            "paragraph": "Corporis voluptatem tenetur repellat deserunt ut. Eveniet dolorem maiores. Dolore ipsum cupiditate harum in at voluptatem nostrum dicta."
+        },
+        {
+            "words": "voluptas aliquam ea",
+            "sentence": "Quia laudantium laborum et porro aliquid.",
+            "sentences": "Adipisci illo dignissimos quas est sed pariatur incidunt omnis. Numquam dolor eligendi tempora sapiente ad. Sed sint cum. Nesciunt recusandae omnis praesentium quos vel esse iure rerum aut. Impedit quo quia fuga. Nobis omnis dolorem sit aliquid id.",
+            "paragraph": "Distinctio assumenda voluptatibus sunt aut soluta ullam quia quaerat. Ducimus quod dolore alias dolor et dolor non. Vitae maxime temporibus quidem ut. Et nisi enim alias voluptatum recusandae vel."
+        },
+        {
+            "words": "velit tempore voluptates",
+            "sentence": "Asperiores possimus voluptas quod consequatur sunt repellendus est eligendi et.",
+            "sentences": "Necessitatibus animi commodi. Et voluptatem voluptatum id et rem molestias. Qui sunt ipsum soluta cupiditate nesciunt.",
+            "paragraph": "Vel et rerum cumque fuga sunt sed. Ex ipsa qui cum minima molestiae aut quam rem. Velit vitae commodi fugit alias facere hic dolore laborum possimus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "216.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Yost - Little",
+            "name": "Money Market Account 8826",
+            "type": "withdrawal",
+            "account": "31478181"
+        },
+        {
+            "amount": "526.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Barton Inc",
+            "name": "Auto Loan Account 2753",
+            "type": "withdrawal",
+            "account": "97427570"
+        },
+        {
+            "amount": "575.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hettinger - Kuphal",
+            "name": "Credit Card Account 7102",
+            "type": "invoice",
+            "account": "43387657"
+        }
+    ]
+}

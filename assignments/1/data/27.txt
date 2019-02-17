@@ -1,0 +1,72 @@
+{
+    "name": "Angie Marvin",
+    "username": "Zita93",
+    "email": "Janessa_Rempel96@hotmail.com",
+    "address": {
+        "streetA": "Carmen Lights",
+        "streetB": "47812 Marlon Key",
+        "streetC": "9146 Okuneva Camp Suite 114",
+        "streetD": "Apt. 208",
+        "city": "Port Marguerite",
+        "state": "New York",
+        "country": "Morocco",
+        "zipcode": "27717",
+        "geo": {
+            "lat": "-0.7280",
+            "lng": "177.8354"
+        }
+    },
+    "phone": "551-754-4248 x70425",
+    "website": "hayden.com",
+    "company": {
+        "name": "Steuber and Sons",
+        "catchPhrase": "Multi-layered 3rd generation emulation",
+        "bs": "proactive morph infomediaries"
+    },
+    "posts": [
+        {
+            "words": "fugit voluptas laudantium",
+            "sentence": "Adipisci rem cum natus voluptatem eum.",
+            "sentences": "Id quia quidem voluptatem. Quis neque voluptatem quo repellendus et repellat unde natus. Et assumenda corporis sed laboriosam.",
+            "paragraph": "Sint enim sed aut voluptatibus omnis. Reiciendis est perferendis est odio quae rerum aut est. Reiciendis culpa amet sapiente exercitationem exercitationem veritatis perferendis. Dicta sint sequi. Magnam nihil ut ex exercitationem."
+        },
+        {
+            "words": "natus molestiae voluptatem",
+            "sentence": "Repellat omnis aut qui voluptas nulla numquam.",
+            "sentences": "Iure et nobis modi aperiam alias iure. Ducimus vero repellat accusantium perferendis. Commodi non qui doloremque. Nobis et sequi doloremque vitae aut velit.",
+            "paragraph": "Iure consequatur laudantium quos nihil. Sequi sint enim. Quisquam sed aut expedita doloremque qui. Quisquam molestiae quia ipsum harum ea sequi sequi. Necessitatibus voluptates fugit. Unde nesciunt quidem eveniet neque repellat a nam dignissimos qui."
+        },
+        {
+            "words": "fugit qui debitis",
+            "sentence": "Ea eum ex dignissimos minima quam enim necessitatibus qui.",
+            "sentences": "Perspiciatis dolorem eos eum ipsam natus facilis tenetur sint. Ea veniam voluptas et at aut eius ab. Sit perferendis omnis illo itaque temporibus voluptas fugit. Omnis culpa libero. Non neque quos quisquam quas veniam iste voluptatibus et aut.",
+            "paragraph": "Nihil ipsum fugiat quidem. Et eos alias enim reprehenderit explicabo. Consequatur ut laboriosam laudantium et. Et enim sit aut officiis. Exercitationem facere perferendis amet quia incidunt. Sit atque voluptas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "109.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Vandervort, Heathcote and Powlowski",
+            "name": "Money Market Account 3353",
+            "type": "deposit",
+            "account": "17584068"
+        },
+        {
+            "amount": "655.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ruecker and Sons",
+            "name": "Credit Card Account 4743",
+            "type": "withdrawal",
+            "account": "69413246"
+        },
+        {
+            "amount": "809.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hoeger, Hansen and Thiel",
+            "name": "Checking Account 6117",
+            "type": "invoice",
+            "account": "66659131"
+        }
+    ]
+}

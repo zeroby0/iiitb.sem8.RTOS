@@ -1,0 +1,72 @@
+{
+    "name": "Jennyfer O'Reilly",
+    "username": "Taya48",
+    "email": "Sven.Doyle33@hotmail.com",
+    "address": {
+        "streetA": "Kellie Forges",
+        "streetB": "7817 Rosenbaum Spur",
+        "streetC": "93311 Marjory Wall Suite 263",
+        "streetD": "Apt. 313",
+        "city": "West Kirstenhaven",
+        "state": "Texas",
+        "country": "Paraguay",
+        "zipcode": "41104-7191",
+        "geo": {
+            "lat": "25.8161",
+            "lng": "-55.2746"
+        }
+    },
+    "phone": "(435) 637-0179",
+    "website": "isaac.org",
+    "company": {
+        "name": "Donnelly, Hayes and Satterfield",
+        "catchPhrase": "Synergistic local core",
+        "bs": "collaborative embrace niches"
+    },
+    "posts": [
+        {
+            "words": "quia quia sunt",
+            "sentence": "Laborum omnis ut quaerat velit enim cupiditate.",
+            "sentences": "Repudiandae veniam ipsam voluptatem libero nobis quia sed consequatur facere. Sed dicta sunt et odit occaecati corrupti. Aliquid omnis neque nobis aliquam aut aut aperiam qui quis. Magni provident aut iure ea ea neque qui laborum.",
+            "paragraph": "Incidunt ipsam occaecati repellendus eaque non iure sit. Optio quia aperiam incidunt qui. Quibusdam eveniet quas alias ullam eum modi distinctio saepe quae. Id magnam non voluptatem sapiente ab quod suscipit."
+        },
+        {
+            "words": "excepturi veniam eos",
+            "sentence": "Dolor velit debitis nesciunt delectus deleniti aliquid voluptatem omnis quasi.",
+            "sentences": "Laudantium voluptatem dolor dolores. Nulla explicabo nihil. Explicabo sunt sed similique ipsa temporibus voluptas suscipit sapiente. Omnis et aliquid quae qui. Autem dolore animi qui quod qui est perspiciatis labore.",
+            "paragraph": "Rerum sunt laborum vitae hic velit. Vel ea odit. Perspiciatis cumque corporis officia ullam. Est dolore dolores adipisci ratione molestiae tempore officiis laborum. Maxime nulla recusandae."
+        },
+        {
+            "words": "maiores id sunt",
+            "sentence": "In omnis ea voluptatem.",
+            "sentences": "Omnis aut velit maxime autem nisi et dolor laboriosam. Enim suscipit rerum reiciendis dolorem. Ipsam rerum quo quia. Eaque quia nihil labore animi quia iusto. Et reiciendis deleniti nemo suscipit enim occaecati nobis et perferendis. Laboriosam omnis perspiciatis repellendus optio saepe necessitatibus minima non tenetur.",
+            "paragraph": "Aut sunt est numquam officiis dolorem culpa nam ab ut. Et a quo. Voluptatem nihil quas aut sit. Et et inventore adipisci. Doloremque placeat hic assumenda illum iure sint deleniti dicta. Autem sit quos non illo similique harum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "769.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kovacek - Bradtke",
+            "name": "Personal Loan Account 9188",
+            "type": "deposit",
+            "account": "09536105"
+        },
+        {
+            "amount": "112.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Frami - Cremin",
+            "name": "Credit Card Account 3703",
+            "type": "deposit",
+            "account": "98184228"
+        },
+        {
+            "amount": "52.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Emard, Russel and Metz",
+            "name": "Auto Loan Account 1660",
+            "type": "invoice",
+            "account": "24587909"
+        }
+    ]
+}

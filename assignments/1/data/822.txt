@@ -1,0 +1,72 @@
+{
+    "name": "Chad O'Keefe",
+    "username": "Tom_Lehner",
+    "email": "Merle.Dickens8@yahoo.com",
+    "address": {
+        "streetA": "Heather Heights",
+        "streetB": "04213 Medhurst Roads",
+        "streetC": "9400 Nicholas Burgs Apt. 564",
+        "streetD": "Suite 404",
+        "city": "East Unaton",
+        "state": "Alabama",
+        "country": "Belarus",
+        "zipcode": "77435",
+        "geo": {
+            "lat": "36.9241",
+            "lng": "110.9724"
+        }
+    },
+    "phone": "(712) 671-5030 x49927",
+    "website": "lorenz.net",
+    "company": {
+        "name": "Lind, Osinski and Hyatt",
+        "catchPhrase": "Profit-focused web-enabled conglomeration",
+        "bs": "seamless enhance infrastructures"
+    },
+    "posts": [
+        {
+            "words": "veritatis rerum vel",
+            "sentence": "Ut incidunt sapiente qui accusamus sunt consequuntur et.",
+            "sentences": "Amet voluptatem et reiciendis aut quas sit maxime. Optio sed natus animi aliquam. Excepturi eos et. Tempora deleniti consequuntur. Qui occaecati et id explicabo. Sapiente explicabo quae.",
+            "paragraph": "Omnis qui deserunt est. Quisquam voluptates facilis fugit quia doloribus praesentium deserunt asperiores aut. Autem est repudiandae magnam non minima molestiae omnis."
+        },
+        {
+            "words": "nam temporibus et",
+            "sentence": "Mollitia magni commodi ratione quia repudiandae.",
+            "sentences": "Consequuntur iste id dolores. Cupiditate mollitia unde. Non dolorem libero cum. Repudiandae hic id ut corporis vero exercitationem perferendis quidem id. Odit quo unde eveniet voluptatem blanditiis voluptas sed.",
+            "paragraph": "Ex alias et sit nisi. Reprehenderit necessitatibus nihil optio libero excepturi saepe. Aut magnam aut reiciendis omnis nemo iure magni."
+        },
+        {
+            "words": "eos nostrum voluptates",
+            "sentence": "Et autem tenetur aut officiis veritatis.",
+            "sentences": "Dolores ab exercitationem est nam est qui nesciunt ea. Quos tempora minus. Quia in ab consequatur quod necessitatibus nostrum hic ut. Fugit a eveniet occaecati qui voluptas amet. Et neque saepe soluta necessitatibus ut culpa eum dolorem.",
+            "paragraph": "Fugit velit ad distinctio quisquam assumenda debitis sit. Molestiae molestiae molestias molestias consequatur dignissimos nulla eos. Molestias repellat dolores commodi. Earum eius consectetur eos nihil eaque praesentium. Hic minus sit dolorem delectus. Commodi est voluptatibus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "930.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmitt, Stanton and Erdman",
+            "name": "Personal Loan Account 7001",
+            "type": "deposit",
+            "account": "32891448"
+        },
+        {
+            "amount": "838.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Abbott and Sons",
+            "name": "Personal Loan Account 6886",
+            "type": "invoice",
+            "account": "63508936"
+        },
+        {
+            "amount": "828.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bogan, Wilderman and Gorczany",
+            "name": "Personal Loan Account 1281",
+            "type": "payment",
+            "account": "70388709"
+        }
+    ]
+}

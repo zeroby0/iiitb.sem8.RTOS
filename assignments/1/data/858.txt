@@ -1,0 +1,72 @@
+{
+    "name": "Theodore Runolfsson",
+    "username": "Lora55",
+    "email": "Rosalind_Frami@gmail.com",
+    "address": {
+        "streetA": "Kuvalis Valley",
+        "streetB": "8952 Sherwood Lodge",
+        "streetC": "781 Homenick Roads Apt. 919",
+        "streetD": "Suite 102",
+        "city": "South Jaydenville",
+        "state": "Oregon",
+        "country": "Panama",
+        "zipcode": "57613",
+        "geo": {
+            "lat": "12.7998",
+            "lng": "92.5134"
+        }
+    },
+    "phone": "(885) 990-3618 x3632",
+    "website": "alexie.net",
+    "company": {
+        "name": "Oberbrunner LLC",
+        "catchPhrase": "Customer-focused demand-driven local area network",
+        "bs": "impactful mesh deliverables"
+    },
+    "posts": [
+        {
+            "words": "nesciunt qui aut",
+            "sentence": "Harum assumenda fugit laborum autem inventore voluptas eum.",
+            "sentences": "Deleniti voluptatum vel blanditiis non facilis nulla est nihil quia. Tempore et id maiores reiciendis qui cum est explicabo laudantium. Ut quia est beatae ducimus deleniti et. Corrupti voluptatem consectetur enim velit perspiciatis. Expedita illo consequuntur.",
+            "paragraph": "Voluptatem et deserunt deleniti architecto aperiam qui. Enim debitis nam consequuntur dolores pariatur atque quia. Ratione natus veniam quae enim et est nihil aut."
+        },
+        {
+            "words": "porro nihil sunt",
+            "sentence": "Neque est quos neque labore neque.",
+            "sentences": "Et cupiditate et quia asperiores dolores corrupti et fugit. Voluptate voluptas debitis. Assumenda facere hic cupiditate. Ex ratione consequatur dignissimos asperiores officia eos. Iusto nostrum quis. Dolore pariatur vel qui sunt harum nihil vitae.",
+            "paragraph": "Totam in accusantium quos est vitae ut dolores corrupti ut. Tempore in quia saepe dolorem commodi dolorem qui. Quam fugiat nesciunt accusantium odio nemo sint quo natus minus. Totam nihil beatae omnis qui. Quae molestias a eius dolores occaecati."
+        },
+        {
+            "words": "quae numquam consequatur",
+            "sentence": "Perspiciatis officia rerum magnam reprehenderit consequatur molestiae dolore.",
+            "sentences": "Voluptate est quae aliquam voluptatem a sunt accusantium ut. Qui cumque similique modi nemo nesciunt est rerum sapiente impedit. Quaerat ut explicabo quis. Similique eligendi velit veritatis officia. Voluptatem dolor sunt autem laborum tempore quia culpa et non.",
+            "paragraph": "At qui non sit sit qui molestiae. Dolore nesciunt odio labore. Voluptatem dolorem ab expedita voluptatum repellat est."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "180.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bailey, Russel and Thiel",
+            "name": "Auto Loan Account 0322",
+            "type": "deposit",
+            "account": "72041314"
+        },
+        {
+            "amount": "858.31",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Deckow, Lakin and Schuppe",
+            "name": "Investment Account 5786",
+            "type": "deposit",
+            "account": "44624251"
+        },
+        {
+            "amount": "946.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jakubowski Group",
+            "name": "Investment Account 4110",
+            "type": "payment",
+            "account": "83222781"
+        }
+    ]
+}

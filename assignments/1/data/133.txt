@@ -1,0 +1,72 @@
+{
+    "name": "Boris Dickens",
+    "username": "Jane.Batz",
+    "email": "Adelbert6@gmail.com",
+    "address": {
+        "streetA": "Pasquale Rapids",
+        "streetB": "1861 Howell Fork",
+        "streetC": "1423 Jayda Tunnel Apt. 525",
+        "streetD": "Suite 534",
+        "city": "Port Penelopefort",
+        "state": "Michigan",
+        "country": "Saint Barthelemy",
+        "zipcode": "51926",
+        "geo": {
+            "lat": "84.4478",
+            "lng": "98.4741"
+        }
+    },
+    "phone": "744.720.6580 x79747",
+    "website": "dante.name",
+    "company": {
+        "name": "Keebler, Price and Haag",
+        "catchPhrase": "Secured bottom-line hub",
+        "bs": "seamless streamline synergies"
+    },
+    "posts": [
+        {
+            "words": "sed sapiente iste",
+            "sentence": "Rerum porro sit consequatur et quaerat fugit.",
+            "sentences": "Et ad quia ut distinctio illo. Aliquid veritatis maiores rerum expedita beatae quis. Qui reprehenderit ipsa labore sint porro non. Iusto aperiam ut quaerat. Quod sed sunt. Est dolorem qui qui quod.",
+            "paragraph": "Nam ut laborum neque corrupti nisi hic quia in earum. Consequuntur impedit est facere temporibus et doloremque est totam qui. Excepturi amet omnis. Repudiandae ducimus esse quia ad architecto odit."
+        },
+        {
+            "words": "doloremque rerum quibusdam",
+            "sentence": "Voluptas consequatur ullam facilis sequi possimus rerum qui.",
+            "sentences": "Consectetur facere dolores aperiam temporibus. At cupiditate ea quidem voluptatum voluptatum sequi qui et. Eum aliquid dicta voluptas rerum qui voluptatem repellendus quidem.",
+            "paragraph": "Eveniet quae illum quia eveniet omnis reprehenderit accusantium. Ut est omnis. Perferendis et consequuntur repudiandae. Eos sunt sed. Cupiditate quaerat magnam temporibus. Libero consequatur sequi voluptates et repellat fugiat."
+        },
+        {
+            "words": "qui explicabo asperiores",
+            "sentence": "Aut ad dolorem vel sed aut ratione.",
+            "sentences": "Tenetur dolorem ex ab odio expedita ipsam rerum suscipit. Consequatur cumque quasi molestiae nisi quam quisquam qui possimus quis. Deserunt sequi quis. Quasi a velit dolores aut.",
+            "paragraph": "Modi ullam expedita occaecati eaque eius est quam. Omnis quidem qui est voluptatem autem corrupti rerum veritatis. Reiciendis porro qui distinctio mollitia error voluptate voluptates ducimus eum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "315.31",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Quigley - Smith",
+            "name": "Auto Loan Account 7670",
+            "type": "withdrawal",
+            "account": "02534077"
+        },
+        {
+            "amount": "553.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Towne, Kuhlman and Mraz",
+            "name": "Auto Loan Account 6794",
+            "type": "payment",
+            "account": "03330943"
+        },
+        {
+            "amount": "940.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Parisian Group",
+            "name": "Savings Account 3738",
+            "type": "invoice",
+            "account": "35033346"
+        }
+    ]
+}

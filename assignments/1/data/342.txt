@@ -1,0 +1,72 @@
+{
+    "name": "Reagan Langworth",
+    "username": "Baron.Tremblay6",
+    "email": "Whitney.Stehr@hotmail.com",
+    "address": {
+        "streetA": "Stoltenberg Park",
+        "streetB": "0159 Gulgowski Circles",
+        "streetC": "6024 Mikayla Burg Suite 883",
+        "streetD": "Apt. 079",
+        "city": "New Micaelaburgh",
+        "state": "North Dakota",
+        "country": "Mexico",
+        "zipcode": "84680-4680",
+        "geo": {
+            "lat": "74.8579",
+            "lng": "-134.7220"
+        }
+    },
+    "phone": "941-584-4792",
+    "website": "franco.info",
+    "company": {
+        "name": "Labadie LLC",
+        "catchPhrase": "Team-oriented intangible capability",
+        "bs": "collaborative repurpose communities"
+    },
+    "posts": [
+        {
+            "words": "saepe qui odio",
+            "sentence": "Sunt dolor beatae id molestias nulla optio asperiores.",
+            "sentences": "Beatae quis consequatur qui. Esse ullam et delectus. Eaque nemo sit saepe. Ad reprehenderit aut vel et ullam eius eum. Iure quis cupiditate possimus temporibus incidunt amet. Quidem architecto atque est aut voluptatibus nostrum error omnis aliquid.",
+            "paragraph": "Aut est distinctio deleniti rerum earum et aut. Deserunt voluptates vitae doloremque nulla rerum et dolores. Ut voluptatem facilis et rerum veritatis minima vero."
+        },
+        {
+            "words": "illo mollitia ut",
+            "sentence": "Iusto laboriosam id sint quo.",
+            "sentences": "Cum ea quia aut dolorem delectus. Qui sint sed minima non voluptas ipsum autem minus eligendi. Facere molestiae odit error voluptatum. Exercitationem maxime dolorem ab libero et et sunt culpa. Molestiae qui quas est aut.",
+            "paragraph": "Veritatis magni minus et molestiae. Explicabo unde itaque pariatur necessitatibus recusandae laudantium a. Repellat amet qui quia."
+        },
+        {
+            "words": "dicta impedit consequatur",
+            "sentence": "Corrupti ea et eum tempore.",
+            "sentences": "Cum ut harum. Nostrum fuga laboriosam unde qui et vitae debitis hic. Cum nihil porro omnis numquam voluptatum.",
+            "paragraph": "Officiis et ea ratione et minus voluptas. Enim ab perferendis ea libero blanditiis tempora et. Fuga consequatur et omnis. Eveniet et ut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "443.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dooley - Botsford",
+            "name": "Home Loan Account 3411",
+            "type": "deposit",
+            "account": "36960860"
+        },
+        {
+            "amount": "558.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McGlynn, Zieme and Larkin",
+            "name": "Investment Account 5403",
+            "type": "deposit",
+            "account": "97647655"
+        },
+        {
+            "amount": "279.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Adams LLC",
+            "name": "Savings Account 4263",
+            "type": "invoice",
+            "account": "17648149"
+        }
+    ]
+}

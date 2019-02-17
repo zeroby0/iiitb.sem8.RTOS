@@ -1,0 +1,72 @@
+{
+    "name": "Birdie Upton",
+    "username": "Clifford_Romaguera",
+    "email": "Lessie_Mann79@yahoo.com",
+    "address": {
+        "streetA": "Fahey Parkway",
+        "streetB": "477 Joanny Greens",
+        "streetC": "023 Reyes Springs Apt. 656",
+        "streetD": "Suite 699",
+        "city": "New Bradley",
+        "state": "Arkansas",
+        "country": "Kenya",
+        "zipcode": "51658-5754",
+        "geo": {
+            "lat": "77.1103",
+            "lng": "-112.4547"
+        }
+    },
+    "phone": "865-714-0663",
+    "website": "davonte.info",
+    "company": {
+        "name": "Rath LLC",
+        "catchPhrase": "Universal scalable definition",
+        "bs": "one-to-one reinvent portals"
+    },
+    "posts": [
+        {
+            "words": "explicabo aut voluptatem",
+            "sentence": "Dolorum quos voluptatem voluptatum qui placeat eveniet dolor.",
+            "sentences": "Et eum voluptatibus. Est hic enim vel in.",
+            "paragraph": "Porro unde sint laborum soluta ipsam atque excepturi dolor quam. Eos molestiae delectus ea est sed. Est qui totam. Perferendis aliquam laboriosam."
+        },
+        {
+            "words": "repellat aut quo",
+            "sentence": "Eius et quasi sint nesciunt dolor culpa omnis vel eius.",
+            "sentences": "Nulla autem facere similique. Tempore aut aspernatur consequuntur distinctio qui est. Repellendus ad dolorum minima nobis ipsam ipsum. Corporis molestiae rem error illo nam id. Nesciunt ea quisquam. Tempore quos ut hic dicta quia et quod dolor.",
+            "paragraph": "Harum eius qui rerum possimus et veritatis sunt. Ex cupiditate eos et delectus magnam sint adipisci facilis illo. Qui voluptate mollitia vel suscipit. Voluptatem quae aut aperiam et fuga. Enim rem praesentium quod dolores assumenda et ea earum aut. Qui sed cumque fugiat dignissimos possimus."
+        },
+        {
+            "words": "velit error non",
+            "sentence": "Exercitationem voluptatem repudiandae labore deserunt consectetur aperiam accusamus esse.",
+            "sentences": "Voluptate reprehenderit quia optio consequatur aut dolor. Alias est blanditiis quis voluptates. Blanditiis et architecto amet qui mollitia. Dolore quisquam animi est. Voluptatum nostrum dolores. Qui vitae omnis quis eum nihil eos.",
+            "paragraph": "Molestias est perspiciatis voluptates. Beatae itaque eum consequuntur. Enim consequatur nisi quia eligendi in voluptate in quidem. Aut laborum enim iure excepturi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "268.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Roberts, Harvey and Pagac",
+            "name": "Personal Loan Account 8722",
+            "type": "invoice",
+            "account": "76725160"
+        },
+        {
+            "amount": "206.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Waelchi and Sons",
+            "name": "Home Loan Account 4809",
+            "type": "withdrawal",
+            "account": "16603807"
+        },
+        {
+            "amount": "92.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Padberg - Brekke",
+            "name": "Credit Card Account 0284",
+            "type": "deposit",
+            "account": "15837907"
+        }
+    ]
+}

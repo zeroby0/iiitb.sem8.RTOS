@@ -1,0 +1,72 @@
+{
+    "name": "Graham Smith II",
+    "username": "Dora40",
+    "email": "Myra18@hotmail.com",
+    "address": {
+        "streetA": "Bettie Plaza",
+        "streetB": "562 Jessica Field",
+        "streetC": "99775 Leannon Plains Suite 136",
+        "streetD": "Suite 130",
+        "city": "West Benmouth",
+        "state": "Wyoming",
+        "country": "Bosnia and Herzegovina",
+        "zipcode": "41885",
+        "geo": {
+            "lat": "-56.9214",
+            "lng": "30.0631"
+        }
+    },
+    "phone": "269.338.4434 x17684",
+    "website": "cristobal.org",
+    "company": {
+        "name": "Botsford Inc",
+        "catchPhrase": "Automated mobile flexibility",
+        "bs": "cross-media deliver relationships"
+    },
+    "posts": [
+        {
+            "words": "quia aliquam quidem",
+            "sentence": "Non occaecati ipsum.",
+            "sentences": "Aliquam impedit id. Est sed voluptatem enim aliquid et distinctio odit.",
+            "paragraph": "Assumenda architecto aut accusantium alias. Nesciunt non nihil sunt. Molestias facilis esse. Totam tenetur iure sed accusamus non velit soluta non. Vitae mollitia ea enim ipsa incidunt."
+        },
+        {
+            "words": "et sit voluptatem",
+            "sentence": "Officia blanditiis ut aliquid exercitationem.",
+            "sentences": "Et dignissimos et harum. At quis corrupti id quo consequatur dolor vitae fugiat impedit. Dolores accusamus odit.",
+            "paragraph": "Cupiditate et quod aliquid et expedita a amet id eaque. Doloribus maiores corporis cum. Deserunt pariatur consequuntur quis eos recusandae amet laboriosam. Sint itaque magni enim deserunt veniam. Delectus et unde earum nemo ipsum debitis. Sit facere quis accusantium expedita."
+        },
+        {
+            "words": "aut delectus explicabo",
+            "sentence": "Neque quasi iure ex et optio ullam sed voluptas mollitia.",
+            "sentences": "Placeat fuga cum culpa adipisci facere molestiae non ut. Eaque accusantium dolores rem ipsa est. Quae non ea soluta veritatis cupiditate eius. Alias nulla aperiam cum dignissimos dolore excepturi ut ullam et. Molestiae cum itaque cumque iusto.",
+            "paragraph": "Sint omnis alias ea libero et nostrum tenetur debitis. Eum occaecati aut. Facilis repellat atque suscipit ut dolorum est perspiciatis voluptates."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "911.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Blanda Group",
+            "name": "Investment Account 5954",
+            "type": "deposit",
+            "account": "80256264"
+        },
+        {
+            "amount": "91.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ziemann Inc",
+            "name": "Savings Account 7647",
+            "type": "deposit",
+            "account": "61697998"
+        },
+        {
+            "amount": "463.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ebert, Powlowski and Daniel",
+            "name": "Auto Loan Account 4704",
+            "type": "invoice",
+            "account": "05251115"
+        }
+    ]
+}

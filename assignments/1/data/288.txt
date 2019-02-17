@@ -1,0 +1,72 @@
+{
+    "name": "Charlotte Halvorson",
+    "username": "Carrie_Lang36",
+    "email": "Skylar75@yahoo.com",
+    "address": {
+        "streetA": "Hartmann Points",
+        "streetB": "86880 Williamson Plains",
+        "streetC": "1842 Declan Mountain Suite 313",
+        "streetD": "Suite 536",
+        "city": "Hiltonton",
+        "state": "Nebraska",
+        "country": "Bulgaria",
+        "zipcode": "23615",
+        "geo": {
+            "lat": "-39.2830",
+            "lng": "66.3903"
+        }
+    },
+    "phone": "(783) 257-2256 x017",
+    "website": "aliya.net",
+    "company": {
+        "name": "Crooks, Jacobson and Keebler",
+        "catchPhrase": "Optimized uniform leverage",
+        "bs": "end-to-end maximize technologies"
+    },
+    "posts": [
+        {
+            "words": "est non saepe",
+            "sentence": "Aperiam quae est nobis a.",
+            "sentences": "Ut qui nobis laborum repellat accusantium eos quibusdam blanditiis ut. Eligendi voluptatem suscipit vel eligendi.",
+            "paragraph": "Non qui eaque voluptatem. Velit quia consectetur eos dolore alias dolorem. Dolore officiis rerum et magni suscipit animi dolore architecto. Nostrum ea qui est sit consectetur rerum quaerat ut sit. Iusto accusantium aperiam illo ut. Autem qui similique rerum sint sunt molestiae autem."
+        },
+        {
+            "words": "voluptatem facilis beatae",
+            "sentence": "Omnis aliquid animi tempora sed sint.",
+            "sentences": "Libero quia deserunt amet reprehenderit. Molestiae a iste.",
+            "paragraph": "Illum quasi aspernatur quod. Non omnis omnis reiciendis exercitationem dolor et nisi dolorem aperiam. Et doloribus in id et et aliquid porro ratione et. Provident perspiciatis sit optio distinctio sit in voluptatem temporibus. Quia repellendus quaerat voluptatem itaque. Corrupti minima sit labore et aspernatur veniam alias ipsa."
+        },
+        {
+            "words": "voluptatum et repudiandae",
+            "sentence": "Ut eius qui officia voluptas ut officia molestias.",
+            "sentences": "Aut error cumque. Consequuntur perferendis sint mollitia voluptatem nostrum quisquam tempore earum. Dolor aliquam debitis.",
+            "paragraph": "Fugiat ducimus voluptatem dicta ullam et et. Maxime veritatis dolorem autem voluptatum autem. Rerum sit quaerat."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "745.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Homenick Inc",
+            "name": "Credit Card Account 2644",
+            "type": "payment",
+            "account": "30000258"
+        },
+        {
+            "amount": "554.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hermann LLC",
+            "name": "Credit Card Account 9300",
+            "type": "deposit",
+            "account": "54252780"
+        },
+        {
+            "amount": "561.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Daniel - Hoppe",
+            "name": "Personal Loan Account 3505",
+            "type": "invoice",
+            "account": "64074645"
+        }
+    ]
+}

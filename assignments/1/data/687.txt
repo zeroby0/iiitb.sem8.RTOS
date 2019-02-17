@@ -1,0 +1,72 @@
+{
+    "name": "Beatrice Walter I",
+    "username": "Lillie_Zieme30",
+    "email": "Jordy.Hettinger@hotmail.com",
+    "address": {
+        "streetA": "Bogisich Plains",
+        "streetB": "20071 Bauch Run",
+        "streetC": "38003 Ratke Court Apt. 396",
+        "streetD": "Suite 701",
+        "city": "Gloverbury",
+        "state": "Massachusetts",
+        "country": "Costa Rica",
+        "zipcode": "91164-8888",
+        "geo": {
+            "lat": "2.7590",
+            "lng": "112.6137"
+        }
+    },
+    "phone": "(695) 055-2607",
+    "website": "fermin.name",
+    "company": {
+        "name": "Ziemann - Leffler",
+        "catchPhrase": "Expanded systematic service-desk",
+        "bs": "visionary revolutionize ROI"
+    },
+    "posts": [
+        {
+            "words": "voluptatibus et repudiandae",
+            "sentence": "Officia sint ut error distinctio sit.",
+            "sentences": "Quibusdam nemo eos ut earum nostrum illo omnis. Sed fugit nulla. Et soluta aperiam nisi aut.",
+            "paragraph": "Sit voluptatibus blanditiis id. Est nobis fugit suscipit libero. Qui unde et eos. Saepe accusamus aut hic. Voluptas veniam et."
+        },
+        {
+            "words": "ipsum dolorum omnis",
+            "sentence": "Fugit corrupti et et quisquam quia neque exercitationem quo et.",
+            "sentences": "Natus ipsam eum repudiandae aspernatur quia animi voluptates. Qui qui pariatur voluptas. Ipsa natus blanditiis cupiditate itaque hic. Est ratione voluptas. Autem omnis consequatur aut. In assumenda et.",
+            "paragraph": "Qui aut voluptatibus. Saepe qui non non corrupti. Et voluptas ducimus harum laboriosam natus quia deserunt."
+        },
+        {
+            "words": "et inventore quibusdam",
+            "sentence": "Dolor natus doloremque corrupti impedit.",
+            "sentences": "Autem et distinctio corrupti nihil. Aspernatur doloribus id rerum corporis nisi quia non cumque. Rerum qui debitis et accusamus voluptatem. Ea odio consequatur explicabo cupiditate iste voluptate voluptas quod. Et rerum consequatur rerum. Expedita est adipisci quia.",
+            "paragraph": "Aut blanditiis in aspernatur dolor hic aut vel. Doloribus voluptas et quis dolores repellat nobis. In tempore vero cumque dolorem vero aut a et nihil. Est laudantium id."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "439.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Klocko and Sons",
+            "name": "Savings Account 2474",
+            "type": "payment",
+            "account": "39232522"
+        },
+        {
+            "amount": "556.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hermann - Schmeler",
+            "name": "Checking Account 9122",
+            "type": "deposit",
+            "account": "69088726"
+        },
+        {
+            "amount": "180.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schinner Group",
+            "name": "Investment Account 0640",
+            "type": "invoice",
+            "account": "64420610"
+        }
+    ]
+}

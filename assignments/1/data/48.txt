@@ -1,0 +1,72 @@
+{
+    "name": "Ramon Halvorson",
+    "username": "Mohammad_VonRueden92",
+    "email": "Immanuel68@yahoo.com",
+    "address": {
+        "streetA": "Wyatt Glen",
+        "streetB": "966 Barrows Lodge",
+        "streetC": "43368 Thompson Port Apt. 990",
+        "streetD": "Suite 255",
+        "city": "East Whitney",
+        "state": "West Virginia",
+        "country": "Barbados",
+        "zipcode": "84673-3914",
+        "geo": {
+            "lat": "14.4073",
+            "lng": "74.3192"
+        }
+    },
+    "phone": "190-130-4534 x376",
+    "website": "audie.name",
+    "company": {
+        "name": "Dooley, Schoen and Emard",
+        "catchPhrase": "Cloned object-oriented paradigm",
+        "bs": "open-source extend experiences"
+    },
+    "posts": [
+        {
+            "words": "animi sed provident",
+            "sentence": "Id rerum excepturi eius dicta impedit ut accusamus.",
+            "sentences": "Nesciunt alias commodi quisquam neque voluptas pariatur sunt sunt maiores. Enim autem sit totam.",
+            "paragraph": "Qui ut et consequatur sunt quis dolores vero assumenda. Eos autem temporibus quis voluptas magni aut. Praesentium quia excepturi et voluptatem voluptas cumque quia voluptatem iure. Sit sit veniam ut et ipsum dolores cupiditate recusandae nesciunt. Nam error aperiam aut. Aut rerum nesciunt omnis recusandae aut explicabo."
+        },
+        {
+            "words": "consequatur ab corporis",
+            "sentence": "Consectetur ut aperiam fugit beatae tenetur voluptates a sed.",
+            "sentences": "Quos aut ratione minus quas ut ea molestias quod. Temporibus nam animi in est omnis et. Sed ut facilis modi sed. Ad quia cum omnis ullam quod expedita magni autem. Corporis eaque veritatis sit quisquam ut. Est hic dicta aut id.",
+            "paragraph": "Itaque sunt omnis reprehenderit. Modi et facilis fuga iste quibusdam nostrum corporis qui corrupti. Ad vel consequatur autem repudiandae omnis accusamus a. Quisquam facilis qui nihil quo rerum similique quaerat voluptatem. Sint culpa ea ipsa numquam eos consequuntur."
+        },
+        {
+            "words": "ut iste inventore",
+            "sentence": "Et dolorum aut ut neque.",
+            "sentences": "Quod perspiciatis reprehenderit modi. Error ratione aperiam et ut. Quo aut assumenda assumenda magnam.",
+            "paragraph": "Culpa ipsa sapiente nihil sit repellat. Commodi quo iusto eum porro doloremque nulla. Voluptas eaque ea ratione omnis et voluptas adipisci molestiae. Et quis praesentium. Aliquam explicabo officiis qui tempora rerum impedit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "453.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hauck LLC",
+            "name": "Home Loan Account 9157",
+            "type": "invoice",
+            "account": "44620085"
+        },
+        {
+            "amount": "378.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mertz Inc",
+            "name": "Personal Loan Account 7012",
+            "type": "deposit",
+            "account": "25719774"
+        },
+        {
+            "amount": "827.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Abshire and Sons",
+            "name": "Checking Account 7229",
+            "type": "invoice",
+            "account": "39433237"
+        }
+    ]
+}

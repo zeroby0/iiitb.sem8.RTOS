@@ -1,0 +1,72 @@
+{
+    "name": "Jovanny Ferry",
+    "username": "Rowland.Heller",
+    "email": "Jerrod6@yahoo.com",
+    "address": {
+        "streetA": "Borer Springs",
+        "streetB": "950 Shayne Lock",
+        "streetC": "1483 Robel Cliffs Apt. 729",
+        "streetD": "Apt. 001",
+        "city": "North Hilda",
+        "state": "Nebraska",
+        "country": "Wallis and Futuna",
+        "zipcode": "58276-6282",
+        "geo": {
+            "lat": "-22.0804",
+            "lng": "-41.9134"
+        }
+    },
+    "phone": "292-081-8245",
+    "website": "albert.info",
+    "company": {
+        "name": "Conroy LLC",
+        "catchPhrase": "Reverse-engineered incremental system engine",
+        "bs": "mission-critical engage e-commerce"
+    },
+    "posts": [
+        {
+            "words": "veniam quia consectetur",
+            "sentence": "Repellendus officia voluptatibus doloremque dolorem nihil.",
+            "sentences": "Ut suscipit nisi quis sit vitae distinctio minima. Tempora tempora et atque esse sint et alias. Minima et nam facilis atque. Dolorem delectus reprehenderit nihil deserunt et. Odio eius est sit et pariatur labore. Rerum sed fugit aut dolorem.",
+            "paragraph": "Dolorum sint quaerat excepturi ratione aut suscipit quaerat. Atque vel aperiam ipsum quo. Laborum alias eaque aut sequi totam libero impedit debitis hic."
+        },
+        {
+            "words": "omnis officiis a",
+            "sentence": "Repellendus blanditiis ducimus nobis magnam dolorem dolorem.",
+            "sentences": "Voluptatem quia eum ea ut corporis cupiditate voluptatem amet. Dolorem quod pariatur tempore. Culpa aut consectetur. Quidem eos facilis consequatur aut ipsum possimus.",
+            "paragraph": "Aliquid consequatur consequuntur architecto sint ad. Eos consequatur atque ut unde voluptatem officiis. Eos sed enim. Quo iste rem amet rem inventore voluptas. Repudiandae enim sed."
+        },
+        {
+            "words": "qui qui quae",
+            "sentence": "Repellat tempore accusamus nesciunt neque id ratione modi quisquam maiores.",
+            "sentences": "Id rerum id et esse deserunt in nam porro. Voluptatem voluptas est alias repellat. Suscipit quia doloremque iusto quia. Et expedita reiciendis pariatur dolorem molestias. Accusantium excepturi odit libero commodi eius est nulla quibusdam. Fuga maiores veniam est dolores fuga fuga dicta dolor.",
+            "paragraph": "Sed non expedita sequi doloribus voluptatem sed. Voluptas rerum non tempora veritatis ut eligendi. Cupiditate porro ducimus velit omnis necessitatibus aut recusandae odit. Eaque deleniti iste non eius accusamus porro sequi. Unde eius aut nobis ut omnis saepe recusandae culpa non. Et dolorum sequi quo delectus reiciendis placeat nisi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "918.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kling - Howell",
+            "name": "Personal Loan Account 7538",
+            "type": "payment",
+            "account": "73349873"
+        },
+        {
+            "amount": "336.66",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Farrell Group",
+            "name": "Investment Account 4854",
+            "type": "invoice",
+            "account": "26303852"
+        },
+        {
+            "amount": "538.04",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hagenes - Bahringer",
+            "name": "Personal Loan Account 6489",
+            "type": "payment",
+            "account": "80163658"
+        }
+    ]
+}

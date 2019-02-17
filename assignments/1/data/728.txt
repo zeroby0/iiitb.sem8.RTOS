@@ -1,0 +1,72 @@
+{
+    "name": "Sheridan Rippin",
+    "username": "Roxane_Thiel",
+    "email": "Patrick84@hotmail.com",
+    "address": {
+        "streetA": "Reinger Village",
+        "streetB": "9358 Julianne Square",
+        "streetC": "17509 Madie Wells Suite 147",
+        "streetD": "Suite 405",
+        "city": "West Johnathon",
+        "state": "Delaware",
+        "country": "Panama",
+        "zipcode": "41153",
+        "geo": {
+            "lat": "58.7804",
+            "lng": "4.2101"
+        }
+    },
+    "phone": "106-739-9759 x8931",
+    "website": "ally.org",
+    "company": {
+        "name": "Tromp - Turner",
+        "catchPhrase": "Integrated asynchronous utilisation",
+        "bs": "out-of-the-box aggregate web services"
+    },
+    "posts": [
+        {
+            "words": "nesciunt nemo earum",
+            "sentence": "Beatae non autem.",
+            "sentences": "Harum amet autem tempore voluptatem quos voluptatem maxime est. Et dolorem molestias repellat voluptas. Rerum eum blanditiis est eum at accusantium.",
+            "paragraph": "Sint adipisci rerum sunt. Repellendus dicta quo atque. Distinctio aut molestias ea alias. Nihil in nihil."
+        },
+        {
+            "words": "corporis voluptatum porro",
+            "sentence": "Quia provident sunt.",
+            "sentences": "Autem soluta omnis error et et voluptatem. Tempore quibusdam sint ut eum optio rerum esse est aut. Voluptas numquam rerum pariatur eos qui. Non culpa sequi reiciendis. Ullam voluptates velit.",
+            "paragraph": "Ut nesciunt architecto sapiente ea nulla rerum. Incidunt totam ut autem fugiat. Rerum sequi odit explicabo culpa occaecati exercitationem. Et soluta laboriosam alias dolores accusamus totam. Et distinctio cum provident iusto et soluta quas ut."
+        },
+        {
+            "words": "ipsum blanditiis harum",
+            "sentence": "Provident rem aut accusamus.",
+            "sentences": "Dolor quo reiciendis deleniti est sit illo. Non praesentium velit qui est.",
+            "paragraph": "Aut consequatur ut dignissimos assumenda velit et ut. Perspiciatis molestiae rerum reiciendis sunt ut. Error omnis dolor ut quia est similique voluptas magnam. Minus unde architecto hic dolor in vel aliquid culpa."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "158.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Abshire Inc",
+            "name": "Savings Account 2562",
+            "type": "payment",
+            "account": "97745106"
+        },
+        {
+            "amount": "914.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Franecki, Stroman and Dicki",
+            "name": "Home Loan Account 2477",
+            "type": "withdrawal",
+            "account": "66934973"
+        },
+        {
+            "amount": "789.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hermiston - Blanda",
+            "name": "Savings Account 3841",
+            "type": "deposit",
+            "account": "45610924"
+        }
+    ]
+}

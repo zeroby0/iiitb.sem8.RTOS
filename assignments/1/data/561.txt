@@ -1,0 +1,72 @@
+{
+    "name": "Adriel Pacocha",
+    "username": "Tavares13",
+    "email": "Bobbie.Morissette@hotmail.com",
+    "address": {
+        "streetA": "Walker Centers",
+        "streetB": "2379 Gulgowski Roads",
+        "streetC": "14869 Eryn Lights Suite 136",
+        "streetD": "Apt. 115",
+        "city": "Heathhaven",
+        "state": "North Dakota",
+        "country": "Chile",
+        "zipcode": "55211-7360",
+        "geo": {
+            "lat": "-84.8791",
+            "lng": "-89.2111"
+        }
+    },
+    "phone": "152-544-3757 x526",
+    "website": "brooks.org",
+    "company": {
+        "name": "Schaefer - Murphy",
+        "catchPhrase": "Sharable maximized access",
+        "bs": "user-centric scale models"
+    },
+    "posts": [
+        {
+            "words": "assumenda soluta illum",
+            "sentence": "Voluptatum exercitationem a odio nihil sequi quis ipsum error.",
+            "sentences": "Ducimus cumque quia hic id incidunt accusamus earum cum. Ut non repellendus. Aliquid ut itaque repudiandae ea non omnis rerum.",
+            "paragraph": "Non omnis voluptatem necessitatibus. Voluptatem quod praesentium quod odit enim fugiat. Non vitae enim blanditiis maiores animi. Rem eum quaerat. A aut dolor nemo animi et nostrum quas."
+        },
+        {
+            "words": "praesentium id dolorem",
+            "sentence": "Ut sed veniam quae dolorum.",
+            "sentences": "Et excepturi inventore dolorum hic id. Reprehenderit laudantium et. Modi provident tempora sunt. Ea eum animi sit nihil accusantium repellat laboriosam cumque. Qui unde et similique eaque. Exercitationem minus eius nemo vitae alias magnam repellat eum.",
+            "paragraph": "Cumque voluptas corrupti. Quae labore illum et ratione sint quidem voluptatum. Incidunt non perferendis consequatur rerum nihil ut molestiae similique voluptatem. Expedita aut et qui rem officiis quo."
+        },
+        {
+            "words": "et sunt sequi",
+            "sentence": "Eligendi voluptatum quam tempore.",
+            "sentences": "Laudantium rem numquam molestias. Expedita rerum enim.",
+            "paragraph": "Ea rerum molestias. Hic autem velit quis ratione qui incidunt. Necessitatibus eveniet ea quia. Cum repellendus repudiandae nulla quo dolor iste eaque."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "444.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cassin - Wolff",
+            "name": "Auto Loan Account 8897",
+            "type": "payment",
+            "account": "51405463"
+        },
+        {
+            "amount": "3.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Thiel - Tromp",
+            "name": "Investment Account 3626",
+            "type": "payment",
+            "account": "96634805"
+        },
+        {
+            "amount": "602.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stroman, Muller and Brakus",
+            "name": "Credit Card Account 7945",
+            "type": "withdrawal",
+            "account": "42332172"
+        }
+    ]
+}

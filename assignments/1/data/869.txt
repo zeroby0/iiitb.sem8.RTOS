@@ -1,0 +1,72 @@
+{
+    "name": "Destin Bayer",
+    "username": "Woodrow_Pfeffer71",
+    "email": "Novella_Romaguera@hotmail.com",
+    "address": {
+        "streetA": "Blick Tunnel",
+        "streetB": "262 Vickie Wall",
+        "streetC": "25011 Jaquelin Ford Suite 523",
+        "streetD": "Apt. 619",
+        "city": "Kiehnburgh",
+        "state": "Nebraska",
+        "country": "Poland",
+        "zipcode": "65261",
+        "geo": {
+            "lat": "-19.9793",
+            "lng": "105.9244"
+        }
+    },
+    "phone": "(658) 647-6553 x30230",
+    "website": "vella.org",
+    "company": {
+        "name": "Bashirian Group",
+        "catchPhrase": "Sharable systemic application",
+        "bs": "bleeding-edge syndicate interfaces"
+    },
+    "posts": [
+        {
+            "words": "harum et ratione",
+            "sentence": "Dolorem a ratione cumque.",
+            "sentences": "Consequatur ut numquam nobis doloremque natus deserunt voluptatem sit tempora. Vel aut et exercitationem temporibus voluptatibus. Alias et et corporis voluptate cum voluptas. Officiis tempora voluptatem dolorem. Mollitia odio recusandae qui consequatur rerum exercitationem aut rerum illo. Culpa ut sit vero nesciunt ex.",
+            "paragraph": "Dolorem excepturi sed culpa delectus accusantium. Consequatur natus aut quidem molestiae autem mollitia. Fugit possimus ab repudiandae nesciunt."
+        },
+        {
+            "words": "dicta ut quo",
+            "sentence": "Quidem odit nulla amet.",
+            "sentences": "Omnis facere suscipit qui aliquam corporis labore consectetur sequi aut. Consequatur possimus quae id sunt facilis. Est qui tempora unde ipsam et qui harum rerum. Tempora dolorem sit. Aut sint quia earum dolor ab accusantium non nisi.",
+            "paragraph": "Sit laudantium autem sed ullam nihil rem. Assumenda nemo magnam. Quisquam maxime explicabo esse quo quidem molestias aspernatur. Quia tenetur iure ipsa."
+        },
+        {
+            "words": "voluptatem earum dignissimos",
+            "sentence": "Explicabo unde perferendis eaque porro illum.",
+            "sentences": "Eum sint qui impedit sequi aspernatur sed culpa rerum et. Libero non laudantium tenetur voluptatem. Pariatur rerum dolores animi quae qui enim saepe. Neque quisquam et non. Quia ex aut.",
+            "paragraph": "Dolore sunt cupiditate voluptate quidem odio iste sapiente quia explicabo. A modi veniam culpa ut eaque esse. Corrupti a sapiente labore totam id quisquam enim."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "189.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sawayn and Sons",
+            "name": "Personal Loan Account 9086",
+            "type": "deposit",
+            "account": "84462960"
+        },
+        {
+            "amount": "558.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lindgren - Balistreri",
+            "name": "Credit Card Account 7944",
+            "type": "invoice",
+            "account": "48254382"
+        },
+        {
+            "amount": "582.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schuster - Bahringer",
+            "name": "Savings Account 0399",
+            "type": "invoice",
+            "account": "11334638"
+        }
+    ]
+}

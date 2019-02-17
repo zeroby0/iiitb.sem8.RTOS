@@ -1,0 +1,72 @@
+{
+    "name": "Trent Jerde",
+    "username": "Weldon_Beier",
+    "email": "Chanelle.Watsica@gmail.com",
+    "address": {
+        "streetA": "Harrison Courts",
+        "streetB": "215 Morar Greens",
+        "streetC": "835 Jast Bypass Apt. 903",
+        "streetD": "Suite 260",
+        "city": "Wymanhaven",
+        "state": "Montana",
+        "country": "Bosnia and Herzegovina",
+        "zipcode": "29827",
+        "geo": {
+            "lat": "11.5374",
+            "lng": "-28.3193"
+        }
+    },
+    "phone": "1-240-406-7172 x705",
+    "website": "maia.com",
+    "company": {
+        "name": "Renner Group",
+        "catchPhrase": "Re-contextualized client-driven moderator",
+        "bs": "holistic grow action-items"
+    },
+    "posts": [
+        {
+            "words": "nemo laborum cumque",
+            "sentence": "Quasi earum aliquam.",
+            "sentences": "A quis nobis. Sed et rerum ea animi praesentium.",
+            "paragraph": "Nihil molestias dolor exercitationem magni est minus aperiam perferendis. Sunt facere molestiae ullam sed saepe. Odio voluptatum ut veniam nemo voluptas aliquid et. Eveniet laboriosam adipisci maxime recusandae."
+        },
+        {
+            "words": "saepe atque impedit",
+            "sentence": "Excepturi quaerat rerum cum placeat ratione quas repudiandae voluptas mollitia.",
+            "sentences": "Asperiores impedit iure officia saepe ut nisi et minus. Non voluptas sed quisquam assumenda veritatis aut ea consequatur. Voluptatem aut exercitationem ullam tempore laudantium aut doloribus. Aut aut quos veritatis voluptatem dolorem. Reprehenderit quas qui tempore dignissimos reprehenderit consequuntur harum omnis.",
+            "paragraph": "Sed facilis quae sint sapiente voluptate et omnis molestias ea. Nihil et neque occaecati. Doloremque repellendus placeat ut."
+        },
+        {
+            "words": "ut sed dolores",
+            "sentence": "Est minus temporibus eos consequatur facere suscipit quis.",
+            "sentences": "Rerum reprehenderit eos id architecto eveniet pariatur. At natus expedita culpa voluptatibus. Quo et numquam.",
+            "paragraph": "Necessitatibus quaerat deserunt culpa eum tenetur occaecati ut hic inventore. Cupiditate tempore sed possimus sequi voluptatem et maiores labore eius. Ut autem amet ad ut debitis architecto enim voluptatem. Natus beatae natus facilis et similique error. Impedit ea nobis laudantium asperiores qui rerum quia cum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "684.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hoeger LLC",
+            "name": "Home Loan Account 4708",
+            "type": "withdrawal",
+            "account": "40480480"
+        },
+        {
+            "amount": "260.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lind and Sons",
+            "name": "Credit Card Account 7270",
+            "type": "withdrawal",
+            "account": "90351137"
+        },
+        {
+            "amount": "532.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Willms Group",
+            "name": "Auto Loan Account 7958",
+            "type": "payment",
+            "account": "99156890"
+        }
+    ]
+}

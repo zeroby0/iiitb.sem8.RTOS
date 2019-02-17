@@ -1,0 +1,72 @@
+{
+    "name": "Chasity D'Amore",
+    "username": "Gerhard28",
+    "email": "Billie_OKon@yahoo.com",
+    "address": {
+        "streetA": "Hoeger Harbor",
+        "streetB": "81814 MacGyver Lodge",
+        "streetC": "895 Theo Mall Suite 813",
+        "streetD": "Apt. 361",
+        "city": "South Leanne",
+        "state": "Virginia",
+        "country": "Palestinian Territory",
+        "zipcode": "54592-2720",
+        "geo": {
+            "lat": "-76.7707",
+            "lng": "-67.1880"
+        }
+    },
+    "phone": "502.352.8329",
+    "website": "pearline.name",
+    "company": {
+        "name": "Deckow - Schroeder",
+        "catchPhrase": "Quality-focused transitional neural-net",
+        "bs": "distributed reintermediate eyeballs"
+    },
+    "posts": [
+        {
+            "words": "consectetur incidunt quia",
+            "sentence": "Maxime odio incidunt eveniet.",
+            "sentences": "Maxime explicabo nam. Error consequatur consequatur maxime dolores laborum animi dolore praesentium laudantium. Nulla autem est quia minima amet voluptas.",
+            "paragraph": "Doloribus voluptatum asperiores ut. Ipsam qui id et vitae officiis distinctio. Eligendi doloremque voluptatem eligendi consequuntur mollitia expedita. Omnis illum vitae est ipsa sed commodi eum accusamus. Quo fugit eaque. Non similique omnis veniam maiores quaerat."
+        },
+        {
+            "words": "odio aut occaecati",
+            "sentence": "Aut dolores quis at.",
+            "sentences": "Sit ea quo veritatis vero fuga quia placeat eos. Voluptas consectetur quam reiciendis magni et.",
+            "paragraph": "Et amet ipsum. Sint illo maxime velit harum est. Maiores aliquam dicta et est aut qui. Quibusdam in at nihil qui delectus recusandae nihil totam."
+        },
+        {
+            "words": "mollitia est ut",
+            "sentence": "Sunt et et.",
+            "sentences": "Et quo harum. At dolorem et at corporis neque et. Amet omnis cum quis pariatur libero adipisci. Quo distinctio minus eveniet dicta qui. Alias consequatur ipsa ut. Porro error sit rerum ut doloremque vel.",
+            "paragraph": "Incidunt incidunt impedit esse at. Neque eveniet perspiciatis eos voluptatem blanditiis dignissimos. Voluptas provident eum dolorem excepturi eos cumque. Nulla at voluptates asperiores minus at."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "962.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Weissnat - Harris",
+            "name": "Savings Account 7889",
+            "type": "payment",
+            "account": "44537164"
+        },
+        {
+            "amount": "285.86",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rogahn, Bergnaum and Frami",
+            "name": "Credit Card Account 4620",
+            "type": "invoice",
+            "account": "40759216"
+        },
+        {
+            "amount": "22.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hane and Sons",
+            "name": "Personal Loan Account 2807",
+            "type": "payment",
+            "account": "29047555"
+        }
+    ]
+}

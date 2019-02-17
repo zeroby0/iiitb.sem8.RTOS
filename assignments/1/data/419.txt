@@ -1,0 +1,72 @@
+{
+    "name": "Esteban Durgan",
+    "username": "May.Wolff",
+    "email": "Jean_Reichert@yahoo.com",
+    "address": {
+        "streetA": "Willms Drives",
+        "streetB": "17122 Cyrus Islands",
+        "streetC": "337 Carroll Street Apt. 594",
+        "streetD": "Apt. 720",
+        "city": "Kohlerton",
+        "state": "Delaware",
+        "country": "Canada",
+        "zipcode": "32509-6639",
+        "geo": {
+            "lat": "72.1591",
+            "lng": "-80.4028"
+        }
+    },
+    "phone": "186.848.4014 x378",
+    "website": "ellis.info",
+    "company": {
+        "name": "Erdman LLC",
+        "catchPhrase": "Polarised national capability",
+        "bs": "killer redefine platforms"
+    },
+    "posts": [
+        {
+            "words": "quaerat ipsam ut",
+            "sentence": "Aut ipsum unde fugiat nulla recusandae asperiores incidunt tempore eius.",
+            "sentences": "Et nulla voluptas voluptatem. Sint ea mollitia maxime velit tenetur dolores quis.",
+            "paragraph": "Et ut fugit nesciunt autem aliquam voluptates. Veniam voluptatem corrupti culpa sit molestiae. Impedit impedit aut voluptatum. Molestiae animi rerum vel cumque. Possimus eum pariatur nihil voluptatibus qui enim. Ipsum dolores blanditiis architecto repellat."
+        },
+        {
+            "words": "autem sequi repudiandae",
+            "sentence": "Asperiores unde non qui nam cum ex aut eum possimus.",
+            "sentences": "Amet doloribus dolores corporis rerum inventore veritatis fugiat quos ut. A molestiae doloremque accusantium eos. Voluptatem cumque omnis eius. Sunt maxime id pariatur eum accusantium aperiam quod. Nesciunt qui voluptas et in molestiae rem id. Asperiores et quod sint et et voluptatibus.",
+            "paragraph": "Non necessitatibus in totam ullam enim est occaecati. Inventore harum non velit vero. Inventore modi quia animi qui et. Tempore sequi sed et ullam molestiae deleniti occaecati reprehenderit. Facere incidunt et impedit et esse molestias in."
+        },
+        {
+            "words": "in ab repudiandae",
+            "sentence": "Fugit ex in non et ut.",
+            "sentences": "Cupiditate alias eos temporibus veritatis sed non corrupti. Ut cumque aspernatur in labore.",
+            "paragraph": "Quo porro tempora sed numquam sunt dolorem qui impedit. Aliquam sapiente est ut laudantium et dolore saepe. Velit adipisci rem repudiandae. Libero earum totam porro."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "309.24",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stanton, Wolf and Huels",
+            "name": "Personal Loan Account 4704",
+            "type": "payment",
+            "account": "27116583"
+        },
+        {
+            "amount": "228.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Borer Inc",
+            "name": "Auto Loan Account 9485",
+            "type": "payment",
+            "account": "47635953"
+        },
+        {
+            "amount": "104.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stracke, Klein and Langworth",
+            "name": "Credit Card Account 1208",
+            "type": "withdrawal",
+            "account": "40628537"
+        }
+    ]
+}

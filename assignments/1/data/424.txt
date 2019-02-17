@@ -1,0 +1,72 @@
+{
+    "name": "Josiane McClure DVM",
+    "username": "Alessandra.Roob",
+    "email": "John.Crist46@hotmail.com",
+    "address": {
+        "streetA": "Reichel Turnpike",
+        "streetB": "591 Cedrick Camp",
+        "streetC": "1780 Art Mountain Apt. 395",
+        "streetD": "Suite 499",
+        "city": "Baumbachmouth",
+        "state": "Mississippi",
+        "country": "Tonga",
+        "zipcode": "44437-0411",
+        "geo": {
+            "lat": "-89.4585",
+            "lng": "-19.6975"
+        }
+    },
+    "phone": "601.573.4913 x707",
+    "website": "jack.com",
+    "company": {
+        "name": "McGlynn LLC",
+        "catchPhrase": "Quality-focused content-based framework",
+        "bs": "customized unleash platforms"
+    },
+    "posts": [
+        {
+            "words": "eveniet ut autem",
+            "sentence": "Odit debitis animi impedit consequuntur.",
+            "sentences": "Quasi dolor reprehenderit dolores iste omnis asperiores rerum facilis ipsa. Maiores voluptatum quia laudantium vero vel est ratione nam. Quis cumque quos magni rerum ut. Consectetur corporis ipsam quam mollitia eaque. Voluptatum voluptatem ex eos et quibusdam nisi voluptas non tempore.",
+            "paragraph": "Voluptas iusto et saepe nobis eos rem ea. Sit voluptatum soluta rerum possimus laudantium sed iusto. Velit quod placeat omnis. Eveniet ipsa voluptatum. Mollitia ad necessitatibus. Unde eos consectetur placeat."
+        },
+        {
+            "words": "enim deserunt consequatur",
+            "sentence": "Sed sed libero nihil et molestiae.",
+            "sentences": "Ipsa vel id vitae. Sunt quod esse distinctio aut dolor. Minima quidem est. Quo ad maiores blanditiis voluptatibus veniam fugit ipsum. Ratione dicta aut eius blanditiis molestiae sit praesentium fuga. Maiores adipisci commodi et aut vitae et neque velit.",
+            "paragraph": "Minus molestiae modi blanditiis et sit beatae. Aut in ipsum fuga eum est et nemo. Qui sapiente quam dolorem minus fugit eveniet."
+        },
+        {
+            "words": "voluptatibus quae est",
+            "sentence": "Et libero voluptas ratione.",
+            "sentences": "Provident ut pariatur expedita deserunt placeat iure provident tempore maxime. Quia necessitatibus fuga pariatur praesentium a tempore dolor enim sed. Illo aut blanditiis tempore facere consequatur quia voluptatem. Dicta adipisci dolorum qui consectetur molestiae quia possimus iusto.",
+            "paragraph": "Enim sit non dolorum ea. Ipsum deserunt enim aut ipsam iusto quo. Non temporibus sed occaecati fugit et dolores amet dolorum blanditiis. Ut eos veniam est enim ut suscipit aut consequatur laudantium."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "970.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lindgren, Crona and Quitzon",
+            "name": "Checking Account 7308",
+            "type": "deposit",
+            "account": "97871835"
+        },
+        {
+            "amount": "687.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Botsford - Krajcik",
+            "name": "Auto Loan Account 8902",
+            "type": "invoice",
+            "account": "37729105"
+        },
+        {
+            "amount": "73.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mertz - Cruickshank",
+            "name": "Money Market Account 0336",
+            "type": "payment",
+            "account": "68913879"
+        }
+    ]
+}

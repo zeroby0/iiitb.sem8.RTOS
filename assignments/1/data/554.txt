@@ -1,0 +1,72 @@
+{
+    "name": "Toney Schmidt",
+    "username": "Evelyn82",
+    "email": "Amani_King26@yahoo.com",
+    "address": {
+        "streetA": "Moen Place",
+        "streetB": "8847 Mayert Knoll",
+        "streetC": "23457 Jake Falls Suite 166",
+        "streetD": "Apt. 473",
+        "city": "Guiseppebury",
+        "state": "Michigan",
+        "country": "Bulgaria",
+        "zipcode": "18589",
+        "geo": {
+            "lat": "-37.4691",
+            "lng": "149.2022"
+        }
+    },
+    "phone": "1-465-871-0804",
+    "website": "imani.info",
+    "company": {
+        "name": "Considine Inc",
+        "catchPhrase": "Reverse-engineered next generation superstructure",
+        "bs": "back-end transition paradigms"
+    },
+    "posts": [
+        {
+            "words": "qui porro quidem",
+            "sentence": "Et labore harum voluptas ex.",
+            "sentences": "Velit quia rerum temporibus doloremque tenetur quasi nemo ipsum corporis. Mollitia ut saepe quo aut. Fugiat dolore ut ratione corrupti sed qui nihil cupiditate. Id mollitia est earum est qui sint. Quia quam qui libero. Est hic ad in.",
+            "paragraph": "Sunt recusandae aliquid quidem alias animi vitae et aut. Ducimus et nulla commodi impedit velit. Cumque laboriosam porro distinctio. Autem eum expedita enim modi consectetur facere natus dolorem. Culpa earum ullam dolores saepe sint exercitationem."
+        },
+        {
+            "words": "assumenda optio id",
+            "sentence": "Rem repudiandae labore voluptas tenetur suscipit at voluptatem a cupiditate.",
+            "sentences": "Similique aliquid impedit quaerat animi quo dolor voluptatem. Voluptate illum omnis est omnis culpa. Tempora facilis nisi dolores dolorem totam aut eveniet aut repudiandae. Nihil enim libero sapiente dicta quas perspiciatis est et amet.",
+            "paragraph": "Ducimus aperiam tempore harum voluptas. Qui provident deleniti corrupti laudantium vel quia. Eos sunt quos. Ex aut optio amet. Hic molestiae illum qui laboriosam cumque. Vero perferendis voluptas necessitatibus eos enim in quia."
+        },
+        {
+            "words": "quo odio est",
+            "sentence": "Et ea exercitationem et quia earum rerum.",
+            "sentences": "Ullam vel cum in et eveniet et. Qui sed sed qui quam. Ut praesentium molestiae.",
+            "paragraph": "Quo nihil perferendis et sit repudiandae inventore et iure. Iure nisi totam. Voluptatem explicabo fugit iusto sit delectus fuga."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "35.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schoen Group",
+            "name": "Savings Account 6580",
+            "type": "payment",
+            "account": "32849202"
+        },
+        {
+            "amount": "494.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Auer Group",
+            "name": "Money Market Account 0985",
+            "type": "payment",
+            "account": "40551207"
+        },
+        {
+            "amount": "463.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mosciski LLC",
+            "name": "Investment Account 6601",
+            "type": "payment",
+            "account": "69680595"
+        }
+    ]
+}

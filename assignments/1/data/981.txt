@@ -1,0 +1,72 @@
+{
+    "name": "Ms. Citlalli Mann",
+    "username": "Kolby79",
+    "email": "Angel92@hotmail.com",
+    "address": {
+        "streetA": "Kathryne Well",
+        "streetB": "36625 Norberto Hills",
+        "streetC": "1552 Homenick Rapid Suite 610",
+        "streetD": "Apt. 373",
+        "city": "New Lila",
+        "state": "Mississippi",
+        "country": "Norway",
+        "zipcode": "19592-1784",
+        "geo": {
+            "lat": "-37.1581",
+            "lng": "-153.6003"
+        }
+    },
+    "phone": "(831) 368-6473",
+    "website": "brant.org",
+    "company": {
+        "name": "Kulas - Schuppe",
+        "catchPhrase": "Versatile regional orchestration",
+        "bs": "back-end unleash vortals"
+    },
+    "posts": [
+        {
+            "words": "tempora facere voluptas",
+            "sentence": "Nemo aperiam officia repellendus ut.",
+            "sentences": "Nemo magnam eaque in est et repudiandae est. Vitae sunt fuga non consequatur est rerum.",
+            "paragraph": "Quia sed eligendi eos nisi. Autem eveniet dicta eligendi. Quasi atque id corporis eum a. Voluptatem et cumque exercitationem dolores et ut. Tempora et quia illum. Id velit qui temporibus occaecati dolorem qui quod facilis."
+        },
+        {
+            "words": "aut ut quod",
+            "sentence": "Id maxime id blanditiis eius aut voluptatibus repudiandae excepturi.",
+            "sentences": "Autem quis cupiditate ut est. Et modi velit odit. Quos quibusdam corporis et. Ut nostrum asperiores sunt sit quia non consequuntur ut praesentium. Autem ex sit sunt. Libero dolores cupiditate eius dolores inventore facilis vel molestiae blanditiis.",
+            "paragraph": "Reprehenderit illo delectus facilis veritatis aspernatur debitis inventore ut. Est excepturi est quo unde omnis magni temporibus sed. Qui ipsum error quis non molestias. Vel explicabo veritatis libero et eos voluptatum enim ea."
+        },
+        {
+            "words": "doloremque ut praesentium",
+            "sentence": "Impedit magnam nam dolor aut qui est est asperiores saepe.",
+            "sentences": "Vel neque quis aut. Et enim nihil vel incidunt vitae aut labore. Officia libero aut consequatur ut. Blanditiis necessitatibus neque dolor quisquam. Odit consequuntur est. Animi quis sed dolor voluptas qui.",
+            "paragraph": "Odit omnis et quia amet minus facilis. Occaecati minima praesentium vel repellat est ullam enim a occaecati. Velit voluptatibus excepturi aliquid quasi. Provident veniam atque optio ut nesciunt eos perspiciatis. Consequatur sed dolorem ab sunt. Id repellat at distinctio id quia eum porro."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "641.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Windler Group",
+            "name": "Personal Loan Account 0629",
+            "type": "invoice",
+            "account": "73556369"
+        },
+        {
+            "amount": "195.65",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pacocha - Cummings",
+            "name": "Personal Loan Account 7541",
+            "type": "deposit",
+            "account": "50626966"
+        },
+        {
+            "amount": "200.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuhn - Hilll",
+            "name": "Investment Account 7193",
+            "type": "withdrawal",
+            "account": "00832173"
+        }
+    ]
+}

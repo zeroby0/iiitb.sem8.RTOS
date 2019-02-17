@@ -1,0 +1,72 @@
+{
+    "name": "Fanny Cassin",
+    "username": "Tatum.Kutch92",
+    "email": "Alf95@yahoo.com",
+    "address": {
+        "streetA": "Yoshiko Common",
+        "streetB": "007 Howe Mission",
+        "streetC": "58829 Gislason Ville Suite 301",
+        "streetD": "Suite 444",
+        "city": "Theresiatown",
+        "state": "Alabama",
+        "country": "Ukraine",
+        "zipcode": "35424",
+        "geo": {
+            "lat": "-59.3962",
+            "lng": "34.1153"
+        }
+    },
+    "phone": "(409) 813-0901 x23870",
+    "website": "maryam.com",
+    "company": {
+        "name": "Corkery - Koss",
+        "catchPhrase": "Reduced demand-driven matrices",
+        "bs": "leading-edge matrix niches"
+    },
+    "posts": [
+        {
+            "words": "quia nesciunt ut",
+            "sentence": "Dicta delectus consequuntur aliquam omnis eos voluptatem porro.",
+            "sentences": "Inventore illo enim mollitia sit architecto occaecati amet sint impedit. Vel quia quo eum amet perspiciatis voluptas.",
+            "paragraph": "Modi sunt accusantium nulla. Repudiandae aut sed in ea. Quod consequatur qui asperiores molestiae et voluptate accusantium. Ut ipsam rem. Libero magni velit minus ipsam."
+        },
+        {
+            "words": "est voluptates aut",
+            "sentence": "Autem repellat sint ut.",
+            "sentences": "Ex dolores adipisci dolores. Consequatur corrupti rerum nulla laudantium aut impedit odio voluptas. Eius illum dolores quibusdam quae alias.",
+            "paragraph": "Nostrum quaerat qui debitis dolores qui sint iure. Perferendis eos amet eum voluptas. Quo vero expedita."
+        },
+        {
+            "words": "ut corporis voluptate",
+            "sentence": "Et quos quaerat dolores et alias.",
+            "sentences": "Labore quo voluptate consequatur eligendi perspiciatis enim quia reiciendis laborum. Atque omnis aut quo voluptatem ab rem ratione natus suscipit. Reprehenderit ut cum quisquam qui tempore. Ratione ut necessitatibus quis perferendis sunt est aut.",
+            "paragraph": "Inventore quia occaecati officia et dolores omnis. Laudantium hic quia reprehenderit deleniti ea dolores doloremque fuga. Voluptate et illo nemo error."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "504.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Steuber, Gerhold and Grady",
+            "name": "Savings Account 2525",
+            "type": "withdrawal",
+            "account": "42875800"
+        },
+        {
+            "amount": "453.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kiehn - Prosacco",
+            "name": "Credit Card Account 0914",
+            "type": "deposit",
+            "account": "21382587"
+        },
+        {
+            "amount": "801.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Donnelly - O'Kon",
+            "name": "Investment Account 9061",
+            "type": "deposit",
+            "account": "93409812"
+        }
+    ]
+}

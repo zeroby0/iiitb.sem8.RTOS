@@ -1,0 +1,72 @@
+{
+    "name": "Mrs. Colten Simonis",
+    "username": "Martin_Zboncak3",
+    "email": "Aida_Oberbrunner68@hotmail.com",
+    "address": {
+        "streetA": "Green Lodge",
+        "streetB": "810 Kenton Mount",
+        "streetC": "3533 Moen Park Apt. 691",
+        "streetD": "Apt. 641",
+        "city": "Morristown",
+        "state": "Alabama",
+        "country": "Ukraine",
+        "zipcode": "77628",
+        "geo": {
+            "lat": "-82.1024",
+            "lng": "72.6862"
+        }
+    },
+    "phone": "487-850-8647",
+    "website": "khalid.net",
+    "company": {
+        "name": "Hansen - Luettgen",
+        "catchPhrase": "Customizable client-driven algorithm",
+        "bs": "cutting-edge iterate content"
+    },
+    "posts": [
+        {
+            "words": "saepe est dolorum",
+            "sentence": "Aut et qui.",
+            "sentences": "Non in adipisci at qui accusamus omnis. Enim in unde aut quasi similique eum ex consequuntur.",
+            "paragraph": "Doloribus possimus error et dicta rerum et. Odio voluptas deserunt. Illum atque adipisci delectus voluptas. Non omnis sed possimus at autem magnam blanditiis voluptatem. Qui tempora exercitationem amet voluptatibus fugiat voluptatem praesentium in possimus. Consequatur aut animi aliquid rerum qui."
+        },
+        {
+            "words": "iste delectus aut",
+            "sentence": "Dicta aperiam nam eos et est.",
+            "sentences": "Aliquam ipsam suscipit porro fugiat vel provident. Quia hic rem asperiores.",
+            "paragraph": "Quasi rerum nihil quam. Et accusamus aliquam omnis id nisi. Explicabo vitae id."
+        },
+        {
+            "words": "eligendi nobis placeat",
+            "sentence": "Ratione assumenda nostrum voluptas eligendi.",
+            "sentences": "Voluptas aut consectetur. Tempore nulla fugit illum sit ipsa dolore et omnis exercitationem. Illum quia qui nulla cum vitae voluptas dolorem ab.",
+            "paragraph": "Sit quia ut quibusdam aut consequatur quae natus quas sequi. Fuga illum eius unde recusandae ut quia consequatur perspiciatis. Sit beatae ut reprehenderit ut. Quod tenetur sint. Sit quam atque delectus rem voluptas. Ad aliquid et omnis ullam amet dolor quisquam eum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "432.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bailey - Cartwright",
+            "name": "Personal Loan Account 2271",
+            "type": "invoice",
+            "account": "51991440"
+        },
+        {
+            "amount": "553.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gutkowski Group",
+            "name": "Investment Account 9280",
+            "type": "withdrawal",
+            "account": "23419526"
+        },
+        {
+            "amount": "477.42",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hagenes - Nader",
+            "name": "Checking Account 8224",
+            "type": "payment",
+            "account": "87609873"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Ms. Lina O'Keefe",
+    "username": "Landen_Goyette72",
+    "email": "Leanne.Herzog@hotmail.com",
+    "address": {
+        "streetA": "Pete Loaf",
+        "streetB": "8870 Elta Roads",
+        "streetC": "54880 Pfannerstill Isle Suite 131",
+        "streetD": "Apt. 734",
+        "city": "Montehaven",
+        "state": "New Jersey",
+        "country": "Bouvet Island (Bouvetoya)",
+        "zipcode": "24529",
+        "geo": {
+            "lat": "-15.5165",
+            "lng": "-80.4909"
+        }
+    },
+    "phone": "471-487-7998",
+    "website": "anjali.org",
+    "company": {
+        "name": "Nitzsche, Connelly and Carter",
+        "catchPhrase": "Switchable empowering architecture",
+        "bs": "one-to-one exploit functionalities"
+    },
+    "posts": [
+        {
+            "words": "sit error eligendi",
+            "sentence": "Deleniti corrupti nobis autem sed tempore voluptate sit et dolores.",
+            "sentences": "Nulla soluta ut dolorem accusantium recusandae et. Ea et ut itaque laborum accusantium non. Omnis et odit rem. Culpa recusandae dicta et dolor et dolorum corrupti. Impedit repudiandae et maxime odit.",
+            "paragraph": "Accusamus sit modi ut reprehenderit sed voluptas. Nemo rem dolorem. Soluta rerum quia quos provident impedit inventore. Non molestiae qui harum eligendi aut. Aut necessitatibus soluta ullam ex aliquid molestias nesciunt."
+        },
+        {
+            "words": "temporibus laudantium aliquam",
+            "sentence": "Dolorum enim qui ea ratione error iure.",
+            "sentences": "Animi ducimus et quis qui consectetur enim et non. Illo impedit quia. Minima error iusto. Ad dolor architecto assumenda voluptas suscipit consequatur dolorem. Voluptas molestias facere nostrum earum illum provident sit dolores minima. Quae voluptates ipsa recusandae et nesciunt consequatur voluptatem asperiores.",
+            "paragraph": "Aliquam expedita quis at ut culpa id et voluptas et. Maiores ipsa ut. Rem autem qui et voluptas repellat. Velit sed eos rerum commodi facere ut veritatis voluptatibus qui. Sequi sit aut facilis numquam animi. Fuga optio voluptatem sit ipsum molestiae modi."
+        },
+        {
+            "words": "est et ut",
+            "sentence": "Voluptas rerum ex.",
+            "sentences": "Dolore magnam voluptatem velit enim quod necessitatibus. Dolores fugiat sed velit magni. Sint in cupiditate nesciunt saepe. Accusantium ut cum corrupti fugit nemo aut dolores.",
+            "paragraph": "Neque commodi optio recusandae optio explicabo soluta doloribus laudantium enim. Quia provident magni aspernatur ipsam a distinctio. Aliquid sit eius voluptate ut nihil harum ea. Sed facilis libero. Et laudantium excepturi est ea architecto quia dolorum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "607.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Doyle Inc",
+            "name": "Auto Loan Account 1192",
+            "type": "invoice",
+            "account": "03372101"
+        },
+        {
+            "amount": "563.58",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dickinson - Towne",
+            "name": "Auto Loan Account 8985",
+            "type": "deposit",
+            "account": "81207592"
+        },
+        {
+            "amount": "569.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bergstrom - Frami",
+            "name": "Savings Account 4070",
+            "type": "payment",
+            "account": "48561040"
+        }
+    ]
+}

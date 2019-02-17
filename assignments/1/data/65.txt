@@ -1,0 +1,72 @@
+{
+    "name": "Mr. Jairo Dickinson",
+    "username": "Ashleigh_McClure",
+    "email": "Cameron91@gmail.com",
+    "address": {
+        "streetA": "Angela Run",
+        "streetB": "3008 Clinton Plaza",
+        "streetC": "692 Demond Manor Suite 466",
+        "streetD": "Apt. 845",
+        "city": "Garrickfurt",
+        "state": "Maryland",
+        "country": "Kazakhstan",
+        "zipcode": "50118",
+        "geo": {
+            "lat": "-17.8302",
+            "lng": "93.5034"
+        }
+    },
+    "phone": "073-626-4911 x3996",
+    "website": "marjorie.org",
+    "company": {
+        "name": "Bins, Baumbach and Moore",
+        "catchPhrase": "Fundamental high-level solution",
+        "bs": "compelling syndicate niches"
+    },
+    "posts": [
+        {
+            "words": "aperiam non laboriosam",
+            "sentence": "Mollitia consequatur officiis eos aut aut.",
+            "sentences": "Error necessitatibus est excepturi deserunt dignissimos commodi. Ducimus non velit numquam ad animi quidem voluptatem tenetur.",
+            "paragraph": "Quia aut dolorem voluptates earum ex fugiat. Minus nostrum ratione deserunt. Nulla corrupti adipisci itaque dolorum id dolorem adipisci unde enim. Doloribus dolorem animi nulla distinctio inventore repellat."
+        },
+        {
+            "words": "quo non nisi",
+            "sentence": "Magnam aperiam magnam temporibus harum sunt eum velit perferendis.",
+            "sentences": "Qui deleniti maxime neque odit sunt rem. Aut est nemo cupiditate. Enim eveniet vel voluptate sit et pariatur aperiam. Eius tempora minima.",
+            "paragraph": "Nihil autem est amet in. Quaerat doloribus quasi minima. Eum voluptatibus magnam voluptatem est."
+        },
+        {
+            "words": "exercitationem pariatur distinctio",
+            "sentence": "Labore quos asperiores et.",
+            "sentences": "Neque enim aliquid magni dicta eius magnam sint. Et ut vitae consequuntur quia et aliquid. Consequatur placeat culpa magni numquam. Atque laboriosam et dolor itaque aliquam assumenda et fugiat. Ut accusantium quia enim dolorem nihil. Corrupti vero sit sunt.",
+            "paragraph": "Ut impedit sunt. Aspernatur sunt tempore. Rerum id repudiandae est ea possimus molestiae accusamus. Temporibus omnis ut. Omnis consequatur et quas porro quia laudantium."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "56.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hyatt, Gottlieb and Reynolds",
+            "name": "Home Loan Account 6318",
+            "type": "invoice",
+            "account": "27177359"
+        },
+        {
+            "amount": "126.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Effertz - Windler",
+            "name": "Home Loan Account 9376",
+            "type": "invoice",
+            "account": "62613820"
+        },
+        {
+            "amount": "531.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pollich LLC",
+            "name": "Home Loan Account 6495",
+            "type": "deposit",
+            "account": "04867084"
+        }
+    ]
+}

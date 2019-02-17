@@ -1,0 +1,72 @@
+{
+    "name": "Gilbert Berge",
+    "username": "Enrico.Hartmann",
+    "email": "Mireya.Marvin@gmail.com",
+    "address": {
+        "streetA": "Amir Station",
+        "streetB": "829 Moen Streets",
+        "streetC": "869 Tierra Course Apt. 043",
+        "streetD": "Apt. 719",
+        "city": "South Giles",
+        "state": "Tennessee",
+        "country": "Angola",
+        "zipcode": "26916",
+        "geo": {
+            "lat": "7.0345",
+            "lng": "-177.3026"
+        }
+    },
+    "phone": "(186) 059-6536",
+    "website": "trystan.com",
+    "company": {
+        "name": "Corwin and Sons",
+        "catchPhrase": "Balanced static ability",
+        "bs": "viral facilitate systems"
+    },
+    "posts": [
+        {
+            "words": "dolor dolorum est",
+            "sentence": "Et possimus aperiam sapiente sapiente.",
+            "sentences": "In rerum at molestiae iste dolor voluptas odio. Aut dolor quas earum nam aperiam in eos est.",
+            "paragraph": "Voluptatibus delectus vero. Sed minus optio ipsum sint ad. Debitis provident corrupti reiciendis excepturi esse deserunt amet. Et ut vitae minus repellat id error omnis quas. Et voluptatem voluptas a qui ipsa. Sit officia veritatis velit voluptas sunt inventore culpa repudiandae iusto."
+        },
+        {
+            "words": "eveniet consequatur dolores",
+            "sentence": "Eligendi iusto quod dolorem voluptates harum.",
+            "sentences": "Dolores nam nihil facere dolorem rerum inventore pariatur. Corrupti qui repellat ratione at esse quibusdam ut nobis. Provident recusandae aut cumque ea. Aspernatur cupiditate labore. Ex ipsum nulla qui molestiae sunt rem.",
+            "paragraph": "Provident dolores neque corrupti nostrum cupiditate eius aliquam provident. Neque est tempore. Molestias minima ex doloribus ab consequuntur aut. Aut minus qui molestiae asperiores. Vel nam aut. Consequatur incidunt error est."
+        },
+        {
+            "words": "harum et nobis",
+            "sentence": "Qui tempore quasi autem sint vel.",
+            "sentences": "Voluptatem eveniet fugiat adipisci. Fuga totam ut sed. Sapiente molestias distinctio est autem aut deserunt similique dolor quia. Rerum numquam esse ut voluptatem aut deleniti.",
+            "paragraph": "Aut similique cumque ut beatae expedita consequuntur fugit. Qui doloremque molestias fuga cupiditate et excepturi iste praesentium. Non voluptas nostrum voluptatem est ut voluptate voluptatem saepe. Sed repellendus minus voluptatem voluptatem magni assumenda aut minima ullam. Quia natus porro nesciunt ut sapiente. Neque sit molestiae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "115.65",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lind, Pagac and Raynor",
+            "name": "Investment Account 5083",
+            "type": "payment",
+            "account": "25809520"
+        },
+        {
+            "amount": "605.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Runolfsson Inc",
+            "name": "Personal Loan Account 4027",
+            "type": "invoice",
+            "account": "12789331"
+        },
+        {
+            "amount": "656.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reinger, McDermott and Collins",
+            "name": "Money Market Account 7099",
+            "type": "payment",
+            "account": "51088560"
+        }
+    ]
+}

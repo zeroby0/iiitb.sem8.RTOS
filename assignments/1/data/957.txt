@@ -1,0 +1,72 @@
+{
+    "name": "Alva Fadel Jr.",
+    "username": "Adrain76",
+    "email": "Cecilia4@hotmail.com",
+    "address": {
+        "streetA": "Dach Plain",
+        "streetB": "96812 Cormier Land",
+        "streetC": "061 Clemens Ramp Suite 117",
+        "streetD": "Apt. 581",
+        "city": "Prosaccostad",
+        "state": "Virginia",
+        "country": "Kenya",
+        "zipcode": "61112-2088",
+        "geo": {
+            "lat": "43.5409",
+            "lng": "-98.4980"
+        }
+    },
+    "phone": "1-077-589-7172",
+    "website": "lessie.com",
+    "company": {
+        "name": "Effertz, Osinski and Littel",
+        "catchPhrase": "Expanded asynchronous secured line",
+        "bs": "back-end evolve networks"
+    },
+    "posts": [
+        {
+            "words": "modi voluptatum soluta",
+            "sentence": "Assumenda vero omnis omnis.",
+            "sentences": "Et consectetur saepe aut optio est iure iste. Sed et dolores sint asperiores aliquam suscipit. Mollitia cum non consequuntur. Sit non fuga eum eveniet.",
+            "paragraph": "Fuga temporibus et. Sunt eum amet inventore consequatur sapiente debitis consequatur illum. Non rem adipisci quia amet excepturi labore amet animi. Et dolor unde qui repudiandae magnam. Ea consequuntur et aut. Aut illum minus eveniet."
+        },
+        {
+            "words": "deleniti alias ipsam",
+            "sentence": "Delectus adipisci facere tenetur ut ipsum accusamus.",
+            "sentences": "Iste dolor et alias fugit voluptatem. Quod sed excepturi totam eum consequatur doloremque sed quia atque. Illum quidem veniam similique delectus quam doloribus neque voluptas voluptate. Molestiae quisquam dolorem aperiam esse sit. Qui culpa qui. Odit eius minus.",
+            "paragraph": "Ea excepturi quisquam animi corporis aut doloribus exercitationem ut. Non doloribus dicta occaecati debitis. Aut voluptates sed at occaecati porro at. Iste aut dolorum voluptas quod atque quas mollitia. Quibusdam aut rerum minus optio."
+        },
+        {
+            "words": "cumque cum ut",
+            "sentence": "Voluptas perspiciatis provident et.",
+            "sentences": "Quia deserunt soluta. Magni quos sit dicta eum. Possimus rerum omnis laudantium dolor quo ullam nesciunt iusto unde. Occaecati et voluptatum beatae voluptates et. Quia nihil et voluptas neque rerum in.",
+            "paragraph": "Iste aut sunt. Dignissimos dolor deserunt qui aut rerum. Doloribus molestias modi magnam veniam illum qui aliquid. Ea praesentium dolorem sit omnis dolorum sit autem qui."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "820.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Donnelly, Wyman and Bosco",
+            "name": "Investment Account 8260",
+            "type": "payment",
+            "account": "07204058"
+        },
+        {
+            "amount": "965.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stanton, Jast and Monahan",
+            "name": "Personal Loan Account 8536",
+            "type": "payment",
+            "account": "24139827"
+        },
+        {
+            "amount": "371.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Skiles, Strosin and Simonis",
+            "name": "Home Loan Account 6470",
+            "type": "deposit",
+            "account": "29396571"
+        }
+    ]
+}

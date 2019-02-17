@@ -1,0 +1,72 @@
+{
+    "name": "Tanya Vandervort",
+    "username": "Theodora.Champlin51",
+    "email": "Theresa_Jones@hotmail.com",
+    "address": {
+        "streetA": "Hills Highway",
+        "streetB": "3654 Mayert Divide",
+        "streetC": "5123 Stanton Heights Suite 223",
+        "streetD": "Apt. 858",
+        "city": "New Gerardo",
+        "state": "New Hampshire",
+        "country": "Switzerland",
+        "zipcode": "72885-1855",
+        "geo": {
+            "lat": "-13.0165",
+            "lng": "111.0985"
+        }
+    },
+    "phone": "859.401.3483",
+    "website": "micah.com",
+    "company": {
+        "name": "Morissette Inc",
+        "catchPhrase": "Function-based full-range software",
+        "bs": "leading-edge exploit paradigms"
+    },
+    "posts": [
+        {
+            "words": "est ut natus",
+            "sentence": "Delectus dolorem ipsam eum.",
+            "sentences": "Alias perferendis doloribus unde est velit eius. Enim nisi voluptatem vitae qui. Nisi quis eos non illum enim similique.",
+            "paragraph": "Error harum omnis beatae reiciendis. Culpa magnam debitis quidem. Nostrum excepturi voluptas nemo minus optio dolorem labore quia animi. Eos molestiae corporis tempora a facere ut ea officiis. Rerum quasi molestiae non placeat neque."
+        },
+        {
+            "words": "quos molestias doloremque",
+            "sentence": "Velit aut unde vel occaecati sint rerum.",
+            "sentences": "Sit aperiam rerum rerum nihil. Et provident amet odio architecto sunt et corporis velit reiciendis. Ad ut officiis recusandae quos est sit sed veniam. Distinctio saepe voluptate. Autem incidunt tenetur a.",
+            "paragraph": "Architecto fugit laboriosam deleniti est. Alias quisquam qui nobis nihil facere magni quos. Est velit quasi. Et possimus ea ducimus soluta incidunt mollitia cumque. Sit qui qui et. Incidunt explicabo rerum eius."
+        },
+        {
+            "words": "et quod neque",
+            "sentence": "Aliquam provident voluptas.",
+            "sentences": "Natus omnis quibusdam totam reiciendis minima veniam libero doloribus corrupti. Ipsum sunt ipsam voluptatem natus tempora ex. Mollitia et incidunt et. Delectus iusto nisi dolorem odit et voluptate. Vitae rerum laboriosam omnis illum praesentium.",
+            "paragraph": "Error et atque odio. Nesciunt magni dolore voluptas inventore inventore. Fugiat rem ad molestiae laboriosam nihil incidunt. Et vel fugiat excepturi odit doloremque. Rem eius fugit voluptatem laudantium expedita eum libero."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "548.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stokes LLC",
+            "name": "Auto Loan Account 0912",
+            "type": "withdrawal",
+            "account": "81884925"
+        },
+        {
+            "amount": "826.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Walsh - Turcotte",
+            "name": "Money Market Account 3104",
+            "type": "invoice",
+            "account": "41642179"
+        },
+        {
+            "amount": "528.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Johnson, Hane and Kulas",
+            "name": "Auto Loan Account 6407",
+            "type": "withdrawal",
+            "account": "44594923"
+        }
+    ]
+}

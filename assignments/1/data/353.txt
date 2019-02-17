@@ -1,0 +1,72 @@
+{
+    "name": "Norris Gibson",
+    "username": "Gavin_Maggio",
+    "email": "Erika_Raynor@gmail.com",
+    "address": {
+        "streetA": "Osinski Cliffs",
+        "streetB": "52860 Quigley Plaza",
+        "streetC": "33192 Wuckert Station Apt. 737",
+        "streetD": "Apt. 076",
+        "city": "South Orlando",
+        "state": "Virginia",
+        "country": "Nepal",
+        "zipcode": "11455-2707",
+        "geo": {
+            "lat": "-49.5005",
+            "lng": "-28.1337"
+        }
+    },
+    "phone": "919-559-0140 x1281",
+    "website": "gerardo.net",
+    "company": {
+        "name": "Heathcote - Schowalter",
+        "catchPhrase": "Upgradable didactic Graphical User Interface",
+        "bs": "transparent revolutionize schemas"
+    },
+    "posts": [
+        {
+            "words": "saepe nihil maxime",
+            "sentence": "Qui explicabo voluptatem et nulla molestiae quo.",
+            "sentences": "Voluptatem non et incidunt fugiat magni et. Fugiat qui possimus consectetur in consequatur non minus. Autem voluptatum minus voluptas. Nemo quia accusamus ipsam repudiandae explicabo quisquam. Et nostrum quia fuga quaerat.",
+            "paragraph": "Ipsum consequatur quia et porro enim et magni voluptates. Perspiciatis impedit voluptas nisi qui est neque quasi. Cum est veniam in excepturi omnis eum impedit odio. Mollitia et facere enim et."
+        },
+        {
+            "words": "a aut dolorum",
+            "sentence": "Sequi a eum aperiam.",
+            "sentences": "Ut eum voluptatem veritatis id quaerat molestiae culpa. Est laudantium laboriosam fuga qui est quaerat. Deserunt quo eaque saepe reiciendis.",
+            "paragraph": "Dicta beatae ut aut et vitae velit cum. Sed tempore laudantium quis itaque. Id et labore quidem sed eum officiis labore molestias. Mollitia reiciendis dolorem est. Ipsa ab quo voluptatum molestias dicta architecto est facere quisquam."
+        },
+        {
+            "words": "soluta sequi veniam",
+            "sentence": "Ut ut rem sapiente porro a repellat quis aperiam cum.",
+            "sentences": "Illo id aut commodi pariatur est atque consequatur magni iusto. Quis modi aut et. Sunt exercitationem dicta earum at aut maiores. Laudantium cupiditate enim dolor id repellat distinctio. Et explicabo eos. Voluptates fugit quia quisquam molestias saepe corporis labore aliquam.",
+            "paragraph": "Facilis quam quo ut animi a. Explicabo culpa tenetur optio. Architecto quibusdam cumque. A in cum atque est dolor architecto suscipit aspernatur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "736.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kassulke LLC",
+            "name": "Personal Loan Account 7462",
+            "type": "withdrawal",
+            "account": "38941251"
+        },
+        {
+            "amount": "864.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Spencer, Bernier and Kerluke",
+            "name": "Savings Account 2678",
+            "type": "payment",
+            "account": "70049579"
+        },
+        {
+            "amount": "48.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hirthe LLC",
+            "name": "Home Loan Account 6412",
+            "type": "invoice",
+            "account": "14280163"
+        }
+    ]
+}

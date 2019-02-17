@@ -1,0 +1,72 @@
+{
+    "name": "Unique Frami",
+    "username": "Nat.Glover",
+    "email": "Adolf32@gmail.com",
+    "address": {
+        "streetA": "Nicolette Curve",
+        "streetB": "89206 Daugherty Port",
+        "streetC": "94489 Vinnie Mews Suite 750",
+        "streetD": "Apt. 522",
+        "city": "West Catharine",
+        "state": "Missouri",
+        "country": "Poland",
+        "zipcode": "57934",
+        "geo": {
+            "lat": "-24.4555",
+            "lng": "158.6335"
+        }
+    },
+    "phone": "(150) 484-3901 x9360",
+    "website": "clinton.com",
+    "company": {
+        "name": "Larson LLC",
+        "catchPhrase": "Profit-focused multi-tasking structure",
+        "bs": "magnetic scale infomediaries"
+    },
+    "posts": [
+        {
+            "words": "cum veritatis qui",
+            "sentence": "Laudantium pariatur voluptatem vel.",
+            "sentences": "Quaerat blanditiis sint. Libero assumenda necessitatibus qui fugit dicta. Enim corrupti exercitationem quisquam omnis sed nihil.",
+            "paragraph": "Dolorem quo veritatis et culpa tempore molestias. Odit sunt sed. Sit voluptas soluta ut aut dolorum. Consequatur consequatur expedita fugit. Et magnam minima sed qui vero et. Error qui quia accusantium suscipit est itaque atque rerum harum."
+        },
+        {
+            "words": "praesentium ratione ut",
+            "sentence": "Illum cumque et sint alias est.",
+            "sentences": "Sunt dolorum ea quis. Ullam mollitia velit natus iure delectus praesentium praesentium. Sit qui ut. Nihil modi similique expedita aliquam perferendis.",
+            "paragraph": "Id porro explicabo recusandae occaecati voluptate est hic. Modi iusto quos dolor explicabo. Provident tempora porro voluptatibus et. Quos harum eos tempora qui sint nesciunt voluptatem vel. Perferendis ea aut tempora in consequatur sint ducimus consequatur. Sunt ea occaecati."
+        },
+        {
+            "words": "voluptas quaerat amet",
+            "sentence": "Recusandae sint architecto amet provident et et.",
+            "sentences": "Excepturi est qui tenetur expedita. Quia necessitatibus fuga et.",
+            "paragraph": "Occaecati aut pariatur mollitia. Quasi nemo veniam et esse ipsa sint voluptatem et deserunt. Ex tempore rerum. Aut qui esse voluptatem facere explicabo blanditiis dolores sunt. Enim praesentium libero inventore minima voluptas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "161.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koss, Dare and Moen",
+            "name": "Money Market Account 0204",
+            "type": "invoice",
+            "account": "06880272"
+        },
+        {
+            "amount": "186.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tillman - Raynor",
+            "name": "Personal Loan Account 5272",
+            "type": "withdrawal",
+            "account": "55775714"
+        },
+        {
+            "amount": "115.24",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lind - Jakubowski",
+            "name": "Personal Loan Account 9934",
+            "type": "deposit",
+            "account": "72220446"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Mrs. Alvah Herman",
+    "username": "Elaina_McLaughlin",
+    "email": "Deshaun.Walsh@hotmail.com",
+    "address": {
+        "streetA": "O'Conner Way",
+        "streetB": "51612 Abshire Valley",
+        "streetC": "21718 Dedrick Way Apt. 312",
+        "streetD": "Apt. 953",
+        "city": "Deshaunmouth",
+        "state": "New Hampshire",
+        "country": "Haiti",
+        "zipcode": "23850",
+        "geo": {
+            "lat": "-39.0318",
+            "lng": "-34.8983"
+        }
+    },
+    "phone": "114-663-4247",
+    "website": "nicola.name",
+    "company": {
+        "name": "Mraz, Douglas and Ullrich",
+        "catchPhrase": "Face to face systemic array",
+        "bs": "viral disintermediate partnerships"
+    },
+    "posts": [
+        {
+            "words": "aut magni amet",
+            "sentence": "Qui fugit dolorem consequatur neque quia asperiores rerum qui.",
+            "sentences": "Ab impedit beatae est asperiores rerum. Omnis qui architecto. Quia voluptatem laboriosam et. Dolorum dolor facere fugiat fugit error corporis blanditiis. Eos ut ut ratione in ab aut omnis sed non. A omnis optio fugit.",
+            "paragraph": "Soluta vitae odit dolorem tenetur non. Explicabo itaque cum sit vitae dignissimos quam enim. Possimus ea modi alias error sed sint fuga et minus."
+        },
+        {
+            "words": "et sapiente dolores",
+            "sentence": "In sit reiciendis in explicabo.",
+            "sentences": "Quia distinctio rerum consequatur nemo excepturi cumque maiores nulla cupiditate. Facere ut adipisci accusantium et. Quibusdam sed atque dolorem aliquam et maxime. Doloremque modi voluptatibus exercitationem ducimus illo. Ea commodi ipsum quod doloremque molestiae.",
+            "paragraph": "Doloremque nihil commodi voluptatem dignissimos placeat dolorem et magnam voluptas. Autem suscipit optio assumenda voluptatem. Fugit sit praesentium rerum omnis sit atque sapiente est perferendis."
+        },
+        {
+            "words": "nemo ullam fugiat",
+            "sentence": "Architecto consequatur perspiciatis.",
+            "sentences": "Aut nesciunt ut. Odit et soluta expedita et at explicabo saepe.",
+            "paragraph": "Vero voluptas eos sit quaerat. Magni magni error. Quaerat rerum atque accusantium. Beatae cupiditate molestiae id aut culpa est quis aperiam cupiditate."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "757.66",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Simonis and Sons",
+            "name": "Checking Account 4505",
+            "type": "invoice",
+            "account": "56734958"
+        },
+        {
+            "amount": "545.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Christiansen, Haag and Hilpert",
+            "name": "Credit Card Account 0529",
+            "type": "invoice",
+            "account": "31914737"
+        },
+        {
+            "amount": "409.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hoppe LLC",
+            "name": "Savings Account 0856",
+            "type": "withdrawal",
+            "account": "00515214"
+        }
+    ]
+}

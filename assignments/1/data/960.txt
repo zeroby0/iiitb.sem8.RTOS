@@ -1,0 +1,72 @@
+{
+    "name": "Freida Walsh",
+    "username": "Alysson.Vandervort",
+    "email": "Afton69@yahoo.com",
+    "address": {
+        "streetA": "Gutkowski Station",
+        "streetB": "789 Brook Vista",
+        "streetC": "17683 Nader Tunnel Apt. 988",
+        "streetD": "Apt. 085",
+        "city": "West Alishastad",
+        "state": "Tennessee",
+        "country": "Hong Kong",
+        "zipcode": "41483-8187",
+        "geo": {
+            "lat": "61.0510",
+            "lng": "121.7348"
+        }
+    },
+    "phone": "787.278.3364 x1043",
+    "website": "buddy.com",
+    "company": {
+        "name": "Rau, Balistreri and Dickens",
+        "catchPhrase": "Persistent context-sensitive firmware",
+        "bs": "end-to-end extend partnerships"
+    },
+    "posts": [
+        {
+            "words": "magni qui laborum",
+            "sentence": "Consectetur voluptatum et quaerat.",
+            "sentences": "Eos quia ab dolor perferendis. Fuga ipsam dolores beatae dolorem. Minus excepturi temporibus et illo. Consectetur perspiciatis ut hic maxime eveniet.",
+            "paragraph": "Vel cum saepe beatae sunt molestiae minus incidunt fuga. In soluta sit veniam. Ut accusantium perspiciatis consequatur. Aut sit quia rerum non praesentium. Est harum qui commodi quis quo consectetur."
+        },
+        {
+            "words": "recusandae ut aliquid",
+            "sentence": "Et occaecati pariatur quia nesciunt ad.",
+            "sentences": "Omnis perspiciatis vero temporibus provident omnis tempore est. Quibusdam temporibus quia.",
+            "paragraph": "Qui eaque molestiae laudantium ipsa. Ab est mollitia suscipit est. Aut quaerat quo dolorem. Tenetur delectus provident. Ea occaecati quasi et dolorum modi incidunt id. Corrupti aperiam aperiam reiciendis molestiae illum sequi et."
+        },
+        {
+            "words": "fugiat ut voluptatem",
+            "sentence": "Autem quam voluptas eum inventore autem velit et quis deleniti.",
+            "sentences": "Perspiciatis mollitia ipsa rerum excepturi dolores sunt. Sit eveniet voluptatem atque eaque sunt numquam.",
+            "paragraph": "Saepe et nam dolorem praesentium modi repudiandae perferendis est omnis. Aperiam autem sint suscipit qui maxime non possimus aut consectetur. Voluptas ut quas commodi est aut ratione sunt quam sint. Non est unde ut eum eaque modi ea totam quia. Architecto quia odit voluptatem eum dolorem aperiam aut illum vitae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "231.29",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Armstrong, Kohler and Rempel",
+            "name": "Money Market Account 8664",
+            "type": "withdrawal",
+            "account": "69251809"
+        },
+        {
+            "amount": "932.01",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuvalis Group",
+            "name": "Checking Account 0505",
+            "type": "withdrawal",
+            "account": "69212099"
+        },
+        {
+            "amount": "46.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Friesen, Schroeder and Stamm",
+            "name": "Money Market Account 7699",
+            "type": "withdrawal",
+            "account": "59735962"
+        }
+    ]
+}

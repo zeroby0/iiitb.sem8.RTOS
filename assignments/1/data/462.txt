@@ -1,0 +1,72 @@
+{
+    "name": "Alverta Wilkinson",
+    "username": "Elliott_Haag63",
+    "email": "Fae.Kuhic@hotmail.com",
+    "address": {
+        "streetA": "Lakin Dam",
+        "streetB": "491 Wilford Walk",
+        "streetC": "19363 Norval Court Apt. 619",
+        "streetD": "Apt. 154",
+        "city": "Port Omariview",
+        "state": "Alaska",
+        "country": "Montenegro",
+        "zipcode": "21754",
+        "geo": {
+            "lat": "-48.1742",
+            "lng": "118.9584"
+        }
+    },
+    "phone": "131-550-3275 x690",
+    "website": "emmalee.com",
+    "company": {
+        "name": "Spinka - McCullough",
+        "catchPhrase": "Versatile discrete contingency",
+        "bs": "innovative whiteboard supply-chains"
+    },
+    "posts": [
+        {
+            "words": "dolorem laborum unde",
+            "sentence": "Eum et ut excepturi sint esse aut.",
+            "sentences": "Porro doloribus architecto explicabo deserunt. Tenetur cumque ut aliquid magni. Sint itaque omnis qui perspiciatis debitis. Omnis labore ut sit quia non soluta.",
+            "paragraph": "Labore sit nihil et quasi. Voluptate et laudantium corrupti. Repellendus reiciendis temporibus perspiciatis velit quia officia ea odit ab."
+        },
+        {
+            "words": "esse qui autem",
+            "sentence": "Provident error reiciendis provident quidem velit adipisci.",
+            "sentences": "Ullam necessitatibus asperiores a mollitia perspiciatis temporibus. Qui eveniet velit.",
+            "paragraph": "Totam libero eveniet. Quis et officiis itaque. Vero dolor eos maiores molestias repellat totam unde odio maxime."
+        },
+        {
+            "words": "exercitationem deserunt assumenda",
+            "sentence": "Atque qui tenetur perferendis maiores hic sunt et impedit dolor.",
+            "sentences": "Iste qui numquam quidem odio. Quos repellendus porro porro repellendus tempore et est nemo. Error dolorem voluptas omnis quaerat. Ipsum dolor adipisci ut sunt. Delectus est dolorem.",
+            "paragraph": "Assumenda ullam repellat odio. Officiis sit ut odit sit quia eveniet non. Et dolor nulla corporis nulla non. Alias dolore maxime ut laboriosam ut voluptatem occaecati soluta. Harum molestias numquam esse aspernatur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "948.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kovacek - Dach",
+            "name": "Checking Account 8279",
+            "type": "invoice",
+            "account": "83823155"
+        },
+        {
+            "amount": "127.24",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ullrich, Bailey and Conn",
+            "name": "Savings Account 5904",
+            "type": "invoice",
+            "account": "83486500"
+        },
+        {
+            "amount": "457.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jaskolski Group",
+            "name": "Credit Card Account 8431",
+            "type": "invoice",
+            "account": "65739166"
+        }
+    ]
+}

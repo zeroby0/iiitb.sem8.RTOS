@@ -1,0 +1,72 @@
+{
+    "name": "Ms. Amparo Kilback",
+    "username": "Jewell.Volkman",
+    "email": "Alex.Strosin@yahoo.com",
+    "address": {
+        "streetA": "Lesch Brook",
+        "streetB": "2204 Von Lane",
+        "streetC": "9044 Yoshiko Fall Apt. 538",
+        "streetD": "Suite 704",
+        "city": "Deronshire",
+        "state": "Nevada",
+        "country": "American Samoa",
+        "zipcode": "02221-9341",
+        "geo": {
+            "lat": "88.9181",
+            "lng": "-18.5124"
+        }
+    },
+    "phone": "417-006-2174",
+    "website": "anabelle.net",
+    "company": {
+        "name": "Towne, Labadie and Hermann",
+        "catchPhrase": "Proactive responsive emulation",
+        "bs": "holistic repurpose supply-chains"
+    },
+    "posts": [
+        {
+            "words": "voluptas fugit sint",
+            "sentence": "Corporis et sit.",
+            "sentences": "Sint ducimus animi sed neque iure vel. Ipsa amet nostrum eum sit aut labore sunt recusandae.",
+            "paragraph": "At asperiores voluptatem sunt eos ex dolore explicabo ducimus. Consequatur corporis dolorem. Dolor debitis veniam hic velit. Aut voluptas et assumenda odit laudantium nulla. Ut iste doloremque."
+        },
+        {
+            "words": "iste atque quasi",
+            "sentence": "Ea soluta impedit eligendi accusamus laboriosam est nobis laborum dolores.",
+            "sentences": "Enim qui quia sapiente. Qui quaerat perferendis dolores adipisci praesentium sint.",
+            "paragraph": "Sed ex quia quam quod. Soluta tempore laboriosam accusantium praesentium. Molestiae aperiam illo quia est ipsa amet veritatis. Beatae et enim esse aut deserunt possimus quas non ducimus. Est unde et maiores exercitationem animi occaecati nemo molestiae. Optio voluptas perspiciatis."
+        },
+        {
+            "words": "tempora ut est",
+            "sentence": "Et assumenda aut itaque voluptatem quasi autem ipsa ex.",
+            "sentences": "In nemo ut velit repudiandae id fugiat beatae atque. Quia incidunt dolor neque itaque doloribus. Id a beatae nemo occaecati ad quo. Quaerat possimus quibusdam fugit.",
+            "paragraph": "Consequatur aut quidem id aut sint temporibus qui. Atque ab explicabo nesciunt commodi eligendi laboriosam quidem qui. Molestiae sed non omnis dolores amet."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "200.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaefer - Heathcote",
+            "name": "Auto Loan Account 7950",
+            "type": "payment",
+            "account": "57388559"
+        },
+        {
+            "amount": "468.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Medhurst Inc",
+            "name": "Credit Card Account 1731",
+            "type": "invoice",
+            "account": "32105044"
+        },
+        {
+            "amount": "681.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Daniel - Rice",
+            "name": "Auto Loan Account 7506",
+            "type": "payment",
+            "account": "33612685"
+        }
+    ]
+}

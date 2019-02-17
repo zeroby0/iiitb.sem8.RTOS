@@ -1,0 +1,72 @@
+{
+    "name": "General Ziemann MD",
+    "username": "Randal81",
+    "email": "Jon2@gmail.com",
+    "address": {
+        "streetA": "Bettye Wall",
+        "streetB": "4053 Ondricka Bridge",
+        "streetC": "48250 Demario Cliff Apt. 723",
+        "streetD": "Suite 009",
+        "city": "Keonburgh",
+        "state": "Virginia",
+        "country": "Guatemala",
+        "zipcode": "87123-1307",
+        "geo": {
+            "lat": "-52.2162",
+            "lng": "32.7598"
+        }
+    },
+    "phone": "(424) 310-1049",
+    "website": "kathlyn.org",
+    "company": {
+        "name": "McGlynn, Rolfson and Bednar",
+        "catchPhrase": "Streamlined transitional synergy",
+        "bs": "mission-critical incentivize platforms"
+    },
+    "posts": [
+        {
+            "words": "quisquam eligendi aut",
+            "sentence": "Culpa magni quo ea qui voluptates.",
+            "sentences": "Voluptatum maxime quis error quo et animi. Consectetur cumque aut et quia molestiae quia sed ex cupiditate. Consequuntur quod aperiam accusantium ex sint aut ab earum.",
+            "paragraph": "Et error incidunt nisi sequi tempora minima. Consequatur sit quisquam vero quo aut consectetur sequi quia perferendis. Architecto sit esse commodi. Est necessitatibus ratione veritatis laborum ut aut vel voluptas unde. Nam aperiam voluptate ducimus quam."
+        },
+        {
+            "words": "omnis aut et",
+            "sentence": "Blanditiis voluptatibus sequi harum consequatur perspiciatis impedit sed.",
+            "sentences": "Velit aut molestias impedit dolor ipsa ea quod. Impedit aspernatur doloremque sit dolores hic corrupti. Exercitationem similique sint reprehenderit quae similique.",
+            "paragraph": "Vel voluptas laudantium quisquam facere ut ut. At consectetur vel consequatur voluptatem nam temporibus dolorem. Ut ut ut vitae vero a. Alias et dolor et. Quis quasi veritatis dignissimos minima. Eius aspernatur perspiciatis consequatur laboriosam ducimus."
+        },
+        {
+            "words": "qui odit laboriosam",
+            "sentence": "Adipisci pariatur repellendus.",
+            "sentences": "Aut odit nihil autem. Cupiditate illum aspernatur temporibus praesentium omnis consequuntur sunt. Vel modi atque neque. Perspiciatis aut tenetur.",
+            "paragraph": "Excepturi sit eum. Voluptate et qui. Et sint occaecati provident molestias et fuga. Est nihil est nihil ut saepe sit voluptatibus quo. Vero quidem ipsam id impedit commodi quaerat quibusdam. Minus accusamus sapiente enim perspiciatis est rem cumque rerum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "985.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hane - Dickens",
+            "name": "Credit Card Account 0784",
+            "type": "deposit",
+            "account": "90047983"
+        },
+        {
+            "amount": "595.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kohler Inc",
+            "name": "Savings Account 0953",
+            "type": "deposit",
+            "account": "46924743"
+        },
+        {
+            "amount": "942.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Erdman - Wuckert",
+            "name": "Personal Loan Account 4672",
+            "type": "invoice",
+            "account": "55600728"
+        }
+    ]
+}

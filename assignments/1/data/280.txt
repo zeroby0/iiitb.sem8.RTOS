@@ -1,0 +1,72 @@
+{
+    "name": "Jonatan Schinner",
+    "username": "Dwight75",
+    "email": "Melany38@yahoo.com",
+    "address": {
+        "streetA": "Cassie Orchard",
+        "streetB": "0116 Carroll Summit",
+        "streetC": "0046 Eduardo Via Suite 865",
+        "streetD": "Suite 931",
+        "city": "Verniemouth",
+        "state": "South Dakota",
+        "country": "Papua New Guinea",
+        "zipcode": "33400-9963",
+        "geo": {
+            "lat": "1.6539",
+            "lng": "160.4184"
+        }
+    },
+    "phone": "545-053-8624 x359",
+    "website": "katrina.net",
+    "company": {
+        "name": "Brekke - Oberbrunner",
+        "catchPhrase": "Sharable local functionalities",
+        "bs": "revolutionary exploit e-tailers"
+    },
+    "posts": [
+        {
+            "words": "est aut praesentium",
+            "sentence": "Veniam eos quo iste in aliquid ex fuga optio.",
+            "sentences": "Ut minus explicabo enim. Recusandae voluptatem quisquam.",
+            "paragraph": "Quaerat excepturi excepturi numquam beatae praesentium nemo voluptas voluptatem. Eveniet aspernatur maiores at quo voluptates nemo qui. Ex eum soluta tenetur tenetur sint odit nobis hic expedita. Iste deserunt commodi aliquam mollitia ipsum et. Voluptatem vel eum et non deserunt voluptatibus illum consequuntur vitae."
+        },
+        {
+            "words": "eum nam sapiente",
+            "sentence": "Ex iusto est pariatur dolore vitae in quia.",
+            "sentences": "Et porro voluptas earum nemo et minus. Minus provident fugiat consequuntur facere. Tempore eveniet dolore natus cum assumenda vero. Nisi ut fuga molestiae non voluptatem suscipit eum rerum. Fugit esse qui aut harum cumque.",
+            "paragraph": "Harum suscipit occaecati at provident adipisci velit eos repellat. Nostrum et maxime dolores quas ut. Accusamus similique repellat illo consequatur accusantium fuga. Esse reiciendis consequatur. Ea et ea voluptatibus dolores. Rerum incidunt iste natus aut et."
+        },
+        {
+            "words": "rerum et praesentium",
+            "sentence": "Nemo omnis impedit sequi nobis ut mollitia earum et rerum.",
+            "sentences": "Est inventore aut explicabo. Omnis cum ab libero facilis est rem nostrum laudantium repellat.",
+            "paragraph": "Culpa maiores ipsum rerum sit. Consequuntur eius mollitia soluta suscipit qui eos perspiciatis veniam. Ratione et perferendis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "474.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Farrell - Greenholt",
+            "name": "Auto Loan Account 5363",
+            "type": "invoice",
+            "account": "29216391"
+        },
+        {
+            "amount": "70.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "King Group",
+            "name": "Investment Account 8607",
+            "type": "deposit",
+            "account": "23150359"
+        },
+        {
+            "amount": "24.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Steuber, Kemmer and Heaney",
+            "name": "Savings Account 9336",
+            "type": "invoice",
+            "account": "59667671"
+        }
+    ]
+}

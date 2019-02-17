@@ -1,0 +1,72 @@
+{
+    "name": "Delpha Dietrich",
+    "username": "Keanu_Parisian56",
+    "email": "Jaycee52@yahoo.com",
+    "address": {
+        "streetA": "Bernhard Island",
+        "streetB": "700 Grimes Centers",
+        "streetC": "90415 White Streets Apt. 477",
+        "streetD": "Suite 866",
+        "city": "Dannieside",
+        "state": "California",
+        "country": "Netherlands",
+        "zipcode": "40132",
+        "geo": {
+            "lat": "47.8686",
+            "lng": "-138.3098"
+        }
+    },
+    "phone": "(267) 736-3541",
+    "website": "maeve.biz",
+    "company": {
+        "name": "West, Upton and Shanahan",
+        "catchPhrase": "Organized foreground matrix",
+        "bs": "rich drive architectures"
+    },
+    "posts": [
+        {
+            "words": "molestias fugit recusandae",
+            "sentence": "Similique perferendis illum culpa molestiae hic ea.",
+            "sentences": "Ut aut ex itaque provident autem voluptas. Minima ut et nihil natus deleniti rem nesciunt voluptas. Ducimus dolor officia est nihil facere. Quaerat aut minima occaecati consequatur. Ut consequatur iste.",
+            "paragraph": "Voluptatibus qui consequatur nulla ut. Et optio esse blanditiis sint. Et necessitatibus et numquam. Vel aut et eos ipsa dolor."
+        },
+        {
+            "words": "omnis pariatur laboriosam",
+            "sentence": "A recusandae repellat est.",
+            "sentences": "Quia assumenda recusandae voluptatum omnis. Ea suscipit velit ratione atque quo.",
+            "paragraph": "Incidunt in vero nostrum molestiae. Sapiente qui nesciunt velit. Nulla mollitia eos. Cum natus necessitatibus. Consequatur quae alias iste veniam neque ullam nesciunt accusantium. Tenetur iusto sit quod consequatur vitae id temporibus ut."
+        },
+        {
+            "words": "corrupti vel autem",
+            "sentence": "Rerum velit et odio deserunt cupiditate blanditiis illo cumque et.",
+            "sentences": "Nam fugit dolorem porro eligendi ut molestiae sunt nemo. Delectus et rerum. Aut eligendi ut cupiditate eligendi vitae et odio reprehenderit.",
+            "paragraph": "Rerum ea eos inventore et. Distinctio consequuntur maiores unde eveniet. Deleniti eum et mollitia qui animi cum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "882.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Frami - Wiza",
+            "name": "Savings Account 1424",
+            "type": "deposit",
+            "account": "34148286"
+        },
+        {
+            "amount": "957.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Harris, Cremin and McClure",
+            "name": "Savings Account 5453",
+            "type": "deposit",
+            "account": "45215841"
+        },
+        {
+            "amount": "288.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuphal - Gorczany",
+            "name": "Home Loan Account 2086",
+            "type": "payment",
+            "account": "79829001"
+        }
+    ]
+}

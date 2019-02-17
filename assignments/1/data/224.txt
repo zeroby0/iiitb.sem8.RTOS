@@ -1,0 +1,72 @@
+{
+    "name": "Carolanne Renner",
+    "username": "Roy.Wilkinson",
+    "email": "Reece_Klocko83@gmail.com",
+    "address": {
+        "streetA": "Gust Mews",
+        "streetB": "935 Sallie Flats",
+        "streetC": "331 Robin Extensions Suite 292",
+        "streetD": "Apt. 275",
+        "city": "West Margarett",
+        "state": "Georgia",
+        "country": "Thailand",
+        "zipcode": "12646",
+        "geo": {
+            "lat": "86.4387",
+            "lng": "8.9888"
+        }
+    },
+    "phone": "565.105.7411 x68495",
+    "website": "therese.biz",
+    "company": {
+        "name": "Collins and Sons",
+        "catchPhrase": "Compatible dynamic database",
+        "bs": "proactive scale models"
+    },
+    "posts": [
+        {
+            "words": "est dolorem aperiam",
+            "sentence": "Et odio error dolorem placeat in iusto officiis blanditiis nulla.",
+            "sentences": "Eligendi perferendis et amet. Accusantium voluptates modi. Autem impedit quia eius et corporis et explicabo dolore. Quo aut quisquam et fugiat impedit. Quis sunt dolorum ad qui. Totam provident quisquam odio aperiam dolor soluta.",
+            "paragraph": "Repellendus omnis itaque fuga. Velit recusandae consequatur nobis odio. Et fugiat explicabo dicta aspernatur. Laboriosam repellat sed reprehenderit ducimus nisi. Provident sit qui dolore eius et ut."
+        },
+        {
+            "words": "laudantium expedita culpa",
+            "sentence": "Reiciendis sunt dolores aut architecto dolorum eligendi nulla.",
+            "sentences": "Ut quia quia voluptatibus. Et consequatur nam. Voluptatem debitis dignissimos eos possimus dolorem. Explicabo consequatur eos qui aspernatur quos facilis autem ut in.",
+            "paragraph": "Maxime dicta quidem. Dolor fugiat autem. Et minima dignissimos quaerat voluptas commodi accusantium. Dolorum ratione non amet aut numquam quod corporis. Voluptatem voluptates ratione."
+        },
+        {
+            "words": "velit veritatis culpa",
+            "sentence": "Corrupti accusantium qui.",
+            "sentences": "Ut numquam dolor sit. Quia voluptas omnis.",
+            "paragraph": "Dolorem repudiandae eaque deserunt. Accusantium sequi animi ut expedita deserunt vel. Id sunt commodi itaque. Fuga placeat doloremque deleniti possimus nulla sint. Ea vero sint beatae dolores at."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "370.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Metz, Bechtelar and Bailey",
+            "name": "Investment Account 6664",
+            "type": "withdrawal",
+            "account": "35829887"
+        },
+        {
+            "amount": "961.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hagenes and Sons",
+            "name": "Savings Account 6851",
+            "type": "deposit",
+            "account": "15891626"
+        },
+        {
+            "amount": "882.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rodriguez, Smith and Gorczany",
+            "name": "Personal Loan Account 9043",
+            "type": "withdrawal",
+            "account": "07504254"
+        }
+    ]
+}

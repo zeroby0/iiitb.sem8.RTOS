@@ -1,0 +1,72 @@
+{
+    "name": "Janiya Wintheiser",
+    "username": "Nathaniel.Muller",
+    "email": "Casey_Witting6@yahoo.com",
+    "address": {
+        "streetA": "Rosendo Brook",
+        "streetB": "46280 Ferne View",
+        "streetC": "63298 Williamson Square Suite 292",
+        "streetD": "Apt. 153",
+        "city": "Schusterstad",
+        "state": "Nebraska",
+        "country": "Bouvet Island (Bouvetoya)",
+        "zipcode": "36305-4193",
+        "geo": {
+            "lat": "23.5231",
+            "lng": "19.0531"
+        }
+    },
+    "phone": "(836) 194-4207 x318",
+    "website": "filomena.com",
+    "company": {
+        "name": "Murphy Group",
+        "catchPhrase": "Ameliorated directional portal",
+        "bs": "sexy reinvent initiatives"
+    },
+    "posts": [
+        {
+            "words": "ut ea aut",
+            "sentence": "Labore aut et voluptas deserunt blanditiis minima est sint.",
+            "sentences": "Qui aut fuga nemo est voluptatem sed qui necessitatibus hic. Est inventore maiores deserunt atque.",
+            "paragraph": "Ea architecto labore molestias voluptatibus. Et odio necessitatibus voluptates harum aut. Magnam a ut temporibus quisquam. Quia et aut voluptate natus laborum rem incidunt corrupti omnis."
+        },
+        {
+            "words": "aut sunt hic",
+            "sentence": "Dolorem sint aut impedit explicabo.",
+            "sentences": "Quos corrupti odio quia expedita itaque placeat quam id. Dolore sequi est molestiae fugiat. Voluptatem et iusto officia officiis et enim. Recusandae facere accusantium neque dolores eaque maxime molestiae. Ut dolorum cupiditate cupiditate at quis. Quas eos deserunt et omnis adipisci non tempora praesentium itaque.",
+            "paragraph": "Aut aspernatur sed mollitia doloremque non debitis aut. Consequatur voluptas qui est accusantium ea eum. Beatae quaerat ut eius. Ea error omnis aut nihil. Maxime eaque qui et vitae exercitationem dolorem sit ea quia. Voluptatem quos sunt qui magni perspiciatis."
+        },
+        {
+            "words": "veniam rem velit",
+            "sentence": "Quasi harum ratione vel facere facere quaerat tempora voluptate vel.",
+            "sentences": "At perspiciatis consectetur fuga dolores facilis natus. Atque eum maiores ullam eos qui blanditiis sed repellat incidunt.",
+            "paragraph": "Voluptatem quam repellat quia reiciendis. Minima iure odit id dolorem aut reiciendis dolores. Praesentium quibusdam voluptas facilis dolorem et laborum numquam est fuga. Nesciunt dicta ratione consequatur sed provident blanditiis cum non. Nesciunt maiores aut aliquid error hic repudiandae nostrum architecto accusantium. Quam sed nam laborum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "496.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Crist Inc",
+            "name": "Investment Account 6413",
+            "type": "invoice",
+            "account": "11971969"
+        },
+        {
+            "amount": "866.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lesch Group",
+            "name": "Savings Account 1134",
+            "type": "payment",
+            "account": "16865320"
+        },
+        {
+            "amount": "154.97",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hammes, Bernhard and Shanahan",
+            "name": "Checking Account 3545",
+            "type": "invoice",
+            "account": "62978510"
+        }
+    ]
+}

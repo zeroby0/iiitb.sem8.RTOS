@@ -1,0 +1,72 @@
+{
+    "name": "Halle Kemmer",
+    "username": "Elmira_Walker",
+    "email": "Lizzie_Jerde@gmail.com",
+    "address": {
+        "streetA": "Huel Points",
+        "streetB": "8456 Wellington Harbor",
+        "streetC": "55134 Zakary Road Apt. 317",
+        "streetD": "Suite 884",
+        "city": "Drakechester",
+        "state": "Pennsylvania",
+        "country": "Oman",
+        "zipcode": "40484-5463",
+        "geo": {
+            "lat": "33.6556",
+            "lng": "-121.9977"
+        }
+    },
+    "phone": "840-681-2322",
+    "website": "jarod.org",
+    "company": {
+        "name": "Brown, Farrell and Wisozk",
+        "catchPhrase": "Configurable dynamic circuit",
+        "bs": "extensible unleash models"
+    },
+    "posts": [
+        {
+            "words": "eum iusto cum",
+            "sentence": "Quasi iste inventore.",
+            "sentences": "Facere est voluptatem vel sunt quo error omnis. Animi at ut ut doloremque veniam quae error ut. Suscipit error totam dolorem quas reiciendis deleniti.",
+            "paragraph": "Nisi possimus odit. Quasi delectus qui. Ipsam minus ut facere sit minima velit unde mollitia fugit. Corporis pariatur consequatur fugiat nisi."
+        },
+        {
+            "words": "in nemo consequuntur",
+            "sentence": "Provident velit perspiciatis a et aut rem id et.",
+            "sentences": "Accusamus temporibus quibusdam porro et qui quae. Enim qui error totam esse deserunt ipsa. Iure in ab alias et. Ut aut vero et aut.",
+            "paragraph": "Ducimus aperiam consequatur. Dolores et et autem quo officiis iusto facere provident. At rerum accusamus architecto maiores sequi repellat sit magnam. Et mollitia ea ut dignissimos ut. Voluptas qui aut recusandae quae ut incidunt officia odit. Fugiat libero non aliquam qui quisquam."
+        },
+        {
+            "words": "quo mollitia sed",
+            "sentence": "Qui facere et veniam sint.",
+            "sentences": "Incidunt libero et voluptates tempore ullam in molestias similique. Eveniet voluptatem eaque possimus aperiam neque. Sed voluptas ipsa illum exercitationem.",
+            "paragraph": "Recusandae unde sed repellendus explicabo. Sed ab harum est velit sint et. Ut expedita dignissimos. Eaque nihil mollitia aspernatur dolores. Qui nam laboriosam a provident natus necessitatibus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "757.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Keefe - Douglas",
+            "name": "Investment Account 9789",
+            "type": "deposit",
+            "account": "51832308"
+        },
+        {
+            "amount": "450.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rice - Deckow",
+            "name": "Savings Account 2472",
+            "type": "invoice",
+            "account": "90399427"
+        },
+        {
+            "amount": "941.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Conroy - Mosciski",
+            "name": "Personal Loan Account 5910",
+            "type": "invoice",
+            "account": "77456790"
+        }
+    ]
+}

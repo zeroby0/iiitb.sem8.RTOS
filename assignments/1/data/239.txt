@@ -1,0 +1,72 @@
+{
+    "name": "Mr. Glennie O'Kon",
+    "username": "Christiana_Crona",
+    "email": "Ricky.Langosh15@yahoo.com",
+    "address": {
+        "streetA": "Edna Coves",
+        "streetB": "030 Alvis Villages",
+        "streetC": "1270 Lamont Vista Apt. 069",
+        "streetD": "Apt. 408",
+        "city": "New Oriestad",
+        "state": "California",
+        "country": "Namibia",
+        "zipcode": "51836-2390",
+        "geo": {
+            "lat": "-86.9899",
+            "lng": "45.2439"
+        }
+    },
+    "phone": "161-922-0716 x6074",
+    "website": "lewis.net",
+    "company": {
+        "name": "Cartwright, Pacocha and O'Reilly",
+        "catchPhrase": "Synchronised upward-trending installation",
+        "bs": "24/365 innovate niches"
+    },
+    "posts": [
+        {
+            "words": "a sint iusto",
+            "sentence": "Nesciunt ex ea vitae aut molestias reiciendis nisi ex eaque.",
+            "sentences": "Non repellat esse dolores rerum officia neque maxime aliquid modi. Quis aut aut maxime et asperiores qui esse. Suscipit inventore mollitia blanditiis cum at ad ducimus labore. Saepe in doloribus aut.",
+            "paragraph": "Molestias nostrum exercitationem libero perferendis reiciendis architecto. Aut consequuntur dolore quia dolorem id porro adipisci sit magni. Ea doloribus illum eius assumenda et."
+        },
+        {
+            "words": "neque qui tempore",
+            "sentence": "Dolorem nemo et et totam aperiam dolor voluptatum esse nisi.",
+            "sentences": "Adipisci voluptate sed. Omnis recusandae aspernatur unde sequi.",
+            "paragraph": "Voluptate ea voluptate aspernatur a impedit fuga maiores. Velit illo sit nobis molestiae optio incidunt ut quis. Eos nesciunt quia enim quas et velit quae ipsa."
+        },
+        {
+            "words": "et ipsa deserunt",
+            "sentence": "Quam repellat quam eos sed illum aut consectetur ex.",
+            "sentences": "Commodi quo animi voluptatem et. Eaque quia culpa et quam iusto sapiente. Nihil voluptatem error. Vitae sed officia sequi corrupti dolor quis.",
+            "paragraph": "Doloribus autem et qui dolores quaerat explicabo. Doloremque est ut dolore nobis numquam qui. Magni rerum officia. Delectus qui ut rerum aperiam soluta consectetur maxime repellat incidunt. Voluptatem debitis consequatur laboriosam. Aut sunt et ab sunt velit cumque libero."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "937.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ledner - Abbott",
+            "name": "Auto Loan Account 6407",
+            "type": "payment",
+            "account": "68557931"
+        },
+        {
+            "amount": "155.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Champlin - Gleichner",
+            "name": "Money Market Account 8405",
+            "type": "deposit",
+            "account": "69868448"
+        },
+        {
+            "amount": "301.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cronin, Wunsch and Dickens",
+            "name": "Checking Account 7460",
+            "type": "payment",
+            "account": "62359505"
+        }
+    ]
+}

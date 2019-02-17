@@ -1,0 +1,72 @@
+{
+    "name": "Rubye Schamberger",
+    "username": "Fay69",
+    "email": "Hilma46@hotmail.com",
+    "address": {
+        "streetA": "Wyman Mountain",
+        "streetB": "33983 Hermiston Roads",
+        "streetC": "90536 Pollich Run Apt. 592",
+        "streetD": "Suite 989",
+        "city": "East Kole",
+        "state": "Texas",
+        "country": "Iraq",
+        "zipcode": "23351",
+        "geo": {
+            "lat": "28.4787",
+            "lng": "-24.0624"
+        }
+    },
+    "phone": "(085) 679-1388 x96224",
+    "website": "candida.net",
+    "company": {
+        "name": "Harris Inc",
+        "catchPhrase": "Operative value-added concept",
+        "bs": "best-of-breed iterate portals"
+    },
+    "posts": [
+        {
+            "words": "consequatur cumque autem",
+            "sentence": "Illum ut et et libero enim qui voluptas.",
+            "sentences": "Suscipit aut numquam dolores et suscipit qui. Cum temporibus quia dolores occaecati eligendi earum earum in. Dicta dolorum temporibus unde. Hic labore molestiae a laudantium dolorem. Aliquam sit sint sunt beatae porro velit facere. Est et laboriosam sapiente.",
+            "paragraph": "Optio aut repellendus sunt pariatur voluptatem adipisci distinctio sed quaerat. Repellendus est architecto accusamus accusantium soluta. Velit et qui. Cumque nam quasi voluptatum sit."
+        },
+        {
+            "words": "accusamus enim maiores",
+            "sentence": "Accusantium quam ipsam fuga non illum reprehenderit.",
+            "sentences": "Qui qui temporibus. Autem velit earum.",
+            "paragraph": "Tenetur facere velit quia voluptatem et magnam repellendus soluta. Eos provident rerum ut molestiae cupiditate vel inventore natus. Nobis non unde ullam quis. Laborum animi veritatis omnis dolorem ad. Iste dolorem mollitia nostrum. Aut nihil culpa."
+        },
+        {
+            "words": "quaerat sed blanditiis",
+            "sentence": "Eos veniam doloribus odit officiis sunt enim.",
+            "sentences": "Laboriosam earum fugit minima voluptas praesentium. Deleniti sint ea dolor rerum commodi atque. Unde laudantium explicabo quia est voluptatem vitae voluptas est. Consectetur impedit illo ea atque. Velit modi quo quis impedit harum voluptates. Est optio hic perspiciatis et cumque.",
+            "paragraph": "Sed non numquam placeat et doloremque officiis aut eum. Veniam corporis libero ut expedita doloremque atque veritatis. Deserunt sit laboriosam deleniti sunt harum. Vel delectus voluptate unde."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "937.33",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gerlach Inc",
+            "name": "Checking Account 3962",
+            "type": "invoice",
+            "account": "97600544"
+        },
+        {
+            "amount": "636.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Larkin, Bode and Crooks",
+            "name": "Money Market Account 5280",
+            "type": "deposit",
+            "account": "71222581"
+        },
+        {
+            "amount": "129.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McDermott, Walter and McKenzie",
+            "name": "Money Market Account 7552",
+            "type": "withdrawal",
+            "account": "34903023"
+        }
+    ]
+}

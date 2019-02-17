@@ -1,0 +1,72 @@
+{
+    "name": "Sunny Hirthe",
+    "username": "Aylin.Schowalter5",
+    "email": "Aurore_Marquardt@yahoo.com",
+    "address": {
+        "streetA": "Sanford Cape",
+        "streetB": "399 Eino Ranch",
+        "streetC": "413 Bogisich Route Apt. 269",
+        "streetD": "Suite 640",
+        "city": "East Bernadette",
+        "state": "Vermont",
+        "country": "Reunion",
+        "zipcode": "67803",
+        "geo": {
+            "lat": "-58.1382",
+            "lng": "137.4821"
+        }
+    },
+    "phone": "222.664.5212 x586",
+    "website": "aryanna.com",
+    "company": {
+        "name": "Lowe, Pfeffer and Pouros",
+        "catchPhrase": "Cross-platform intangible application",
+        "bs": "distributed productize communities"
+    },
+    "posts": [
+        {
+            "words": "ut vero quasi",
+            "sentence": "Tempora recusandae harum.",
+            "sentences": "Non debitis repudiandae nulla natus iste qui voluptatem. Nulla exercitationem ut. Et alias dolor alias sit labore. Assumenda ducimus voluptas fuga odit consequuntur vitae esse quam.",
+            "paragraph": "Ut blanditiis at a eos modi non quae odit. Sunt accusantium molestias qui rem. Commodi sed illum dolores corporis."
+        },
+        {
+            "words": "maiores explicabo consectetur",
+            "sentence": "Sunt eum laudantium aut veniam consequatur repellat occaecati eveniet.",
+            "sentences": "Voluptate veritatis cupiditate qui corrupti corrupti voluptas id dolores. Autem itaque esse perferendis sunt ea alias est. Suscipit eum rerum sit eum officia velit ad.",
+            "paragraph": "Odio voluptas quia. Voluptatum praesentium corrupti eveniet hic. Consequatur in illum doloribus et ea ducimus excepturi iusto. Sit sunt provident et et rem natus. Delectus impedit dolorem omnis ut cumque."
+        },
+        {
+            "words": "molestiae odio nesciunt",
+            "sentence": "Incidunt deleniti incidunt dolorum sit sequi ut error reprehenderit.",
+            "sentences": "Quaerat nobis quia ullam animi quod ut suscipit consectetur architecto. Neque commodi cupiditate. Non eos dolores non facilis dolor et voluptas hic suscipit. Cupiditate voluptatem sint quis rerum nisi eos magnam quasi. Quo quas dolorem doloremque dolor qui rem dolor sed.",
+            "paragraph": "Molestias aut autem eaque adipisci esse iure adipisci et saepe. Quibusdam est voluptate. Voluptatem soluta architecto voluptates. Voluptas aut perspiciatis nihil quasi neque nisi qui voluptas. Aspernatur nobis et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "226.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Corwin LLC",
+            "name": "Investment Account 9885",
+            "type": "invoice",
+            "account": "26229423"
+        },
+        {
+            "amount": "93.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kohler Group",
+            "name": "Auto Loan Account 5280",
+            "type": "withdrawal",
+            "account": "85025655"
+        },
+        {
+            "amount": "800.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Friesen, D'Amore and Lehner",
+            "name": "Checking Account 8595",
+            "type": "invoice",
+            "account": "50961346"
+        }
+    ]
+}

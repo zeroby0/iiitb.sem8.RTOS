@@ -1,0 +1,72 @@
+{
+    "name": "Keanu Tremblay",
+    "username": "Chanelle34",
+    "email": "Cecilia46@gmail.com",
+    "address": {
+        "streetA": "Meta Manors",
+        "streetB": "40060 Vincenza Mall",
+        "streetC": "15113 Therese Ford Apt. 577",
+        "streetD": "Apt. 770",
+        "city": "Kossburgh",
+        "state": "Hawaii",
+        "country": "Norway",
+        "zipcode": "70462",
+        "geo": {
+            "lat": "68.5281",
+            "lng": "-162.7939"
+        }
+    },
+    "phone": "1-205-949-6956 x075",
+    "website": "heidi.info",
+    "company": {
+        "name": "Hoppe LLC",
+        "catchPhrase": "Monitored coherent concept",
+        "bs": "web-enabled maximize action-items"
+    },
+    "posts": [
+        {
+            "words": "iste et eius",
+            "sentence": "Dolores inventore expedita dolor ea iure repellat.",
+            "sentences": "Est corrupti velit. Et quasi dolorum ad aut. Aut qui dolorum eligendi et facilis ut aperiam sit. Modi earum voluptas.",
+            "paragraph": "Autem sed nihil fugit. Commodi similique numquam. Laboriosam quas exercitationem consectetur incidunt illum. Et vero culpa voluptate accusantium inventore vel ab laboriosam reprehenderit. Accusamus laborum praesentium voluptates hic nisi sit magni voluptate nihil."
+        },
+        {
+            "words": "expedita sunt animi",
+            "sentence": "Fugit sunt quos.",
+            "sentences": "Quia voluptate et ut et et dignissimos ullam nam. Quia quo ex consequuntur. Dolores tempore dolores cupiditate. Consequatur culpa asperiores omnis ad perferendis. Consequatur quia quis dolores et qui ea pariatur.",
+            "paragraph": "Totam et deleniti temporibus cum recusandae quia quisquam ut laudantium. Libero fugit excepturi ab. Enim debitis adipisci cumque omnis expedita molestiae et. Asperiores est libero. Neque id sed voluptatem eaque non quisquam. Id aut cumque totam aspernatur a illum et dolorum est."
+        },
+        {
+            "words": "qui facere ea",
+            "sentence": "Quam voluptas explicabo minima.",
+            "sentences": "Excepturi itaque in debitis amet est. Voluptatem sit dolores eaque. Id praesentium consequatur adipisci. Quia aut hic. Cupiditate doloremque aliquam nesciunt ipsam voluptatibus in.",
+            "paragraph": "Aut voluptatem ullam veritatis blanditiis autem qui quod voluptas. Quibusdam ut numquam qui aliquid unde voluptates eum et. Molestiae quo incidunt inventore. Facilis aliquid recusandae voluptas. Dolores doloribus error maxime et non qui."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "453.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hermiston and Sons",
+            "name": "Savings Account 2036",
+            "type": "invoice",
+            "account": "63664328"
+        },
+        {
+            "amount": "946.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Spinka LLC",
+            "name": "Money Market Account 1036",
+            "type": "payment",
+            "account": "36680065"
+        },
+        {
+            "amount": "876.54",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ankunding LLC",
+            "name": "Home Loan Account 2642",
+            "type": "deposit",
+            "account": "01335943"
+        }
+    ]
+}

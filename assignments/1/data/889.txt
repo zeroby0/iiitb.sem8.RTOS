@@ -1,0 +1,72 @@
+{
+    "name": "Jedidiah Runolfsson",
+    "username": "Frieda.Breitenberg44",
+    "email": "Roel.Pacocha@hotmail.com",
+    "address": {
+        "streetA": "Dane Points",
+        "streetB": "46382 Romaine Via",
+        "streetC": "80342 Ibrahim Parks Apt. 619",
+        "streetD": "Suite 202",
+        "city": "North Ashlee",
+        "state": "Rhode Island",
+        "country": "Suriname",
+        "zipcode": "14256-5269",
+        "geo": {
+            "lat": "40.0792",
+            "lng": "-68.8261"
+        }
+    },
+    "phone": "(993) 838-5484 x664",
+    "website": "wava.com",
+    "company": {
+        "name": "Dicki and Sons",
+        "catchPhrase": "Focused clear-thinking forecast",
+        "bs": "sexy reinvent infomediaries"
+    },
+    "posts": [
+        {
+            "words": "consectetur doloremque aliquam",
+            "sentence": "Quaerat quia est perspiciatis commodi illo aut aperiam tempore.",
+            "sentences": "Ex ipsam vitae aut. Quis fuga qui distinctio voluptatem rerum dolorem est. Nulla ratione ut. Voluptatibus mollitia ratione aut sint blanditiis. Ex inventore est.",
+            "paragraph": "Fuga non rem. Incidunt non id cum voluptatum et. Impedit id dolorum voluptatem fuga ea expedita et ut repellat. Repellat sint sunt reprehenderit blanditiis asperiores dolor. Suscipit id nihil molestiae consequatur."
+        },
+        {
+            "words": "qui ut iure",
+            "sentence": "Voluptatem labore ad molestiae eum reiciendis debitis sunt.",
+            "sentences": "Ut error laborum est sapiente laborum quaerat veritatis. Nihil laudantium sint impedit in ea officiis voluptates. Officiis suscipit dolores deleniti ut at ea provident qui. Voluptatum error repellendus optio iure placeat.",
+            "paragraph": "Culpa id et qui corporis molestiae quae. Iure ducimus hic. Consequatur voluptatem consequatur. Accusamus magni voluptatem impedit."
+        },
+        {
+            "words": "rerum minus itaque",
+            "sentence": "Iusto eos debitis temporibus est beatae.",
+            "sentences": "Quis fugit quasi eius assumenda ut et illum nobis. Debitis nulla et voluptas quis ducimus. Blanditiis quas est dicta sunt. Exercitationem nulla facere ipsum dolor similique omnis modi.",
+            "paragraph": "Ab veniam porro. Quaerat nam minima porro sed deserunt eum voluptates et. Excepturi id quo assumenda voluptatem corrupti saepe et rerum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "79.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beer - Collier",
+            "name": "Savings Account 6334",
+            "type": "deposit",
+            "account": "02619777"
+        },
+        {
+            "amount": "108.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jerde, Veum and Rippin",
+            "name": "Credit Card Account 4509",
+            "type": "deposit",
+            "account": "27517924"
+        },
+        {
+            "amount": "467.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schowalter - Quigley",
+            "name": "Auto Loan Account 4985",
+            "type": "deposit",
+            "account": "18740015"
+        }
+    ]
+}

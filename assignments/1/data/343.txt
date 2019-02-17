@@ -1,0 +1,72 @@
+{
+    "name": "Camron Buckridge Sr.",
+    "username": "Aida50",
+    "email": "Clotilde47@gmail.com",
+    "address": {
+        "streetA": "Beatty Ferry",
+        "streetB": "1183 Tillman Shore",
+        "streetC": "778 Moses Cliffs Suite 852",
+        "streetD": "Apt. 656",
+        "city": "Rosenbaummouth",
+        "state": "Nevada",
+        "country": "Togo",
+        "zipcode": "96064",
+        "geo": {
+            "lat": "82.4243",
+            "lng": "-164.3550"
+        }
+    },
+    "phone": "1-575-040-9229 x520",
+    "website": "crawford.name",
+    "company": {
+        "name": "Frami - Schamberger",
+        "catchPhrase": "Cloned heuristic access",
+        "bs": "back-end enable ROI"
+    },
+    "posts": [
+        {
+            "words": "est voluptates nesciunt",
+            "sentence": "In vitae voluptatem consequuntur voluptatem quia blanditiis sit atque cum.",
+            "sentences": "Ut et autem voluptatem fugit nam. Nesciunt doloribus dicta aspernatur dolorem eos adipisci aut praesentium. Eaque facilis hic quasi.",
+            "paragraph": "Praesentium molestias porro omnis libero totam minima. Sit praesentium ab aut dolorem sit. Sed numquam totam. Doloribus non dolorem sunt."
+        },
+        {
+            "words": "est quaerat eveniet",
+            "sentence": "Eos aspernatur fugiat nihil.",
+            "sentences": "Nesciunt facere voluptatibus in aliquam. Et omnis reprehenderit voluptas rerum. Est laudantium vero autem quod dolores. Ipsam est vel quia quo. Rerum dolore enim numquam ad. Voluptatem illum animi qui magni numquam nemo distinctio.",
+            "paragraph": "Magnam tenetur dolores debitis dolor cumque voluptatem. Maiores aut qui. Ab in vel corrupti. Eligendi et neque accusamus nihil hic eum. Ut vel tempore quia dignissimos itaque quo."
+        },
+        {
+            "words": "doloremque nobis est",
+            "sentence": "Rerum corporis impedit iure explicabo.",
+            "sentences": "Qui qui dolor voluptatem placeat sapiente facere est dicta unde. Consequuntur velit deleniti nostrum voluptatem unde nulla placeat. Excepturi laboriosam et aspernatur et optio sint placeat.",
+            "paragraph": "Corporis dolores unde optio. Quo doloribus ut laboriosam veniam voluptatibus iusto. Eveniet necessitatibus nemo labore voluptas in impedit voluptatem velit. Reprehenderit neque dicta voluptas cum dolorem quia. Ad beatae possimus illo eos consectetur dolorem iste tenetur. Molestiae quas voluptatum corrupti eum voluptatibus facilis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "207.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mraz, Bogisich and Schowalter",
+            "name": "Investment Account 5669",
+            "type": "withdrawal",
+            "account": "94149748"
+        },
+        {
+            "amount": "518.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tremblay, Eichmann and Stracke",
+            "name": "Auto Loan Account 9187",
+            "type": "payment",
+            "account": "27276988"
+        },
+        {
+            "amount": "636.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Walsh and Sons",
+            "name": "Savings Account 8511",
+            "type": "payment",
+            "account": "24838365"
+        }
+    ]
+}

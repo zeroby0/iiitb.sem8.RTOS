@@ -1,0 +1,72 @@
+{
+    "name": "Warren Barrows",
+    "username": "Jerrell.Hermann30",
+    "email": "Marjory_DAmore@hotmail.com",
+    "address": {
+        "streetA": "Jacobi Route",
+        "streetB": "799 Schneider Villages",
+        "streetC": "603 Russel Crossroad Apt. 055",
+        "streetD": "Apt. 210",
+        "city": "Deckowville",
+        "state": "Iowa",
+        "country": "Bolivia",
+        "zipcode": "70889-6504",
+        "geo": {
+            "lat": "-13.5920",
+            "lng": "-22.9872"
+        }
+    },
+    "phone": "681.700.6732 x2040",
+    "website": "oren.info",
+    "company": {
+        "name": "Swift - Leuschke",
+        "catchPhrase": "Synergized client-server adapter",
+        "bs": "seamless generate action-items"
+    },
+    "posts": [
+        {
+            "words": "quibusdam dignissimos veniam",
+            "sentence": "Qui eaque consectetur nulla hic qui.",
+            "sentences": "Voluptatem ut cumque ut consequatur. Error veritatis iusto iusto assumenda at optio qui voluptatem.",
+            "paragraph": "Asperiores voluptas deserunt labore eius voluptas dolores iusto id libero. Hic quam facere recusandae explicabo. Ut et et. Consequuntur laborum a magnam. Sed fugit eum."
+        },
+        {
+            "words": "minus repellat odio",
+            "sentence": "Et dolore fuga et officia quo rerum vero deleniti.",
+            "sentences": "Nostrum dolorum dolores ex atque nesciunt rerum id iure. Inventore dicta labore omnis. Perferendis necessitatibus dolorum corporis labore eum esse dignissimos. Ipsam et vel. Dolorum qui id excepturi voluptatibus possimus.",
+            "paragraph": "Aliquid molestiae iste sint est et porro libero non quos. Qui expedita unde nostrum et eos in velit aliquid totam. Et a tenetur reprehenderit aut. Voluptates nostrum vitae necessitatibus sed."
+        },
+        {
+            "words": "iusto voluptatem et",
+            "sentence": "Ducimus dolorem ratione laboriosam consequatur amet nobis voluptas voluptates recusandae.",
+            "sentences": "Autem modi sit ut. Quia vel nemo et reiciendis molestiae ducimus quasi tenetur earum. Enim laborum illum nihil ullam assumenda a.",
+            "paragraph": "Atque aut a temporibus. Unde ut odio. Amet ipsa corrupti voluptatibus quae provident autem. Et maiores eveniet dolores rerum eos aut voluptas quia voluptate. Saepe ut maiores ducimus vel veritatis ipsum. Dolorum et minima."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "333.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kemmer, Herman and Crona",
+            "name": "Money Market Account 5797",
+            "type": "invoice",
+            "account": "53590576"
+        },
+        {
+            "amount": "835.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kiehn, Boyer and DuBuque",
+            "name": "Credit Card Account 0953",
+            "type": "payment",
+            "account": "92676176"
+        },
+        {
+            "amount": "329.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hodkiewicz Group",
+            "name": "Credit Card Account 9125",
+            "type": "withdrawal",
+            "account": "97681131"
+        }
+    ]
+}

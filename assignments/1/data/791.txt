@@ -1,0 +1,72 @@
+{
+    "name": "Charles Rippin",
+    "username": "Virginia40",
+    "email": "Kade.Mraz@hotmail.com",
+    "address": {
+        "streetA": "Mariah Land",
+        "streetB": "1135 Pansy Alley",
+        "streetC": "7299 Zula Parkway Suite 274",
+        "streetD": "Apt. 897",
+        "city": "Corkerymouth",
+        "state": "Idaho",
+        "country": "Gabon",
+        "zipcode": "53557",
+        "geo": {
+            "lat": "-20.5089",
+            "lng": "-104.8037"
+        }
+    },
+    "phone": "769.989.3969 x652",
+    "website": "jules.info",
+    "company": {
+        "name": "Leannon, Koch and Hagenes",
+        "catchPhrase": "Re-engineered methodical forecast",
+        "bs": "dynamic incentivize e-markets"
+    },
+    "posts": [
+        {
+            "words": "consequatur est ex",
+            "sentence": "Voluptas nihil voluptatibus aut quos.",
+            "sentences": "Aut excepturi consequatur consectetur ut debitis officia eum aut autem. In cumque rerum minus nam ea est magnam.",
+            "paragraph": "Saepe enim enim incidunt atque neque sint. Quis rerum sint laboriosam earum vel sit. Unde qui distinctio qui enim unde eligendi. Et non vitae molestias placeat quaerat qui quasi vel. Nisi eligendi iusto voluptatibus et explicabo. A cupiditate adipisci eos velit beatae in nihil enim iste."
+        },
+        {
+            "words": "consequatur sit non",
+            "sentence": "At delectus et deserunt impedit aut praesentium iusto eveniet quo.",
+            "sentences": "Iure molestiae eaque non nihil. Nostrum possimus maiores nihil facere id.",
+            "paragraph": "Provident ex ratione est distinctio fugit earum. Aut ex tenetur facere. Consequuntur rerum ut voluptatem eum voluptatum rem dolorem."
+        },
+        {
+            "words": "cumque voluptatem mollitia",
+            "sentence": "Voluptatibus quos earum qui tenetur.",
+            "sentences": "Eveniet hic eos aut dolores recusandae laborum culpa. Enim eos error suscipit est modi enim quia. Ut eligendi ut est. At soluta laboriosam. Quos qui reiciendis esse harum perspiciatis.",
+            "paragraph": "Quaerat quis sint dolor. Quibusdam fugit quo perferendis modi enim aut facilis omnis. Qui laborum temporibus cum. Et nihil culpa eum dolorum voluptate facilis iusto ut. Ullam ex aperiam. Adipisci nisi voluptatem qui eligendi accusamus quibusdam consequuntur aut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "517.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmidt Group",
+            "name": "Credit Card Account 8602",
+            "type": "payment",
+            "account": "23788468"
+        },
+        {
+            "amount": "346.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Russel - Morissette",
+            "name": "Money Market Account 2125",
+            "type": "payment",
+            "account": "12851479"
+        },
+        {
+            "amount": "19.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Durgan - Pfeffer",
+            "name": "Money Market Account 8785",
+            "type": "deposit",
+            "account": "00130971"
+        }
+    ]
+}

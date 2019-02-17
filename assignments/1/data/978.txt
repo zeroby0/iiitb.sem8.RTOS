@@ -1,0 +1,72 @@
+{
+    "name": "Deontae Pacocha",
+    "username": "Ralph20",
+    "email": "Jordon96@gmail.com",
+    "address": {
+        "streetA": "Beer Mill",
+        "streetB": "20735 Jaskolski Row",
+        "streetC": "6742 Ocie Freeway Apt. 416",
+        "streetD": "Suite 576",
+        "city": "Darionchester",
+        "state": "Florida",
+        "country": "Christmas Island",
+        "zipcode": "40509",
+        "geo": {
+            "lat": "-35.1010",
+            "lng": "131.9984"
+        }
+    },
+    "phone": "(285) 557-5454 x264",
+    "website": "chelsey.biz",
+    "company": {
+        "name": "Feeney Group",
+        "catchPhrase": "Profit-focused well-modulated hardware",
+        "bs": "value-added maximize e-business"
+    },
+    "posts": [
+        {
+            "words": "incidunt asperiores iusto",
+            "sentence": "Sit soluta dolorum qui deserunt at magnam.",
+            "sentences": "Eum maxime dolorem odio qui aut. Eos ut sed et. Omnis molestiae eum laborum aut ducimus voluptatum consequatur beatae et. Libero veritatis eos magni sequi eveniet. Qui ut ut nihil quaerat sequi harum enim deserunt. Natus velit et.",
+            "paragraph": "Officiis doloremque voluptatem minus quia dolorum nihil. Incidunt quo saepe modi ab non aut qui. Velit pariatur et et sit. Velit consequatur aut qui odio sequi voluptate consequatur aut voluptatem. Non excepturi iure voluptas libero id laboriosam provident."
+        },
+        {
+            "words": "sequi ipsum dolore",
+            "sentence": "Nisi ut soluta veritatis incidunt molestiae et libero ut.",
+            "sentences": "Iste qui libero totam perspiciatis dolorum sed. Eius sint labore neque et ut quibusdam soluta recusandae aut. Culpa voluptatem aspernatur repudiandae. Voluptatem et quis sapiente qui aut tenetur natus. Doloribus voluptatem dignissimos placeat quisquam sunt repellat ut eligendi est.",
+            "paragraph": "Voluptatem reiciendis earum aut accusantium quidem earum vel quaerat quaerat. Porro facilis nisi voluptatem voluptatibus debitis possimus. Quis omnis et et repellat et nesciunt et. Expedita sit tempore perspiciatis. Consequatur quam vero. Est similique amet aperiam."
+        },
+        {
+            "words": "qui qui libero",
+            "sentence": "Doloremque velit adipisci qui libero a eum.",
+            "sentences": "Non nesciunt exercitationem iste deleniti et soluta ex. At est eos eaque aliquam corrupti. Reiciendis perferendis enim est rerum id. Hic aut veniam nobis aut tempora est laudantium.",
+            "paragraph": "Rerum veniam velit voluptas ut est. Aperiam sint rerum et repellendus. Quo cumque est nam ut rem. Repellendus sunt assumenda odio id quisquam sit odit officia."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "459.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Heathcote - O'Kon",
+            "name": "Checking Account 1448",
+            "type": "withdrawal",
+            "account": "37345723"
+        },
+        {
+            "amount": "706.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Grant - Lehner",
+            "name": "Personal Loan Account 6282",
+            "type": "invoice",
+            "account": "50250385"
+        },
+        {
+            "amount": "679.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reinger, MacGyver and Heidenreich",
+            "name": "Money Market Account 4198",
+            "type": "invoice",
+            "account": "27249205"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Yvonne Larson",
+    "username": "Robyn.Harber",
+    "email": "Garrison53@gmail.com",
+    "address": {
+        "streetA": "Boyd Point",
+        "streetB": "3941 Xavier Circles",
+        "streetC": "79962 Helena Point Apt. 095",
+        "streetD": "Suite 663",
+        "city": "Amieberg",
+        "state": "Hawaii",
+        "country": "Lesotho",
+        "zipcode": "73633-6603",
+        "geo": {
+            "lat": "-48.8969",
+            "lng": "-160.5849"
+        }
+    },
+    "phone": "(980) 320-1478 x557",
+    "website": "clint.name",
+    "company": {
+        "name": "Barrows, Heidenreich and Hammes",
+        "catchPhrase": "Centralized attitude-oriented flexibility",
+        "bs": "bleeding-edge matrix action-items"
+    },
+    "posts": [
+        {
+            "words": "sunt temporibus enim",
+            "sentence": "Expedita impedit dolore maiores est recusandae ducimus dolorem.",
+            "sentences": "Enim qui temporibus dolorem quod. Nobis eum voluptatibus. Cum odio ad repellendus enim voluptate quas sit minima.",
+            "paragraph": "Est blanditiis aut ab. Aspernatur omnis distinctio id sint quaerat dicta. Et labore quasi animi. In optio tempora. Sequi commodi soluta."
+        },
+        {
+            "words": "molestiae autem voluptatem",
+            "sentence": "Quo ea porro officiis sequi fugiat qui incidunt.",
+            "sentences": "Aut voluptas doloremque dolorem. Commodi corrupti ipsa sed iure. Possimus sunt porro omnis. Voluptas voluptatem eum. Quis et assumenda ad facilis dignissimos excepturi possimus illo.",
+            "paragraph": "Nemo culpa ea et animi eum repudiandae. Sequi enim animi quia animi dolorem dolorem doloremque dolore. Illo et consequuntur aut et rerum ullam praesentium quam veniam."
+        },
+        {
+            "words": "ut quia vel",
+            "sentence": "At vitae delectus rerum aliquid labore consequuntur tempore facilis.",
+            "sentences": "Accusamus non consectetur voluptatem qui qui placeat officiis. Sint sequi assumenda eum autem est. Quas nobis autem officiis in tempore et assumenda ipsam.",
+            "paragraph": "Quia voluptatibus quae. Et fugit consequatur dolorum est et vel rerum explicabo laboriosam. Animi facilis incidunt. Quam vel sequi quod."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "724.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jones - Tillman",
+            "name": "Investment Account 6873",
+            "type": "deposit",
+            "account": "10688618"
+        },
+        {
+            "amount": "76.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Smith, Hodkiewicz and Bergstrom",
+            "name": "Money Market Account 9228",
+            "type": "deposit",
+            "account": "09535315"
+        },
+        {
+            "amount": "498.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Von, Schowalter and Heaney",
+            "name": "Investment Account 0328",
+            "type": "deposit",
+            "account": "15319578"
+        }
+    ]
+}

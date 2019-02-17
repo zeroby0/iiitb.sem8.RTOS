@@ -1,0 +1,72 @@
+{
+    "name": "Obie Hackett",
+    "username": "Zechariah.Hegmann34",
+    "email": "Ansel.Frami55@gmail.com",
+    "address": {
+        "streetA": "Weber Station",
+        "streetB": "420 Liliane Glens",
+        "streetC": "945 Beer Light Apt. 943",
+        "streetD": "Suite 239",
+        "city": "Elinorland",
+        "state": "Ohio",
+        "country": "Guadeloupe",
+        "zipcode": "42232",
+        "geo": {
+            "lat": "-22.5885",
+            "lng": "129.6986"
+        }
+    },
+    "phone": "441-349-9841",
+    "website": "angelo.org",
+    "company": {
+        "name": "Bode, Grant and Pacocha",
+        "catchPhrase": "Streamlined logistical archive",
+        "bs": "plug-and-play facilitate communities"
+    },
+    "posts": [
+        {
+            "words": "aut minima totam",
+            "sentence": "Aspernatur nesciunt delectus.",
+            "sentences": "Voluptatem consequatur nihil quas nobis aliquam exercitationem quisquam. Vero eius repellat sed dolore nihil praesentium quis.",
+            "paragraph": "Omnis et perspiciatis aliquam molestiae alias ut. Est porro sapiente doloribus rem ipsum odio esse minus et. Vel qui corrupti alias delectus fuga soluta."
+        },
+        {
+            "words": "voluptatibus omnis modi",
+            "sentence": "Perferendis ut quia rem architecto.",
+            "sentences": "Quaerat tempore quasi rerum et quaerat quia. Placeat aliquam vero qui eligendi repudiandae aliquid quo ipsam. Adipisci tempora id quisquam assumenda odio praesentium. Id non iure rerum nisi ipsam enim quia.",
+            "paragraph": "Hic quis consequuntur reprehenderit dolore impedit qui nemo. Blanditiis voluptate numquam perspiciatis blanditiis possimus facere delectus alias eum. Vel nobis eos hic vitae libero. Id consectetur quasi quia sint officiis. Excepturi tempore aut quasi earum soluta fuga ut."
+        },
+        {
+            "words": "et quidem voluptate",
+            "sentence": "Nihil quod accusantium temporibus eum quo laborum occaecati.",
+            "sentences": "In saepe quos eaque perferendis. Porro tenetur pariatur minus dolor illo quaerat velit quibusdam et. Necessitatibus in recusandae et a dignissimos aut facere.",
+            "paragraph": "Quia omnis optio exercitationem dolorem et libero. Magnam et similique exercitationem quas laborum rerum. Illo qui odit voluptas. Suscipit aperiam quia id iure ratione tempora iste molestiae. Repudiandae est quam. Earum ex quidem et minima perspiciatis velit nisi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "386.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gorczany - Raynor",
+            "name": "Home Loan Account 8040",
+            "type": "payment",
+            "account": "36583915"
+        },
+        {
+            "amount": "411.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tillman - Considine",
+            "name": "Money Market Account 5587",
+            "type": "invoice",
+            "account": "10359748"
+        },
+        {
+            "amount": "149.58",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Morissette Group",
+            "name": "Checking Account 1529",
+            "type": "payment",
+            "account": "79119794"
+        }
+    ]
+}

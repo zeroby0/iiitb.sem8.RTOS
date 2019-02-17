@@ -1,0 +1,72 @@
+{
+    "name": "Reynold McGlynn",
+    "username": "Jack_Dooley79",
+    "email": "Lonny64@gmail.com",
+    "address": {
+        "streetA": "Benjamin Station",
+        "streetB": "365 Felton Shores",
+        "streetC": "56997 Joany Street Suite 186",
+        "streetD": "Apt. 703",
+        "city": "North Milo",
+        "state": "Oklahoma",
+        "country": "Solomon Islands",
+        "zipcode": "63987",
+        "geo": {
+            "lat": "-34.8143",
+            "lng": "-117.8415"
+        }
+    },
+    "phone": "533.985.9456 x289",
+    "website": "norberto.net",
+    "company": {
+        "name": "Stroman, Reilly and Reichert",
+        "catchPhrase": "Up-sized homogeneous secured line",
+        "bs": "open-source reinvent models"
+    },
+    "posts": [
+        {
+            "words": "qui rem ad",
+            "sentence": "Laudantium quis laudantium minima quod beatae.",
+            "sentences": "Nemo nam ut cumque. Aliquid a sapiente officia consequatur in velit inventore. Voluptas ad nisi molestiae officiis quidem ut. Autem repellendus dolorem unde porro sed quae quos dicta officiis. Voluptatem debitis sit voluptate consequatur voluptates vitae adipisci deleniti veritatis. Fugit ut qui dolores odit facere recusandae harum aut.",
+            "paragraph": "Maxime eos asperiores. Saepe natus beatae voluptas. Dolores dolores nam vel."
+        },
+        {
+            "words": "eveniet possimus est",
+            "sentence": "Unde magni consequatur asperiores.",
+            "sentences": "Nobis rerum sit reprehenderit. Ipsa consequuntur ea.",
+            "paragraph": "Perspiciatis nostrum vitae repellendus et minima adipisci occaecati consequuntur. Laudantium ut repellendus eum mollitia voluptatem et omnis. Amet enim deserunt. Eos at impedit nesciunt."
+        },
+        {
+            "words": "pariatur ea praesentium",
+            "sentence": "Fuga temporibus tempore distinctio suscipit.",
+            "sentences": "Beatae repudiandae cumque distinctio asperiores quia non et est ipsum. Ut quia eligendi distinctio. Quia non totam modi ipsum ducimus a placeat qui consequatur. Illum voluptates iste.",
+            "paragraph": "Accusamus perspiciatis dolor. Laborum omnis omnis dolorem reprehenderit debitis sed accusamus. Ullam aut veritatis sunt. Voluptas voluptas temporibus nesciunt rerum a sed fugit omnis sint. Consequatur eos est velit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "876.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobs LLC",
+            "name": "Home Loan Account 5485",
+            "type": "invoice",
+            "account": "53734805"
+        },
+        {
+            "amount": "71.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kunze LLC",
+            "name": "Money Market Account 9731",
+            "type": "invoice",
+            "account": "09199052"
+        },
+        {
+            "amount": "654.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wiza Group",
+            "name": "Home Loan Account 3743",
+            "type": "payment",
+            "account": "57353336"
+        }
+    ]
+}

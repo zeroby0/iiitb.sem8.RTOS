@@ -1,0 +1,72 @@
+{
+    "name": "Roger Reynolds",
+    "username": "Rylan_Brekke",
+    "email": "George_Schowalter73@hotmail.com",
+    "address": {
+        "streetA": "Tabitha Cliff",
+        "streetB": "18001 Waters Camp",
+        "streetC": "768 Eudora Spur Apt. 438",
+        "streetD": "Suite 113",
+        "city": "Luettgenside",
+        "state": "New Mexico",
+        "country": "Mozambique",
+        "zipcode": "17939",
+        "geo": {
+            "lat": "53.7769",
+            "lng": "-62.5301"
+        }
+    },
+    "phone": "1-451-821-0362 x92862",
+    "website": "barrett.name",
+    "company": {
+        "name": "Mayert and Sons",
+        "catchPhrase": "Universal encompassing success",
+        "bs": "extensible revolutionize e-business"
+    },
+    "posts": [
+        {
+            "words": "id est ut",
+            "sentence": "Omnis voluptas dolores rerum aut deserunt.",
+            "sentences": "Praesentium harum magni. Id commodi omnis consequuntur veniam facilis veniam aliquid. Deserunt id tempore aut qui ut. Eaque et nihil et. Voluptas minus consequuntur et dicta repudiandae culpa aperiam et facilis.",
+            "paragraph": "Inventore sit ex ducimus corporis sit blanditiis voluptatibus. Maiores et nostrum quis architecto. Ex tenetur consequatur dignissimos aperiam necessitatibus odio ex minus esse. Rerum dolorem voluptatem id alias ipsam omnis veritatis quia ut."
+        },
+        {
+            "words": "excepturi sint blanditiis",
+            "sentence": "Voluptatem ut ut alias quibusdam autem enim.",
+            "sentences": "Commodi ducimus aperiam est quo. Molestias sed quae. Nisi dolorem harum fugiat.",
+            "paragraph": "Nisi aperiam suscipit deserunt. Enim adipisci itaque voluptate. Molestias vero rerum quod sunt magnam repellat assumenda neque. Sit ut et voluptatem aliquam voluptatem. Enim earum dolor ea aspernatur et cupiditate aut."
+        },
+        {
+            "words": "eum tempora beatae",
+            "sentence": "Debitis sint asperiores qui suscipit.",
+            "sentences": "Ratione ut necessitatibus vero qui vel id dolore. Enim qui quod explicabo vero soluta tenetur libero. Perspiciatis eius nihil accusamus nam libero.",
+            "paragraph": "Aut quia nihil cupiditate vero laborum. Quae eligendi provident quae suscipit voluptas quia nemo nulla. Sit sed est et. Ea molestiae rerum porro similique dolor sit aliquam. Voluptas tenetur quibusdam enim cupiditate perspiciatis voluptates."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "631.86",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Borer, Homenick and Witting",
+            "name": "Personal Loan Account 4361",
+            "type": "invoice",
+            "account": "43987579"
+        },
+        {
+            "amount": "670.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Funk Group",
+            "name": "Credit Card Account 4519",
+            "type": "invoice",
+            "account": "36773818"
+        },
+        {
+            "amount": "607.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cassin - Wyman",
+            "name": "Checking Account 4686",
+            "type": "payment",
+            "account": "76738820"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Daniella Kerluke",
+    "username": "Roger.Larkin54",
+    "email": "Jordi_Bode14@gmail.com",
+    "address": {
+        "streetA": "Kassulke Course",
+        "streetB": "7409 Cole Course",
+        "streetC": "5218 Zieme Port Apt. 312",
+        "streetD": "Suite 170",
+        "city": "East Shannafort",
+        "state": "Texas",
+        "country": "Greece",
+        "zipcode": "28813",
+        "geo": {
+            "lat": "-71.7595",
+            "lng": "-106.4240"
+        }
+    },
+    "phone": "(425) 257-9100",
+    "website": "shyanne.info",
+    "company": {
+        "name": "Kihn and Sons",
+        "catchPhrase": "Cross-platform clear-thinking matrix",
+        "bs": "granular deploy networks"
+    },
+    "posts": [
+        {
+            "words": "excepturi fuga distinctio",
+            "sentence": "Omnis animi autem consequatur rerum architecto possimus.",
+            "sentences": "Eveniet omnis ducimus alias sint provident modi delectus earum provident. Sit est quo. Nisi corporis repellat distinctio ipsum similique. Commodi inventore officiis ut quo ut et sed asperiores quos.",
+            "paragraph": "Fugit molestias sunt minus. Autem ut sint est et aut est nihil vel. Sequi sit mollitia fugiat."
+        },
+        {
+            "words": "sed ut libero",
+            "sentence": "Doloribus beatae adipisci.",
+            "sentences": "Expedita enim qui. Tenetur quis odit nulla ducimus deleniti nemo ut nulla ut.",
+            "paragraph": "Aperiam sit perspiciatis cupiditate soluta unde velit. Beatae tenetur voluptate possimus vel omnis nihil asperiores. In repudiandae harum unde eum distinctio ut modi dolore. Sapiente nihil et rem hic praesentium facere."
+        },
+        {
+            "words": "voluptates tempore tempore",
+            "sentence": "Minima ipsum nihil id perferendis sit ullam.",
+            "sentences": "Soluta error delectus nihil aut veritatis. Est voluptatibus doloribus praesentium fuga porro delectus. Voluptatibus facere consequuntur non praesentium et laudantium id voluptatem. Libero libero quis. Nulla et delectus.",
+            "paragraph": "Rerum animi hic natus. Deserunt voluptatibus nulla nostrum vel ea consequatur. Omnis consequuntur minus vel inventore. At autem quisquam praesentium."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "966.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lynch, Schinner and Hayes",
+            "name": "Auto Loan Account 5915",
+            "type": "payment",
+            "account": "29682634"
+        },
+        {
+            "amount": "709.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hartmann - Little",
+            "name": "Investment Account 9699",
+            "type": "payment",
+            "account": "97870445"
+        },
+        {
+            "amount": "491.58",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pfeffer LLC",
+            "name": "Home Loan Account 2415",
+            "type": "invoice",
+            "account": "57634911"
+        }
+    ]
+}

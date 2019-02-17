@@ -1,0 +1,72 @@
+{
+    "name": "Ayana Wiza",
+    "username": "Colt84",
+    "email": "Verla.Corkery57@gmail.com",
+    "address": {
+        "streetA": "Marty Streets",
+        "streetB": "666 Mozell Ways",
+        "streetC": "57897 Heidenreich Well Suite 172",
+        "streetD": "Apt. 768",
+        "city": "North Rae",
+        "state": "Kansas",
+        "country": "United States of America",
+        "zipcode": "79872-8353",
+        "geo": {
+            "lat": "32.7324",
+            "lng": "-68.5129"
+        }
+    },
+    "phone": "(326) 911-1315",
+    "website": "florencio.com",
+    "company": {
+        "name": "Bashirian LLC",
+        "catchPhrase": "Stand-alone value-added customer loyalty",
+        "bs": "customized visualize technologies"
+    },
+    "posts": [
+        {
+            "words": "ut voluptatem voluptate",
+            "sentence": "Et nesciunt vel quibusdam.",
+            "sentences": "Dolore sint magnam. Reiciendis laborum nobis eum.",
+            "paragraph": "Laborum temporibus tenetur delectus est non. Et fuga et. Facere repudiandae optio et eaque eum ipsam voluptates quo dolores. Quisquam illum nulla illum qui laudantium non. Qui beatae voluptas rerum recusandae expedita officiis tempore et. Officiis optio non ut harum doloribus dolores."
+        },
+        {
+            "words": "esse est vel",
+            "sentence": "Voluptas corrupti in.",
+            "sentences": "Occaecati dolores iusto nostrum. Consequuntur mollitia et facere commodi suscipit consequatur enim tempore.",
+            "paragraph": "Ut harum mollitia a. Necessitatibus possimus fugit aut nobis reprehenderit ipsam voluptas et. Quis illo voluptatibus. Ea consequuntur qui velit deserunt nobis. Dolore quos voluptatum veniam. Dolorum vel sequi occaecati numquam voluptatem accusamus."
+        },
+        {
+            "words": "omnis voluptates nulla",
+            "sentence": "Tenetur est reprehenderit rerum qui nihil cum.",
+            "sentences": "Voluptates qui aliquam aut aspernatur distinctio sint ut aut explicabo. Esse quo ducimus earum debitis.",
+            "paragraph": "Provident natus voluptatem voluptatum omnis qui. Suscipit molestias in cum dolor maxime velit omnis voluptatem nobis. Officia aut distinctio velit et consequatur placeat voluptate amet. Pariatur deleniti voluptate nam non quaerat."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "841.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Zulauf Group",
+            "name": "Home Loan Account 8670",
+            "type": "withdrawal",
+            "account": "60675591"
+        },
+        {
+            "amount": "376.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Prosacco, Hammes and Rice",
+            "name": "Investment Account 3780",
+            "type": "payment",
+            "account": "58234476"
+        },
+        {
+            "amount": "627.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Renner - Reichert",
+            "name": "Home Loan Account 8377",
+            "type": "withdrawal",
+            "account": "79653743"
+        }
+    ]
+}

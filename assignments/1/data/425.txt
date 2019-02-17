@@ -1,0 +1,72 @@
+{
+    "name": "Lelia Kessler",
+    "username": "Jordon82",
+    "email": "Vidal_MacGyver47@hotmail.com",
+    "address": {
+        "streetA": "Stacey Well",
+        "streetB": "62647 Martin Cliffs",
+        "streetC": "13972 Schumm Hill Suite 120",
+        "streetD": "Suite 671",
+        "city": "New Kellie",
+        "state": "Montana",
+        "country": "Japan",
+        "zipcode": "38559-5861",
+        "geo": {
+            "lat": "-23.2816",
+            "lng": "157.6088"
+        }
+    },
+    "phone": "1-396-203-6801 x273",
+    "website": "constance.com",
+    "company": {
+        "name": "Brakus - Will",
+        "catchPhrase": "Managed real-time framework",
+        "bs": "B2C strategize action-items"
+    },
+    "posts": [
+        {
+            "words": "doloribus inventore error",
+            "sentence": "Qui possimus nihil non quibusdam inventore possimus.",
+            "sentences": "Aut eius quo nisi consequatur. Ea similique impedit. Et sit rerum nihil. Qui praesentium consequuntur quis quo ab enim. Eligendi delectus ut autem. Enim aut illum laboriosam.",
+            "paragraph": "Qui enim enim nisi et quam. Ducimus explicabo eveniet ad. Tenetur sapiente consequatur molestiae aut consequatur eum maiores nesciunt recusandae. Sed sed sed."
+        },
+        {
+            "words": "et animi delectus",
+            "sentence": "Sed porro saepe.",
+            "sentences": "Dicta placeat quidem sunt. Cumque optio voluptatem maiores nisi sed magni tempore quia. Ab iure iste et et sunt at similique similique deleniti. Corporis provident est quis. Qui et id sit.",
+            "paragraph": "Dolor dicta ea excepturi quidem quaerat recusandae iure blanditiis mollitia. Sunt explicabo blanditiis commodi est molestiae reiciendis. Sed ea qui voluptatem deserunt omnis in explicabo rerum corporis."
+        },
+        {
+            "words": "voluptatibus libero repellendus",
+            "sentence": "Temporibus sit quisquam doloribus et excepturi est reprehenderit.",
+            "sentences": "Et quia dicta est nihil eos maxime. Ipsa ea nesciunt molestiae deserunt sunt ut in qui aperiam. Velit aut corporis unde cum.",
+            "paragraph": "Ea minus quos. Quo reiciendis magni et ut enim cum dolores. Aperiam qui aut iure voluptatem quos omnis recusandae laboriosam. Non recusandae voluptatem ut aliquid in nemo quo beatae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "93.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koepp - Borer",
+            "name": "Personal Loan Account 2286",
+            "type": "deposit",
+            "account": "43060738"
+        },
+        {
+            "amount": "714.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Raynor, Orn and Kovacek",
+            "name": "Checking Account 7227",
+            "type": "payment",
+            "account": "49118866"
+        },
+        {
+            "amount": "72.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McClure, Lubowitz and Lang",
+            "name": "Personal Loan Account 6610",
+            "type": "deposit",
+            "account": "70617117"
+        }
+    ]
+}

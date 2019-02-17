@@ -1,0 +1,72 @@
+{
+    "name": "Mia Stehr",
+    "username": "Rhianna97",
+    "email": "Celestino71@yahoo.com",
+    "address": {
+        "streetA": "Wisozk Shore",
+        "streetB": "37123 Ed Village",
+        "streetC": "9470 Ullrich Trafficway Suite 247",
+        "streetD": "Suite 785",
+        "city": "Port Caitlynland",
+        "state": "Connecticut",
+        "country": "Malta",
+        "zipcode": "47313",
+        "geo": {
+            "lat": "5.0355",
+            "lng": "109.6745"
+        }
+    },
+    "phone": "711.546.5685 x51058",
+    "website": "sydnee.org",
+    "company": {
+        "name": "Schmeler - Dietrich",
+        "catchPhrase": "Monitored needs-based projection",
+        "bs": "integrated deploy architectures"
+    },
+    "posts": [
+        {
+            "words": "recusandae impedit commodi",
+            "sentence": "Aliquid nostrum pariatur sed.",
+            "sentences": "Nisi quam debitis praesentium qui consequatur ut autem. Et quis ea sed. Quibusdam facilis voluptate sit recusandae dicta perferendis. Sunt sed iure dicta qui quidem. Quis quas dolores ad soluta magnam ut incidunt.",
+            "paragraph": "Officia soluta exercitationem et saepe sunt. Quia qui dolorum itaque. Qui sed labore nobis."
+        },
+        {
+            "words": "non qui dolorum",
+            "sentence": "Optio sit quia.",
+            "sentences": "Magni ut minus mollitia enim ut ipsum in ad. Ullam quia omnis minima optio autem aliquid neque. Aperiam ut rerum nemo corporis numquam. Vitae modi provident consectetur. Exercitationem sapiente dicta sint atque.",
+            "paragraph": "Exercitationem enim aut. Quidem quia dolor et consequuntur autem. Esse cumque unde ullam animi eius rerum fuga ut minima."
+        },
+        {
+            "words": "molestias reiciendis rem",
+            "sentence": "Dolorem eos sapiente maiores saepe magni.",
+            "sentences": "Reiciendis id quasi expedita ipsam. Voluptatum velit asperiores sit eum. Fuga autem facere nihil. Qui beatae libero recusandae sapiente non.",
+            "paragraph": "Perspiciatis rerum aspernatur. Consequuntur accusamus sequi. Enim doloribus distinctio facilis quos ratione magni consequuntur est. Amet numquam quod repellendus nobis fugiat ut saepe nemo. Ad quis et similique sed."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "696.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lind - Keebler",
+            "name": "Money Market Account 5181",
+            "type": "invoice",
+            "account": "77329617"
+        },
+        {
+            "amount": "203.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Batz, Parisian and Casper",
+            "name": "Investment Account 8303",
+            "type": "withdrawal",
+            "account": "40000959"
+        },
+        {
+            "amount": "486.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Barton Group",
+            "name": "Money Market Account 3706",
+            "type": "deposit",
+            "account": "42812532"
+        }
+    ]
+}

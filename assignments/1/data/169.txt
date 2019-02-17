@@ -1,0 +1,72 @@
+{
+    "name": "Connie Predovic",
+    "username": "Clemens45",
+    "email": "Heloise.Emmerich@hotmail.com",
+    "address": {
+        "streetA": "Germaine Brook",
+        "streetB": "2410 Cara Haven",
+        "streetC": "80365 Griffin Port Apt. 635",
+        "streetD": "Suite 658",
+        "city": "South Marcus",
+        "state": "Nevada",
+        "country": "Djibouti",
+        "zipcode": "71164-2469",
+        "geo": {
+            "lat": "53.0894",
+            "lng": "-155.1902"
+        }
+    },
+    "phone": "645-560-2531",
+    "website": "amparo.net",
+    "company": {
+        "name": "Waters, Wuckert and Wyman",
+        "catchPhrase": "Open-source object-oriented info-mediaries",
+        "bs": "24/365 disintermediate methodologies"
+    },
+    "posts": [
+        {
+            "words": "aperiam vitae quaerat",
+            "sentence": "Nihil atque ex quisquam aspernatur veniam.",
+            "sentences": "Ea temporibus optio dignissimos sint quas eum quae facere commodi. Quasi accusamus qui officiis. Illo voluptate facere. Blanditiis eligendi porro.",
+            "paragraph": "Et consequatur fuga porro suscipit corporis quia unde. Ut cumque consectetur quisquam. Aspernatur ut ut et molestiae est aut natus. Qui sunt et facere sed ab est. Reprehenderit qui est aperiam."
+        },
+        {
+            "words": "earum nihil suscipit",
+            "sentence": "Minima sapiente tenetur dignissimos vero possimus.",
+            "sentences": "Aut ducimus dolor suscipit est. Odio id incidunt repudiandae natus sit aut reprehenderit. Commodi accusantium optio et itaque nostrum et fuga sint aut. Nostrum quasi ut non sed sed et. Fugit quos earum quasi. Eligendi ut quia quae error nihil illo et voluptate.",
+            "paragraph": "Debitis corporis omnis iure eum quisquam quibusdam rerum. Ut doloremque a dolore velit ea quis maxime. Alias enim aut dolores. Consequuntur ullam assumenda aliquid voluptatem voluptatibus facere dolore voluptatem. Harum reiciendis vero dolorem velit nemo. Sapiente officia qui commodi voluptatibus sunt quidem cumque maiores."
+        },
+        {
+            "words": "dignissimos in et",
+            "sentence": "Aut ipsa nemo voluptas sunt possimus.",
+            "sentences": "Dolor sapiente non molestias eum. Earum soluta saepe corrupti ab illum. Consequuntur consequatur praesentium fugiat sint. Commodi nisi et delectus temporibus odio libero eligendi ut. Rerum aut qui amet. Perferendis tempora ut.",
+            "paragraph": "Consequatur nobis quis beatae aut eius. Fugiat eius et sed voluptas illo optio. Id omnis totam perferendis et ea assumenda quis corrupti. Voluptatem voluptas maxime enim voluptas libero incidunt ad incidunt voluptatibus. Assumenda doloremque consequatur ut quae ea sed et voluptatem. Et magni quo rerum vel ullam consequatur quas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "341.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Johns Inc",
+            "name": "Auto Loan Account 4668",
+            "type": "invoice",
+            "account": "03891651"
+        },
+        {
+            "amount": "534.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Labadie, Auer and Willms",
+            "name": "Personal Loan Account 0773",
+            "type": "withdrawal",
+            "account": "25170541"
+        },
+        {
+            "amount": "920.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kemmer - Carter",
+            "name": "Personal Loan Account 5320",
+            "type": "deposit",
+            "account": "57067421"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Molly Graham",
+    "username": "Tiana32",
+    "email": "Reba.Gusikowski32@hotmail.com",
+    "address": {
+        "streetA": "Dach Valleys",
+        "streetB": "705 Jessyca Row",
+        "streetC": "6021 Roberta Loop Apt. 642",
+        "streetD": "Suite 875",
+        "city": "South Arlie",
+        "state": "Kentucky",
+        "country": "Mauritius",
+        "zipcode": "69045-2048",
+        "geo": {
+            "lat": "15.9883",
+            "lng": "-78.6867"
+        }
+    },
+    "phone": "(009) 429-1203 x793",
+    "website": "felicity.biz",
+    "company": {
+        "name": "Mayer - Gulgowski",
+        "catchPhrase": "Ergonomic bandwidth-monitored structure",
+        "bs": "integrated redefine networks"
+    },
+    "posts": [
+        {
+            "words": "cum nulla nostrum",
+            "sentence": "Amet magnam quia molestiae fuga consequatur maxime.",
+            "sentences": "Tempore veritatis eligendi nihil autem. Quasi soluta ex. Adipisci ea qui vero incidunt.",
+            "paragraph": "Labore fugiat voluptas optio aut occaecati dolorem doloribus. Nemo quam dolor. Dolorum minus sed blanditiis perspiciatis quia."
+        },
+        {
+            "words": "nihil delectus omnis",
+            "sentence": "Alias iste qui modi ratione quo magni ipsam dolore.",
+            "sentences": "Voluptatem laborum et vitae nostrum repellendus vero quo. Qui totam saepe magnam dolores enim laudantium suscipit illum. Assumenda et consectetur id blanditiis sit consequuntur ut. Aut est omnis quis fugit aut quia voluptatem voluptatem sed.",
+            "paragraph": "Est sequi ipsa sint illo autem aut. Animi facere pariatur ratione doloribus qui id. Optio enim dicta minima minus. Enim temporibus et qui iure sed nihil sunt. Debitis et suscipit quo dolorem. Aut qui nihil deserunt nihil et enim."
+        },
+        {
+            "words": "dignissimos est impedit",
+            "sentence": "Error fugit ut aut doloremque aut voluptatibus optio ut.",
+            "sentences": "Sint sit quidem. Ut rem dicta aut culpa illum quos dolorum quasi.",
+            "paragraph": "Magnam omnis et dolore sint. A vero veniam laborum veniam voluptatum quis. Molestias veritatis quia. Est dolore aut aperiam repellendus eum ad aliquid consequatur. Enim voluptatem quia mollitia enim."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "951.72",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaden, Mann and Gerlach",
+            "name": "Auto Loan Account 7222",
+            "type": "invoice",
+            "account": "61735318"
+        },
+        {
+            "amount": "904.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Leuschke - Abshire",
+            "name": "Investment Account 4139",
+            "type": "invoice",
+            "account": "15773336"
+        },
+        {
+            "amount": "565.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hammes and Sons",
+            "name": "Home Loan Account 8631",
+            "type": "payment",
+            "account": "21950970"
+        }
+    ]
+}

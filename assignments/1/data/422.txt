@@ -1,0 +1,72 @@
+{
+    "name": "Maybell McCullough Jr.",
+    "username": "Sarai.Willms89",
+    "email": "Jaleel48@yahoo.com",
+    "address": {
+        "streetA": "Duane Turnpike",
+        "streetB": "977 Gusikowski Valleys",
+        "streetC": "1037 Stroman Neck Suite 985",
+        "streetD": "Apt. 425",
+        "city": "South Eliport",
+        "state": "North Carolina",
+        "country": "Tanzania",
+        "zipcode": "59363",
+        "geo": {
+            "lat": "60.5795",
+            "lng": "36.7757"
+        }
+    },
+    "phone": "608.871.4592 x348",
+    "website": "savion.net",
+    "company": {
+        "name": "Collins Group",
+        "catchPhrase": "Ameliorated zero administration info-mediaries",
+        "bs": "seamless whiteboard deliverables"
+    },
+    "posts": [
+        {
+            "words": "nihil nesciunt adipisci",
+            "sentence": "Sunt aut beatae quasi eaque.",
+            "sentences": "Est repellat sapiente libero. Nihil molestiae accusamus voluptas. Quos ut sequi aliquid praesentium est nulla commodi ut sunt. Sed tempora dolor est quos.",
+            "paragraph": "Voluptatum omnis at incidunt autem sint et harum laboriosam sed. Reiciendis voluptatem omnis omnis. Voluptas autem dolores incidunt sapiente beatae sit. Asperiores eius maiores non voluptas ut blanditiis nobis. Possimus neque voluptate. Architecto at corporis laboriosam nostrum autem laboriosam quasi."
+        },
+        {
+            "words": "ea vel omnis",
+            "sentence": "Dicta similique provident praesentium odit.",
+            "sentences": "Rerum sint dolore dicta a harum et. Sit molestiae eum voluptatem et placeat dolorem inventore quia.",
+            "paragraph": "Maiores facilis incidunt facere quasi. Est labore non nihil voluptatibus ut in. Vitae maxime voluptas quis."
+        },
+        {
+            "words": "repellendus rerum ipsam",
+            "sentence": "Et aut et qui perferendis consectetur.",
+            "sentences": "Non ab eos aut nihil. Harum nihil id et consequatur molestias autem rerum. Exercitationem mollitia dolorum est debitis aliquam. Earum aut quaerat accusamus rerum sint itaque enim. Facere qui qui unde sunt sed et consequatur.",
+            "paragraph": "Est molestiae cum qui est ea. Hic id ipsum ea fugiat. Corrupti mollitia debitis commodi occaecati veritatis recusandae ex sit. Illo cupiditate inventore est iure ipsum possimus repudiandae. Consequatur aperiam minima perferendis voluptatibus delectus et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "233.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Zulauf and Sons",
+            "name": "Checking Account 5395",
+            "type": "invoice",
+            "account": "22734901"
+        },
+        {
+            "amount": "896.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Keefe - Kulas",
+            "name": "Personal Loan Account 7575",
+            "type": "payment",
+            "account": "19240335"
+        },
+        {
+            "amount": "767.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Senger, Padberg and Mohr",
+            "name": "Credit Card Account 3404",
+            "type": "withdrawal",
+            "account": "24220738"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Erik Harber",
+    "username": "Alexandrea.Rodriguez",
+    "email": "Sandra10@yahoo.com",
+    "address": {
+        "streetA": "Mertie Isle",
+        "streetB": "191 Ayla Isle",
+        "streetC": "242 Keebler Trail Suite 690",
+        "streetD": "Suite 345",
+        "city": "Emiliaburgh",
+        "state": "Hawaii",
+        "country": "Chad",
+        "zipcode": "73992-7315",
+        "geo": {
+            "lat": "-14.7181",
+            "lng": "71.5712"
+        }
+    },
+    "phone": "130.637.3151 x67303",
+    "website": "jessika.info",
+    "company": {
+        "name": "Koch LLC",
+        "catchPhrase": "Down-sized non-volatile secured line",
+        "bs": "B2C reintermediate web services"
+    },
+    "posts": [
+        {
+            "words": "error perspiciatis quaerat",
+            "sentence": "Modi dolorum repellat.",
+            "sentences": "Magni sed porro quis voluptatem. Qui vitae quis explicabo quia perferendis neque. Officia quibusdam est a consequatur.",
+            "paragraph": "Ut consectetur eligendi praesentium a. Autem officia veritatis nulla ea nisi nesciunt. Voluptate iste temporibus enim."
+        },
+        {
+            "words": "repellat deleniti eum",
+            "sentence": "Autem eaque voluptas eos repudiandae.",
+            "sentences": "Eos porro natus eos ducimus quibusdam totam cumque aspernatur. Quidem sunt fugiat magnam eum aut officia sit repellat. Et porro ullam molestiae et. Hic hic laboriosam quos delectus.",
+            "paragraph": "Rerum officiis magni aut nam. Inventore repudiandae vel animi tempore aut. Consequatur eveniet magnam officia ad. Autem odit velit nisi perferendis error quidem aliquid adipisci facilis."
+        },
+        {
+            "words": "laudantium voluptatum officia",
+            "sentence": "Autem officia totam necessitatibus excepturi saepe.",
+            "sentences": "Est ut ipsam facere. Ipsum vero iste ut quo architecto qui veritatis molestias deleniti. Natus tempore consequuntur aperiam non qui et alias. Maxime aut in dolorem ut aperiam. Et qui quia delectus omnis et voluptatum accusantium vero. Sunt sed et nisi.",
+            "paragraph": "Praesentium ab nemo ut dolorem. Aut officia impedit at ut omnis nihil fuga ratione. Inventore iste ut voluptate ipsam aut aut sed."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "682.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McCullough - Glover",
+            "name": "Personal Loan Account 1565",
+            "type": "deposit",
+            "account": "67167743"
+        },
+        {
+            "amount": "398.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gorczany Inc",
+            "name": "Savings Account 7213",
+            "type": "payment",
+            "account": "52807821"
+        },
+        {
+            "amount": "189.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McKenzie Inc",
+            "name": "Personal Loan Account 1483",
+            "type": "withdrawal",
+            "account": "89048187"
+        }
+    ]
+}

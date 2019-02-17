@@ -1,0 +1,72 @@
+{
+    "name": "Thad Walker",
+    "username": "Amos_Windler32",
+    "email": "Valentine_Yost@hotmail.com",
+    "address": {
+        "streetA": "Ruecker Squares",
+        "streetB": "33421 Stokes Ridge",
+        "streetC": "878 Bode Crest Apt. 383",
+        "streetD": "Apt. 561",
+        "city": "New Euna",
+        "state": "Massachusetts",
+        "country": "Spain",
+        "zipcode": "48530-0698",
+        "geo": {
+            "lat": "34.4538",
+            "lng": "-75.2687"
+        }
+    },
+    "phone": "819.431.6586 x780",
+    "website": "willy.net",
+    "company": {
+        "name": "Wunsch, Weimann and Dibbert",
+        "catchPhrase": "Seamless reciprocal toolset",
+        "bs": "value-added transition synergies"
+    },
+    "posts": [
+        {
+            "words": "ullam quo libero",
+            "sentence": "Maxime dolorum veniam doloremque nemo blanditiis ipsum aliquid.",
+            "sentences": "Et illum omnis. Labore repellendus culpa quo deleniti voluptatem omnis cupiditate. A esse eaque. Ex autem voluptas soluta voluptatem neque totam placeat dolorem. Voluptatem ea consectetur corrupti.",
+            "paragraph": "Assumenda nemo eaque rerum ipsam. Molestiae numquam sed rerum soluta et quia repudiandae et dolores. Vitae quisquam non hic. Laboriosam velit consectetur omnis tenetur blanditiis quibusdam laborum. Ut odit consequatur vel deserunt est quidem quos vel."
+        },
+        {
+            "words": "mollitia aut dolore",
+            "sentence": "Dolor placeat aliquid temporibus quae ullam et vero est.",
+            "sentences": "Magnam aut vitae quam vitae autem quis. Placeat nihil voluptas quam delectus et quae aut. Asperiores nisi voluptatum autem aut iusto earum. Eaque voluptatum iste quia dolorum delectus voluptate quibusdam dicta. Libero maiores vel voluptas ab doloremque in facilis. Blanditiis omnis rem exercitationem vero commodi error officiis sit.",
+            "paragraph": "Sit autem amet nesciunt ratione distinctio quidem itaque. Sit exercitationem non quae vel quis. Qui sapiente dicta reprehenderit illo. Voluptatem voluptatum et totam nisi vero quae et. Saepe ea commodi magni."
+        },
+        {
+            "words": "aut illo est",
+            "sentence": "Autem aut voluptate eaque rerum non voluptatibus iure porro veritatis.",
+            "sentences": "Veritatis illum qui architecto. Tempora reprehenderit ex tempora voluptas dolorem magnam eos. Doloribus odio aliquid et at veritatis in ea sit.",
+            "paragraph": "Consequuntur tempora voluptas quod et cupiditate et enim. Ipsum sed voluptas. Aut beatae ut fugit libero non."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "28.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Armstrong - Crona",
+            "name": "Investment Account 4071",
+            "type": "invoice",
+            "account": "55757118"
+        },
+        {
+            "amount": "344.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Kon, Zemlak and Dooley",
+            "name": "Auto Loan Account 7025",
+            "type": "invoice",
+            "account": "24210139"
+        },
+        {
+            "amount": "791.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koelpin, Jakubowski and Goyette",
+            "name": "Money Market Account 6693",
+            "type": "deposit",
+            "account": "76266208"
+        }
+    ]
+}

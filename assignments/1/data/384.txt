@@ -1,0 +1,72 @@
+{
+    "name": "Elissa Ziemann",
+    "username": "Geovanny.Hagenes",
+    "email": "Idella_Murray63@yahoo.com",
+    "address": {
+        "streetA": "Jovany Forest",
+        "streetB": "27499 Quentin Trafficway",
+        "streetC": "70653 Roberts Summit Apt. 564",
+        "streetD": "Apt. 691",
+        "city": "Port Flavieshire",
+        "state": "Delaware",
+        "country": "Norway",
+        "zipcode": "66837-3324",
+        "geo": {
+            "lat": "-36.1258",
+            "lng": "-114.8552"
+        }
+    },
+    "phone": "937-705-2187",
+    "website": "matilde.info",
+    "company": {
+        "name": "Adams, Grimes and Wuckert",
+        "catchPhrase": "Decentralized disintermediate utilisation",
+        "bs": "wireless architect content"
+    },
+    "posts": [
+        {
+            "words": "sapiente corrupti asperiores",
+            "sentence": "Sed labore est quaerat saepe reiciendis possimus est ut.",
+            "sentences": "Laborum cupiditate sit quia delectus nihil. Et a excepturi porro quae commodi. Voluptas pariatur ut est. Sit ipsum iusto nostrum facilis. Commodi ut perspiciatis debitis ullam. Sint nobis voluptatem odio inventore.",
+            "paragraph": "Debitis rerum tempore omnis. Nihil asperiores aut est tenetur quae voluptatum explicabo aut. Amet cum nihil explicabo laborum pariatur nisi."
+        },
+        {
+            "words": "et reprehenderit vero",
+            "sentence": "Quas in fugit ut incidunt quisquam.",
+            "sentences": "Dolore quaerat esse. Sunt voluptate maxime.",
+            "paragraph": "Reiciendis in beatae nobis aut adipisci rerum hic alias. Est mollitia quae recusandae neque explicabo sit corrupti quo. Sed voluptatum voluptates quo qui modi a optio laborum cumque."
+        },
+        {
+            "words": "dolore sapiente nihil",
+            "sentence": "Soluta pariatur eos doloremque quaerat error minima.",
+            "sentences": "Sequi non architecto in vitae corporis nulla consequuntur. Nesciunt alias ut. Ipsa labore et vitae. Totam et necessitatibus nulla. Qui illum eum voluptates consequatur.",
+            "paragraph": "Assumenda esse nulla. Expedita sint voluptatem autem quia nobis quia autem. Perferendis explicabo reiciendis alias est dolor aliquam odit. Totam blanditiis exercitationem dolores quis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "55.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "MacGyver and Sons",
+            "name": "Savings Account 9264",
+            "type": "withdrawal",
+            "account": "67262685"
+        },
+        {
+            "amount": "433.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Goldner Group",
+            "name": "Home Loan Account 0287",
+            "type": "withdrawal",
+            "account": "21921410"
+        },
+        {
+            "amount": "943.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmidt - Weber",
+            "name": "Money Market Account 4117",
+            "type": "deposit",
+            "account": "91693504"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Shirley Little",
+    "username": "Santa.Cronin",
+    "email": "Raul36@gmail.com",
+    "address": {
+        "streetA": "Mallie Island",
+        "streetB": "85097 Marge Inlet",
+        "streetC": "734 Murray Loop Suite 971",
+        "streetD": "Apt. 365",
+        "city": "South Greysonhaven",
+        "state": "Florida",
+        "country": "Guadeloupe",
+        "zipcode": "91188",
+        "geo": {
+            "lat": "40.6219",
+            "lng": "83.7129"
+        }
+    },
+    "phone": "1-679-120-3418",
+    "website": "allene.net",
+    "company": {
+        "name": "Moore - Maggio",
+        "catchPhrase": "Self-enabling static product",
+        "bs": "next-generation e-enable vortals"
+    },
+    "posts": [
+        {
+            "words": "ad et ut",
+            "sentence": "Fugit voluptatibus optio.",
+            "sentences": "Omnis dolorum dolorem nihil. Perferendis recusandae corrupti ex eveniet nemo nostrum sunt. Quam qui impedit aut repudiandae ipsam.",
+            "paragraph": "Est repellendus et. Libero voluptas officia officia recusandae. Est doloremque distinctio. Accusantium occaecati veniam eos."
+        },
+        {
+            "words": "in exercitationem pariatur",
+            "sentence": "Et enim voluptate voluptatem occaecati et dicta architecto quia voluptas.",
+            "sentences": "Dolorem cum fugit omnis veritatis consectetur asperiores corrupti. Tempore exercitationem eum omnis vero dolor.",
+            "paragraph": "Itaque ut atque sed quis ex hic voluptatem et consequatur. Totam laboriosam dolorum. Atque earum porro asperiores unde."
+        },
+        {
+            "words": "mollitia incidunt enim",
+            "sentence": "Enim laborum assumenda officiis.",
+            "sentences": "Rerum animi repellendus alias deserunt facilis temporibus sed. Aliquid velit magni quo eum eveniet aliquam omnis est. Aut dolores quibusdam nesciunt velit id molestiae. Velit iure natus voluptatibus aut fugit consequuntur.",
+            "paragraph": "Et tempore animi ut ipsa. Atque unde accusamus non quae quis iusto est culpa quia. Sed dolorem minus. Cumque doloremque sit accusamus aut a consequuntur. Molestiae aut qui numquam quibusdam dolores."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "95.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Balistreri Inc",
+            "name": "Credit Card Account 2447",
+            "type": "withdrawal",
+            "account": "38654732"
+        },
+        {
+            "amount": "503.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Herzog, Crooks and Dare",
+            "name": "Checking Account 5088",
+            "type": "withdrawal",
+            "account": "27587193"
+        },
+        {
+            "amount": "979.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koss LLC",
+            "name": "Money Market Account 4083",
+            "type": "withdrawal",
+            "account": "02723051"
+        }
+    ]
+}

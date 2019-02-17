@@ -1,0 +1,72 @@
+{
+    "name": "Ms. Hermann Goyette",
+    "username": "Davin.Kreiger",
+    "email": "Kamren.Runolfsson62@gmail.com",
+    "address": {
+        "streetA": "Mante Cliffs",
+        "streetB": "4870 Haylee Brook",
+        "streetC": "70937 Cummings Branch Suite 007",
+        "streetD": "Apt. 480",
+        "city": "Judahchester",
+        "state": "Oklahoma",
+        "country": "Tanzania",
+        "zipcode": "45386",
+        "geo": {
+            "lat": "61.6522",
+            "lng": "-4.5119"
+        }
+    },
+    "phone": "(574) 406-9037 x376",
+    "website": "chanelle.info",
+    "company": {
+        "name": "Gutkowski Group",
+        "catchPhrase": "Switchable multimedia capacity",
+        "bs": "visionary engineer markets"
+    },
+    "posts": [
+        {
+            "words": "provident et in",
+            "sentence": "Voluptatem iure repudiandae quia quis consequatur.",
+            "sentences": "In est aspernatur in asperiores adipisci iste et fugiat ipsa. Ullam dolores debitis aut repudiandae quaerat cupiditate reprehenderit voluptas. Rerum qui eos id placeat odit et quod aut qui.",
+            "paragraph": "Ullam tempore vel atque. Vero libero deserunt. Ipsam qui eos adipisci corrupti deserunt sit aut nostrum. Nemo id sed. Eos voluptatem ipsa sit aspernatur eveniet dolor et voluptas nostrum."
+        },
+        {
+            "words": "ut aut explicabo",
+            "sentence": "Et iure aut sint velit facere voluptates qui reprehenderit.",
+            "sentences": "Ipsam debitis velit soluta tenetur quasi dolor rerum maiores. Nesciunt cum porro quis minima ullam fugiat nulla delectus. Et odio et. Quod eum in eum eaque aut quidem nostrum omnis quisquam. Fugiat fugit dolorem enim nesciunt aut optio et qui. Consequatur totam dolore.",
+            "paragraph": "Minus animi dolorem at eius est nihil rerum. Laborum non velit ex. Officia dolor eum quia voluptatum enim repellat ea maiores. Praesentium qui perferendis. Similique ad eius hic est eveniet voluptas."
+        },
+        {
+            "words": "atque sunt et",
+            "sentence": "Quo perferendis aut et nihil dolorem rerum non.",
+            "sentences": "Praesentium quas sed consequatur sint et sapiente voluptas. Unde alias odio quo magnam. Earum deserunt facilis recusandae quod optio tempora necessitatibus.",
+            "paragraph": "Quis aut expedita non. Consequatur ex voluptatum sit similique enim. Laboriosam dignissimos est atque quas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "593.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gerlach, Barrows and Ullrich",
+            "name": "Credit Card Account 6439",
+            "type": "payment",
+            "account": "74334600"
+        },
+        {
+            "amount": "196.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ruecker - Metz",
+            "name": "Checking Account 3442",
+            "type": "deposit",
+            "account": "54911419"
+        },
+        {
+            "amount": "564.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stehr, Hickle and O'Connell",
+            "name": "Personal Loan Account 6036",
+            "type": "deposit",
+            "account": "64471944"
+        }
+    ]
+}

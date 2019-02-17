@@ -1,0 +1,72 @@
+{
+    "name": "Lora Wiza",
+    "username": "Heloise80",
+    "email": "Malika42@gmail.com",
+    "address": {
+        "streetA": "Sophie Garden",
+        "streetB": "1878 Romaguera Light",
+        "streetC": "993 Lesley Points Suite 135",
+        "streetD": "Apt. 756",
+        "city": "Caseyport",
+        "state": "West Virginia",
+        "country": "Virgin Islands, British",
+        "zipcode": "65365-8626",
+        "geo": {
+            "lat": "4.3933",
+            "lng": "133.8127"
+        }
+    },
+    "phone": "001-479-5726 x8505",
+    "website": "jorge.com",
+    "company": {
+        "name": "Haag, Gerhold and Batz",
+        "catchPhrase": "Centralized intangible contingency",
+        "bs": "distributed evolve ROI"
+    },
+    "posts": [
+        {
+            "words": "et et dolorum",
+            "sentence": "Minima totam ut quisquam eos similique doloribus qui hic.",
+            "sentences": "Id ut in ratione. Aut facilis quo quo provident commodi tempore libero enim.",
+            "paragraph": "Illo delectus vel aliquid pariatur rem earum. Unde id id aut libero accusantium ipsam fuga. Non itaque cumque nemo et fugiat nobis ipsum aut."
+        },
+        {
+            "words": "impedit harum distinctio",
+            "sentence": "Maxime velit atque qui error sit ea possimus quia.",
+            "sentences": "Similique accusantium magnam excepturi ducimus enim. Illo eos velit perferendis nostrum similique enim magni harum. Voluptatibus dignissimos assumenda unde omnis et. Temporibus soluta hic in impedit.",
+            "paragraph": "Laborum culpa saepe dolores voluptatum velit omnis. Quas sint earum optio beatae delectus sit voluptatem vero ut. Minus quas voluptas blanditiis ab eligendi dolores inventore. Sunt nobis suscipit quod impedit earum non voluptatem veritatis."
+        },
+        {
+            "words": "quo earum ipsam",
+            "sentence": "Odio ea et quidem molestiae ut et eos.",
+            "sentences": "Ex nulla voluptatem delectus culpa ipsum delectus assumenda dolores. Molestias autem rerum doloremque quos. Molestiae officiis voluptatem qui amet est illo cumque soluta recusandae. Qui inventore sit et.",
+            "paragraph": "Accusantium et molestias. Aut et magnam quibusdam labore consequuntur fuga. Quo repellendus quam eos necessitatibus culpa aliquid consectetur esse rerum. Illum quam at ad sequi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "804.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Johnston - Kihn",
+            "name": "Investment Account 5866",
+            "type": "invoice",
+            "account": "54461414"
+        },
+        {
+            "amount": "735.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Brakus - Luettgen",
+            "name": "Personal Loan Account 2841",
+            "type": "invoice",
+            "account": "79631447"
+        },
+        {
+            "amount": "525.42",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Spinka - Rice",
+            "name": "Home Loan Account 4924",
+            "type": "payment",
+            "account": "53170542"
+        }
+    ]
+}

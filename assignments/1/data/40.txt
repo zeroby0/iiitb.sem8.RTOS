@@ -1,0 +1,72 @@
+{
+    "name": "Sienna Hartmann",
+    "username": "Dorthy88",
+    "email": "Melyssa_Fritsch50@yahoo.com",
+    "address": {
+        "streetA": "Dietrich Street",
+        "streetB": "778 Miguel Station",
+        "streetC": "3615 Charles Ports Apt. 850",
+        "streetD": "Suite 540",
+        "city": "Rosalindaberg",
+        "state": "Oklahoma",
+        "country": "Botswana",
+        "zipcode": "22989-2179",
+        "geo": {
+            "lat": "59.3252",
+            "lng": "93.3560"
+        }
+    },
+    "phone": "(712) 600-4107 x1827",
+    "website": "talia.net",
+    "company": {
+        "name": "Mayer - Reilly",
+        "catchPhrase": "Mandatory homogeneous moratorium",
+        "bs": "global brand experiences"
+    },
+    "posts": [
+        {
+            "words": "repellendus qui est",
+            "sentence": "Ea qui vel hic asperiores velit et quas.",
+            "sentences": "Atque adipisci ipsam officia vero eum. Voluptas laboriosam pariatur eius quos. Molestiae voluptas necessitatibus. Quas aliquam id nobis facere atque laboriosam. Ut ducimus modi nesciunt dignissimos reprehenderit sunt minima.",
+            "paragraph": "Officia sapiente provident quasi consequatur ut recusandae. Ut deserunt deserunt in modi dignissimos eos aut sit est. Molestiae facere inventore quibusdam rerum harum commodi molestiae nam facilis."
+        },
+        {
+            "words": "tempora ratione quis",
+            "sentence": "A et culpa minus nesciunt.",
+            "sentences": "Et quo quia ut. Quos voluptatem necessitatibus quisquam rerum non. Aut quos ut ut unde est quasi. Quia voluptatibus qui.",
+            "paragraph": "Ipsam maiores fugiat deleniti libero error velit. Quas aut velit blanditiis expedita laudantium expedita est voluptates. Minima quaerat nobis voluptate voluptatibus quia sint quibusdam qui. Quisquam accusantium pariatur quia voluptatem laudantium non."
+        },
+        {
+            "words": "numquam nihil voluptatem",
+            "sentence": "Sed modi iste quidem natus quaerat et molestiae.",
+            "sentences": "Maiores aut autem animi. Error enim qui recusandae.",
+            "paragraph": "Magnam incidunt et. Dolores cupiditate doloribus aut et et dignissimos sit. Similique et laborum amet id quibusdam ea."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "27.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Larkin Group",
+            "name": "Checking Account 6153",
+            "type": "payment",
+            "account": "14091559"
+        },
+        {
+            "amount": "195.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kessler LLC",
+            "name": "Money Market Account 7363",
+            "type": "invoice",
+            "account": "30304939"
+        },
+        {
+            "amount": "699.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ullrich LLC",
+            "name": "Home Loan Account 9491",
+            "type": "withdrawal",
+            "account": "89883329"
+        }
+    ]
+}

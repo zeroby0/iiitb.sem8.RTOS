@@ -1,0 +1,72 @@
+{
+    "name": "Jaylan Murazik",
+    "username": "Duncan.Wiegand",
+    "email": "Lenore.Boyle@gmail.com",
+    "address": {
+        "streetA": "Wilson Walk",
+        "streetB": "858 Jodie Light",
+        "streetC": "008 Weimann Stream Suite 396",
+        "streetD": "Apt. 379",
+        "city": "New Herminia",
+        "state": "Louisiana",
+        "country": "Nauru",
+        "zipcode": "24661",
+        "geo": {
+            "lat": "-37.2586",
+            "lng": "-42.3354"
+        }
+    },
+    "phone": "608-884-9609",
+    "website": "mike.net",
+    "company": {
+        "name": "Nolan and Sons",
+        "catchPhrase": "Down-sized static solution",
+        "bs": "plug-and-play e-enable relationships"
+    },
+    "posts": [
+        {
+            "words": "et inventore eveniet",
+            "sentence": "Culpa qui iste magni.",
+            "sentences": "Et voluptatem veniam. Assumenda est quis.",
+            "paragraph": "Sed atque voluptatum sed dicta eaque est. Dicta quo quis aperiam beatae sed. Quas aut voluptas earum. A qui cum nemo. Modi dolores animi nisi dolorem sint id. Sunt placeat sint sit explicabo harum sed et rerum error."
+        },
+        {
+            "words": "quis porro labore",
+            "sentence": "Placeat deserunt placeat ducimus ut eos numquam.",
+            "sentences": "Est fuga odio. Cum nostrum omnis dolores numquam optio nihil dolor. Nulla aperiam autem distinctio et.",
+            "paragraph": "Vitae non consequuntur suscipit. Nemo est similique et odit est laborum et modi. Quasi et et deleniti pariatur pariatur. Consequatur eum ut. Eos cumque hic commodi adipisci rerum iure ut minima doloribus."
+        },
+        {
+            "words": "nobis sequi magni",
+            "sentence": "Itaque beatae libero.",
+            "sentences": "Earum error recusandae et. Iusto dolorem et harum dolor qui similique. Incidunt dignissimos reiciendis quia officiis quia. Quis expedita sint nisi sed est. Voluptatem inventore ea molestias et enim. Voluptatibus et eos similique dicta dolorem.",
+            "paragraph": "Laboriosam et dolorem et cumque nemo. Ipsam voluptatem nostrum illo dolorem assumenda assumenda. Dolorum nihil nobis earum iusto quod aut. Cupiditate facilis corporis praesentium atque voluptatum. Ullam voluptas consequatur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "515.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Brown, Fahey and Fadel",
+            "name": "Checking Account 2425",
+            "type": "withdrawal",
+            "account": "87588550"
+        },
+        {
+            "amount": "877.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wunsch and Sons",
+            "name": "Savings Account 6754",
+            "type": "withdrawal",
+            "account": "94059561"
+        },
+        {
+            "amount": "205.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Herman, Kunde and Osinski",
+            "name": "Personal Loan Account 3848",
+            "type": "invoice",
+            "account": "25364500"
+        }
+    ]
+}

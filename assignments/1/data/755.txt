@@ -1,0 +1,72 @@
+{
+    "name": "Shawn Corkery",
+    "username": "Wanda40",
+    "email": "Veronica64@yahoo.com",
+    "address": {
+        "streetA": "Ankunding Forges",
+        "streetB": "8804 Baumbach Glens",
+        "streetC": "709 Crona Course Apt. 861",
+        "streetD": "Suite 805",
+        "city": "Emardfort",
+        "state": "West Virginia",
+        "country": "Germany",
+        "zipcode": "82286-6147",
+        "geo": {
+            "lat": "50.2781",
+            "lng": "169.2455"
+        }
+    },
+    "phone": "(295) 062-8720 x907",
+    "website": "aliyah.biz",
+    "company": {
+        "name": "Gutmann - Swaniawski",
+        "catchPhrase": "Front-line intermediate Graphic Interface",
+        "bs": "compelling deliver metrics"
+    },
+    "posts": [
+        {
+            "words": "rem eum eveniet",
+            "sentence": "Odio eius iste quibusdam occaecati sint.",
+            "sentences": "Ex quidem deserunt placeat et. Voluptas deserunt voluptatem iste molestias velit quam consequatur iusto. Quia omnis atque vel qui aliquid.",
+            "paragraph": "Eos quod aliquid tenetur et et rerum maiores quod. Aliquid pariatur omnis similique. Eos maiores tempore aut et sint repudiandae voluptatibus dignissimos quia. Magni omnis tempore earum aperiam minima qui et. Omnis saepe officiis ea dolorem sit. Explicabo reprehenderit sit."
+        },
+        {
+            "words": "sint quis qui",
+            "sentence": "A atque ipsa accusantium est voluptas.",
+            "sentences": "Ducimus velit illo nihil dignissimos. Voluptatem cupiditate cum architecto nisi repellendus. Delectus aspernatur dolores maxime et sint. Eos iure iure harum ea quos ipsum.",
+            "paragraph": "Provident labore omnis sequi et animi. Quasi quis odit unde est incidunt blanditiis. Odit aliquam eum ullam quo dolorem similique esse. Dolorem sit eos recusandae non. Sit optio voluptate hic repellendus est. Non consequatur nihil assumenda autem qui."
+        },
+        {
+            "words": "minima facilis consequatur",
+            "sentence": "Architecto cum officiis ut ad.",
+            "sentences": "Dolores dolorum nobis. Ad est minima quia consequatur harum deserunt ducimus est. Ipsa quia exercitationem hic quis quisquam id amet dolor. Necessitatibus illo eaque neque quibusdam. Enim omnis aspernatur nobis. Necessitatibus aliquid dolores id voluptates occaecati.",
+            "paragraph": "Eligendi voluptas veniam quibusdam esse fuga. Amet quia dolore nulla. Reiciendis voluptatum quae architecto voluptates. Possimus doloremque qui non. Ratione quas blanditiis aliquam non ipsam eum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "583.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Blanda - Boyle",
+            "name": "Personal Loan Account 0564",
+            "type": "invoice",
+            "account": "87179525"
+        },
+        {
+            "amount": "732.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Adams Inc",
+            "name": "Investment Account 2203",
+            "type": "withdrawal",
+            "account": "88528918"
+        },
+        {
+            "amount": "946.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Veum LLC",
+            "name": "Auto Loan Account 3193",
+            "type": "deposit",
+            "account": "03169364"
+        }
+    ]
+}

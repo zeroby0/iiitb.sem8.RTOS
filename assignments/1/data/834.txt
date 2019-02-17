@@ -1,0 +1,72 @@
+{
+    "name": "Mr. Keely Maggio",
+    "username": "Clemmie.Schamberger",
+    "email": "Frankie.Beahan@yahoo.com",
+    "address": {
+        "streetA": "Rau Plaza",
+        "streetB": "82839 Satterfield Street",
+        "streetC": "275 Runolfsdottir Green Apt. 566",
+        "streetD": "Suite 622",
+        "city": "North Juwan",
+        "state": "Idaho",
+        "country": "Palestinian Territory",
+        "zipcode": "12109-7007",
+        "geo": {
+            "lat": "87.1262",
+            "lng": "91.1829"
+        }
+    },
+    "phone": "(546) 197-2927",
+    "website": "furman.com",
+    "company": {
+        "name": "Kihn LLC",
+        "catchPhrase": "Digitized contextually-based project",
+        "bs": "scalable mesh communities"
+    },
+    "posts": [
+        {
+            "words": "eos eius qui",
+            "sentence": "Aliquam eum eum in possimus non.",
+            "sentences": "Temporibus voluptas debitis. Magni suscipit ea ipsa quis eos voluptas et natus culpa. Repellendus non debitis temporibus voluptas nulla et enim hic.",
+            "paragraph": "Pariatur facere sapiente. Voluptatem repellendus alias officiis deserunt harum magni tempora. Ullam veniam et laboriosam fuga placeat tempora accusantium enim reprehenderit. Suscipit omnis hic id iusto. Hic et maiores explicabo. Fuga sint velit quos fugit."
+        },
+        {
+            "words": "necessitatibus vitae iure",
+            "sentence": "Et aperiam vitae est nihil.",
+            "sentences": "Corporis veritatis harum non eligendi culpa. Cum est delectus accusantium iste quia aspernatur velit. Et laboriosam sit esse. Nostrum nam nemo voluptatem. Sed quis quia et ut.",
+            "paragraph": "Autem nemo omnis quibusdam dolore est voluptas. Autem labore blanditiis ad placeat deleniti molestias consequatur. Ex hic magnam quos mollitia quasi accusamus vitae."
+        },
+        {
+            "words": "placeat similique in",
+            "sentence": "Et in et qui distinctio consequatur.",
+            "sentences": "Sed dolorem voluptate similique omnis veniam quia. Quidem doloribus aspernatur.",
+            "paragraph": "Atque quisquam sit omnis suscipit nihil culpa aliquid ut qui. Nam fugit earum. Nam consequatur et expedita rem sed reiciendis id deleniti eos. Voluptatum autem repellat ipsam consectetur fugit voluptatem aut culpa. Quia ducimus voluptatem non ut voluptatem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "721.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beahan, Heathcote and Paucek",
+            "name": "Checking Account 6144",
+            "type": "payment",
+            "account": "04301936"
+        },
+        {
+            "amount": "390.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rogahn - Roberts",
+            "name": "Money Market Account 7902",
+            "type": "withdrawal",
+            "account": "51521805"
+        },
+        {
+            "amount": "446.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gerlach, White and Fay",
+            "name": "Savings Account 7257",
+            "type": "deposit",
+            "account": "32167154"
+        }
+    ]
+}

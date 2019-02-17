@@ -1,0 +1,72 @@
+{
+    "name": "Solon Mitchell",
+    "username": "Emelia_Bernier48",
+    "email": "Adela79@hotmail.com",
+    "address": {
+        "streetA": "Jamison Plaza",
+        "streetB": "277 Derick Spring",
+        "streetC": "31855 Wisozk Manor Apt. 064",
+        "streetD": "Suite 315",
+        "city": "North Bernadinehaven",
+        "state": "Idaho",
+        "country": "Dominican Republic",
+        "zipcode": "52643",
+        "geo": {
+            "lat": "31.7609",
+            "lng": "0.5950"
+        }
+    },
+    "phone": "974.980.0899 x4927",
+    "website": "magnus.org",
+    "company": {
+        "name": "Reichel and Sons",
+        "catchPhrase": "Managed high-level workforce",
+        "bs": "proactive synthesize methodologies"
+    },
+    "posts": [
+        {
+            "words": "placeat omnis velit",
+            "sentence": "Possimus ullam iure animi est dolorum temporibus voluptatem voluptatem ipsa.",
+            "sentences": "Nesciunt at consequatur expedita et ad consectetur officia. Maxime beatae repellat autem est officia. Illo iste voluptas laboriosam ullam tenetur nam. Numquam expedita sunt quia commodi nobis et quia.",
+            "paragraph": "Explicabo ut id. Facere et assumenda tempora repellat inventore natus laudantium rerum. Similique eius esse magnam dolore. Magnam reprehenderit minus perferendis molestias in dolorum ut dolore iure."
+        },
+        {
+            "words": "optio commodi qui",
+            "sentence": "Odio iusto perspiciatis quibusdam aut.",
+            "sentences": "Nulla assumenda hic soluta possimus doloremque reiciendis. Tempore expedita harum beatae sed labore rem. Ipsa voluptatem repellat ea expedita sit commodi dignissimos.",
+            "paragraph": "Repellat perferendis non ab ut facere. Alias necessitatibus accusantium illum repellendus expedita. Voluptatem rerum non id qui aut porro aut optio et."
+        },
+        {
+            "words": "unde eligendi accusantium",
+            "sentence": "Dolores in eos harum odit tenetur veritatis.",
+            "sentences": "Facere nostrum minus voluptatibus. Consectetur qui iste necessitatibus rerum. Praesentium eos est numquam officia iusto sit officia maxime qui. Qui nemo laborum dignissimos voluptas similique repudiandae molestias rerum dicta.",
+            "paragraph": "Recusandae esse officia ea vero est aliquam neque accusamus laboriosam. Quis ratione numquam non nam aspernatur. Consequatur odio sapiente aliquid suscipit enim repellat. Et nisi vitae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "786.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wilkinson - Block",
+            "name": "Savings Account 4566",
+            "type": "withdrawal",
+            "account": "06787847"
+        },
+        {
+            "amount": "742.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schoen, Fay and Johnson",
+            "name": "Personal Loan Account 6491",
+            "type": "invoice",
+            "account": "66962471"
+        },
+        {
+            "amount": "325.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "DuBuque Group",
+            "name": "Money Market Account 6933",
+            "type": "payment",
+            "account": "32177480"
+        }
+    ]
+}

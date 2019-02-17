@@ -1,0 +1,72 @@
+{
+    "name": "Mrs. Vicenta Tremblay",
+    "username": "Fletcher_Prohaska",
+    "email": "Libby83@gmail.com",
+    "address": {
+        "streetA": "Considine Village",
+        "streetB": "366 Justina Crest",
+        "streetC": "47527 Keebler Orchard Suite 466",
+        "streetD": "Suite 257",
+        "city": "Swaniawskiside",
+        "state": "Georgia",
+        "country": "San Marino",
+        "zipcode": "64084",
+        "geo": {
+            "lat": "-66.9384",
+            "lng": "20.4789"
+        }
+    },
+    "phone": "1-639-693-2063",
+    "website": "justice.net",
+    "company": {
+        "name": "Jenkins - Dickens",
+        "catchPhrase": "Profit-focused value-added intranet",
+        "bs": "synergistic extend portals"
+    },
+    "posts": [
+        {
+            "words": "voluptas voluptas ducimus",
+            "sentence": "Consequatur repellat dignissimos animi.",
+            "sentences": "Ad temporibus autem aliquam eum in aut maxime. Ratione blanditiis iste qui voluptatem tempore a quia. Et sunt voluptatem officiis voluptas qui tempora fugit nulla. Consectetur laudantium voluptas iure ab eveniet architecto voluptas. Doloribus sequi facilis est.",
+            "paragraph": "Facere ut aliquid corporis et exercitationem qui error saepe et. Amet fugit nemo ipsam doloremque corrupti adipisci modi perferendis. Nobis nisi laboriosam reprehenderit maiores magnam. Sed tempora temporibus repellat rerum facilis. Ut adipisci ut."
+        },
+        {
+            "words": "eius odit blanditiis",
+            "sentence": "Totam atque modi consequuntur aut ut tempora.",
+            "sentences": "Aspernatur aut qui animi iure atque aperiam facere cumque ratione. Natus saepe a neque eius est. Ipsa optio consequatur molestias perspiciatis vitae numquam rerum voluptatem qui. Omnis dolor sint officia id fuga nihil dolor officiis assumenda. Aperiam et iusto facilis possimus. Voluptas occaecati et et similique iusto nam excepturi ut.",
+            "paragraph": "Beatae cupiditate incidunt commodi. Sed et eius. Sint quod praesentium qui animi tempore quae. Nobis neque commodi enim distinctio modi architecto consequatur expedita sit."
+        },
+        {
+            "words": "sit veniam atque",
+            "sentence": "Vel iusto sint nemo ducimus dolores animi.",
+            "sentences": "Et et dolor voluptatem pariatur. Quo id ut quod odit quos dolor aliquid et.",
+            "paragraph": "Repellendus quibusdam ipsam facere culpa sit. Vel iusto sequi autem illum nam. Vitae cum nihil facere tempora optio ad. Ut veritatis quo sunt voluptate aliquid mollitia nihil."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "831.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmeler, Graham and Becker",
+            "name": "Personal Loan Account 4396",
+            "type": "invoice",
+            "account": "11554974"
+        },
+        {
+            "amount": "676.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kertzmann Inc",
+            "name": "Home Loan Account 7362",
+            "type": "invoice",
+            "account": "15711661"
+        },
+        {
+            "amount": "760.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cartwright, Kirlin and Lebsack",
+            "name": "Personal Loan Account 7251",
+            "type": "deposit",
+            "account": "11193997"
+        }
+    ]
+}

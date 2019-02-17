@@ -1,0 +1,72 @@
+{
+    "name": "Anastacio Watsica",
+    "username": "Annabel_Donnelly",
+    "email": "Brenna51@gmail.com",
+    "address": {
+        "streetA": "Fay Alley",
+        "streetB": "26208 McKenzie Knoll",
+        "streetC": "1486 Rosenbaum Way Suite 555",
+        "streetD": "Suite 796",
+        "city": "New Alizeshire",
+        "state": "Wisconsin",
+        "country": "Pitcairn Islands",
+        "zipcode": "80986",
+        "geo": {
+            "lat": "-34.6134",
+            "lng": "-167.6451"
+        }
+    },
+    "phone": "449.755.2551 x0126",
+    "website": "audrey.info",
+    "company": {
+        "name": "Marquardt - Satterfield",
+        "catchPhrase": "Enhanced static workforce",
+        "bs": "transparent engineer markets"
+    },
+    "posts": [
+        {
+            "words": "porro dignissimos qui",
+            "sentence": "Aut sunt beatae ut quis provident.",
+            "sentences": "Iure quia voluptatem quia. Qui repudiandae atque accusantium inventore necessitatibus deleniti excepturi porro. Dolores qui impedit laboriosam dolorum. Perspiciatis expedita quis magni quas dolore aut veritatis. Repellendus quaerat blanditiis earum aut eveniet eligendi. Dignissimos repudiandae perspiciatis itaque aperiam.",
+            "paragraph": "Consequuntur tempore provident. Facere quae aut pariatur debitis natus repudiandae voluptatem sed. Accusantium nisi totam ut et excepturi."
+        },
+        {
+            "words": "repellendus eum ipsum",
+            "sentence": "Id dicta consectetur voluptatem ab laboriosam laudantium.",
+            "sentences": "Distinctio vel rerum animi voluptatum esse commodi sed. Dolores voluptatibus perferendis. Molestiae ullam aut eaque et sunt ratione iusto voluptatem quia. Quo quaerat veritatis qui.",
+            "paragraph": "Laborum aut officia ut tempora aspernatur vel quisquam. Iusto expedita voluptatibus fuga. Est laudantium non unde. Tempora ratione dolorem porro doloribus quia eos earum aut exercitationem. Inventore eos perferendis temporibus cupiditate repudiandae et."
+        },
+        {
+            "words": "consequatur ex natus",
+            "sentence": "Voluptas numquam in.",
+            "sentences": "Illum quia dolorem delectus illum necessitatibus ipsam labore. Facilis est voluptatem dolor error exercitationem aut laborum nulla eaque. Provident aut voluptatem doloribus aspernatur ducimus necessitatibus. Blanditiis itaque similique id recusandae non.",
+            "paragraph": "Quos a ut ut dolorem laborum et quae. Quas quia similique quisquam voluptates dolore. Libero voluptas ducimus molestiae. Repudiandae debitis ratione vel et soluta laborum est suscipit modi. Illum maiores deleniti debitis et iste qui."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "168.93",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Torp and Sons",
+            "name": "Credit Card Account 1108",
+            "type": "withdrawal",
+            "account": "68168506"
+        },
+        {
+            "amount": "520.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nader, O'Hara and Jacobi",
+            "name": "Auto Loan Account 6999",
+            "type": "invoice",
+            "account": "66489117"
+        },
+        {
+            "amount": "578.29",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nolan Group",
+            "name": "Credit Card Account 7360",
+            "type": "payment",
+            "account": "74822423"
+        }
+    ]
+}

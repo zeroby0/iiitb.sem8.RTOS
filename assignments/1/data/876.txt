@@ -1,0 +1,72 @@
+{
+    "name": "Catalina Pacocha",
+    "username": "Brooks_Hoppe",
+    "email": "Eliseo.Terry@gmail.com",
+    "address": {
+        "streetA": "Von Shores",
+        "streetB": "26725 Jordan Drive",
+        "streetC": "5512 Hills Pike Apt. 309",
+        "streetD": "Suite 644",
+        "city": "West Furman",
+        "state": "Arizona",
+        "country": "Moldova",
+        "zipcode": "43879",
+        "geo": {
+            "lat": "-38.2221",
+            "lng": "-80.2638"
+        }
+    },
+    "phone": "088.930.9460 x29364",
+    "website": "antone.com",
+    "company": {
+        "name": "Buckridge, Stiedemann and Blick",
+        "catchPhrase": "Advanced non-volatile interface",
+        "bs": "24/365 e-enable deliverables"
+    },
+    "posts": [
+        {
+            "words": "nam quis omnis",
+            "sentence": "Repellat quo id est ea unde inventore voluptates.",
+            "sentences": "Pariatur ipsum nam est ut delectus. Et eos molestiae placeat dolores vitae.",
+            "paragraph": "Qui enim quas et qui omnis facere sint. Itaque facere sit non non ipsum. Delectus omnis laudantium. Voluptas quia est voluptatem. Quis fuga qui id omnis dolores."
+        },
+        {
+            "words": "sit dolor ea",
+            "sentence": "Magni iusto nam ullam nam esse vitae.",
+            "sentences": "Quaerat atque ea reprehenderit ut reiciendis distinctio vel a. Aut blanditiis esse ad. Sapiente nihil porro.",
+            "paragraph": "Exercitationem reiciendis blanditiis nihil qui magni id soluta eius. Voluptatem exercitationem labore. Repellat dicta sint dolores est sint. Doloremque optio nihil adipisci. Rerum at officiis aliquam. Voluptas et et."
+        },
+        {
+            "words": "quam repellendus quia",
+            "sentence": "Doloribus consequuntur consequatur sed aut atque est est.",
+            "sentences": "Quae molestias at ea. Sed quod ut at sed sit facere perferendis ullam rerum. Ducimus ex maxime tempora magnam maxime. Qui aspernatur esse explicabo totam distinctio doloribus at non quasi. Exercitationem quasi tenetur beatae molestias a distinctio ut sit. In optio omnis distinctio et aut quo alias pariatur eaque.",
+            "paragraph": "Velit eius dignissimos. Et maiores et quia quam repudiandae sit neque. Sint animi velit aut odit tempore expedita. Qui sapiente ea illum laboriosam minus qui aut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "698.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Emard Group",
+            "name": "Investment Account 7434",
+            "type": "invoice",
+            "account": "43109465"
+        },
+        {
+            "amount": "351.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Littel, O'Reilly and Beatty",
+            "name": "Savings Account 6442",
+            "type": "withdrawal",
+            "account": "83649555"
+        },
+        {
+            "amount": "281.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lehner - Murphy",
+            "name": "Investment Account 1031",
+            "type": "payment",
+            "account": "96471978"
+        }
+    ]
+}

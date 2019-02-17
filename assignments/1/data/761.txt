@@ -1,0 +1,72 @@
+{
+    "name": "Jaylan Weimann",
+    "username": "Brant70",
+    "email": "Helen.Walter56@hotmail.com",
+    "address": {
+        "streetA": "Walker Row",
+        "streetB": "0477 Ricardo Locks",
+        "streetC": "2426 Tessie Rapids Suite 838",
+        "streetD": "Suite 711",
+        "city": "South Nils",
+        "state": "New Mexico",
+        "country": "Monaco",
+        "zipcode": "05811-7792",
+        "geo": {
+            "lat": "14.9571",
+            "lng": "7.0979"
+        }
+    },
+    "phone": "(249) 731-1303",
+    "website": "concepcion.info",
+    "company": {
+        "name": "Spencer - Kohler",
+        "catchPhrase": "Virtual zero tolerance product",
+        "bs": "seamless redefine communities"
+    },
+    "posts": [
+        {
+            "words": "aut id molestiae",
+            "sentence": "Praesentium veniam eos assumenda eius dolor.",
+            "sentences": "Esse voluptas veritatis qui rerum sapiente laudantium minima reiciendis. Amet aut dolor aperiam quidem. Eligendi praesentium voluptas non deleniti quos rerum fuga. Quia totam est.",
+            "paragraph": "Ipsam ipsam velit iusto iure ipsam beatae asperiores est numquam. Omnis rerum enim. Praesentium id quaerat ratione. Fugiat earum in nesciunt odit asperiores quia sunt. Assumenda ut optio molestiae fugit et. Tempore sed sit at non perspiciatis pariatur."
+        },
+        {
+            "words": "quisquam omnis fugit",
+            "sentence": "Reprehenderit quia eos dolorem et.",
+            "sentences": "Enim molestiae nulla molestias ullam est et ipsam sed et. Ut odit impedit eum fugit eos ut recusandae maiores sint.",
+            "paragraph": "Neque quo ratione vel autem aut quibusdam. Magni est dolor impedit accusamus ex aut placeat. Ea doloremque praesentium nobis qui id omnis."
+        },
+        {
+            "words": "reiciendis aut voluptatibus",
+            "sentence": "Voluptates doloribus neque aut eveniet autem cumque eius aliquid sed.",
+            "sentences": "Dolores eos eius consequatur est atque. Aperiam doloribus aut repudiandae natus eaque temporibus non quasi quas. Quo quidem exercitationem dolores.",
+            "paragraph": "Debitis ea veniam quam ut non distinctio voluptatem tenetur necessitatibus. Optio qui dolor nisi. Dicta dolores aspernatur aut sint voluptates. Sunt quod nihil."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "430.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mosciski - Haag",
+            "name": "Money Market Account 0746",
+            "type": "invoice",
+            "account": "76206456"
+        },
+        {
+            "amount": "621.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ward Group",
+            "name": "Personal Loan Account 8422",
+            "type": "payment",
+            "account": "66470773"
+        },
+        {
+            "amount": "42.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Klocko LLC",
+            "name": "Savings Account 8935",
+            "type": "invoice",
+            "account": "56628419"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Herta Kemmer",
+    "username": "Ellis51",
+    "email": "Cathryn58@gmail.com",
+    "address": {
+        "streetA": "Lesch Lock",
+        "streetB": "4957 McKenzie Neck",
+        "streetC": "45462 Lilla Ridge Suite 122",
+        "streetD": "Suite 892",
+        "city": "South Carmelstad",
+        "state": "Colorado",
+        "country": "Malaysia",
+        "zipcode": "21900-8714",
+        "geo": {
+            "lat": "-82.9533",
+            "lng": "-85.9482"
+        }
+    },
+    "phone": "(225) 687-2916",
+    "website": "eugenia.biz",
+    "company": {
+        "name": "Roberts Inc",
+        "catchPhrase": "Automated optimizing initiative",
+        "bs": "dot-com engineer e-services"
+    },
+    "posts": [
+        {
+            "words": "mollitia harum enim",
+            "sentence": "Voluptates nihil accusamus dolores corrupti quidem quis pariatur.",
+            "sentences": "Assumenda esse placeat distinctio iusto saepe ut ullam rerum dolorem. Id minima voluptatibus assumenda suscipit incidunt autem voluptate. Sed occaecati sunt explicabo sapiente ab qui facere suscipit. Dolore eveniet non. Amet eius amet et impedit reprehenderit illo at dicta eos.",
+            "paragraph": "Magni nihil quasi sunt est non sed minima alias. Ut vel harum eum nisi praesentium maxime qui in. Qui provident at sed assumenda magni et saepe."
+        },
+        {
+            "words": "esse delectus reiciendis",
+            "sentence": "Exercitationem magni rem iure perspiciatis fugiat qui.",
+            "sentences": "At repellendus dolores cupiditate distinctio ipsum id. Eum illo ut tempore blanditiis quas. Facilis optio inventore suscipit et qui et voluptate doloribus.",
+            "paragraph": "Est distinctio nobis assumenda eos atque. Eos aliquid ex eius perferendis sunt ipsa sed sit. Ipsa numquam ratione dolor laborum corrupti amet voluptas quia itaque. Repudiandae illum vitae veniam placeat dolor. Quia qui laudantium voluptatem reprehenderit illum quaerat consequatur. Commodi voluptatem est libero ea quos."
+        },
+        {
+            "words": "mollitia sed impedit",
+            "sentence": "Suscipit sint quis recusandae et dolorem odit nobis aut officiis.",
+            "sentences": "Nostrum cum velit earum mollitia ut. Commodi et quo accusamus deserunt aliquid. Sequi et enim beatae iusto molestias fuga facilis saepe. Excepturi quae suscipit maxime.",
+            "paragraph": "Aut aspernatur enim. Architecto unde nihil assumenda repudiandae. Voluptates possimus praesentium."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "672.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kassulke Inc",
+            "name": "Personal Loan Account 6561",
+            "type": "deposit",
+            "account": "48349353"
+        },
+        {
+            "amount": "757.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Brakus, Miller and Harris",
+            "name": "Money Market Account 5267",
+            "type": "payment",
+            "account": "23222198"
+        },
+        {
+            "amount": "150.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Osinski - Sawayn",
+            "name": "Checking Account 6893",
+            "type": "invoice",
+            "account": "26656890"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Miss Alfonzo Kohler",
+    "username": "Armando_Zemlak22",
+    "email": "Asia.Cummerata@yahoo.com",
+    "address": {
+        "streetA": "Howe Inlet",
+        "streetB": "28601 Block Creek",
+        "streetC": "05760 Reichel Burg Apt. 511",
+        "streetD": "Suite 075",
+        "city": "North Nick",
+        "state": "Indiana",
+        "country": "Cameroon",
+        "zipcode": "15107",
+        "geo": {
+            "lat": "-52.3146",
+            "lng": "-83.1406"
+        }
+    },
+    "phone": "700.295.3927",
+    "website": "hettie.biz",
+    "company": {
+        "name": "Lindgren, Glover and Mayer",
+        "catchPhrase": "Programmable analyzing hierarchy",
+        "bs": "B2C leverage web-readiness"
+    },
+    "posts": [
+        {
+            "words": "labore tenetur similique",
+            "sentence": "Neque est et suscipit veritatis enim quia.",
+            "sentences": "At et eaque quia rerum. Quod dolorem laudantium alias. Distinctio quo eius ipsam. Maiores quos eaque et.",
+            "paragraph": "Et aut est temporibus vitae exercitationem optio accusamus blanditiis. Quod similique consectetur consequatur cum qui nisi. Ullam laborum quidem et excepturi animi."
+        },
+        {
+            "words": "dignissimos ut dolor",
+            "sentence": "Facilis dignissimos commodi saepe ad totam vitae.",
+            "sentences": "Dolores quas eligendi voluptas eaque natus voluptas quam eaque. Tenetur occaecati rem. Id quos quae. Excepturi velit rerum in quisquam cum optio id eos autem. Ut error odio nisi illo ducimus sint iure ut. Aut tempore quia.",
+            "paragraph": "Corporis repellendus ut placeat eos. Tenetur aut eius hic corporis sed aut. Dolorum omnis maiores. Ut at voluptatem aliquid dicta iste laudantium sunt et. Similique ad aut tempora. Qui ut omnis tempora aut consequuntur in."
+        },
+        {
+            "words": "et laborum molestias",
+            "sentence": "Magni maiores natus sit officiis facere fugiat.",
+            "sentences": "Pariatur eligendi excepturi quis libero maxime quia. Asperiores aliquid ab eos odio. Repellat magni perferendis fugiat enim vitae qui sapiente repellat ut. Id commodi et ut voluptas qui.",
+            "paragraph": "Optio dolore nisi repellat accusamus. Illum sit deserunt molestiae et eum placeat. Odit sequi libero dolorum dolorem enim omnis et sed. Harum molestiae beatae quis exercitationem esse officia libero accusantium consequatur. Et incidunt officiis. Expedita animi consequatur earum modi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "412.33",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Friesen LLC",
+            "name": "Personal Loan Account 7570",
+            "type": "deposit",
+            "account": "51335833"
+        },
+        {
+            "amount": "790.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Labadie, Hermann and Mraz",
+            "name": "Savings Account 4707",
+            "type": "withdrawal",
+            "account": "03915873"
+        },
+        {
+            "amount": "103.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Skiles, Beatty and Gulgowski",
+            "name": "Credit Card Account 8510",
+            "type": "invoice",
+            "account": "44107493"
+        }
+    ]
+}

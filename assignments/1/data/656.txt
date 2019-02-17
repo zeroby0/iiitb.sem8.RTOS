@@ -1,0 +1,72 @@
+{
+    "name": "Maggie Toy",
+    "username": "Jadon_Thompson92",
+    "email": "Shirley.Bauch10@hotmail.com",
+    "address": {
+        "streetA": "Angelica Station",
+        "streetB": "160 Rodger Ports",
+        "streetC": "541 Travon Tunnel Apt. 966",
+        "streetD": "Suite 895",
+        "city": "Paucekhaven",
+        "state": "New Jersey",
+        "country": "Macedonia",
+        "zipcode": "79413",
+        "geo": {
+            "lat": "52.8851",
+            "lng": "-77.6482"
+        }
+    },
+    "phone": "517-741-4844 x52177",
+    "website": "robbie.name",
+    "company": {
+        "name": "Swaniawski, Schumm and Gorczany",
+        "catchPhrase": "Quality-focused radical task-force",
+        "bs": "proactive evolve initiatives"
+    },
+    "posts": [
+        {
+            "words": "consequatur soluta velit",
+            "sentence": "Sed voluptatum aut occaecati.",
+            "sentences": "Omnis debitis voluptatum molestiae a quaerat. Autem necessitatibus libero eveniet in rerum excepturi velit accusantium. Doloribus et est quia laudantium provident voluptate omnis. Reprehenderit sapiente reprehenderit consequatur. Nihil in sed consectetur omnis. Repellat aliquam perferendis.",
+            "paragraph": "Cupiditate veniam vel. Doloribus laudantium quibusdam id. Eos qui consequuntur accusantium. Non pariatur rem dicta ullam."
+        },
+        {
+            "words": "est qui nihil",
+            "sentence": "A delectus iste.",
+            "sentences": "Nisi reiciendis impedit neque dolorem. Quia nulla ipsum distinctio. Ab qui et eum impedit ea numquam modi expedita et.",
+            "paragraph": "In sed maxime quia aut deserunt reprehenderit provident consequatur voluptatibus. Unde voluptas voluptates est libero maiores. Pariatur dolores ut blanditiis eos. Quis enim consequuntur ea. Et maiores dolor laboriosam aperiam dolore aliquam quas aut et."
+        },
+        {
+            "words": "iusto sunt qui",
+            "sentence": "Optio in fuga voluptatem in nobis voluptatem molestiae dolor quo.",
+            "sentences": "Quia eligendi cumque. Dolorum officia dolorum quia cumque. Sunt vero et rem iusto occaecati reprehenderit ullam in dolore. Et maiores perspiciatis enim. Tempore dolorum et quibusdam est nihil nesciunt. Aut voluptatibus illo deleniti nulla quia sunt.",
+            "paragraph": "Pariatur aut perspiciatis qui dolor beatae quibusdam voluptatum. Delectus consequuntur modi error illo voluptatum natus accusamus molestiae. Aspernatur sunt vero quo sequi. Illo quas aut quaerat velit qui praesentium amet delectus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "265.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Carter, Jast and Jacobi",
+            "name": "Savings Account 5404",
+            "type": "withdrawal",
+            "account": "63357104"
+        },
+        {
+            "amount": "838.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Olson, Ziemann and Kunde",
+            "name": "Checking Account 5383",
+            "type": "withdrawal",
+            "account": "54245251"
+        },
+        {
+            "amount": "157.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Watsica Group",
+            "name": "Savings Account 9749",
+            "type": "invoice",
+            "account": "19783668"
+        }
+    ]
+}

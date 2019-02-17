@@ -1,0 +1,72 @@
+{
+    "name": "Karelle Schamberger",
+    "username": "Selmer21",
+    "email": "Kaia86@gmail.com",
+    "address": {
+        "streetA": "Ignatius Way",
+        "streetB": "11033 Bahringer Trail",
+        "streetC": "6040 Rippin Walks Apt. 436",
+        "streetD": "Apt. 572",
+        "city": "East Zack",
+        "state": "New Hampshire",
+        "country": "Mauritania",
+        "zipcode": "10663-9805",
+        "geo": {
+            "lat": "27.2154",
+            "lng": "3.6759"
+        }
+    },
+    "phone": "(746) 861-8216 x65218",
+    "website": "clifton.com",
+    "company": {
+        "name": "Conroy - Spinka",
+        "catchPhrase": "Grass-roots intangible middleware",
+        "bs": "e-business mesh networks"
+    },
+    "posts": [
+        {
+            "words": "animi alias ut",
+            "sentence": "Voluptatum beatae qui molestiae sed labore.",
+            "sentences": "Aspernatur voluptatem et eveniet dicta eligendi inventore id amet quod. Omnis itaque nam quia corrupti nemo nisi dolorem ut consequatur. Quia quia sit commodi.",
+            "paragraph": "Voluptatem occaecati architecto omnis dolor architecto. Nobis veritatis porro libero animi. Voluptatum dolore illum nihil rerum. Necessitatibus accusantium qui ut qui dolore quis."
+        },
+        {
+            "words": "facilis autem ut",
+            "sentence": "Iure aut rerum maxime fugit illum culpa.",
+            "sentences": "In accusantium recusandae eveniet omnis eos unde labore quo commodi. Accusamus aperiam illum fuga ab voluptate expedita fugiat non reiciendis. Nisi ut sunt. Et rem quisquam omnis est. Rerum quos voluptatem ex eos eius ea.",
+            "paragraph": "Aut dolores et voluptatem totam. Rerum inventore esse adipisci voluptatem at est explicabo dolor. Ea inventore rerum quas qui consectetur tenetur aliquid aliquid ut. Quia eum atque quisquam optio. Ut quia esse accusantium qui."
+        },
+        {
+            "words": "quidem est voluptatem",
+            "sentence": "Esse mollitia adipisci illo et sit fugiat at optio.",
+            "sentences": "Et qui voluptatem et harum et error veniam dolores neque. Velit est ex sequi veritatis quo optio sed repellat facilis. Veritatis qui sequi est assumenda voluptatem vel qui. Omnis consequatur quibusdam non. Optio molestiae velit quisquam est consectetur repellat.",
+            "paragraph": "Alias incidunt id facilis. A laudantium minima minima. Nesciunt dolor quisquam sed sunt necessitatibus sed qui."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "110.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nitzsche Group",
+            "name": "Money Market Account 0548",
+            "type": "invoice",
+            "account": "11677057"
+        },
+        {
+            "amount": "937.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobson - Blick",
+            "name": "Auto Loan Account 0889",
+            "type": "payment",
+            "account": "22374101"
+        },
+        {
+            "amount": "382.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mante, Hodkiewicz and Corkery",
+            "name": "Credit Card Account 2904",
+            "type": "invoice",
+            "account": "99137662"
+        }
+    ]
+}

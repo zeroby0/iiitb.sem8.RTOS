@@ -1,0 +1,72 @@
+{
+    "name": "Micheal Gusikowski",
+    "username": "Teresa.Roob",
+    "email": "Jaime.Hane91@yahoo.com",
+    "address": {
+        "streetA": "Lafayette Junctions",
+        "streetB": "60519 Hintz Branch",
+        "streetC": "67860 Khalid Motorway Suite 616",
+        "streetD": "Apt. 725",
+        "city": "New Madalyn",
+        "state": "Minnesota",
+        "country": "Belarus",
+        "zipcode": "62949-9645",
+        "geo": {
+            "lat": "37.5284",
+            "lng": "-155.3212"
+        }
+    },
+    "phone": "(830) 954-9500 x09159",
+    "website": "ludwig.name",
+    "company": {
+        "name": "Conn, Carroll and Sipes",
+        "catchPhrase": "Polarised impactful ability",
+        "bs": "B2C seize architectures"
+    },
+    "posts": [
+        {
+            "words": "amet omnis deleniti",
+            "sentence": "Nesciunt ullam cum.",
+            "sentences": "Minus eius nihil placeat consequatur eos non. Totam deserunt nobis recusandae qui repellat beatae. Consectetur est ratione animi mollitia sit iste sint. Non rerum occaecati aliquid a error distinctio. Voluptas iste dolorum eaque est delectus amet optio. Officia commodi quae necessitatibus repellendus voluptatibus maiores omnis.",
+            "paragraph": "Voluptas maxime debitis qui fugiat voluptatem aliquam ipsa sit debitis. Magni id expedita ad fugiat qui officia. Eaque asperiores architecto officiis eius dolor facere possimus voluptatum nemo."
+        },
+        {
+            "words": "assumenda ad est",
+            "sentence": "Dolorum aperiam architecto.",
+            "sentences": "Consequatur facilis et assumenda eos. Velit laboriosam ratione hic numquam assumenda nihil rerum. Qui molestias suscipit ipsum aperiam harum voluptates eos dolorem consequatur. Est nulla architecto qui.",
+            "paragraph": "Recusandae fugiat omnis nisi aut sunt praesentium aliquam. Voluptatibus est totam non sapiente tempora natus. A enim inventore harum at harum aut repudiandae."
+        },
+        {
+            "words": "ratione incidunt et",
+            "sentence": "Rerum mollitia eum consectetur.",
+            "sentences": "Aperiam id maiores. Minus eum ducimus omnis vel quia iste. Sed quasi labore labore vitae.",
+            "paragraph": "Expedita consequatur sunt reiciendis non aut et quo in. Id blanditiis dolores laudantium dolor atque incidunt molestiae. Nulla in neque est voluptatum. Perspiciatis voluptatem repudiandae architecto. Et id rerum non distinctio autem qui. Odit aut quia facere ducimus iusto eius eum sed at."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "874.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kihn - Christiansen",
+            "name": "Auto Loan Account 4179",
+            "type": "invoice",
+            "account": "41084570"
+        },
+        {
+            "amount": "505.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rice Inc",
+            "name": "Auto Loan Account 7023",
+            "type": "withdrawal",
+            "account": "58590814"
+        },
+        {
+            "amount": "528.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lockman LLC",
+            "name": "Savings Account 2096",
+            "type": "deposit",
+            "account": "40954902"
+        }
+    ]
+}

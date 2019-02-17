@@ -1,0 +1,72 @@
+{
+    "name": "Sally Klocko",
+    "username": "Marlon14",
+    "email": "Edd.Ortiz@yahoo.com",
+    "address": {
+        "streetA": "Alva Plains",
+        "streetB": "78587 Osinski Road",
+        "streetC": "57904 Turcotte Groves Suite 894",
+        "streetD": "Apt. 127",
+        "city": "Ortizmouth",
+        "state": "Florida",
+        "country": "Guernsey",
+        "zipcode": "16669",
+        "geo": {
+            "lat": "68.2952",
+            "lng": "-13.0977"
+        }
+    },
+    "phone": "(582) 921-5654 x018",
+    "website": "nicole.net",
+    "company": {
+        "name": "Batz - Kautzer",
+        "catchPhrase": "Reactive zero tolerance knowledge user",
+        "bs": "collaborative iterate portals"
+    },
+    "posts": [
+        {
+            "words": "consequatur a voluptatem",
+            "sentence": "Recusandae aut voluptas quibusdam.",
+            "sentences": "Est ipsa similique vel laudantium temporibus doloribus voluptas ex explicabo. Ea praesentium autem maiores asperiores odio et est.",
+            "paragraph": "Excepturi error sint dolorem doloribus explicabo minus consequatur nihil. Amet iure quibusdam quod rerum possimus. Perspiciatis possimus omnis odit nostrum et excepturi quo."
+        },
+        {
+            "words": "et animi beatae",
+            "sentence": "Ipsum aut aut.",
+            "sentences": "Ut placeat aut laudantium est id sint aperiam quia. Nostrum aliquam quaerat quisquam nesciunt id maxime consequatur. Totam possimus officia rerum dolore est commodi qui omnis.",
+            "paragraph": "Suscipit quo cumque enim architecto nulla eum assumenda. Non aut facere aspernatur nihil perspiciatis et qui. Consequatur temporibus id eum ex est. Aut nam laborum doloremque qui aut amet non. Eaque laborum reprehenderit eligendi. Voluptatem ipsum quam numquam."
+        },
+        {
+            "words": "non aut eligendi",
+            "sentence": "Consequatur et temporibus ut accusamus esse et quisquam similique dolor.",
+            "sentences": "Qui sed porro. Quia saepe molestiae dicta ab molestiae culpa adipisci dicta. Explicabo minima et ea molestias fugiat qui voluptas illo.",
+            "paragraph": "Ipsam exercitationem alias. Iste occaecati aliquam unde fugit ipsa omnis sunt voluptates. Ut sed optio facere mollitia. Et nesciunt neque. Quia nesciunt quam eos et iusto itaque qui id. Necessitatibus rerum officiis et deleniti non."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "715.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Conn - Hane",
+            "name": "Auto Loan Account 1197",
+            "type": "withdrawal",
+            "account": "75111451"
+        },
+        {
+            "amount": "385.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lueilwitz - Hermann",
+            "name": "Investment Account 8332",
+            "type": "withdrawal",
+            "account": "65808722"
+        },
+        {
+            "amount": "331.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Feeney, Parker and Cronin",
+            "name": "Auto Loan Account 7853",
+            "type": "withdrawal",
+            "account": "51133920"
+        }
+    ]
+}

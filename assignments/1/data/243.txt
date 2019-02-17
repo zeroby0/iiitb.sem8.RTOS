@@ -1,0 +1,72 @@
+{
+    "name": "Khalid Dare",
+    "username": "Wilfred.Emmerich",
+    "email": "Fanny.Balistreri42@hotmail.com",
+    "address": {
+        "streetA": "Braun Inlet",
+        "streetB": "80122 Polly Garden",
+        "streetC": "0723 Hahn Parks Suite 755",
+        "streetD": "Apt. 042",
+        "city": "Ebertside",
+        "state": "Vermont",
+        "country": "Syrian Arab Republic",
+        "zipcode": "85555-3732",
+        "geo": {
+            "lat": "57.3278",
+            "lng": "117.4872"
+        }
+    },
+    "phone": "(594) 214-2451 x4974",
+    "website": "rahul.name",
+    "company": {
+        "name": "Hagenes - Johnson",
+        "catchPhrase": "Progressive explicit workforce",
+        "bs": "transparent envisioneer partnerships"
+    },
+    "posts": [
+        {
+            "words": "neque laborum nulla",
+            "sentence": "Perferendis porro neque est id qui.",
+            "sentences": "Tempore nihil voluptatibus deserunt quas perspiciatis vitae. Eum eaque recusandae dicta et. Ut iusto non. Consequatur qui et asperiores quisquam. Velit ut incidunt fugiat. Quae commodi velit ipsam dolorem at voluptatem quia aperiam.",
+            "paragraph": "Corporis sed magni. Corporis dolor exercitationem quidem nisi. Aut aliquid dolor delectus nesciunt consequatur id cupiditate fugiat qui. Voluptate molestiae minima voluptas accusamus natus. Aut magni et dicta voluptatem."
+        },
+        {
+            "words": "quos doloremque laboriosam",
+            "sentence": "Et laborum molestiae iure consequatur non.",
+            "sentences": "Cum voluptatem molestiae enim minima minus. Ullam ratione cumque corrupti. Quo rerum praesentium itaque. Expedita explicabo ex exercitationem vel impedit velit quo.",
+            "paragraph": "Ducimus repellat et. Atque voluptate ut odio est delectus perspiciatis. Laboriosam nulla quo earum excepturi qui velit. Iusto dolorem voluptatem odio. Et et neque vel quia delectus dicta quo voluptatem porro."
+        },
+        {
+            "words": "quia aut rerum",
+            "sentence": "Rerum quas nisi et asperiores at corrupti rerum.",
+            "sentences": "Molestiae ex et labore sed. Quod illo exercitationem rerum aut nihil tempore.",
+            "paragraph": "Unde sunt aut explicabo deleniti. Eveniet fugiat praesentium ut sunt. Odio est et mollitia."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "96.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobs - Johnson",
+            "name": "Auto Loan Account 2164",
+            "type": "invoice",
+            "account": "34428140"
+        },
+        {
+            "amount": "838.54",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmitt - Von",
+            "name": "Investment Account 2859",
+            "type": "payment",
+            "account": "58609298"
+        },
+        {
+            "amount": "530.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Murphy, Yost and Breitenberg",
+            "name": "Money Market Account 3815",
+            "type": "invoice",
+            "account": "45401046"
+        }
+    ]
+}

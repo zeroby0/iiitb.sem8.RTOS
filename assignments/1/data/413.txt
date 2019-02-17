@@ -1,0 +1,72 @@
+{
+    "name": "Alisa Farrell",
+    "username": "Elliot28",
+    "email": "Tyrell7@yahoo.com",
+    "address": {
+        "streetA": "Volkman Dam",
+        "streetB": "737 Brenden Circles",
+        "streetC": "68866 Nienow Landing Apt. 904",
+        "streetD": "Suite 391",
+        "city": "Borerchester",
+        "state": "Connecticut",
+        "country": "Cape Verde",
+        "zipcode": "50253-6444",
+        "geo": {
+            "lat": "-89.1736",
+            "lng": "-150.1981"
+        }
+    },
+    "phone": "1-672-756-2858 x36069",
+    "website": "hortense.com",
+    "company": {
+        "name": "Rogahn LLC",
+        "catchPhrase": "Customer-focused context-sensitive collaboration",
+        "bs": "next-generation innovate action-items"
+    },
+    "posts": [
+        {
+            "words": "velit alias voluptate",
+            "sentence": "Ut totam magni molestiae voluptatum.",
+            "sentences": "Quis tempore nostrum voluptatem minus. Id earum sint nam et corporis. Culpa aspernatur non necessitatibus doloribus omnis. Laboriosam possimus doloribus hic. Rerum libero recusandae labore magni quaerat.",
+            "paragraph": "Veritatis possimus sunt dolorem neque dignissimos placeat esse minus vitae. Dolore numquam nulla pariatur. Voluptatem illo laboriosam officia enim enim illum. Eum dolor veniam a. Sint nulla consequatur minus dicta ipsam consectetur. Accusamus ex sunt enim accusamus maxime aut."
+        },
+        {
+            "words": "voluptatum autem est",
+            "sentence": "Ut et et et delectus.",
+            "sentences": "Sit nesciunt aut numquam ut ex at in dolore. Nobis animi sed qui dolore minus temporibus. Quas illo provident deleniti. Et molestiae perspiciatis sit voluptatem.",
+            "paragraph": "Blanditiis quisquam ad dolores aut dignissimos itaque ex. Debitis non totam. Facilis dolorum dolore sit nemo. Impedit optio odit qui eum ut cum eius. Sunt et rerum eveniet non temporibus quae deleniti et."
+        },
+        {
+            "words": "vel incidunt voluptatem",
+            "sentence": "Voluptatem deleniti officiis atque aliquid architecto rerum est soluta rerum.",
+            "sentences": "Sapiente quam qui enim recusandae sit distinctio distinctio reiciendis. Molestiae dolores praesentium dolorum quo. Nulla est quaerat vitae.",
+            "paragraph": "Amet quo dignissimos tenetur. Eum explicabo ut esse. Totam deserunt quaerat voluptas eos."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "114.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Harris, Auer and Blanda",
+            "name": "Personal Loan Account 7899",
+            "type": "deposit",
+            "account": "16126398"
+        },
+        {
+            "amount": "402.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Boehm - Gleason",
+            "name": "Auto Loan Account 2891",
+            "type": "payment",
+            "account": "99858911"
+        },
+        {
+            "amount": "234.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Romaguera, Conroy and Blick",
+            "name": "Investment Account 6131",
+            "type": "deposit",
+            "account": "35201707"
+        }
+    ]
+}

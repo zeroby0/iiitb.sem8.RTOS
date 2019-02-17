@@ -1,0 +1,72 @@
+{
+    "name": "Meagan Murazik",
+    "username": "Jaydon.Roob",
+    "email": "Melyssa_Yost@yahoo.com",
+    "address": {
+        "streetA": "Otho Dam",
+        "streetB": "090 Elliott Rapid",
+        "streetC": "3647 Hansen Plains Apt. 051",
+        "streetD": "Suite 055",
+        "city": "Caryport",
+        "state": "New Mexico",
+        "country": "Suriname",
+        "zipcode": "76831-7738",
+        "geo": {
+            "lat": "50.6657",
+            "lng": "-46.5831"
+        }
+    },
+    "phone": "509.326.2897 x6704",
+    "website": "felix.name",
+    "company": {
+        "name": "Bins - Gusikowski",
+        "catchPhrase": "Reactive systematic concept",
+        "bs": "compelling reinvent solutions"
+    },
+    "posts": [
+        {
+            "words": "dolor consequatur dolores",
+            "sentence": "Ea molestiae unde repudiandae.",
+            "sentences": "Non pariatur tempore ad omnis officiis est. Ducimus facilis ducimus magni magni placeat ab autem saepe ea. Sunt nulla facilis optio vitae. Et aliquid exercitationem est omnis expedita blanditiis fugiat et ut. Ut aut ab. Et totam est dolorum veritatis sed nihil ut.",
+            "paragraph": "Cum itaque dicta alias. Quam dolorem quae voluptas. Et qui totam nostrum."
+        },
+        {
+            "words": "distinctio eius quaerat",
+            "sentence": "Cumque veritatis reprehenderit cumque natus dolores.",
+            "sentences": "Ratione ex suscipit dolor est tenetur illo. Eum ut sint. Sunt maiores rerum. Voluptatem est voluptatum et sint ut non dolor qui. Eos consequatur qui rerum fugit aliquid consectetur cupiditate.",
+            "paragraph": "In eaque error quia. Ut ut sit. A tempora est corrupti debitis rerum alias inventore voluptate. Architecto omnis officiis eos tenetur occaecati repellat esse. Error vel sit dignissimos commodi laborum eos. Quasi iure fugiat nesciunt inventore nisi hic."
+        },
+        {
+            "words": "similique facere et",
+            "sentence": "Natus est sapiente explicabo aperiam reprehenderit repellat qui sed sapiente.",
+            "sentences": "Rem voluptas excepturi qui dolorum assumenda sed sed ut. Libero esse accusantium. Distinctio iusto et blanditiis qui ex. Quisquam et necessitatibus maiores voluptatem. Nostrum laudantium rerum qui reiciendis.",
+            "paragraph": "Minima ut dolorem itaque aut et. Quis qui dignissimos quis nesciunt. Possimus fuga fuga. Enim et qui quo numquam quos omnis dolores."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "577.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stark - Bruen",
+            "name": "Checking Account 7867",
+            "type": "payment",
+            "account": "64374240"
+        },
+        {
+            "amount": "224.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Harber - Marquardt",
+            "name": "Checking Account 1255",
+            "type": "deposit",
+            "account": "22241321"
+        },
+        {
+            "amount": "928.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wolff - Carroll",
+            "name": "Home Loan Account 8526",
+            "type": "withdrawal",
+            "account": "76065163"
+        }
+    ]
+}

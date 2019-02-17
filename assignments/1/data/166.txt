@@ -1,0 +1,72 @@
+{
+    "name": "Verda Funk",
+    "username": "Jeanie99",
+    "email": "Juliana.Mante75@gmail.com",
+    "address": {
+        "streetA": "Ramon Cliffs",
+        "streetB": "2652 Hills Extension",
+        "streetC": "916 O'Hara Fields Apt. 565",
+        "streetD": "Apt. 300",
+        "city": "South Izaiah",
+        "state": "Tennessee",
+        "country": "Comoros",
+        "zipcode": "58536-0685",
+        "geo": {
+            "lat": "-0.1146",
+            "lng": "-106.0308"
+        }
+    },
+    "phone": "(549) 800-7413 x568",
+    "website": "alberta.org",
+    "company": {
+        "name": "Mills - Grimes",
+        "catchPhrase": "Optimized mission-critical flexibility",
+        "bs": "robust drive deliverables"
+    },
+    "posts": [
+        {
+            "words": "quis odio aut",
+            "sentence": "Doloribus quae consectetur.",
+            "sentences": "Deserunt corrupti quia distinctio saepe. Optio eos labore aut maxime ipsa iure. Sed cumque dolore expedita laborum non porro autem delectus.",
+            "paragraph": "Nemo eius consequatur voluptates eveniet accusamus et a beatae omnis. Placeat consectetur ut incidunt ea aut nemo. Similique occaecati doloremque quos totam minima illum facere aut. Tempora ut impedit aut natus officia voluptatibus. Quaerat unde blanditiis aut autem sint. Sed earum beatae hic omnis dicta vero dolor facere."
+        },
+        {
+            "words": "maiores nisi pariatur",
+            "sentence": "Nisi sed nostrum labore rerum.",
+            "sentences": "Quam maxime reprehenderit. Placeat minima ut.",
+            "paragraph": "Eius minima unde sed libero et vel et quam. Cupiditate numquam ea expedita explicabo. Fugit deserunt numquam voluptas voluptatem deserunt. In impedit sit dolore vel."
+        },
+        {
+            "words": "et dicta ut",
+            "sentence": "Animi veritatis ex rerum.",
+            "sentences": "Illo aut quas. Possimus sunt animi neque minima ab tempora fugit accusamus. Dolores ex est. Quaerat impedit rerum quo sunt. Autem doloremque sed. Et quam cumque molestiae aut.",
+            "paragraph": "Omnis cumque reprehenderit ea facilis vero maiores corporis eum in. Repellat dolore voluptatibus cupiditate qui placeat dolores. Ipsum quis ipsa sapiente ad veniam iste eligendi qui. Soluta possimus sit cumque enim tempora eos."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "166.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Barrows LLC",
+            "name": "Personal Loan Account 9626",
+            "type": "deposit",
+            "account": "96010655"
+        },
+        {
+            "amount": "774.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Altenwerth, Rosenbaum and Parisian",
+            "name": "Auto Loan Account 7729",
+            "type": "payment",
+            "account": "06838962"
+        },
+        {
+            "amount": "650.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kiehn, Feeney and Rogahn",
+            "name": "Home Loan Account 4008",
+            "type": "invoice",
+            "account": "27025468"
+        }
+    ]
+}

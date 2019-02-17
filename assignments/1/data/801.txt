@@ -1,0 +1,72 @@
+{
+    "name": "Geo Wisoky",
+    "username": "Kristy_Daugherty",
+    "email": "Aurelio_Hegmann@yahoo.com",
+    "address": {
+        "streetA": "Larkin Highway",
+        "streetB": "904 Casper Dam",
+        "streetC": "52493 Derrick Crescent Suite 208",
+        "streetD": "Apt. 108",
+        "city": "New Keyshawn",
+        "state": "Ohio",
+        "country": "Malawi",
+        "zipcode": "57393",
+        "geo": {
+            "lat": "-22.1592",
+            "lng": "66.6695"
+        }
+    },
+    "phone": "378.076.8965",
+    "website": "aurelie.biz",
+    "company": {
+        "name": "Kutch, Feeney and Hyatt",
+        "catchPhrase": "Assimilated background process improvement",
+        "bs": "collaborative seize applications"
+    },
+    "posts": [
+        {
+            "words": "fugit at et",
+            "sentence": "Ut ullam enim quaerat perspiciatis nostrum quia quod quia.",
+            "sentences": "Ut harum omnis. Consequuntur occaecati sed atque porro doloribus ducimus earum exercitationem. Quis et id suscipit. Ad aut amet nemo.",
+            "paragraph": "Ducimus consequatur qui et quos. Itaque est quo dolor eos quia alias modi. Commodi harum voluptas rerum vel. Quisquam ut optio quos sed aliquid velit labore quia sed."
+        },
+        {
+            "words": "fugit distinctio eos",
+            "sentence": "Ipsum saepe optio et deleniti.",
+            "sentences": "Perspiciatis dignissimos quia impedit necessitatibus sint. Qui id earum qui tempore libero eligendi aut. Unde perspiciatis modi beatae. Qui rerum ipsa nesciunt eos iste voluptas molestias ipsum illum.",
+            "paragraph": "Qui praesentium optio facilis provident minus. Doloremque magni alias dolor sed at ut omnis. Accusamus et et in sapiente assumenda laudantium saepe corrupti facilis."
+        },
+        {
+            "words": "nihil non quasi",
+            "sentence": "Molestiae aut quam et architecto sed.",
+            "sentences": "Commodi voluptatem consequatur sunt eum animi. Est culpa aperiam nemo similique.",
+            "paragraph": "Aut neque adipisci enim odio molestiae. Esse explicabo sint officia officia voluptatum eaque. Exercitationem deserunt et et dolor blanditiis natus sed aut. Aut sunt ut ipsum et sit. Id voluptatum dolor et distinctio ex. Eius consequatur accusamus harum porro quasi dolor asperiores."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "308.56",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lynch and Sons",
+            "name": "Savings Account 8218",
+            "type": "withdrawal",
+            "account": "17528310"
+        },
+        {
+            "amount": "966.97",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Anderson - Abshire",
+            "name": "Home Loan Account 1007",
+            "type": "deposit",
+            "account": "71683424"
+        },
+        {
+            "amount": "297.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Herzog, Frami and Reichel",
+            "name": "Personal Loan Account 3226",
+            "type": "payment",
+            "account": "91348232"
+        }
+    ]
+}

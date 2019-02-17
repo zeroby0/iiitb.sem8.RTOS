@@ -1,0 +1,72 @@
+{
+    "name": "Bertrand Schmitt",
+    "username": "Santiago.Glover",
+    "email": "Madilyn.Spencer@gmail.com",
+    "address": {
+        "streetA": "Wunsch Walk",
+        "streetB": "5859 Gleason Prairie",
+        "streetC": "9962 Block Rapids Apt. 297",
+        "streetD": "Suite 829",
+        "city": "Murazikfort",
+        "state": "Alaska",
+        "country": "Venezuela",
+        "zipcode": "82628",
+        "geo": {
+            "lat": "31.2332",
+            "lng": "50.2939"
+        }
+    },
+    "phone": "468.093.5693",
+    "website": "jackie.org",
+    "company": {
+        "name": "Pouros, Haag and Schinner",
+        "catchPhrase": "Function-based uniform middleware",
+        "bs": "cutting-edge grow solutions"
+    },
+    "posts": [
+        {
+            "words": "vel odio maiores",
+            "sentence": "Eum unde et ab impedit voluptas voluptatem suscipit rerum veritatis.",
+            "sentences": "Fuga quia non dolorem impedit cupiditate doloribus. Aspernatur autem aliquid qui.",
+            "paragraph": "Doloremque sed quidem et et rerum alias nulla. Voluptatem sunt perferendis quos. Architecto minus soluta. Maiores et iste accusamus aperiam at. Est fugiat nam."
+        },
+        {
+            "words": "quo ea explicabo",
+            "sentence": "Magni assumenda et molestiae harum recusandae quibusdam et tempore.",
+            "sentences": "Assumenda beatae est odit aut sunt ut tenetur aliquam eos. Molestias aperiam officiis quas consectetur dolor. Ullam praesentium perspiciatis in rerum et alias quia ipsum. Sint rerum consequatur nihil quisquam aperiam exercitationem. Dicta molestiae autem officia. Et est dolores voluptatem nisi ea.",
+            "paragraph": "Molestiae et nostrum. Dolores ipsum maxime qui tenetur qui voluptatem impedit officiis. Dolore ut quisquam vel sunt ducimus repudiandae. Quis inventore tempore sunt eos consequatur explicabo accusantium culpa animi. Id totam suscipit id est rerum."
+        },
+        {
+            "words": "omnis qui reprehenderit",
+            "sentence": "Quidem dolorem harum rem et repellendus nemo enim ut quibusdam.",
+            "sentences": "Error laborum qui. Aspernatur at aperiam veritatis. Iure doloremque officiis ut. Incidunt voluptatibus eligendi corrupti maxime velit consequatur reiciendis dolorem. Ut nemo ut consequatur est quasi debitis quo sapiente aut.",
+            "paragraph": "Sed accusantium et tempora amet ipsa eum voluptatem aut qui. Cupiditate asperiores magni dolor sequi optio illo provident sit non. Enim illo adipisci at excepturi doloremque dolorem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "154.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Flatley, Shanahan and Gerlach",
+            "name": "Investment Account 3820",
+            "type": "payment",
+            "account": "47629119"
+        },
+        {
+            "amount": "256.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Terry LLC",
+            "name": "Personal Loan Account 7691",
+            "type": "withdrawal",
+            "account": "67390656"
+        },
+        {
+            "amount": "416.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tillman Inc",
+            "name": "Money Market Account 4436",
+            "type": "payment",
+            "account": "31136235"
+        }
+    ]
+}

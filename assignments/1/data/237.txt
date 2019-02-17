@@ -1,0 +1,72 @@
+{
+    "name": "Edd Hermiston I",
+    "username": "Carol.Kessler55",
+    "email": "Kaleb49@yahoo.com",
+    "address": {
+        "streetA": "Liam Pines",
+        "streetB": "020 Idell Rest",
+        "streetC": "60110 Hettinger Haven Apt. 216",
+        "streetD": "Apt. 618",
+        "city": "Blockmouth",
+        "state": "Tennessee",
+        "country": "Saint Lucia",
+        "zipcode": "48509-0516",
+        "geo": {
+            "lat": "-8.7112",
+            "lng": "77.4797"
+        }
+    },
+    "phone": "(805) 804-5737 x1151",
+    "website": "danyka.name",
+    "company": {
+        "name": "Bechtelar - Adams",
+        "catchPhrase": "Multi-tiered transitional process improvement",
+        "bs": "turn-key architect web-readiness"
+    },
+    "posts": [
+        {
+            "words": "minima officia ut",
+            "sentence": "Corporis voluptas aut sunt fuga labore est.",
+            "sentences": "Unde velit voluptas atque aut delectus cupiditate et nisi. Aut est et. Id nesciunt tenetur et natus saepe dicta dolores sed et.",
+            "paragraph": "Consequuntur aspernatur rem vitae nam minus praesentium veritatis dolorem. Modi asperiores sed tenetur dolorum. Reiciendis consequuntur voluptatibus nihil deleniti beatae vel eum. Aut adipisci asperiores fugiat quos blanditiis quas non ea. Aperiam ut repellat vel facilis. Dolores modi id qui saepe."
+        },
+        {
+            "words": "et dolorem nihil",
+            "sentence": "Et enim explicabo numquam voluptas voluptatem accusantium nobis.",
+            "sentences": "Nesciunt id ratione. Placeat sit id est magni pariatur. Incidunt et quis nulla similique et voluptas ut et. Nihil eaque sunt sed ullam consequatur consequatur quos modi. Occaecati ipsum consequatur voluptatem laboriosam nihil aut libero consequatur.",
+            "paragraph": "Expedita aut rerum quo. Voluptatem sit accusantium ut excepturi dolores. Porro et debitis voluptatibus. Veniam aperiam assumenda vel corrupti temporibus dolores quia quisquam."
+        },
+        {
+            "words": "nobis sequi voluptatem",
+            "sentence": "Eveniet et porro at ut ipsum soluta quo.",
+            "sentences": "Est sed ducimus iure deleniti harum. Est nisi delectus doloribus sint modi. Consectetur perferendis maxime nobis. Magni sit incidunt. Optio odit saepe id qui. Culpa vitae suscipit quas.",
+            "paragraph": "Cumque iure eligendi enim. Harum numquam aspernatur nam nobis praesentium dolorum et ullam quam. Et non molestiae et et accusamus. Occaecati deserunt similique vitae. Facere corporis nobis molestias magni ullam laudantium cumque blanditiis rem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "994.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sauer - Kozey",
+            "name": "Money Market Account 8553",
+            "type": "invoice",
+            "account": "59120188"
+        },
+        {
+            "amount": "433.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Legros LLC",
+            "name": "Credit Card Account 0076",
+            "type": "payment",
+            "account": "66822400"
+        },
+        {
+            "amount": "509.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Senger, Abshire and Ruecker",
+            "name": "Personal Loan Account 4328",
+            "type": "invoice",
+            "account": "85076595"
+        }
+    ]
+}

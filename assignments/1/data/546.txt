@@ -1,0 +1,72 @@
+{
+    "name": "Davonte Rowe",
+    "username": "Randall12",
+    "email": "Kattie.Bruen23@yahoo.com",
+    "address": {
+        "streetA": "Larson Locks",
+        "streetB": "9668 Bosco Unions",
+        "streetC": "48805 Blick Extension Apt. 780",
+        "streetD": "Apt. 098",
+        "city": "Sporertown",
+        "state": "Alaska",
+        "country": "Philippines",
+        "zipcode": "33494",
+        "geo": {
+            "lat": "-57.9791",
+            "lng": "-77.1478"
+        }
+    },
+    "phone": "1-414-840-0452 x9684",
+    "website": "russel.org",
+    "company": {
+        "name": "Kris, Renner and Ward",
+        "catchPhrase": "Phased modular success",
+        "bs": "granular redefine convergence"
+    },
+    "posts": [
+        {
+            "words": "et dolores velit",
+            "sentence": "Optio suscipit sapiente assumenda rem nobis omnis quam autem.",
+            "sentences": "Ab maiores optio. Nemo ut nemo officiis sed modi necessitatibus aspernatur sit eum.",
+            "paragraph": "Et non consequatur eum occaecati est id itaque eaque. Consequatur sit asperiores recusandae quo explicabo at quis pariatur. Eum maxime voluptatem soluta explicabo. Distinctio aut dolorem quisquam asperiores illo aliquam est dolorum accusantium. Iusto ad velit omnis magni dolorem amet reiciendis voluptatem. Maiores explicabo ea."
+        },
+        {
+            "words": "officia iste officiis",
+            "sentence": "Qui eos non cupiditate perspiciatis iusto temporibus.",
+            "sentences": "Hic officiis dolor sit placeat maiores voluptatum ipsa. Est tempore ipsum quam qui eos et iure et.",
+            "paragraph": "Iusto sapiente et minus. Et quo libero iste qui veritatis dolores. Consequuntur repellendus laboriosam consequatur consequatur excepturi et."
+        },
+        {
+            "words": "qui nisi ullam",
+            "sentence": "Perferendis ea in deleniti.",
+            "sentences": "Perspiciatis veniam id quibusdam sit. Unde ut architecto optio voluptates et nesciunt consequuntur rem. Enim suscipit est.",
+            "paragraph": "Veniam alias atque et quae. Illum ab ab laboriosam doloremque magni aperiam. Error et est beatae cumque earum aperiam quasi quos ut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "575.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cummings, Adams and Lockman",
+            "name": "Home Loan Account 3018",
+            "type": "withdrawal",
+            "account": "12292003"
+        },
+        {
+            "amount": "148.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bechtelar, Wuckert and Carroll",
+            "name": "Checking Account 9918",
+            "type": "invoice",
+            "account": "99353393"
+        },
+        {
+            "amount": "362.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lockman LLC",
+            "name": "Auto Loan Account 4142",
+            "type": "payment",
+            "account": "74638084"
+        }
+    ]
+}

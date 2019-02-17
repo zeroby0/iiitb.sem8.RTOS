@@ -1,0 +1,72 @@
+{
+    "name": "Pedro Murazik",
+    "username": "Jazmin_Sporer",
+    "email": "Leonard32@yahoo.com",
+    "address": {
+        "streetA": "Schneider Parks",
+        "streetB": "32236 Laverna Hills",
+        "streetC": "317 Bernhard Mills Suite 767",
+        "streetD": "Apt. 133",
+        "city": "Scottyburgh",
+        "state": "Iowa",
+        "country": "Falkland Islands (Malvinas)",
+        "zipcode": "96543-4337",
+        "geo": {
+            "lat": "-63.0104",
+            "lng": "40.6239"
+        }
+    },
+    "phone": "(326) 323-1575 x749",
+    "website": "savanah.net",
+    "company": {
+        "name": "VonRueden Inc",
+        "catchPhrase": "Cross-platform scalable protocol",
+        "bs": "turn-key innovate architectures"
+    },
+    "posts": [
+        {
+            "words": "reprehenderit dolorem ea",
+            "sentence": "Excepturi amet aut voluptatem et eum possimus assumenda.",
+            "sentences": "Quae sequi sunt tempora id quasi nisi. Eveniet in qui quidem perferendis incidunt.",
+            "paragraph": "Omnis placeat dolor enim aut autem dolorem temporibus quam ut. Dolores sit voluptate. Autem voluptatem voluptas ipsam illo minima ad voluptas fugiat."
+        },
+        {
+            "words": "doloremque debitis vel",
+            "sentence": "Deserunt sit debitis.",
+            "sentences": "Officia neque quas excepturi rerum voluptates quo. Debitis optio in qui dicta enim non similique nihil nulla. Dolorem accusamus et amet officia numquam quia eligendi nesciunt necessitatibus. Optio est cupiditate perspiciatis est sit dolor quod eaque.",
+            "paragraph": "Aut et dolor nulla porro cumque doloremque voluptatem vel. Delectus quam suscipit. Quae inventore nostrum omnis corrupti veritatis rerum et. Non aperiam voluptatibus harum sed quod reiciendis."
+        },
+        {
+            "words": "officia aut debitis",
+            "sentence": "Est soluta repudiandae sunt dolorum porro consequuntur aut quidem.",
+            "sentences": "Ut aliquam eum rerum fugiat saepe. Id quidem repellat vitae voluptatem doloribus numquam quia sunt. Blanditiis consequuntur et eligendi eius deserunt ut doloribus tempore non. Dignissimos necessitatibus et dolore voluptas ipsam ea dolor unde. Deleniti aut omnis ipsam nihil et sed dolore beatae dolorem.",
+            "paragraph": "Nulla beatae praesentium assumenda atque neque molestiae. Quo quas pariatur autem animi consequuntur accusamus voluptate animi. Doloribus consequatur ut illum provident qui assumenda culpa. Cum quos quibusdam quia. Aliquam numquam iste qui reprehenderit distinctio nostrum sint voluptas unde."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "846.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lebsack, Maggio and Kuvalis",
+            "name": "Money Market Account 6082",
+            "type": "withdrawal",
+            "account": "20161794"
+        },
+        {
+            "amount": "520.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Blick, Friesen and Ortiz",
+            "name": "Money Market Account 7322",
+            "type": "invoice",
+            "account": "34990709"
+        },
+        {
+            "amount": "382.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mraz - Schamberger",
+            "name": "Home Loan Account 1398",
+            "type": "deposit",
+            "account": "58268029"
+        }
+    ]
+}

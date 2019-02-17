@@ -1,0 +1,72 @@
+{
+    "name": "Keely Considine Jr.",
+    "username": "Humberto.Larson46",
+    "email": "Terrill96@hotmail.com",
+    "address": {
+        "streetA": "Fay Mill",
+        "streetB": "8807 Goodwin Springs",
+        "streetC": "88478 Halvorson Forge Apt. 019",
+        "streetD": "Suite 182",
+        "city": "South Marcfurt",
+        "state": "Maryland",
+        "country": "Costa Rica",
+        "zipcode": "16421",
+        "geo": {
+            "lat": "-23.8824",
+            "lng": "-21.4640"
+        }
+    },
+    "phone": "822-884-8934 x2630",
+    "website": "lindsey.net",
+    "company": {
+        "name": "Turcotte - Medhurst",
+        "catchPhrase": "Optional 3rd generation moratorium",
+        "bs": "one-to-one deploy infomediaries"
+    },
+    "posts": [
+        {
+            "words": "et rem error",
+            "sentence": "Error saepe sed voluptates error ullam quis.",
+            "sentences": "Voluptatem autem commodi voluptas dolor exercitationem dignissimos nisi mollitia. Ea id sed. Necessitatibus iste non dolor explicabo omnis. Recusandae quis dolore ut non voluptatem ullam explicabo voluptatem.",
+            "paragraph": "Reprehenderit autem in nam facere perferendis est. Molestiae quia nostrum sequi et odit laboriosam fugit. Provident debitis a sed minus cupiditate omnis. Ut eum vel nihil possimus rerum adipisci repellat et."
+        },
+        {
+            "words": "id voluptatem nostrum",
+            "sentence": "Error architecto velit soluta dolor aut repudiandae.",
+            "sentences": "Possimus unde eaque quis. Et cupiditate in recusandae quibusdam. Fuga aspernatur voluptates similique vitae voluptatem est vero mollitia aut. Qui exercitationem nesciunt quaerat sapiente qui recusandae rerum non.",
+            "paragraph": "Hic est rem laudantium maxime quas consequatur vero qui repudiandae. Hic ipsa dolor blanditiis dolore animi. Animi perspiciatis aut nam. Voluptatibus iure eligendi voluptatem quis sit voluptas asperiores eveniet. Eius quidem quod molestiae dicta omnis perspiciatis quis. Nam exercitationem animi eligendi."
+        },
+        {
+            "words": "adipisci illo quis",
+            "sentence": "Quos blanditiis sit id ad dolorum tempore autem adipisci.",
+            "sentences": "Est laborum nihil voluptatem excepturi modi illum unde rem. Et sapiente tempore facilis dolorem consequuntur. Culpa eum illum consectetur autem dignissimos quaerat eligendi cupiditate est. Sed et ducimus eos facere. Quaerat est et consequuntur qui magni cumque modi sed. Optio voluptas deserunt magnam corporis sit exercitationem iusto aut aut.",
+            "paragraph": "Veritatis cum rerum facere laborum repellendus eveniet labore occaecati. Distinctio ut quos qui. Quod impedit sint aut qui. Fugit adipisci beatae quo aut veniam rerum. Saepe repellat repellendus facilis ad ea."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "85.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McCullough, Hegmann and Considine",
+            "name": "Home Loan Account 7720",
+            "type": "withdrawal",
+            "account": "64302559"
+        },
+        {
+            "amount": "464.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Renner - Mills",
+            "name": "Credit Card Account 8627",
+            "type": "payment",
+            "account": "22631900"
+        },
+        {
+            "amount": "809.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Greenfelder Group",
+            "name": "Money Market Account 4456",
+            "type": "payment",
+            "account": "10120320"
+        }
+    ]
+}

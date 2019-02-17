@@ -1,0 +1,72 @@
+{
+    "name": "Elyssa Keebler",
+    "username": "Carmine_Gulgowski74",
+    "email": "Daphnee_Streich@gmail.com",
+    "address": {
+        "streetA": "Lemke Way",
+        "streetB": "02489 Alanna Mount",
+        "streetC": "1940 Carlo Parks Suite 511",
+        "streetD": "Apt. 030",
+        "city": "Braunhaven",
+        "state": "Nevada",
+        "country": "Mayotte",
+        "zipcode": "89489",
+        "geo": {
+            "lat": "-23.7058",
+            "lng": "93.0581"
+        }
+    },
+    "phone": "1-238-001-4152 x144",
+    "website": "dianna.com",
+    "company": {
+        "name": "MacGyver, Volkman and Larson",
+        "catchPhrase": "Streamlined static installation",
+        "bs": "bricks-and-clicks cultivate mindshare"
+    },
+    "posts": [
+        {
+            "words": "qui ipsam est",
+            "sentence": "Ut reiciendis qui sunt rem doloremque animi quia quod.",
+            "sentences": "Voluptatem hic saepe dolor et in assumenda voluptatem. Assumenda sit aut nihil nemo veniam laboriosam sapiente. Illum expedita sunt doloremque aut ex. Aliquam non sunt quis eum omnis voluptas quod. Asperiores aspernatur maiores voluptatem aperiam libero quia magnam provident. Quae voluptatibus ex velit natus deleniti facilis dolores.",
+            "paragraph": "Repellendus laborum quia aliquid quo corrupti excepturi aut. Repudiandae dolores sequi pariatur itaque molestias tempora tempore nam. Eveniet possimus sit. Accusamus corrupti perferendis quia labore."
+        },
+        {
+            "words": "libero magni vero",
+            "sentence": "Aut molestiae rerum modi possimus deleniti quisquam voluptatem quisquam.",
+            "sentences": "Et molestias qui sunt doloribus dolores consectetur. Autem tempora sequi est rem dicta doloribus quibusdam. Repellat corrupti maiores cumque.",
+            "paragraph": "Ea tempora iusto voluptatum ut commodi impedit aperiam. Et libero cum ducimus quisquam consequatur consequuntur et. Non laborum voluptatum in beatae sequi inventore rem quis rem."
+        },
+        {
+            "words": "debitis veniam consectetur",
+            "sentence": "Voluptas porro consequatur reprehenderit quia.",
+            "sentences": "Eveniet ut numquam et voluptatem. Iusto exercitationem exercitationem eos quas. Itaque et facilis numquam at fugit. Aliquam ut et et aliquid provident excepturi sequi voluptatem. Provident neque ullam iste asperiores voluptates ea eaque aut odio.",
+            "paragraph": "Adipisci repellendus iure fuga unde sunt. Animi amet autem. Ut esse cupiditate soluta. Fuga numquam animi rerum illum id qui ea. Quia qui voluptatibus quia nisi odio quia ea harum omnis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "8.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Smitham, Schulist and Johns",
+            "name": "Money Market Account 0515",
+            "type": "withdrawal",
+            "account": "37237132"
+        },
+        {
+            "amount": "251.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McDermott and Sons",
+            "name": "Investment Account 2540",
+            "type": "payment",
+            "account": "19329950"
+        },
+        {
+            "amount": "465.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Streich LLC",
+            "name": "Checking Account 4165",
+            "type": "invoice",
+            "account": "62568481"
+        }
+    ]
+}

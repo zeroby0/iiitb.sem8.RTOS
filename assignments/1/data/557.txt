@@ -1,0 +1,72 @@
+{
+    "name": "Nat Kub",
+    "username": "Dino_Rau",
+    "email": "Ardith.Daugherty11@hotmail.com",
+    "address": {
+        "streetA": "Carter Village",
+        "streetB": "918 MacGyver Curve",
+        "streetC": "642 Spencer Ridge Apt. 125",
+        "streetD": "Suite 546",
+        "city": "North Joey",
+        "state": "Vermont",
+        "country": "Portugal",
+        "zipcode": "99080",
+        "geo": {
+            "lat": "-75.7765",
+            "lng": "113.0660"
+        }
+    },
+    "phone": "817.845.9512",
+    "website": "jeff.info",
+    "company": {
+        "name": "Kub - Glover",
+        "catchPhrase": "Decentralized disintermediate model",
+        "bs": "magnetic generate paradigms"
+    },
+    "posts": [
+        {
+            "words": "et dolorem dolorum",
+            "sentence": "Voluptas optio aliquid reprehenderit.",
+            "sentences": "Quas maiores et dolores in facilis et. Et accusamus et. Deleniti id consequatur assumenda iusto. Nulla quas veniam.",
+            "paragraph": "Voluptatibus dolore non ex velit eos fugit vero laborum iste. Consequatur est corporis debitis in. Aut harum quibusdam atque ut amet."
+        },
+        {
+            "words": "deserunt at sunt",
+            "sentence": "Et ipsam modi.",
+            "sentences": "Ex facilis natus. In aut repudiandae aut magnam. Dignissimos perferendis pariatur et. Ratione amet nesciunt rem magnam. Rerum nihil officiis animi voluptatibus qui cum omnis corrupti unde.",
+            "paragraph": "Repudiandae quos non ut dolorem odit hic porro odio cupiditate. Exercitationem et et laudantium repellat sunt. Accusantium ex repudiandae. Blanditiis non vitae sed."
+        },
+        {
+            "words": "odit et placeat",
+            "sentence": "Eum tempore tenetur labore facilis unde.",
+            "sentences": "Et iusto autem iste aut voluptates tempora. Adipisci nobis ut. Tenetur voluptatem repudiandae alias non. Ut molestias deserunt nisi fugit molestiae nostrum magnam qui. Necessitatibus et omnis.",
+            "paragraph": "Rerum velit qui vel ex praesentium est perspiciatis tempora alias. Deleniti ea labore hic velit deserunt illo dolores modi. Impedit molestias voluptates optio velit quia dolorum. Accusamus facilis odit sunt omnis laborum dolore veniam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "660.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kunde and Sons",
+            "name": "Credit Card Account 4767",
+            "type": "deposit",
+            "account": "04664300"
+        },
+        {
+            "amount": "271.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stehr - Weimann",
+            "name": "Home Loan Account 5030",
+            "type": "withdrawal",
+            "account": "82740439"
+        },
+        {
+            "amount": "584.33",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Conn - Morissette",
+            "name": "Savings Account 4950",
+            "type": "deposit",
+            "account": "90571523"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Dr. Miguel Lueilwitz",
+    "username": "Marguerite38",
+    "email": "Josephine75@hotmail.com",
+    "address": {
+        "streetA": "Maggio Lane",
+        "streetB": "2825 Kirlin Stravenue",
+        "streetC": "6063 Cicero Terrace Apt. 633",
+        "streetD": "Apt. 849",
+        "city": "Koeppmouth",
+        "state": "Vermont",
+        "country": "Nigeria",
+        "zipcode": "92702",
+        "geo": {
+            "lat": "-54.0435",
+            "lng": "-109.5591"
+        }
+    },
+    "phone": "1-559-582-4076 x140",
+    "website": "humberto.biz",
+    "company": {
+        "name": "Roob - Collins",
+        "catchPhrase": "Customizable global access",
+        "bs": "enterprise utilize web-readiness"
+    },
+    "posts": [
+        {
+            "words": "facere perspiciatis unde",
+            "sentence": "Necessitatibus qui quis voluptas sunt nihil inventore atque exercitationem.",
+            "sentences": "Ut reprehenderit odit et in veniam. Nam qui enim. Ratione aut velit libero. Corporis quia quo ut optio. Minima quia quia in occaecati impedit.",
+            "paragraph": "Cumque at placeat. Enim debitis velit sint facere reprehenderit error. Pariatur ipsa quo nam laboriosam aut architecto dicta qui. Culpa quae repellendus nemo. Cupiditate soluta voluptates dignissimos veniam numquam accusantium doloribus rerum autem. Omnis ad voluptas ea illum voluptatibus qui est."
+        },
+        {
+            "words": "quaerat eum excepturi",
+            "sentence": "Est recusandae quos animi nulla voluptatem.",
+            "sentences": "Eius quisquam quia non voluptatem qui adipisci. Nam at quia asperiores aperiam unde sed earum. Debitis a tempora. Incidunt modi tenetur modi eius eos officiis aut qui et. Velit sit eos distinctio laboriosam odit sed sint molestias ut.",
+            "paragraph": "Rerum sapiente accusantium provident saepe. Harum maiores ut in itaque dolores maxime. Corrupti voluptate nulla cum minima facere ab ullam. Molestiae totam velit earum blanditiis exercitationem. Et eveniet quod in architecto."
+        },
+        {
+            "words": "dolor rem nisi",
+            "sentence": "Dolorum accusamus et eos et molestiae dolor qui quos voluptatum.",
+            "sentences": "Inventore ut voluptatem eaque quia quod quis maxime cupiditate. In vero eligendi tempore corrupti provident aut. Corrupti aliquam voluptatem harum. Numquam earum minima voluptatum. Ipsa nisi ratione neque harum.",
+            "paragraph": "Iure a deserunt vel dolor. Similique occaecati debitis. Error qui et qui voluptatem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "519.65",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mosciski Group",
+            "name": "Money Market Account 8117",
+            "type": "payment",
+            "account": "86276303"
+        },
+        {
+            "amount": "564.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nitzsche LLC",
+            "name": "Auto Loan Account 9105",
+            "type": "invoice",
+            "account": "56921339"
+        },
+        {
+            "amount": "523.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Krajcik, Gerlach and Hammes",
+            "name": "Personal Loan Account 8339",
+            "type": "payment",
+            "account": "92238843"
+        }
+    ]
+}

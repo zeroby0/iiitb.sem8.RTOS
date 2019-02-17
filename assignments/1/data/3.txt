@@ -1,0 +1,72 @@
+{
+    "name": "Haylie Simonis",
+    "username": "Summer_Abernathy",
+    "email": "Abbigail_Bashirian@hotmail.com",
+    "address": {
+        "streetA": "Rau Lane",
+        "streetB": "9500 McLaughlin Fort",
+        "streetC": "562 Kathryn Burg Apt. 737",
+        "streetD": "Apt. 385",
+        "city": "Daughertyhaven",
+        "state": "Utah",
+        "country": "New Zealand",
+        "zipcode": "72982-7630",
+        "geo": {
+            "lat": "87.3306",
+            "lng": "-174.2915"
+        }
+    },
+    "phone": "(058) 653-7366 x2393",
+    "website": "thaddeus.org",
+    "company": {
+        "name": "Bashirian - Runolfsdottir",
+        "catchPhrase": "Fully-configurable client-driven open architecture",
+        "bs": "innovative recontextualize portals"
+    },
+    "posts": [
+        {
+            "words": "dolore totam hic",
+            "sentence": "Molestiae et est.",
+            "sentences": "Quod vel numquam ut fuga et. Accusantium esse officia sit odit esse. Et atque iste consectetur alias error esse. Quia repudiandae quos id quae quis. Aspernatur laborum repudiandae est quod perspiciatis ex et. Quo omnis cum.",
+            "paragraph": "Occaecati pariatur recusandae aspernatur iste quas delectus est et. At veniam ut repellat hic asperiores voluptates dolorem. Repellendus occaecati rem consequatur eum atque qui. Aliquam ut soluta perferendis sit sapiente quia omnis."
+        },
+        {
+            "words": "necessitatibus voluptatem qui",
+            "sentence": "Est inventore sunt dolorem quos ad quia vitae.",
+            "sentences": "Illo blanditiis sapiente illo architecto quasi est explicabo at. Accusamus ut nihil nemo. Perferendis necessitatibus possimus. Nobis molestias aut quisquam qui. Necessitatibus amet ab ut excepturi ut nobis aliquid illum. Ut doloremque omnis rerum dolores ea.",
+            "paragraph": "In dolor possimus inventore aliquam velit perferendis id sint. Corrupti ab ullam odio esse consectetur harum est. Vel et et voluptatem atque. Facere deleniti temporibus dignissimos. Enim quae atque vel ullam dolorum."
+        },
+        {
+            "words": "consequatur iusto vel",
+            "sentence": "Omnis ut molestiae ipsa.",
+            "sentences": "Hic dolore natus reiciendis provident in ut eum. Enim cum voluptates dolor odio dolor enim. Natus non vero odio optio distinctio aut quia qui. Numquam odit blanditiis cum quia voluptatem. Ipsam quisquam ut molestias.",
+            "paragraph": "Consequuntur quia ab nam eveniet molestiae. Nihil molestiae nisi ut qui dolor sed quae est pariatur. Enim a inventore ut labore qui ea consequatur culpa. Deserunt natus facilis molestiae et commodi eum. Explicabo dolore voluptas voluptatem sed sint. Necessitatibus temporibus iusto."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "129.42",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Terry - Brakus",
+            "name": "Money Market Account 9066",
+            "type": "invoice",
+            "account": "28545768"
+        },
+        {
+            "amount": "308.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Oberbrunner, McLaughlin and Leuschke",
+            "name": "Credit Card Account 4247",
+            "type": "deposit",
+            "account": "29466887"
+        },
+        {
+            "amount": "495.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Weissnat and Sons",
+            "name": "Credit Card Account 0011",
+            "type": "withdrawal",
+            "account": "17550065"
+        }
+    ]
+}

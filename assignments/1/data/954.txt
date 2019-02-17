@@ -1,0 +1,72 @@
+{
+    "name": "Jaydon Barton",
+    "username": "Felipa_Kemmer",
+    "email": "Kayli85@yahoo.com",
+    "address": {
+        "streetA": "Murray Village",
+        "streetB": "04296 Dietrich Parkways",
+        "streetC": "17300 Pagac Shore Suite 335",
+        "streetD": "Apt. 479",
+        "city": "Alejandrafort",
+        "state": "Florida",
+        "country": "Brazil",
+        "zipcode": "17832-7095",
+        "geo": {
+            "lat": "-23.1038",
+            "lng": "-70.2399"
+        }
+    },
+    "phone": "079-103-7304 x4707",
+    "website": "rogelio.info",
+    "company": {
+        "name": "Klocko - Prohaska",
+        "catchPhrase": "Synergistic 4th generation installation",
+        "bs": "wireless leverage platforms"
+    },
+    "posts": [
+        {
+            "words": "animi praesentium quia",
+            "sentence": "Dolores praesentium sint.",
+            "sentences": "Et perspiciatis tempora accusamus asperiores dolores est. Quia corrupti nisi enim. Provident corrupti dicta quo tenetur ipsa eum consequatur. Impedit eius qui rerum.",
+            "paragraph": "Labore sunt adipisci voluptates veritatis ea. Nihil est et ipsa exercitationem in repudiandae ea. Ad autem dolorem saepe."
+        },
+        {
+            "words": "cum reprehenderit molestiae",
+            "sentence": "Odio voluptatum sit qui tempore aspernatur dicta.",
+            "sentences": "Fugit voluptates eveniet accusantium beatae autem numquam totam vel. Vel voluptatem a eos aut odit amet veritatis. Porro repellendus veniam aperiam.",
+            "paragraph": "Vel maiores adipisci et ipsa. Quo ipsa ut corporis quasi error et. Qui exercitationem hic cumque quo quia quis."
+        },
+        {
+            "words": "maxime dolor nihil",
+            "sentence": "Facere enim rem in et provident earum sapiente modi et.",
+            "sentences": "Velit esse officia vero. Et blanditiis non consequatur et. Dolores at nemo sint quisquam perspiciatis consequatur voluptates dolores velit. Eveniet debitis atque dignissimos illo.",
+            "paragraph": "Sequi dolores perspiciatis enim cumque. Iusto aut esse aut sit ab aliquid excepturi laboriosam. Dolorem beatae dolore. Fuga ipsa consequatur quo. Et dolores dolores."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "201.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hodkiewicz, Boyle and Adams",
+            "name": "Investment Account 9673",
+            "type": "deposit",
+            "account": "86533375"
+        },
+        {
+            "amount": "861.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Huels Inc",
+            "name": "Money Market Account 8238",
+            "type": "deposit",
+            "account": "71376843"
+        },
+        {
+            "amount": "961.58",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dibbert - MacGyver",
+            "name": "Credit Card Account 1881",
+            "type": "invoice",
+            "account": "17737151"
+        }
+    ]
+}

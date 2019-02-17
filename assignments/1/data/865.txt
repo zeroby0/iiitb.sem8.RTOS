@@ -1,0 +1,72 @@
+{
+    "name": "Mr. Reilly Kreiger",
+    "username": "Meta_Hickle",
+    "email": "Pansy47@hotmail.com",
+    "address": {
+        "streetA": "Skyla Landing",
+        "streetB": "80544 Willms Track",
+        "streetC": "5502 Howell Ramp Suite 233",
+        "streetD": "Apt. 344",
+        "city": "Beattymouth",
+        "state": "South Dakota",
+        "country": "Cambodia",
+        "zipcode": "61777",
+        "geo": {
+            "lat": "-0.8656",
+            "lng": "139.3299"
+        }
+    },
+    "phone": "093.286.6847 x886",
+    "website": "fredrick.info",
+    "company": {
+        "name": "Bergnaum - Roob",
+        "catchPhrase": "Streamlined needs-based access",
+        "bs": "front-end extend niches"
+    },
+    "posts": [
+        {
+            "words": "dolor omnis itaque",
+            "sentence": "Quidem molestiae facere repellendus excepturi ullam fuga sequi autem.",
+            "sentences": "Sapiente quod debitis illo similique ducimus consequatur commodi. Optio et a distinctio sed quas facere ut. Quo inventore aut. Pariatur perferendis esse voluptas ullam voluptatem eveniet adipisci maiores et.",
+            "paragraph": "Illo quos ullam atque aliquid sunt voluptates perferendis ab. Id delectus sit. Et nihil voluptates commodi."
+        },
+        {
+            "words": "odit cum culpa",
+            "sentence": "Porro iste explicabo saepe sequi exercitationem incidunt tenetur aut repellendus.",
+            "sentences": "Aut eos a nesciunt architecto cupiditate sequi quia explicabo. Sunt nesciunt sapiente sed autem sunt accusantium voluptatem qui et. Voluptas repellendus ea rem autem iste qui dolores libero. Saepe rem omnis laborum eius.",
+            "paragraph": "Fuga odio ratione esse ut at. Voluptatem pariatur libero sit architecto. Sed facere ut ut ut molestiae est. Eos iusto voluptatem itaque eveniet illum a. Necessitatibus pariatur eius vel et ipsam repellat rerum."
+        },
+        {
+            "words": "provident itaque velit",
+            "sentence": "Molestias vero ipsum eius officia sit vel.",
+            "sentences": "Facilis facilis aut et commodi. Ipsum reiciendis est quo non rerum temporibus.",
+            "paragraph": "Sit quidem deserunt temporibus velit voluptatem harum fuga. Culpa vitae odit. Reiciendis incidunt fuga voluptatem libero sint. Occaecati ullam velit autem. Atque quia illum perspiciatis nihil voluptas consequatur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "356.33",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kautzer - Hansen",
+            "name": "Personal Loan Account 9674",
+            "type": "deposit",
+            "account": "18984980"
+        },
+        {
+            "amount": "377.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stracke, Schumm and Stroman",
+            "name": "Checking Account 7530",
+            "type": "payment",
+            "account": "28559568"
+        },
+        {
+            "amount": "920.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmidt, Cruickshank and Hodkiewicz",
+            "name": "Home Loan Account 7362",
+            "type": "payment",
+            "account": "49440659"
+        }
+    ]
+}

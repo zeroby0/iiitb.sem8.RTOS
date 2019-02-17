@@ -1,0 +1,72 @@
+{
+    "name": "Guillermo Towne",
+    "username": "Paul.Walsh",
+    "email": "Sterling.Gerhold12@hotmail.com",
+    "address": {
+        "streetA": "Iliana Plaza",
+        "streetB": "9529 Gottlieb Shoal",
+        "streetC": "587 Eli Lodge Suite 119",
+        "streetD": "Suite 111",
+        "city": "Estefaniabury",
+        "state": "Montana",
+        "country": "Palestinian Territory",
+        "zipcode": "26178",
+        "geo": {
+            "lat": "-85.9617",
+            "lng": "138.6675"
+        }
+    },
+    "phone": "(946) 203-3737 x9695",
+    "website": "fidel.name",
+    "company": {
+        "name": "Hartmann LLC",
+        "catchPhrase": "Realigned incremental frame",
+        "bs": "sexy morph models"
+    },
+    "posts": [
+        {
+            "words": "voluptatem eligendi amet",
+            "sentence": "Molestiae numquam et non quisquam.",
+            "sentences": "Sint ut et aspernatur rerum. Illum ipsam consequatur aspernatur quia commodi quia id. Dolorum doloribus soluta. In nemo veniam dolorem quaerat dolores officia ipsam ut. Voluptatem quia facilis et doloribus modi eum aliquam dolore.",
+            "paragraph": "Laborum ea dolor ullam. Explicabo qui unde et facere. Sint nihil repellendus. Quos nisi qui eos odit autem. Voluptatem sit eos cumque in similique ut enim. Molestiae magnam rerum inventore explicabo ut dicta ut."
+        },
+        {
+            "words": "et illum quod",
+            "sentence": "Voluptatibus et illo neque nobis est eum a mollitia.",
+            "sentences": "Inventore rerum qui nihil et dolor. Qui non autem veritatis qui ea vero asperiores molestiae. Dolorem dolor deserunt molestias aut aliquam ratione quam.",
+            "paragraph": "Quo minus accusantium blanditiis ipsam. Voluptas assumenda eum aut. Vero deserunt reprehenderit."
+        },
+        {
+            "words": "veritatis illo ut",
+            "sentence": "Perferendis sit molestiae provident quis quasi.",
+            "sentences": "Incidunt eum exercitationem esse consequuntur. Quia esse aut numquam saepe sed voluptas facere. Inventore dolore esse voluptatem aut et qui quaerat et. Aut occaecati assumenda quis occaecati sed voluptate. Accusamus voluptatem pariatur qui quia corrupti quam.",
+            "paragraph": "Repudiandae vel modi dolorum. Ipsum ad id dolor. Amet ut tempora velit doloremque."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "117.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kilback - McLaughlin",
+            "name": "Savings Account 8903",
+            "type": "payment",
+            "account": "74243346"
+        },
+        {
+            "amount": "715.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ziemann Inc",
+            "name": "Auto Loan Account 0566",
+            "type": "deposit",
+            "account": "04272222"
+        },
+        {
+            "amount": "811.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reilly, Gleason and Macejkovic",
+            "name": "Auto Loan Account 1813",
+            "type": "withdrawal",
+            "account": "17805432"
+        }
+    ]
+}

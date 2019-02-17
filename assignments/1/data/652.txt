@@ -1,0 +1,72 @@
+{
+    "name": "Baby Boyle",
+    "username": "Jorge63",
+    "email": "Benny80@yahoo.com",
+    "address": {
+        "streetA": "Colleen Highway",
+        "streetB": "579 Keagan Unions",
+        "streetC": "2258 Myrl Orchard Suite 922",
+        "streetD": "Apt. 622",
+        "city": "Smithview",
+        "state": "Idaho",
+        "country": "Germany",
+        "zipcode": "26650-3043",
+        "geo": {
+            "lat": "37.2152",
+            "lng": "-118.9378"
+        }
+    },
+    "phone": "714.565.5344 x1069",
+    "website": "braden.net",
+    "company": {
+        "name": "Baumbach - Rutherford",
+        "catchPhrase": "Sharable explicit core",
+        "bs": "24/365 expedite methodologies"
+    },
+    "posts": [
+        {
+            "words": "quae iste facere",
+            "sentence": "Accusamus aliquam molestiae rerum quidem qui ratione quo necessitatibus.",
+            "sentences": "Facilis neque id voluptates excepturi nam alias consequatur dolorum aspernatur. Ut saepe nostrum corrupti aut. Qui assumenda et unde voluptatibus neque nam incidunt qui ut. Nobis et voluptatum vero quia illum ea nulla. Sapiente laborum officiis similique.",
+            "paragraph": "Maiores fugiat laboriosam ipsum eos nihil eos. Adipisci molestiae beatae. Voluptatem veritatis ut harum in soluta."
+        },
+        {
+            "words": "labore ut in",
+            "sentence": "Quis quia quia.",
+            "sentences": "Eum praesentium repellendus optio deserunt in mollitia quia dolores possimus. Et totam accusantium inventore itaque modi. Fugit velit sed modi repudiandae.",
+            "paragraph": "Possimus quisquam eveniet voluptatem repellat sunt qui omnis dicta. Ducimus ea enim optio accusamus odit. Eum sapiente repellat fuga vel. Rerum expedita aut delectus ipsam et odio."
+        },
+        {
+            "words": "et voluptas vitae",
+            "sentence": "Ad rem architecto magni.",
+            "sentences": "Error laboriosam ipsum voluptate occaecati praesentium. Est rerum cum. Labore odio harum assumenda voluptatem.",
+            "paragraph": "Dolore veritatis cupiditate voluptas ut rem. Earum officia dicta et iste necessitatibus atque. Laboriosam dolorem est dolorum. Qui dolorem dolorem est ullam incidunt."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "685.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bailey, Huel and Kris",
+            "name": "Auto Loan Account 5771",
+            "type": "deposit",
+            "account": "70907962"
+        },
+        {
+            "amount": "560.34",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Green - Lynch",
+            "name": "Home Loan Account 3751",
+            "type": "payment",
+            "account": "09099612"
+        },
+        {
+            "amount": "237.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hilpert, Morar and Luettgen",
+            "name": "Savings Account 2153",
+            "type": "withdrawal",
+            "account": "73543628"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Rosalinda Hansen",
+    "username": "Marlene_Langworth12",
+    "email": "Darrel32@hotmail.com",
+    "address": {
+        "streetA": "Crist Walk",
+        "streetB": "316 Elmer Forge",
+        "streetC": "6288 Jordan Turnpike Suite 366",
+        "streetD": "Apt. 924",
+        "city": "Lake Celestinoborough",
+        "state": "Kansas",
+        "country": "Swaziland",
+        "zipcode": "95163-3760",
+        "geo": {
+            "lat": "65.8638",
+            "lng": "50.3483"
+        }
+    },
+    "phone": "(589) 742-8694",
+    "website": "bradly.info",
+    "company": {
+        "name": "Shanahan - Kozey",
+        "catchPhrase": "Grass-roots disintermediate functionalities",
+        "bs": "frictionless envisioneer portals"
+    },
+    "posts": [
+        {
+            "words": "doloremque iusto dolorum",
+            "sentence": "Quam molestias optio.",
+            "sentences": "Culpa nulla eligendi odit assumenda dicta mollitia modi. Et vel debitis exercitationem quaerat ipsam quia. Fugit quisquam nulla molestiae enim aut quis quos. Eaque beatae laboriosam enim. Eum deleniti necessitatibus labore quod unde praesentium quisquam.",
+            "paragraph": "Iusto praesentium deleniti assumenda ut deserunt sequi. In accusantium est deleniti culpa odio. Voluptas perspiciatis incidunt suscipit necessitatibus. Minus soluta magnam ut possimus repudiandae est iusto. Omnis qui velit ipsam blanditiis et dolorem animi accusantium debitis. Ea cumque nihil."
+        },
+        {
+            "words": "reprehenderit voluptatem quisquam",
+            "sentence": "Explicabo dolorem nam quo nihil recusandae quae.",
+            "sentences": "Provident possimus alias eos deleniti consequatur deserunt. Perferendis vel enim cupiditate velit magni officiis esse dicta amet. Praesentium consectetur adipisci nam. Qui tempore veritatis nihil eos itaque sunt consequatur pariatur id.",
+            "paragraph": "Eos distinctio deserunt est sapiente ducimus est facere deleniti. Et labore est vero quo natus doloribus saepe dolorum iste. Est optio asperiores quia reiciendis voluptatem quos omnis. Autem quia quasi recusandae similique laborum porro excepturi voluptates porro. Totam at voluptas et ducimus. Debitis ut non voluptatem nemo voluptatem."
+        },
+        {
+            "words": "consequatur exercitationem aut",
+            "sentence": "Voluptatibus quae aut tempora temporibus.",
+            "sentences": "Dolores aspernatur tempora perferendis pariatur consequatur suscipit ullam qui. Consequuntur harum est sed fuga. Corrupti qui rerum quia libero. Consequatur et est ipsa cum autem fugit autem fugit. Culpa sint eum ab quasi in.",
+            "paragraph": "Sit et distinctio at qui quae illo eaque. Quis suscipit distinctio quis aperiam ut sint nihil consequuntur officiis. Cupiditate consequatur hic asperiores aut consequatur provident."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "996.04",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Davis Inc",
+            "name": "Credit Card Account 8177",
+            "type": "payment",
+            "account": "83332858"
+        },
+        {
+            "amount": "932.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaden, Gaylord and Ernser",
+            "name": "Investment Account 0154",
+            "type": "deposit",
+            "account": "39858981"
+        },
+        {
+            "amount": "850.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bashirian, Wolf and Krajcik",
+            "name": "Personal Loan Account 2038",
+            "type": "invoice",
+            "account": "61551005"
+        }
+    ]
+}

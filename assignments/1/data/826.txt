@@ -1,0 +1,72 @@
+{
+    "name": "Rosemarie Bahringer",
+    "username": "Gerry_Denesik",
+    "email": "Riley_Ondricka@hotmail.com",
+    "address": {
+        "streetA": "Collier Orchard",
+        "streetB": "2560 Scot Hollow",
+        "streetC": "3457 Roob Pass Apt. 660",
+        "streetD": "Apt. 528",
+        "city": "Lowestad",
+        "state": "Wyoming",
+        "country": "Moldova",
+        "zipcode": "07291-1952",
+        "geo": {
+            "lat": "7.7419",
+            "lng": "112.4027"
+        }
+    },
+    "phone": "752.398.0131 x621",
+    "website": "jarred.info",
+    "company": {
+        "name": "Gulgowski Group",
+        "catchPhrase": "Robust directional emulation",
+        "bs": "visionary drive content"
+    },
+    "posts": [
+        {
+            "words": "culpa delectus corporis",
+            "sentence": "Dolor ut voluptatibus non maiores doloremque.",
+            "sentences": "Rerum quos quo a quidem. Labore sed maxime dignissimos. Unde voluptatem quisquam. Velit facilis impedit non. Vitae quo asperiores. Et saepe qui quod.",
+            "paragraph": "Laboriosam nesciunt ea. Assumenda eius dolor eum repellendus id. Earum architecto molestiae rerum facilis quam dolore tempore excepturi quaerat."
+        },
+        {
+            "words": "iste quidem dolore",
+            "sentence": "Odit at repellendus dolores nihil incidunt ipsum et porro.",
+            "sentences": "Fugit iusto quo debitis impedit laudantium et qui accusantium. Rem aut sequi distinctio accusantium quod rerum iusto.",
+            "paragraph": "Eum autem eveniet suscipit natus nihil voluptatem alias unde pariatur. Enim eos sed doloremque occaecati dicta possimus amet. Sunt est temporibus. Impedit illo ab distinctio iusto impedit quia repellat."
+        },
+        {
+            "words": "est nemo neque",
+            "sentence": "Autem sed debitis est vel et consequatur dolorem.",
+            "sentences": "Blanditiis autem quia. Praesentium recusandae at dolorum vitae eum beatae quo aut. Sit enim dolore. Commodi et animi suscipit. Dolores numquam esse fuga hic. Voluptatem omnis cupiditate optio reprehenderit placeat.",
+            "paragraph": "Rerum modi culpa facilis autem. Mollitia consequatur nesciunt. Ad eos alias itaque. Odit porro totam ut magni expedita at."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "761.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Parker, Mante and Macejkovic",
+            "name": "Credit Card Account 3402",
+            "type": "deposit",
+            "account": "11056711"
+        },
+        {
+            "amount": "657.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Watsica - Leuschke",
+            "name": "Home Loan Account 9206",
+            "type": "withdrawal",
+            "account": "16207376"
+        },
+        {
+            "amount": "648.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pfeffer - Collins",
+            "name": "Auto Loan Account 7497",
+            "type": "invoice",
+            "account": "20147903"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Danny Luettgen",
+    "username": "Alta96",
+    "email": "Mozell_Lueilwitz@hotmail.com",
+    "address": {
+        "streetA": "Dietrich Plaza",
+        "streetB": "66942 Lebsack Mall",
+        "streetC": "36004 Bernier Cliff Suite 062",
+        "streetD": "Apt. 054",
+        "city": "Gilberthaven",
+        "state": "Tennessee",
+        "country": "Liberia",
+        "zipcode": "50066",
+        "geo": {
+            "lat": "-8.5342",
+            "lng": "157.1970"
+        }
+    },
+    "phone": "387.515.3478 x3928",
+    "website": "sincere.name",
+    "company": {
+        "name": "Wiegand LLC",
+        "catchPhrase": "Digitized national data-warehouse",
+        "bs": "cross-media evolve eyeballs"
+    },
+    "posts": [
+        {
+            "words": "deleniti amet molestias",
+            "sentence": "Corporis suscipit tempore illum enim.",
+            "sentences": "Sed perferendis quisquam maxime sed facere ratione tempora tempora. Voluptatibus rerum deleniti et pariatur ut aut tempora odio quis. Quam illum iure. Nihil quas omnis dicta amet soluta vel.",
+            "paragraph": "Qui in amet quia error. Mollitia asperiores odit eius odio. Assumenda eum tempore voluptates rerum error accusamus voluptatem suscipit. Doloribus maiores animi. Numquam minus non non eum minima. Quia aperiam vel fugiat vel iusto sint pariatur culpa."
+        },
+        {
+            "words": "voluptatibus doloribus aut",
+            "sentence": "Voluptatem qui nihil.",
+            "sentences": "Recusandae ullam minus nihil. Reiciendis illo architecto libero ipsa dignissimos aliquid. Autem dolores officia.",
+            "paragraph": "Sunt animi quia sed maxime suscipit sapiente architecto incidunt laborum. Quod atque quo sit qui. Minus modi omnis et quae sunt. Reiciendis dolorem ut labore doloremque. Soluta sed aliquam in consequatur."
+        },
+        {
+            "words": "molestias omnis magni",
+            "sentence": "Minima nihil rem deserunt dolor.",
+            "sentences": "Aut cupiditate minima saepe voluptates. Nam quaerat quo ipsam veniam ratione accusamus. Impedit voluptatibus veritatis iure et. Est ut recusandae illo harum. Voluptatem voluptatem quae.",
+            "paragraph": "Sit aperiam ut vero eveniet est maxime. Et eius nam enim perferendis laudantium aliquam odit voluptatem. Qui qui expedita accusamus qui id autem velit porro. Recusandae dolorem excepturi. Corrupti quo dolorum labore."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "45.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mertz - Turcotte",
+            "name": "Investment Account 5981",
+            "type": "deposit",
+            "account": "67586579"
+        },
+        {
+            "amount": "125.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Erdman - Ritchie",
+            "name": "Auto Loan Account 0669",
+            "type": "payment",
+            "account": "98937290"
+        },
+        {
+            "amount": "324.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lang - Kub",
+            "name": "Savings Account 6920",
+            "type": "payment",
+            "account": "18747928"
+        }
+    ]
+}

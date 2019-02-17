@@ -1,0 +1,72 @@
+{
+    "name": "Grayce Hartmann",
+    "username": "Jazmin71",
+    "email": "Colin31@gmail.com",
+    "address": {
+        "streetA": "Shawn Land",
+        "streetB": "99466 Rice Summit",
+        "streetC": "76705 Kunze Freeway Apt. 951",
+        "streetD": "Apt. 441",
+        "city": "West Amberside",
+        "state": "New Hampshire",
+        "country": "Mexico",
+        "zipcode": "52749-3912",
+        "geo": {
+            "lat": "-43.2393",
+            "lng": "16.9793"
+        }
+    },
+    "phone": "314-247-4565 x98219",
+    "website": "eldon.biz",
+    "company": {
+        "name": "Goldner, Lockman and Kautzer",
+        "catchPhrase": "Optional 24/7 process improvement",
+        "bs": "B2B maximize functionalities"
+    },
+    "posts": [
+        {
+            "words": "veritatis laboriosam dicta",
+            "sentence": "Reprehenderit et non perspiciatis soluta voluptatem.",
+            "sentences": "Quos deleniti amet velit. Voluptates ullam voluptatem rerum.",
+            "paragraph": "Nulla reiciendis occaecati ipsam sint qui expedita et sequi. Corporis dolore qui dolorem est earum ut voluptates. Sequi dolorem libero qui consectetur et voluptatem illum. Ipsam vel molestiae et sed repellat ullam. Dolor debitis animi non dolorem corporis iure aut. Molestias ut quidem at hic vel dicta in beatae."
+        },
+        {
+            "words": "amet ab dolor",
+            "sentence": "Sed minus quia.",
+            "sentences": "Molestiae repellendus aut blanditiis quos ullam officia neque. Consequuntur in in accusamus vitae facilis praesentium consequatur doloribus. Porro illum aut consequatur. Sed ab repellendus.",
+            "paragraph": "Ex neque saepe pariatur quis suscipit et nulla accusantium. Eum hic necessitatibus earum soluta porro sint aliquam. Enim ullam aliquam voluptatibus. Ut ipsam eum sapiente temporibus deleniti necessitatibus nulla quod. Qui dolorem et amet debitis."
+        },
+        {
+            "words": "rem ut qui",
+            "sentence": "Consequatur impedit explicabo ut sit.",
+            "sentences": "Non enim non voluptatibus vero. Nulla distinctio non ratione voluptatum velit mollitia odio nemo.",
+            "paragraph": "Rerum temporibus qui ratione est nihil maiores non ut. Omnis voluptatibus explicabo consectetur eos explicabo. Eos sit impedit rem illum. Eius et delectus magnam voluptas dignissimos quia. Culpa consequatur voluptate sequi et minus et perspiciatis fuga."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "218.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kub, Corwin and Wehner",
+            "name": "Investment Account 0715",
+            "type": "withdrawal",
+            "account": "72964703"
+        },
+        {
+            "amount": "727.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Buckridge Group",
+            "name": "Savings Account 2227",
+            "type": "deposit",
+            "account": "67394942"
+        },
+        {
+            "amount": "862.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McDermott, Ratke and Hyatt",
+            "name": "Home Loan Account 8651",
+            "type": "payment",
+            "account": "99502520"
+        }
+    ]
+}

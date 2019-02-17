@@ -1,0 +1,72 @@
+{
+    "name": "Lysanne Schuster",
+    "username": "Filiberto_Konopelski",
+    "email": "Monserrat.Terry@hotmail.com",
+    "address": {
+        "streetA": "Murphy Port",
+        "streetB": "224 Runolfsson Land",
+        "streetC": "9194 Jewell Extensions Apt. 760",
+        "streetD": "Apt. 194",
+        "city": "East Traceland",
+        "state": "New Hampshire",
+        "country": "Northern Mariana Islands",
+        "zipcode": "41314-7893",
+        "geo": {
+            "lat": "27.4265",
+            "lng": "44.2634"
+        }
+    },
+    "phone": "(001) 322-1832",
+    "website": "luis.info",
+    "company": {
+        "name": "Reinger - Ullrich",
+        "catchPhrase": "Ameliorated real-time Graphic Interface",
+        "bs": "back-end innovate deliverables"
+    },
+    "posts": [
+        {
+            "words": "beatae excepturi eum",
+            "sentence": "Aut dolore qui velit officiis.",
+            "sentences": "Veritatis nisi quasi. Earum distinctio debitis suscipit repudiandae. Neque iusto aspernatur sed rerum. Optio consequatur enim nihil omnis cumque est dolor ut sunt. Labore dicta accusamus officiis.",
+            "paragraph": "Quia blanditiis blanditiis reprehenderit omnis occaecati voluptas. Eaque quia id similique et culpa corrupti et. Ducimus omnis atque laboriosam doloremque autem. Ullam repudiandae eum labore error quo quasi recusandae odio. Placeat error et ipsa asperiores fuga consectetur amet vel."
+        },
+        {
+            "words": "atque reprehenderit eum",
+            "sentence": "Nesciunt labore illo ea in necessitatibus pariatur quo possimus.",
+            "sentences": "Aut id quis consequatur pariatur reprehenderit quia voluptatum beatae. Commodi cumque praesentium. Saepe voluptas corporis repellat. Ut sit modi vero aliquam et odit non.",
+            "paragraph": "Hic voluptatum praesentium et. Consequatur aut dolores quasi sunt quam sint. Quia nobis harum. Iure molestiae maiores sint eaque voluptatem."
+        },
+        {
+            "words": "quis qui inventore",
+            "sentence": "Aut qui odio saepe dolor voluptatem.",
+            "sentences": "Temporibus vero eos aut. Dolor alias corporis et.",
+            "paragraph": "Voluptas consequatur impedit assumenda mollitia. Sunt sint eum distinctio est. Sunt id aut inventore ipsam quas. Cupiditate ea explicabo. Aliquam facilis amet blanditiis et vitae non quis. Qui et et eos."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "520.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Leffler - Nicolas",
+            "name": "Auto Loan Account 4819",
+            "type": "deposit",
+            "account": "78757769"
+        },
+        {
+            "amount": "884.34",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmidt - Hermann",
+            "name": "Home Loan Account 3678",
+            "type": "deposit",
+            "account": "49018882"
+        },
+        {
+            "amount": "411.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Treutel - Bogisich",
+            "name": "Money Market Account 9216",
+            "type": "invoice",
+            "account": "72302915"
+        }
+    ]
+}

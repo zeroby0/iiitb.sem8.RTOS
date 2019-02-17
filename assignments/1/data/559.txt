@@ -1,0 +1,72 @@
+{
+    "name": "Mrs. Eliza Steuber",
+    "username": "Johnathon24",
+    "email": "Russ.Boyle85@yahoo.com",
+    "address": {
+        "streetA": "Lavon Vista",
+        "streetB": "525 Eliane Common",
+        "streetC": "0614 Kassulke Plaza Suite 900",
+        "streetD": "Apt. 383",
+        "city": "New Louvenia",
+        "state": "Arkansas",
+        "country": "Georgia",
+        "zipcode": "16176",
+        "geo": {
+            "lat": "-86.5305",
+            "lng": "-87.7185"
+        }
+    },
+    "phone": "244-467-9345 x685",
+    "website": "kendra.com",
+    "company": {
+        "name": "Hodkiewicz LLC",
+        "catchPhrase": "Cloned static collaboration",
+        "bs": "intuitive matrix convergence"
+    },
+    "posts": [
+        {
+            "words": "cupiditate eum quis",
+            "sentence": "Nam quo magnam a voluptatibus fuga aut.",
+            "sentences": "Consequatur voluptas fugit labore dolores temporibus deserunt corrupti. Esse error quo maiores saepe eos doloribus necessitatibus quidem repellat. Quis tenetur consequatur dicta. Aspernatur incidunt neque consectetur autem et aliquid ad qui porro. Quasi nostrum est molestias suscipit.",
+            "paragraph": "Sit quod et. Quasi nulla earum ducimus vitae nemo minima. Velit dolor voluptatem dolorum quis quibusdam. Perferendis atque reprehenderit. Eligendi quia consectetur et in et dolor nobis ea."
+        },
+        {
+            "words": "ut rerum et",
+            "sentence": "Doloremque voluptatem dolore aspernatur.",
+            "sentences": "Magni nihil possimus natus. Qui maiores iusto consequuntur quibusdam minus ut magni neque. In et facilis sit.",
+            "paragraph": "Et modi sint aliquam nulla aspernatur pariatur. Similique ex aut optio dolor et. Sint est dolorem porro autem vel accusantium quidem laborum ut. Odio voluptas et temporibus. Aut quia porro voluptatem accusamus incidunt. Nihil et autem perspiciatis et vel aut reiciendis voluptas."
+        },
+        {
+            "words": "impedit pariatur eum",
+            "sentence": "Et porro impedit est quo.",
+            "sentences": "Ut modi magnam officiis sit impedit explicabo tenetur rerum dicta. Rerum vel aut dolor earum qui cupiditate debitis tenetur. Voluptas voluptatem minus saepe. Vero eos laudantium est quo.",
+            "paragraph": "Perspiciatis quo quod modi consequatur voluptatem aliquid commodi aut. Modi error perspiciatis et omnis. Architecto id vero accusantium ea repellat nobis porro at eos."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "395.93",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dach - Wyman",
+            "name": "Money Market Account 3239",
+            "type": "payment",
+            "account": "45008368"
+        },
+        {
+            "amount": "323.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bartoletti Group",
+            "name": "Money Market Account 8357",
+            "type": "invoice",
+            "account": "63622985"
+        },
+        {
+            "amount": "946.51",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmitt, Schmidt and Ferry",
+            "name": "Personal Loan Account 1885",
+            "type": "payment",
+            "account": "05646449"
+        }
+    ]
+}

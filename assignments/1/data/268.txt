@@ -1,0 +1,72 @@
+{
+    "name": "Abdul Dickinson",
+    "username": "Theodora48",
+    "email": "Jerod4@gmail.com",
+    "address": {
+        "streetA": "Oran Way",
+        "streetB": "57489 Bernie Spring",
+        "streetC": "126 Rohan Gardens Suite 433",
+        "streetD": "Apt. 668",
+        "city": "Ritchiebury",
+        "state": "Mississippi",
+        "country": "United Kingdom",
+        "zipcode": "28540",
+        "geo": {
+            "lat": "66.1865",
+            "lng": "-170.7481"
+        }
+    },
+    "phone": "778-941-9496",
+    "website": "sabryna.org",
+    "company": {
+        "name": "O'Connell, Gleason and Erdman",
+        "catchPhrase": "Team-oriented bifurcated internet solution",
+        "bs": "B2C leverage functionalities"
+    },
+    "posts": [
+        {
+            "words": "enim quisquam est",
+            "sentence": "Aspernatur quo rem.",
+            "sentences": "Error voluptate omnis harum ad est. Veritatis consectetur sequi sapiente non repellat voluptatibus. Iure blanditiis officia facilis velit earum doloribus. Rerum consectetur ut. Accusantium a est officiis incidunt.",
+            "paragraph": "Suscipit voluptas ipsam reprehenderit. Qui nesciunt sit voluptatem odio aut culpa. Suscipit quis facere impedit cumque et. Consequatur similique quisquam est repudiandae."
+        },
+        {
+            "words": "perspiciatis veritatis eos",
+            "sentence": "Magnam error repellendus aut.",
+            "sentences": "Distinctio sed possimus officia doloremque. Explicabo atque et magnam sit. Quo quia quos itaque ullam et ut dolore qui non. Voluptas reiciendis tempore praesentium minus voluptate soluta consequatur. Qui qui odit. Neque voluptatibus incidunt vel voluptas ad.",
+            "paragraph": "Quo mollitia nulla aperiam quo nam sit. Voluptate culpa consequuntur expedita nemo nesciunt natus quis nobis. Animi et quis commodi nihil est laudantium ut velit optio."
+        },
+        {
+            "words": "excepturi non dolor",
+            "sentence": "Consectetur explicabo ullam repudiandae enim.",
+            "sentences": "Sunt aut laboriosam quo quaerat. Quis officiis quisquam aut. Est enim quo repudiandae vitae enim tempore. Voluptas id voluptatem et.",
+            "paragraph": "Ratione rem et amet porro optio sint. Qui corporis possimus numquam voluptatibus consequuntur. Voluptates et animi eligendi odit accusamus totam. Porro iste sed. Officia ratione nihil vel magni minima et molestias cumque."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "937.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Erdman - McLaughlin",
+            "name": "Personal Loan Account 5308",
+            "type": "withdrawal",
+            "account": "95280042"
+        },
+        {
+            "amount": "72.33",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "DuBuque - Spinka",
+            "name": "Auto Loan Account 0222",
+            "type": "withdrawal",
+            "account": "25474931"
+        },
+        {
+            "amount": "912.31",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hane Inc",
+            "name": "Savings Account 0306",
+            "type": "invoice",
+            "account": "42935109"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Mrs. Jayda Luettgen",
+    "username": "Crystal91",
+    "email": "Rylee19@yahoo.com",
+    "address": {
+        "streetA": "Sim Mountain",
+        "streetB": "3444 Destiney Courts",
+        "streetC": "3488 Nelson Stravenue Apt. 814",
+        "streetD": "Apt. 617",
+        "city": "West Griffinbury",
+        "state": "Rhode Island",
+        "country": "Mongolia",
+        "zipcode": "04904",
+        "geo": {
+            "lat": "52.8161",
+            "lng": "-69.9008"
+        }
+    },
+    "phone": "1-351-532-4177 x2259",
+    "website": "ashly.net",
+    "company": {
+        "name": "Buckridge - Kerluke",
+        "catchPhrase": "Ameliorated neutral flexibility",
+        "bs": "dot-com scale functionalities"
+    },
+    "posts": [
+        {
+            "words": "earum magnam labore",
+            "sentence": "Nam facilis blanditiis reprehenderit sint tenetur quia.",
+            "sentences": "Voluptas fugiat id libero incidunt. Iusto aut nihil animi sunt ut ex tempore velit id. Doloremque necessitatibus maxime iure et expedita consequatur quibusdam. Ducimus itaque et qui repellat error. Reiciendis nisi accusantium facilis. Accusamus et atque laborum porro rerum.",
+            "paragraph": "Pariatur quo vel non cum adipisci voluptate aspernatur modi. Maiores sed officiis. Eaque autem autem qui eius eum perspiciatis et ut aut. Culpa nihil et ut omnis magnam sint."
+        },
+        {
+            "words": "fugiat similique sequi",
+            "sentence": "Velit dignissimos et provident.",
+            "sentences": "Quam quasi sunt architecto impedit. Hic et sint et et laborum sunt ratione. Nulla sint placeat quis hic illo veritatis.",
+            "paragraph": "Aut eveniet voluptatem sunt. Et corporis nihil magni. Non velit facere soluta at magnam quas dignissimos facere."
+        },
+        {
+            "words": "blanditiis quis dicta",
+            "sentence": "Qui ut dolor.",
+            "sentences": "Sed quo quod sapiente. Quae aut ut voluptates voluptatum quia aut quasi et. Omnis dolor sit.",
+            "paragraph": "Voluptatem in quasi aut eos dolorem. Id doloremque sunt saepe. Debitis esse consectetur accusantium."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "165.54",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rice and Sons",
+            "name": "Savings Account 9928",
+            "type": "payment",
+            "account": "77249947"
+        },
+        {
+            "amount": "35.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Padberg Inc",
+            "name": "Investment Account 2824",
+            "type": "withdrawal",
+            "account": "39658966"
+        },
+        {
+            "amount": "159.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Hara, Schaefer and Reilly",
+            "name": "Auto Loan Account 9921",
+            "type": "payment",
+            "account": "17498736"
+        }
+    ]
+}

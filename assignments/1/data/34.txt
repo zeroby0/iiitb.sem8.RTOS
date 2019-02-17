@@ -1,0 +1,72 @@
+{
+    "name": "Stephania Farrell",
+    "username": "Eddie.Brekke",
+    "email": "Mikayla13@yahoo.com",
+    "address": {
+        "streetA": "Shanny Squares",
+        "streetB": "79304 Schmidt Rest",
+        "streetC": "7477 Simonis Lake Apt. 970",
+        "streetD": "Suite 880",
+        "city": "Lake Jessyca",
+        "state": "West Virginia",
+        "country": "Angola",
+        "zipcode": "86864",
+        "geo": {
+            "lat": "10.8881",
+            "lng": "29.2386"
+        }
+    },
+    "phone": "(371) 208-7908",
+    "website": "anne.biz",
+    "company": {
+        "name": "Balistreri, Sporer and Brown",
+        "catchPhrase": "Reduced uniform alliance",
+        "bs": "e-business incubate bandwidth"
+    },
+    "posts": [
+        {
+            "words": "veniam sed nesciunt",
+            "sentence": "Odio tempore consectetur.",
+            "sentences": "Illum suscipit molestiae magni. Et tempora et nam repudiandae itaque nobis autem modi. Rerum ullam officiis consequatur nobis ea voluptatem voluptatem. Vitae sit necessitatibus tempore deleniti. Ea quam iusto non deleniti voluptatem perferendis.",
+            "paragraph": "Modi officia vitae. Perspiciatis quis deleniti debitis incidunt aut praesentium totam. Qui autem occaecati eos. Exercitationem rem atque aut dolorum blanditiis dolores est."
+        },
+        {
+            "words": "est distinctio odit",
+            "sentence": "Et facilis eos.",
+            "sentences": "Veniam sit totam. Aut eos ullam. Earum cumque aut.",
+            "paragraph": "Atque error odit nam doloribus. Sapiente exercitationem magni. Quis aut error quis alias minus totam repellendus."
+        },
+        {
+            "words": "numquam et magnam",
+            "sentence": "Dicta praesentium similique non.",
+            "sentences": "Sit est ullam soluta dolores praesentium at. Natus iure aut qui beatae.",
+            "paragraph": "Possimus ea totam aut. Qui et sequi. Incidunt sapiente debitis harum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "984.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hamill, Wyman and Schulist",
+            "name": "Credit Card Account 5161",
+            "type": "deposit",
+            "account": "19336277"
+        },
+        {
+            "amount": "676.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Senger and Sons",
+            "name": "Checking Account 4381",
+            "type": "invoice",
+            "account": "38720188"
+        },
+        {
+            "amount": "570.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cruickshank - Koepp",
+            "name": "Personal Loan Account 2307",
+            "type": "deposit",
+            "account": "99898450"
+        }
+    ]
+}

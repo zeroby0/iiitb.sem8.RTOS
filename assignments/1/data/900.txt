@@ -1,0 +1,72 @@
+{
+    "name": "Maurice Schiller",
+    "username": "Eleanora_Grant58",
+    "email": "Schuyler53@yahoo.com",
+    "address": {
+        "streetA": "Medhurst Knoll",
+        "streetB": "657 Hodkiewicz Mountain",
+        "streetC": "58911 Tommie Oval Suite 939",
+        "streetD": "Suite 282",
+        "city": "South Gerhard",
+        "state": "Rhode Island",
+        "country": "Liechtenstein",
+        "zipcode": "90122",
+        "geo": {
+            "lat": "-53.2647",
+            "lng": "90.8426"
+        }
+    },
+    "phone": "182-070-0364",
+    "website": "jamaal.net",
+    "company": {
+        "name": "Howell - Watsica",
+        "catchPhrase": "Triple-buffered coherent moratorium",
+        "bs": "rich expedite bandwidth"
+    },
+    "posts": [
+        {
+            "words": "consequatur voluptatum ducimus",
+            "sentence": "Autem optio consequatur sed voluptates sit quo.",
+            "sentences": "Nihil eius temporibus aliquid quam vel. Aut numquam totam. Iure ad repellendus magnam ipsum eius. Placeat vel sit. Soluta aperiam voluptatem id architecto neque consequatur animi ut incidunt.",
+            "paragraph": "Quaerat officiis et ut. Voluptatibus et laborum quisquam. Dolorem ut voluptatem reiciendis animi quos."
+        },
+        {
+            "words": "non unde dolor",
+            "sentence": "Tempore et tempora perspiciatis quis.",
+            "sentences": "Commodi beatae laboriosam libero debitis. Vitae deserunt asperiores corporis amet. Quaerat autem molestias tenetur quo voluptatibus.",
+            "paragraph": "Voluptatum ut enim alias rerum voluptatem. Qui dolorum eius quis sunt. Consequatur deleniti recusandae maiores sunt maxime."
+        },
+        {
+            "words": "iusto veniam sint",
+            "sentence": "Enim accusantium adipisci alias beatae id ea itaque corrupti libero.",
+            "sentences": "Dolorem aperiam distinctio veritatis cum repellat nam ut omnis id. Quis iste nihil soluta exercitationem deserunt quibusdam. Et nulla quia necessitatibus et deleniti aspernatur quos eos. Ea molestiae sit quibusdam animi. Voluptas reiciendis eum voluptates libero necessitatibus. Illo aliquid voluptate.",
+            "paragraph": "Nesciunt quasi iste est non. Et et dolores ab praesentium placeat expedita. Et quos at perspiciatis omnis consequatur error unde. Et quis voluptates reprehenderit distinctio rerum. Autem expedita quisquam corporis numquam vitae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "981.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wilkinson, Legros and Morissette",
+            "name": "Investment Account 1342",
+            "type": "deposit",
+            "account": "14536922"
+        },
+        {
+            "amount": "869.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Goyette - Wehner",
+            "name": "Savings Account 6025",
+            "type": "payment",
+            "account": "23705851"
+        },
+        {
+            "amount": "3.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Blanda - Deckow",
+            "name": "Personal Loan Account 9381",
+            "type": "withdrawal",
+            "account": "85286852"
+        }
+    ]
+}

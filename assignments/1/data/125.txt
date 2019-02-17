@@ -1,0 +1,72 @@
+{
+    "name": "Miss Alyce Goodwin",
+    "username": "Evie_Schuppe",
+    "email": "Kristian63@gmail.com",
+    "address": {
+        "streetA": "Zula Highway",
+        "streetB": "34496 Frida Drive",
+        "streetC": "897 Tanya View Apt. 294",
+        "streetD": "Suite 473",
+        "city": "New Giovannyhaven",
+        "state": "Rhode Island",
+        "country": "Norfolk Island",
+        "zipcode": "64675-3532",
+        "geo": {
+            "lat": "-19.1232",
+            "lng": "-1.5493"
+        }
+    },
+    "phone": "(106) 756-4341 x465",
+    "website": "candace.name",
+    "company": {
+        "name": "O'Connell - Schultz",
+        "catchPhrase": "Down-sized fault-tolerant middleware",
+        "bs": "seamless seize convergence"
+    },
+    "posts": [
+        {
+            "words": "et nulla omnis",
+            "sentence": "Praesentium et vitae.",
+            "sentences": "Quibusdam in asperiores aut vitae a possimus. Quia natus et quas rerum odit dolorem reprehenderit. Autem reiciendis est velit voluptatem et qui quam hic et.",
+            "paragraph": "Possimus occaecati commodi. Pariatur repellat et a harum voluptatem magni harum. Pariatur aperiam explicabo debitis quo dolorum aperiam."
+        },
+        {
+            "words": "consectetur officiis similique",
+            "sentence": "Labore eius facere praesentium enim saepe.",
+            "sentences": "Quis quidem cum nesciunt ut dolores nesciunt incidunt. Quia ad minima atque.",
+            "paragraph": "Officia asperiores officia explicabo distinctio veniam. Quia officia quaerat omnis. Omnis ipsa nam."
+        },
+        {
+            "words": "aliquam ipsa exercitationem",
+            "sentence": "Sunt iure accusantium quidem voluptas ea magnam voluptate.",
+            "sentences": "Molestias nostrum consectetur ea et. Quia fuga sapiente inventore nam tenetur dolor. Dolor autem ipsum alias distinctio harum est iure sed molestiae.",
+            "paragraph": "Soluta fuga ut suscipit maiores et eum tenetur aut recusandae. Consectetur quia quos quo temporibus qui harum ex dignissimos. Tempore voluptatem in aut. Dolorem cupiditate ipsa enim est eius ut consequatur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "948.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Harvey - Hyatt",
+            "name": "Money Market Account 2590",
+            "type": "payment",
+            "account": "91221139"
+        },
+        {
+            "amount": "391.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Weimann, Cruickshank and Strosin",
+            "name": "Personal Loan Account 6620",
+            "type": "invoice",
+            "account": "84629667"
+        },
+        {
+            "amount": "74.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Halvorson, Wiegand and Gottlieb",
+            "name": "Credit Card Account 5685",
+            "type": "invoice",
+            "account": "86532949"
+        }
+    ]
+}

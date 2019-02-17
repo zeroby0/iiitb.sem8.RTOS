@@ -1,0 +1,72 @@
+{
+    "name": "Karson Turcotte",
+    "username": "Lavon.Denesik",
+    "email": "Darlene.Weissnat75@hotmail.com",
+    "address": {
+        "streetA": "Susie Square",
+        "streetB": "4091 Oberbrunner Fields",
+        "streetC": "94204 Daugherty Knolls Apt. 860",
+        "streetD": "Apt. 759",
+        "city": "Ameliaport",
+        "state": "Arkansas",
+        "country": "United Arab Emirates",
+        "zipcode": "79430",
+        "geo": {
+            "lat": "79.3525",
+            "lng": "-119.1557"
+        }
+    },
+    "phone": "497.152.2094 x31648",
+    "website": "eve.com",
+    "company": {
+        "name": "Borer LLC",
+        "catchPhrase": "Distributed logistical middleware",
+        "bs": "24/365 synergize eyeballs"
+    },
+    "posts": [
+        {
+            "words": "aspernatur quaerat commodi",
+            "sentence": "Rerum asperiores eaque autem.",
+            "sentences": "Tenetur laboriosam accusamus fugiat itaque eum velit. Recusandae explicabo labore. Voluptatem quis alias quia rem. Aut ipsam est magnam quo sapiente laborum. Quasi magni eos non ut debitis voluptatibus doloribus vitae omnis.",
+            "paragraph": "Sint eaque qui. Consequatur qui est accusantium optio consequuntur. Id est velit eos quos et qui neque tenetur facere. Aut magni et eveniet quisquam veritatis voluptates sed voluptas. Laudantium quo tempore. Deleniti voluptas ut unde mollitia."
+        },
+        {
+            "words": "occaecati excepturi occaecati",
+            "sentence": "Rem ea tempore.",
+            "sentences": "Qui natus quod aliquam laborum. In quis officia voluptas laborum. Voluptates praesentium ut.",
+            "paragraph": "Quas assumenda eum perferendis nulla sed cupiditate pariatur itaque dolor. Inventore aut minima quis. Numquam et deleniti vel perspiciatis iusto. Ut dignissimos blanditiis rerum ut."
+        },
+        {
+            "words": "soluta aut ratione",
+            "sentence": "Doloribus iste cumque.",
+            "sentences": "Id repellat repudiandae aut est corrupti aut dicta. Officiis labore fugiat.",
+            "paragraph": "Tempore enim sit recusandae ut. Non ipsum harum laborum quia nesciunt. Dignissimos similique ut minima possimus qui. Quia consequatur sunt eveniet et quia."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "940.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mosciski - Mante",
+            "name": "Money Market Account 9008",
+            "type": "invoice",
+            "account": "81745956"
+        },
+        {
+            "amount": "552.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Greenholt - Nicolas",
+            "name": "Home Loan Account 8520",
+            "type": "invoice",
+            "account": "28742004"
+        },
+        {
+            "amount": "810.97",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Corwin, Hickle and Bernier",
+            "name": "Checking Account 2574",
+            "type": "payment",
+            "account": "02013404"
+        }
+    ]
+}

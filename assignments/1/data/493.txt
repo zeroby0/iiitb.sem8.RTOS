@@ -1,0 +1,72 @@
+{
+    "name": "Norberto Carroll",
+    "username": "Sherwood.Rohan70",
+    "email": "Carmelo_Mueller73@yahoo.com",
+    "address": {
+        "streetA": "Niko Trafficway",
+        "streetB": "4053 Raven Viaduct",
+        "streetC": "6585 Lorenzo Spur Suite 787",
+        "streetD": "Apt. 459",
+        "city": "Jacobiton",
+        "state": "California",
+        "country": "India",
+        "zipcode": "54927-1547",
+        "geo": {
+            "lat": "-26.2866",
+            "lng": "-83.1204"
+        }
+    },
+    "phone": "1-025-897-0913",
+    "website": "millie.name",
+    "company": {
+        "name": "Gleichner - Nicolas",
+        "catchPhrase": "Diverse interactive monitoring",
+        "bs": "world-class monetize functionalities"
+    },
+    "posts": [
+        {
+            "words": "voluptatem amet asperiores",
+            "sentence": "Repudiandae mollitia suscipit hic voluptas perspiciatis dolorem dolores.",
+            "sentences": "Non non ut et non quam fuga occaecati dolores distinctio. In neque culpa cum beatae id veritatis aspernatur et accusamus. Consequatur non quia qui explicabo. Iusto sit impedit eius cupiditate aspernatur dolor saepe.",
+            "paragraph": "Tempore error atque cumque. Sint non est qui sequi sapiente dolorem odio sunt repudiandae. Ea aut minus ut quaerat omnis."
+        },
+        {
+            "words": "a eaque ratione",
+            "sentence": "Provident nam reprehenderit dolor vitae et.",
+            "sentences": "Suscipit ea neque eligendi fugiat quidem repellat voluptate id ut. Dolorem molestias dolorem esse dolor ut quos. Officia autem quisquam possimus nulla assumenda ea odio provident commodi. Ullam quae id saepe voluptatem.",
+            "paragraph": "Voluptatem praesentium omnis ab ratione debitis aliquam esse consequatur. Sint voluptatum id. Excepturi ut aut repellendus."
+        },
+        {
+            "words": "voluptatum voluptas consequuntur",
+            "sentence": "Fugiat et accusantium eum odit tempore est non.",
+            "sentences": "Aliquid nobis mollitia ut. Sit error dignissimos praesentium molestias omnis reprehenderit voluptatem asperiores. Et mollitia quibusdam porro repellendus. Possimus qui cumque architecto hic dolorem labore ipsa. Occaecati qui excepturi sint sed unde voluptatem aliquam. Aut non deleniti.",
+            "paragraph": "Ipsum ea vel illo ullam. Dolor fuga qui aut enim explicabo similique excepturi. Distinctio beatae facere ea illum dicta cum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "806.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wolf, Carter and Pfannerstill",
+            "name": "Personal Loan Account 6010",
+            "type": "invoice",
+            "account": "16750638"
+        },
+        {
+            "amount": "405.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Auer, Greenfelder and Borer",
+            "name": "Auto Loan Account 9969",
+            "type": "deposit",
+            "account": "77573746"
+        },
+        {
+            "amount": "699.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gleichner - Hickle",
+            "name": "Home Loan Account 9174",
+            "type": "invoice",
+            "account": "66919010"
+        }
+    ]
+}

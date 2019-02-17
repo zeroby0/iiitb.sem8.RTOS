@@ -1,0 +1,72 @@
+{
+    "name": "Jodie Daniel",
+    "username": "Otto.Christiansen",
+    "email": "Jasen.Hilpert@hotmail.com",
+    "address": {
+        "streetA": "Ambrose View",
+        "streetB": "5581 Lora Club",
+        "streetC": "30912 Lori Spring Suite 265",
+        "streetD": "Apt. 379",
+        "city": "Alexanneville",
+        "state": "Vermont",
+        "country": "Brazil",
+        "zipcode": "38680-1311",
+        "geo": {
+            "lat": "-39.2242",
+            "lng": "-47.6849"
+        }
+    },
+    "phone": "162.024.3678",
+    "website": "nicklaus.net",
+    "company": {
+        "name": "O'Keefe Inc",
+        "catchPhrase": "Stand-alone exuding customer loyalty",
+        "bs": "real-time generate niches"
+    },
+    "posts": [
+        {
+            "words": "totam nesciunt adipisci",
+            "sentence": "Temporibus aperiam voluptatum sint consequuntur pariatur illum assumenda maiores.",
+            "sentences": "Vel aut placeat aliquid voluptates. Quod aperiam reprehenderit harum animi eum adipisci ipsam ratione. Dicta ut ipsa id laborum laudantium consequuntur. Inventore sit dolorum molestias illo quibusdam. Eum molestias ut a.",
+            "paragraph": "Sint et molestiae optio illum. Omnis et voluptatibus nulla cupiditate iusto excepturi voluptatem. Est ea nemo. Sint velit commodi laudantium et minus dolor. Ab adipisci amet quasi sed iste quibusdam sunt consequatur. Occaecati voluptate molestiae dolores libero."
+        },
+        {
+            "words": "minima harum deleniti",
+            "sentence": "Et voluptate perspiciatis quibusdam rerum et inventore suscipit eum voluptatibus.",
+            "sentences": "Voluptatibus atque sint tenetur. Aut ipsam consequatur excepturi assumenda.",
+            "paragraph": "Possimus asperiores et est natus pariatur cumque voluptatibus corporis. Tenetur quia voluptatem est deleniti ut id. Odio mollitia recusandae alias ex consequuntur sed exercitationem. Consectetur ut consectetur inventore corrupti qui. Asperiores qui voluptatem vel eos dolore voluptas sed nihil et. Cupiditate eligendi qui recusandae quis repudiandae."
+        },
+        {
+            "words": "voluptatem impedit sint",
+            "sentence": "Voluptate sed illo amet.",
+            "sentences": "Doloremque recusandae assumenda. Dolores ratione cupiditate voluptate voluptatem facere adipisci provident modi voluptatum. Eaque dolor reprehenderit qui dignissimos tempore quod at et maxime.",
+            "paragraph": "Qui voluptates assumenda. Aspernatur pariatur occaecati sunt totam fuga. Id vel inventore dignissimos. Ut officiis nam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "437.29",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Emard - Fritsch",
+            "name": "Home Loan Account 2721",
+            "type": "deposit",
+            "account": "30639891"
+        },
+        {
+            "amount": "154.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ritchie, Kuphal and Jerde",
+            "name": "Auto Loan Account 9779",
+            "type": "deposit",
+            "account": "42970326"
+        },
+        {
+            "amount": "635.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Robel, Kreiger and Thiel",
+            "name": "Personal Loan Account 4745",
+            "type": "deposit",
+            "account": "28949696"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Kelley Reilly",
+    "username": "Ryleigh92",
+    "email": "Wanda.Koelpin53@yahoo.com",
+    "address": {
+        "streetA": "Taya Shoals",
+        "streetB": "535 Myah Circle",
+        "streetC": "02211 Tessie Throughway Apt. 333",
+        "streetD": "Apt. 279",
+        "city": "Altenwerthstad",
+        "state": "Colorado",
+        "country": "Mali",
+        "zipcode": "65982-8416",
+        "geo": {
+            "lat": "-3.1877",
+            "lng": "175.1224"
+        }
+    },
+    "phone": "1-323-319-3094 x9061",
+    "website": "oswald.com",
+    "company": {
+        "name": "Purdy, Erdman and Bogisich",
+        "catchPhrase": "Automated logistical methodology",
+        "bs": "frictionless incentivize platforms"
+    },
+    "posts": [
+        {
+            "words": "non iste quidem",
+            "sentence": "Ipsam labore excepturi iusto consequatur laudantium sit quaerat cum incidunt.",
+            "sentences": "Asperiores dolores assumenda. Et iure sed magni consequuntur sapiente tenetur repellendus esse. Ut voluptatum rerum consequatur et.",
+            "paragraph": "Hic voluptas dolorem voluptatem officia dolorum cumque quo facilis possimus. Aut est cum tempore exercitationem dolorem qui odit quam. Reprehenderit dolorem itaque consequatur ex maiores molestiae iure amet ullam."
+        },
+        {
+            "words": "architecto sunt debitis",
+            "sentence": "Veritatis distinctio incidunt.",
+            "sentences": "Corrupti rerum consequuntur architecto quia. Ullam eius porro voluptatum adipisci quam facere est qui. Magnam odit qui explicabo sit tempore corrupti enim repudiandae. Magni vitae et molestiae perspiciatis impedit et rerum rerum eius. Architecto quis cumque debitis.",
+            "paragraph": "Non beatae alias. Laboriosam aperiam velit voluptas voluptates occaecati. Beatae doloribus qui ut quia."
+        },
+        {
+            "words": "quia nesciunt voluptatem",
+            "sentence": "Optio debitis qui vero veritatis.",
+            "sentences": "Non totam officia corrupti veniam voluptatem consequuntur. Accusamus qui consequuntur unde quas fugiat itaque consequatur sint. Molestiae possimus sunt ducimus omnis. Corrupti accusamus eveniet praesentium et eaque.",
+            "paragraph": "Nulla ut et quasi tempore atque. Qui sint officia veniam rerum iusto est incidunt assumenda. Nesciunt vel sint vel incidunt culpa itaque ipsum harum voluptates. Ducimus corporis veritatis dolore ratione consequatur enim."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "307.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Welch - Feest",
+            "name": "Auto Loan Account 8240",
+            "type": "deposit",
+            "account": "43489511"
+        },
+        {
+            "amount": "520.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Zemlak Group",
+            "name": "Money Market Account 6343",
+            "type": "payment",
+            "account": "09458237"
+        },
+        {
+            "amount": "301.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Buckridge, Schmitt and Collier",
+            "name": "Credit Card Account 7528",
+            "type": "invoice",
+            "account": "84176034"
+        }
+    ]
+}

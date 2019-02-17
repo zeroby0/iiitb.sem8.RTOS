@@ -1,0 +1,72 @@
+{
+    "name": "Georgianna Bednar",
+    "username": "Gordon.Kunze",
+    "email": "Garnett.Hartmann30@yahoo.com",
+    "address": {
+        "streetA": "Jessyca Valleys",
+        "streetB": "7080 Schoen Flat",
+        "streetC": "890 Smith Summit Apt. 027",
+        "streetD": "Suite 882",
+        "city": "Hicklemouth",
+        "state": "Iowa",
+        "country": "Peru",
+        "zipcode": "97147",
+        "geo": {
+            "lat": "37.7058",
+            "lng": "-22.4332"
+        }
+    },
+    "phone": "438-240-3353 x7621",
+    "website": "dock.biz",
+    "company": {
+        "name": "Konopelski - Franecki",
+        "catchPhrase": "Reactive non-volatile ability",
+        "bs": "viral engineer relationships"
+    },
+    "posts": [
+        {
+            "words": "velit occaecati odit",
+            "sentence": "Mollitia fuga non qui et aut ipsa voluptatem maxime.",
+            "sentences": "Repellat molestiae sit culpa rem voluptas consequatur. Harum consequatur enim consectetur omnis et aut molestiae. Mollitia ullam omnis dolorum ut aut. Excepturi veniam architecto consequatur doloremque eos. Dolor similique error ut voluptas nobis ullam rerum officia sit. Eveniet incidunt et laudantium laboriosam assumenda sed.",
+            "paragraph": "Dolores perferendis aperiam soluta praesentium veritatis qui. Consequatur ut dolor aliquid voluptatem ipsa ratione laboriosam deleniti rerum. Ipsa ea culpa officia non unde in. Saepe corporis iure modi commodi alias at non. Consequatur reprehenderit similique asperiores eligendi alias."
+        },
+        {
+            "words": "aut aut ducimus",
+            "sentence": "Pariatur et sequi itaque quo repellat.",
+            "sentences": "Veniam soluta omnis suscipit eum. Blanditiis dolore rerum iusto ab minima iste veniam modi. Quis veritatis labore repudiandae molestiae reprehenderit earum. Cumque quis ad.",
+            "paragraph": "Autem voluptatem rerum natus enim eveniet laudantium. Animi ipsam omnis. Perspiciatis mollitia placeat voluptatibus maiores cupiditate fugiat inventore. Animi et minima earum illum et."
+        },
+        {
+            "words": "nam sed nihil",
+            "sentence": "Eum nihil repellendus dolorem praesentium.",
+            "sentences": "Modi et velit aliquid eligendi culpa sit molestiae. Ut odio repudiandae repellendus aliquid necessitatibus est tempora. Qui eaque maiores sint aut et non aut similique.",
+            "paragraph": "Sit iure laborum nihil voluptas sit voluptate id est sunt. Aliquid est velit laboriosam omnis harum molestiae. Accusantium rerum libero et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "639.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Conner LLC",
+            "name": "Auto Loan Account 2633",
+            "type": "invoice",
+            "account": "40847633"
+        },
+        {
+            "amount": "584.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Carter and Sons",
+            "name": "Auto Loan Account 6956",
+            "type": "withdrawal",
+            "account": "20874338"
+        },
+        {
+            "amount": "372.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Paucek, Koch and Rath",
+            "name": "Investment Account 9810",
+            "type": "payment",
+            "account": "42819031"
+        }
+    ]
+}

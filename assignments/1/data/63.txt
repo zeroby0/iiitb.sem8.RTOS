@@ -1,0 +1,72 @@
+{
+    "name": "Jody Shanahan",
+    "username": "Carleton.Collier42",
+    "email": "Lambert8@hotmail.com",
+    "address": {
+        "streetA": "Schaden Summit",
+        "streetB": "17501 Remington Rest",
+        "streetC": "120 Windler Groves Suite 782",
+        "streetD": "Suite 709",
+        "city": "West Eriberto",
+        "state": "Louisiana",
+        "country": "New Zealand",
+        "zipcode": "63601",
+        "geo": {
+            "lat": "-42.9158",
+            "lng": "-11.2948"
+        }
+    },
+    "phone": "766.010.5926 x0705",
+    "website": "jovan.name",
+    "company": {
+        "name": "Padberg Inc",
+        "catchPhrase": "Innovative disintermediate parallelism",
+        "bs": "mission-critical optimize networks"
+    },
+    "posts": [
+        {
+            "words": "quibusdam eos velit",
+            "sentence": "Repudiandae ut eaque voluptatem.",
+            "sentences": "Provident veritatis doloremque voluptas blanditiis sunt quam temporibus. Doloremque sed sequi architecto quibusdam. Et esse asperiores velit qui maiores facilis quis. Saepe sit quia cum dolorem porro vitae repellendus et voluptatum.",
+            "paragraph": "Illum cumque omnis in ut voluptates voluptate voluptatum molestiae. Sit numquam non tempora voluptatem rerum sapiente. Nulla in sint illum repellendus nobis necessitatibus aut pariatur."
+        },
+        {
+            "words": "quae impedit pariatur",
+            "sentence": "Sit commodi modi aut.",
+            "sentences": "Velit doloribus et aspernatur sed. Hic dolorem architecto nostrum. Sapiente sit velit in voluptatem excepturi atque vel ducimus. Exercitationem quia veniam rerum in ad laboriosam veritatis accusamus.",
+            "paragraph": "Non voluptas voluptatibus. Explicabo et sed sunt vel dolor rerum voluptatem. Fugiat odio architecto odio culpa quo quo in doloremque perspiciatis. Libero alias dolorum. Optio facere culpa. Culpa voluptatibus rerum."
+        },
+        {
+            "words": "voluptatem eaque dignissimos",
+            "sentence": "Laboriosam deserunt sit asperiores quia sit est aut.",
+            "sentences": "Perspiciatis consectetur corrupti maiores sunt cumque itaque numquam quibusdam harum. Doloribus non aliquid iusto vitae voluptatum maiores quaerat consequatur quidem. Nesciunt corrupti aut quaerat animi pariatur.",
+            "paragraph": "Ipsum labore sint molestiae architecto repellat dolorem. Omnis iusto quibusdam et non et ut eos commodi cumque. Eaque nihil soluta veniam rerum id delectus officiis aliquam perferendis. Dolores corrupti reprehenderit quam nostrum voluptatem. Veritatis veniam fugiat sed reiciendis minima quos nihil."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "539.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Heathcote Inc",
+            "name": "Money Market Account 1563",
+            "type": "payment",
+            "account": "08833400"
+        },
+        {
+            "amount": "680.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gottlieb and Sons",
+            "name": "Personal Loan Account 8119",
+            "type": "withdrawal",
+            "account": "92028318"
+        },
+        {
+            "amount": "291.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beer, Champlin and Kuhic",
+            "name": "Checking Account 3617",
+            "type": "withdrawal",
+            "account": "96942525"
+        }
+    ]
+}

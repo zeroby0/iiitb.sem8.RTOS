@@ -1,0 +1,72 @@
+{
+    "name": "Horace Franecki",
+    "username": "Henri_Kshlerin80",
+    "email": "Savanah_Huel23@yahoo.com",
+    "address": {
+        "streetA": "Marley Points",
+        "streetB": "02451 Hyatt Parks",
+        "streetC": "12128 Arnaldo Turnpike Apt. 738",
+        "streetD": "Suite 348",
+        "city": "Oberbrunnerchester",
+        "state": "Washington",
+        "country": "Netherlands",
+        "zipcode": "21531",
+        "geo": {
+            "lat": "-45.7507",
+            "lng": "-75.6335"
+        }
+    },
+    "phone": "1-492-044-1403 x112",
+    "website": "regan.name",
+    "company": {
+        "name": "Kling Group",
+        "catchPhrase": "Synergistic multimedia archive",
+        "bs": "mission-critical iterate channels"
+    },
+    "posts": [
+        {
+            "words": "numquam mollitia illum",
+            "sentence": "Non qui labore in.",
+            "sentences": "Aut ut velit fugiat ut quia mollitia soluta. Optio rerum nisi in quasi qui aliquid expedita qui. Aut ut similique et accusamus quod.",
+            "paragraph": "Et explicabo non voluptatem ducimus error magni similique maxime natus. Velit veritatis excepturi iure eligendi facere voluptas. Voluptas velit ullam cumque sed illum fugiat voluptatem et. Delectus voluptas dolor ducimus explicabo voluptas deleniti deserunt. Temporibus aspernatur eum reprehenderit et sit commodi officiis."
+        },
+        {
+            "words": "consequatur dolor ratione",
+            "sentence": "Sequi dignissimos odit illum sint provident voluptatibus quo cupiditate neque.",
+            "sentences": "Aliquam est vero esse deleniti ipsam esse consequuntur totam accusamus. Itaque laudantium pariatur autem id mollitia. Quibusdam soluta hic similique est doloremque. Voluptatem aut et repellendus quae. Doloribus rem tempore dolorem exercitationem et quia sint et iste.",
+            "paragraph": "Ad harum consequatur labore optio quis ipsam porro qui. Quam iusto nam qui cupiditate sapiente rerum. Non ipsum eveniet et qui perspiciatis dolor assumenda tempore. Numquam quo occaecati aliquam nostrum repellendus. Qui sunt ipsum delectus cupiditate qui aut voluptatum. Omnis aspernatur aut ut necessitatibus est."
+        },
+        {
+            "words": "fuga eius iure",
+            "sentence": "Occaecati maxime maxime quos alias vel.",
+            "sentences": "Veniam incidunt illum modi consequatur ad nostrum sequi et similique. Optio suscipit alias.",
+            "paragraph": "Repellendus id laboriosam qui aperiam corporis. Fuga consequatur ad. Omnis facere quo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "621.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Muller - Stamm",
+            "name": "Personal Loan Account 4165",
+            "type": "invoice",
+            "account": "50399779"
+        },
+        {
+            "amount": "62.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Feil - Kuhn",
+            "name": "Personal Loan Account 8999",
+            "type": "deposit",
+            "account": "95705939"
+        },
+        {
+            "amount": "416.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bode - Abshire",
+            "name": "Investment Account 7689",
+            "type": "invoice",
+            "account": "11650904"
+        }
+    ]
+}

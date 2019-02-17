@@ -1,0 +1,72 @@
+{
+    "name": "Susie Aufderhar",
+    "username": "Ray16",
+    "email": "Rhea_Reichel12@gmail.com",
+    "address": {
+        "streetA": "Madge Landing",
+        "streetB": "276 Marie Streets",
+        "streetC": "8743 Lane Roads Suite 726",
+        "streetD": "Suite 191",
+        "city": "Lake Kanestad",
+        "state": "West Virginia",
+        "country": "Barbados",
+        "zipcode": "96540",
+        "geo": {
+            "lat": "9.4322",
+            "lng": "-34.7342"
+        }
+    },
+    "phone": "959-873-0827",
+    "website": "dean.biz",
+    "company": {
+        "name": "Davis, Renner and Russel",
+        "catchPhrase": "Networked attitude-oriented alliance",
+        "bs": "end-to-end scale technologies"
+    },
+    "posts": [
+        {
+            "words": "inventore quis quos",
+            "sentence": "Porro ea aut consequuntur recusandae tenetur architecto fugit iste.",
+            "sentences": "Corporis provident beatae perferendis cumque dolorum itaque autem doloremque blanditiis. Veniam magni illum quia numquam est illum quis quod iste. Id quia et sunt aliquam rerum. Omnis pariatur occaecati doloremque est aspernatur nihil deserunt sit. Quas est voluptatibus ipsum ex quia sunt. Qui eos pariatur quod debitis alias rerum quae ut laboriosam.",
+            "paragraph": "Corporis eius repellat dolorem nulla aut exercitationem iure et itaque. Temporibus delectus cupiditate inventore. Eveniet repudiandae iste vero nemo dicta."
+        },
+        {
+            "words": "expedita enim vel",
+            "sentence": "Enim hic ut necessitatibus neque molestiae et.",
+            "sentences": "Enim qui molestiae architecto officia in officiis. Et hic aperiam ut beatae sit incidunt reprehenderit iure consequatur.",
+            "paragraph": "Est eveniet qui voluptatem dignissimos nisi aliquid assumenda corporis et. Placeat est molestiae sit et assumenda ea omnis. Odit sed laborum quia est."
+        },
+        {
+            "words": "aut nostrum distinctio",
+            "sentence": "Praesentium non fugiat dolorem distinctio architecto.",
+            "sentences": "Id vitae accusantium. Consequatur modi consequatur quia ut consequatur voluptatem quidem aut. Illum facilis quia nesciunt qui eaque enim.",
+            "paragraph": "Aspernatur sed adipisci. Sapiente nulla sit non. Et natus voluptas vel nulla eligendi repudiandae modi deleniti. Voluptatem voluptatem voluptatem accusantium nihil labore. Similique labore amet est sit nobis aliquam amet. Eos mollitia unde sit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "832.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Smith - Klein",
+            "name": "Investment Account 8210",
+            "type": "payment",
+            "account": "57581910"
+        },
+        {
+            "amount": "23.66",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schoen, Kunde and Dooley",
+            "name": "Investment Account 3878",
+            "type": "withdrawal",
+            "account": "95029129"
+        },
+        {
+            "amount": "934.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rutherford, Kemmer and Smith",
+            "name": "Money Market Account 9296",
+            "type": "payment",
+            "account": "52308058"
+        }
+    ]
+}

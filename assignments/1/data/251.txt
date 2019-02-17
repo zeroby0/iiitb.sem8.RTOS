@@ -1,0 +1,72 @@
+{
+    "name": "Isac Smith",
+    "username": "Amber_Buckridge3",
+    "email": "Clemens.Larson@yahoo.com",
+    "address": {
+        "streetA": "Domenica Hollow",
+        "streetB": "2871 Lucio Cliffs",
+        "streetC": "778 Dach Keys Apt. 430",
+        "streetD": "Apt. 589",
+        "city": "Lindgrenside",
+        "state": "Alaska",
+        "country": "Mauritania",
+        "zipcode": "89987",
+        "geo": {
+            "lat": "-46.8770",
+            "lng": "99.2686"
+        }
+    },
+    "phone": "008-791-4017 x83864",
+    "website": "adeline.org",
+    "company": {
+        "name": "Schmidt Group",
+        "catchPhrase": "Centralized next generation alliance",
+        "bs": "sexy expedite e-markets"
+    },
+    "posts": [
+        {
+            "words": "aliquid laudantium animi",
+            "sentence": "Dolores illum porro sapiente quis ad tempora sed qui.",
+            "sentences": "Autem soluta voluptas excepturi quia. Qui voluptatem modi est quibusdam magnam explicabo. Iure qui ut ad omnis dolor deserunt accusamus voluptates.",
+            "paragraph": "Voluptatem hic rerum ut nihil ab porro corporis nihil ipsam. Quam fugiat tempora provident ut. Aliquid molestiae quia debitis expedita qui."
+        },
+        {
+            "words": "et reiciendis deleniti",
+            "sentence": "Totam saepe minima voluptatem eos.",
+            "sentences": "Quam qui nostrum accusamus sit. Neque officiis eaque natus nobis ut magni fuga nostrum velit.",
+            "paragraph": "Necessitatibus officia ut illum voluptatem totam dolorem eos harum. Rem eum voluptate quia facilis id a et. Quae quidem quibusdam ea quo optio est. Suscipit atque asperiores nemo debitis. Voluptatum consequatur ducimus. Voluptatum quos voluptatibus."
+        },
+        {
+            "words": "voluptatem eum voluptate",
+            "sentence": "Praesentium velit officiis.",
+            "sentences": "Rerum voluptatem aut ut et. Nostrum et provident perspiciatis possimus delectus nobis eos et cum. Repellendus sit illum quia. Ea fugiat rerum facere corrupti voluptatibus. Voluptatem iure et veniam omnis enim est. Culpa est ipsum qui animi dolor nihil magni.",
+            "paragraph": "Sed sed dignissimos doloribus id est. Aspernatur placeat cumque minima. Et ex fugiat enim voluptas unde suscipit. Sit qui facilis nostrum reprehenderit. Deserunt repellendus minus voluptatem porro reiciendis necessitatibus ad repellat. Reprehenderit in quis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "804.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Braun - Carroll",
+            "name": "Credit Card Account 9564",
+            "type": "invoice",
+            "account": "74938179"
+        },
+        {
+            "amount": "8.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bahringer - Hodkiewicz",
+            "name": "Savings Account 6477",
+            "type": "payment",
+            "account": "17595312"
+        },
+        {
+            "amount": "168.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Denesik - O'Kon",
+            "name": "Credit Card Account 6198",
+            "type": "invoice",
+            "account": "46562904"
+        }
+    ]
+}

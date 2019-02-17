@@ -1,0 +1,72 @@
+{
+    "name": "Lillie Schumm III",
+    "username": "Agustina.Hoppe",
+    "email": "Isabella_Wilderman81@yahoo.com",
+    "address": {
+        "streetA": "VonRueden Parkway",
+        "streetB": "448 Hermiston Spur",
+        "streetC": "5073 Kuphal Brook Apt. 003",
+        "streetD": "Suite 898",
+        "city": "Jermaineville",
+        "state": "North Carolina",
+        "country": "Barbados",
+        "zipcode": "40172-7950",
+        "geo": {
+            "lat": "-83.4453",
+            "lng": "-109.5155"
+        }
+    },
+    "phone": "(688) 849-7814 x0272",
+    "website": "chyna.org",
+    "company": {
+        "name": "Shanahan Inc",
+        "catchPhrase": "Synergistic holistic strategy",
+        "bs": "synergistic innovate web services"
+    },
+    "posts": [
+        {
+            "words": "et totam assumenda",
+            "sentence": "Dolor perspiciatis illum unde.",
+            "sentences": "Magni autem aspernatur perferendis velit illo temporibus. Dolore nostrum odio. Pariatur molestiae rerum tempore ut qui animi assumenda natus sed. Cumque nisi aliquid sit quia expedita nihil. Voluptatibus eos quidem voluptates ea voluptatem.",
+            "paragraph": "Porro quasi veritatis atque vero ea dolor nihil quos nam. Quia amet rem maxime repellat recusandae. Enim minus odit labore cum officia doloremque voluptas quidem est."
+        },
+        {
+            "words": "ipsum voluptatem est",
+            "sentence": "Qui omnis culpa.",
+            "sentences": "Et reiciendis molestias eum. Accusantium fugiat fugit. Cum sint sed voluptatem sed itaque rerum. Harum omnis et neque veniam non ea.",
+            "paragraph": "Eaque ut non quam et ullam. At perspiciatis mollitia aut alias quidem maxime blanditiis. Itaque voluptatem odio molestiae et nam. Nisi quas quia. Dolorem rem fuga quia et sit. Ipsum omnis aut eaque sit error qui quia quae esse."
+        },
+        {
+            "words": "sed nihil ea",
+            "sentence": "Et doloremque quia placeat suscipit et.",
+            "sentences": "Magnam aliquam asperiores aut eum suscipit est sapiente quo. Nihil aut molestiae et veritatis nihil excepturi. Non tenetur ut perferendis sunt laborum architecto. Saepe qui suscipit quia iste sint atque magni earum. Deleniti in sed labore reprehenderit et vitae hic temporibus vitae.",
+            "paragraph": "Recusandae voluptates maiores voluptatem eos aut deleniti non. Et aliquam repellendus consequatur iusto dolorem voluptatem quidem qui. Nostrum repellat nostrum. Ipsam qui molestiae vel numquam consequatur id provident consectetur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "684.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bernier Inc",
+            "name": "Money Market Account 0510",
+            "type": "deposit",
+            "account": "39976189"
+        },
+        {
+            "amount": "309.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Crona - Batz",
+            "name": "Savings Account 8671",
+            "type": "payment",
+            "account": "74835588"
+        },
+        {
+            "amount": "164.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bogan and Sons",
+            "name": "Personal Loan Account 5132",
+            "type": "invoice",
+            "account": "36208501"
+        }
+    ]
+}

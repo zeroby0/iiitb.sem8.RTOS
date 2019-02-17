@@ -1,0 +1,72 @@
+{
+    "name": "Lauren Leannon",
+    "username": "Major.OKeefe62",
+    "email": "Agnes44@gmail.com",
+    "address": {
+        "streetA": "Marcel Plaza",
+        "streetB": "8647 Hammes Rest",
+        "streetC": "012 German Trafficway Apt. 274",
+        "streetD": "Suite 355",
+        "city": "Hughton",
+        "state": "Virginia",
+        "country": "Malaysia",
+        "zipcode": "48320",
+        "geo": {
+            "lat": "68.5138",
+            "lng": "10.1413"
+        }
+    },
+    "phone": "1-572-066-2166",
+    "website": "theo.net",
+    "company": {
+        "name": "Hermiston, Powlowski and Miller",
+        "catchPhrase": "Assimilated mobile groupware",
+        "bs": "cutting-edge whiteboard solutions"
+    },
+    "posts": [
+        {
+            "words": "quibusdam est sit",
+            "sentence": "Fuga nostrum amet quisquam vel.",
+            "sentences": "Dolorem commodi quam non cupiditate. Explicabo dolore distinctio cum tempora ut necessitatibus quia debitis. Voluptatum reiciendis aut error.",
+            "paragraph": "Non mollitia sunt eveniet nihil at sit at sequi. Molestiae quia et modi aliquam aut cumque sunt ipsum. Consequuntur sed tempora iusto atque eum quis a ex qui. Voluptas voluptatum dolorem non explicabo adipisci tenetur sint optio provident. Officiis quaerat dicta et."
+        },
+        {
+            "words": "itaque quia at",
+            "sentence": "Ab eligendi nesciunt quo ut architecto et fugiat occaecati.",
+            "sentences": "Repellendus qui ratione minima eos porro. Dignissimos maiores qui quia voluptatem aliquid maxime et illum eum. Vel inventore et commodi amet quaerat esse eius.",
+            "paragraph": "Pariatur illum et sint in quas eum accusantium optio est. Accusantium officia dolore. Voluptas et consequatur dignissimos."
+        },
+        {
+            "words": "rerum dolorum quia",
+            "sentence": "Ut atque deleniti nihil qui.",
+            "sentences": "Beatae omnis ad quis est esse et voluptates. Qui nostrum minus repellendus modi. Expedita dolore sequi dolor laborum et dolor. Aut id quam eaque expedita temporibus aliquid reprehenderit velit optio. Alias similique quia commodi. Culpa numquam ut autem.",
+            "paragraph": "Unde dolorem dolor fuga commodi quia. Ad deserunt dolores amet sequi. Consequatur minima qui laudantium est maiores magnam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "477.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Williamson - Herman",
+            "name": "Credit Card Account 2562",
+            "type": "payment",
+            "account": "25211363"
+        },
+        {
+            "amount": "672.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Blick, Dach and Hauck",
+            "name": "Home Loan Account 3616",
+            "type": "invoice",
+            "account": "12891257"
+        },
+        {
+            "amount": "219.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Marquardt, Hermann and Lind",
+            "name": "Money Market Account 8725",
+            "type": "invoice",
+            "account": "94165415"
+        }
+    ]
+}

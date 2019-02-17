@@ -1,0 +1,72 @@
+{
+    "name": "Jared Zulauf",
+    "username": "Betty.Harris",
+    "email": "Marilie_Kiehn89@yahoo.com",
+    "address": {
+        "streetA": "White Oval",
+        "streetB": "90586 Walker Roads",
+        "streetC": "81743 Towne Circle Suite 486",
+        "streetD": "Suite 317",
+        "city": "Port Ladarius",
+        "state": "Kansas",
+        "country": "Democratic People's Republic of Korea",
+        "zipcode": "19368",
+        "geo": {
+            "lat": "65.6139",
+            "lng": "127.4600"
+        }
+    },
+    "phone": "297.740.6899 x3519",
+    "website": "neha.info",
+    "company": {
+        "name": "Friesen Group",
+        "catchPhrase": "Streamlined zero defect capacity",
+        "bs": "interactive synergize interfaces"
+    },
+    "posts": [
+        {
+            "words": "accusantium voluptas non",
+            "sentence": "Inventore et eum qui eos quam aut qui fugit est.",
+            "sentences": "Est ratione aliquam et. Tempore laborum voluptatibus repellat. Hic qui sapiente explicabo consequatur. Quas placeat est sunt quidem. Nobis reiciendis numquam est et. Et quis vel commodi ut dolorum autem.",
+            "paragraph": "Quo reiciendis minima mollitia cupiditate eum molestias quod. Vitae distinctio porro. Ratione fugit numquam labore. Ipsam quaerat nobis voluptatibus ea sint."
+        },
+        {
+            "words": "doloribus numquam tempore",
+            "sentence": "Et saepe et vitae nostrum expedita.",
+            "sentences": "Qui sit aut doloribus molestias magnam voluptas quidem nisi. Vel praesentium voluptates enim dignissimos.",
+            "paragraph": "Expedita debitis ut minus iste praesentium quia. Et neque est. Ut voluptatum optio rem qui dolorem sit aperiam. Molestiae ipsum sequi rem tempora aperiam consequatur mollitia voluptatem. Et omnis quia illo consequatur vel id. Accusantium necessitatibus eum."
+        },
+        {
+            "words": "ipsam assumenda amet",
+            "sentence": "Qui esse vero temporibus nisi quas sed culpa.",
+            "sentences": "Omnis saepe sit unde et nemo earum. Magnam dignissimos occaecati totam ex saepe sit. Tempore et voluptate aliquam omnis et provident. Doloribus corrupti assumenda quas amet laboriosam.",
+            "paragraph": "Architecto omnis rerum quis blanditiis facilis voluptatem. Quo in qui blanditiis error. Nulla minima explicabo molestias asperiores aut deserunt voluptatem. Magnam esse rerum. Dolorem et officiis dolorum magni illo fugit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "948.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hackett LLC",
+            "name": "Investment Account 0819",
+            "type": "payment",
+            "account": "73814787"
+        },
+        {
+            "amount": "986.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beier, Cruickshank and Huel",
+            "name": "Savings Account 2727",
+            "type": "payment",
+            "account": "27343379"
+        },
+        {
+            "amount": "461.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McGlynn, Bogisich and Kozey",
+            "name": "Auto Loan Account 7338",
+            "type": "deposit",
+            "account": "55766380"
+        }
+    ]
+}

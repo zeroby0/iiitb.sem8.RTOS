@@ -1,0 +1,72 @@
+{
+    "name": "Johnson Watsica",
+    "username": "Ernest_Rodriguez30",
+    "email": "Arjun.Purdy@yahoo.com",
+    "address": {
+        "streetA": "Upton Ramp",
+        "streetB": "63148 Ofelia Mews",
+        "streetC": "50800 Donald Run Suite 054",
+        "streetD": "Suite 847",
+        "city": "Runolfssonside",
+        "state": "Alaska",
+        "country": "Swaziland",
+        "zipcode": "66342",
+        "geo": {
+            "lat": "70.8540",
+            "lng": "162.3990"
+        }
+    },
+    "phone": "(039) 919-9720 x16168",
+    "website": "madonna.biz",
+    "company": {
+        "name": "Hackett, Schaden and Brakus",
+        "catchPhrase": "Robust homogeneous customer loyalty",
+        "bs": "24/365 reintermediate bandwidth"
+    },
+    "posts": [
+        {
+            "words": "nemo dolorem sed",
+            "sentence": "Iste aut mollitia aperiam neque qui.",
+            "sentences": "Quia quia corrupti. Dolores pariatur alias maiores reprehenderit atque ipsa.",
+            "paragraph": "Qui hic voluptas. Impedit esse eum repudiandae. Mollitia consequuntur id accusamus. Quibusdam iusto numquam sint eos recusandae ipsum esse."
+        },
+        {
+            "words": "voluptatum non cupiditate",
+            "sentence": "Et consequatur aut perspiciatis assumenda iure aliquid et quibusdam est.",
+            "sentences": "Veritatis laborum veritatis ex ipsum. Aliquid ipsa hic debitis eos doloremque molestiae totam sit. Aut unde blanditiis eaque.",
+            "paragraph": "Provident cupiditate error libero nesciunt sunt. Quisquam exercitationem quasi nobis qui. Placeat est maiores. Ipsum et neque. Deleniti eveniet et repellat ab asperiores necessitatibus labore earum et."
+        },
+        {
+            "words": "atque repudiandae non",
+            "sentence": "Quidem enim rerum maxime quia occaecati.",
+            "sentences": "Pariatur quis facere aut vero quam omnis doloremque. Distinctio sit minima. Doloribus ullam aut facilis neque officia voluptates expedita voluptatem consequatur.",
+            "paragraph": "Ad facere earum recusandae maiores. Ad fugiat vel aperiam. Aut cupiditate sunt quod distinctio dolores voluptatem officiis repellendus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "447.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cartwright and Sons",
+            "name": "Home Loan Account 4338",
+            "type": "invoice",
+            "account": "84095829"
+        },
+        {
+            "amount": "298.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jenkins - Bartell",
+            "name": "Auto Loan Account 2652",
+            "type": "deposit",
+            "account": "75064190"
+        },
+        {
+            "amount": "379.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stroman - Gerhold",
+            "name": "Checking Account 9124",
+            "type": "invoice",
+            "account": "67645204"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Juston Murray",
+    "username": "Lonie.Mosciski",
+    "email": "Billie52@hotmail.com",
+    "address": {
+        "streetA": "Collier Valleys",
+        "streetB": "3366 Lindgren Stream",
+        "streetC": "39705 Hermiston Extensions Apt. 150",
+        "streetD": "Suite 092",
+        "city": "Venabury",
+        "state": "Utah",
+        "country": "Holy See (Vatican City State)",
+        "zipcode": "73690-5833",
+        "geo": {
+            "lat": "-53.2158",
+            "lng": "109.1935"
+        }
+    },
+    "phone": "254-574-3129 x382",
+    "website": "shanie.biz",
+    "company": {
+        "name": "Fisher - Gorczany",
+        "catchPhrase": "Open-architected disintermediate function",
+        "bs": "cross-platform drive users"
+    },
+    "posts": [
+        {
+            "words": "exercitationem qui repudiandae",
+            "sentence": "Aliquam dicta officiis odio autem.",
+            "sentences": "Deleniti quaerat est vitae non corporis enim aut itaque dicta. Ipsum beatae molestiae quis numquam quae ipsam quis mollitia voluptatem. Et eos quod qui rerum ipsam deserunt consectetur saepe. At aut in dolor beatae voluptate. Dolores officia et explicabo facere non. Minima vel praesentium.",
+            "paragraph": "Non voluptatem aut laboriosam. Aliquam commodi explicabo saepe qui est incidunt fugit at expedita. Fugiat nam reprehenderit suscipit et aut dolor rem expedita possimus. Enim ut odio. Quaerat magni sed eaque modi ducimus."
+        },
+        {
+            "words": "consequatur vitae aperiam",
+            "sentence": "Ut nihil reiciendis est totam sapiente.",
+            "sentences": "Illo harum sint repellat nesciunt et. Ab perspiciatis exercitationem. Velit ratione odit sunt in sint dolores. Consequuntur doloremque soluta eligendi porro odio quia sunt corrupti soluta. Qui voluptates similique. Minus quam quis sit enim.",
+            "paragraph": "Dolorem quia aut. Velit sed quisquam libero molestiae aut ea officia. Rem quia quas id molestiae."
+        },
+        {
+            "words": "quod culpa illo",
+            "sentence": "Earum quas vitae iste.",
+            "sentences": "Qui debitis a autem quod pariatur voluptatem. Deleniti quo assumenda voluptatem sequi amet et aut fugit et.",
+            "paragraph": "Ut vel et soluta voluptatum. Libero consequuntur incidunt perspiciatis aut ut ut dolorem porro alias. Soluta dolorum libero sint magnam. Libero nobis quia facere et est et modi sunt. Vel officia exercitationem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "277.34",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Romaguera, Volkman and Goyette",
+            "name": "Personal Loan Account 0401",
+            "type": "invoice",
+            "account": "40042768"
+        },
+        {
+            "amount": "895.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Renner, Altenwerth and Lindgren",
+            "name": "Credit Card Account 2318",
+            "type": "payment",
+            "account": "01451471"
+        },
+        {
+            "amount": "527.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sipes, Smitham and Zboncak",
+            "name": "Savings Account 9952",
+            "type": "payment",
+            "account": "11957790"
+        }
+    ]
+}

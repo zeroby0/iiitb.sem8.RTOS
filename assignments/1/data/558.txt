@@ -1,0 +1,72 @@
+{
+    "name": "Uriah Reichert",
+    "username": "Astrid.Bauch",
+    "email": "Deven.Sipes35@hotmail.com",
+    "address": {
+        "streetA": "Stark Burgs",
+        "streetB": "1427 Lubowitz Springs",
+        "streetC": "17094 Marcelino Orchard Suite 780",
+        "streetD": "Apt. 422",
+        "city": "Holliechester",
+        "state": "Kansas",
+        "country": "Cape Verde",
+        "zipcode": "42698-8225",
+        "geo": {
+            "lat": "3.0139",
+            "lng": "-176.7734"
+        }
+    },
+    "phone": "417-280-0778 x14717",
+    "website": "jerome.net",
+    "company": {
+        "name": "Klocko, Murazik and Sanford",
+        "catchPhrase": "Advanced regional throughput",
+        "bs": "front-end evolve vortals"
+    },
+    "posts": [
+        {
+            "words": "ut autem tenetur",
+            "sentence": "Nesciunt esse sunt praesentium fugit.",
+            "sentences": "Veritatis sapiente nisi tempora dolorum officia ullam. Nihil et sequi dolor quam esse officia recusandae amet.",
+            "paragraph": "Earum perspiciatis voluptatem atque sed fugit. Inventore est veritatis enim consectetur qui nisi nobis. Delectus libero illum officia atque quo. Et omnis placeat maiores tempora quas molestiae nesciunt. Quibusdam similique fugit tempora dolor quia asperiores repellendus autem autem. Consectetur eius eius beatae deserunt illo."
+        },
+        {
+            "words": "porro quam rem",
+            "sentence": "Molestiae odio maiores quae dolorum et impedit.",
+            "sentences": "Velit debitis in facere dolorem accusantium facilis voluptas. Non et eos illum. Qui rem voluptas. Est possimus esse minus quidem inventore. Minus architecto dolor praesentium nulla consequatur vero. Perspiciatis corporis ut eligendi sunt.",
+            "paragraph": "At at ut aut. Aliquid ab quae. Eaque non quis aut quod maxime cumque molestiae eum et. Reprehenderit velit doloribus molestiae. Qui dolor ut voluptas minima nam et qui sit. Quia ex ut impedit aliquam quis odio voluptatem ipsam eligendi."
+        },
+        {
+            "words": "placeat eaque enim",
+            "sentence": "Iure ratione ut autem consequatur et necessitatibus in ut praesentium.",
+            "sentences": "Dolorem eius cumque in. Dolor aut possimus ea possimus numquam inventore sed. Excepturi ut saepe atque occaecati autem optio. Quo dolores delectus.",
+            "paragraph": "Dolores et nemo fugiat vel voluptas amet voluptatem nemo architecto. Voluptatibus at numquam dignissimos. Consequuntur dolorum quam repellat sit accusantium. Aliquid quos adipisci sit ut voluptatum eos autem veniam. Corporis quo libero architecto iure est dignissimos eum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "343.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hudson Group",
+            "name": "Money Market Account 9986",
+            "type": "payment",
+            "account": "61593818"
+        },
+        {
+            "amount": "35.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cremin - Kuhic",
+            "name": "Credit Card Account 7702",
+            "type": "invoice",
+            "account": "98055004"
+        },
+        {
+            "amount": "984.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Donnelly, Labadie and Schumm",
+            "name": "Auto Loan Account 2085",
+            "type": "payment",
+            "account": "88998371"
+        }
+    ]
+}

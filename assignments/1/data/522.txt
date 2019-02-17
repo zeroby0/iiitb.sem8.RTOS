@@ -1,0 +1,72 @@
+{
+    "name": "Arturo Kilback",
+    "username": "Will12",
+    "email": "Filiberto.Schumm55@gmail.com",
+    "address": {
+        "streetA": "Abbie Village",
+        "streetB": "016 Bosco Locks",
+        "streetC": "5501 Kub Court Apt. 346",
+        "streetD": "Suite 533",
+        "city": "Deckowside",
+        "state": "New Mexico",
+        "country": "Costa Rica",
+        "zipcode": "51372",
+        "geo": {
+            "lat": "-77.5465",
+            "lng": "61.9554"
+        }
+    },
+    "phone": "925.047.2159 x9464",
+    "website": "herta.name",
+    "company": {
+        "name": "Ullrich - Parker",
+        "catchPhrase": "Optional eco-centric core",
+        "bs": "revolutionary embrace eyeballs"
+    },
+    "posts": [
+        {
+            "words": "odit alias ut",
+            "sentence": "Omnis ut cumque.",
+            "sentences": "Provident sit ipsam animi est doloremque voluptas. Soluta animi quia voluptatem iure explicabo. Debitis rerum vel.",
+            "paragraph": "Nihil sed sint vitae vel exercitationem itaque ut accusamus. Veritatis dicta minus. Quo quas est consequatur quis sapiente totam quis facilis cum. Minus officia est nam magni. Quaerat nesciunt quisquam et eius commodi nostrum esse officia."
+        },
+        {
+            "words": "quidem quam consectetur",
+            "sentence": "Reprehenderit architecto ex corporis veritatis deserunt qui.",
+            "sentences": "Possimus maiores quia aperiam velit possimus. Aut quam assumenda maxime accusamus. Aut magnam ex perferendis rerum enim consectetur et voluptas. Sint rerum sunt ea deleniti ratione cum eligendi ab. Reprehenderit eum aspernatur dolores provident aliquam.",
+            "paragraph": "Fugit explicabo doloribus atque magnam reiciendis est commodi cupiditate ex. Iusto est quo doloremque iste ut tenetur. Consequuntur nostrum voluptatem velit non libero aperiam vel aut. Aspernatur saepe excepturi maiores minima dolor aut aliquam nihil aut. Blanditiis dolor qui exercitationem quae sit a qui. Velit laboriosam excepturi ipsum et ut quia."
+        },
+        {
+            "words": "quia est sequi",
+            "sentence": "Est quas nam quas consequuntur aut voluptatem.",
+            "sentences": "Dolorem molestias sequi dolore facilis eum earum deserunt et. Vel repudiandae autem illum veniam a quam dolor. Nesciunt vero sint ipsum ut sit sint alias dolorem id. Sint libero veniam recusandae doloremque deserunt at aut id reprehenderit. Porro maiores omnis ut blanditiis adipisci possimus. Quo animi incidunt occaecati sed harum neque.",
+            "paragraph": "Qui pariatur omnis tempore dolores dignissimos sint qui autem distinctio. Debitis voluptatem dolorem perferendis esse esse ipsum est adipisci autem. Neque iure aliquid temporibus perferendis odit perspiciatis. Hic numquam eum aperiam est cupiditate temporibus ipsam et. Laudantium natus illo sit optio perferendis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "193.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hermiston - Graham",
+            "name": "Checking Account 2629",
+            "type": "invoice",
+            "account": "15290354"
+        },
+        {
+            "amount": "752.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Predovic - Dietrich",
+            "name": "Investment Account 0551",
+            "type": "withdrawal",
+            "account": "06393201"
+        },
+        {
+            "amount": "343.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wilkinson LLC",
+            "name": "Home Loan Account 0185",
+            "type": "invoice",
+            "account": "03390408"
+        }
+    ]
+}

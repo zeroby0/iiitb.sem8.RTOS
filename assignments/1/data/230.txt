@@ -1,0 +1,72 @@
+{
+    "name": "Orlando Nienow",
+    "username": "Aniyah.Heathcote29",
+    "email": "Rod80@hotmail.com",
+    "address": {
+        "streetA": "Robert Mount",
+        "streetB": "304 Stoltenberg Camp",
+        "streetC": "69730 Laron Isle Suite 897",
+        "streetD": "Suite 249",
+        "city": "East Teaganhaven",
+        "state": "Maine",
+        "country": "Belgium",
+        "zipcode": "92674-5464",
+        "geo": {
+            "lat": "-83.9293",
+            "lng": "83.0411"
+        }
+    },
+    "phone": "960.531.4433",
+    "website": "barbara.name",
+    "company": {
+        "name": "Abshire and Sons",
+        "catchPhrase": "Organized mobile hardware",
+        "bs": "revolutionary seize methodologies"
+    },
+    "posts": [
+        {
+            "words": "similique ut in",
+            "sentence": "Quis distinctio minus hic similique enim voluptatem esse.",
+            "sentences": "Architecto nisi dicta quia et. Placeat eveniet et aliquid. Consequatur hic incidunt quis laudantium occaecati corrupti esse voluptates modi.",
+            "paragraph": "Facere quo quisquam delectus saepe. Voluptas odio autem ex rem rem fugiat laboriosam. Cupiditate voluptatum corrupti. Ducimus vero quia explicabo explicabo. Aut qui accusantium distinctio ipsam est in cumque."
+        },
+        {
+            "words": "labore nulla sint",
+            "sentence": "Molestias sequi possimus molestiae voluptatem aut et quos rerum.",
+            "sentences": "Qui et reprehenderit ipsam. Voluptatem voluptatem ducimus reiciendis. Debitis laboriosam iste adipisci. Ipsa quis similique tempora est est qui.",
+            "paragraph": "Sed eligendi culpa ut dolor aut dignissimos consequatur. Nam impedit blanditiis quia. Magnam et quaerat velit sequi dignissimos ea omnis ut. Nisi molestias magni beatae minus."
+        },
+        {
+            "words": "eum sit consectetur",
+            "sentence": "Sed reprehenderit dolores voluptatem autem facere.",
+            "sentences": "Dolorum eos quasi fugit voluptas sit. Inventore nostrum et nesciunt fugit ut distinctio ad. Est itaque et rerum perferendis aut ea. Ducimus harum possimus modi quia eum quo. Perspiciatis odit qui dolorem animi quia velit.",
+            "paragraph": "Aut neque architecto exercitationem excepturi nam dolorem eaque non. Dolor odit ut sed et repudiandae nihil aperiam nulla eum. Sit non eos rem voluptatibus est id sint rerum deleniti. Quia quas reiciendis ea saepe nihil accusantium enim. Perferendis perspiciatis qui nostrum labore. Rerum soluta quam placeat."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "153.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sporer LLC",
+            "name": "Home Loan Account 1729",
+            "type": "invoice",
+            "account": "35663915"
+        },
+        {
+            "amount": "868.31",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Thompson, Price and McGlynn",
+            "name": "Auto Loan Account 5435",
+            "type": "deposit",
+            "account": "09742646"
+        },
+        {
+            "amount": "509.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Thiel and Sons",
+            "name": "Personal Loan Account 8304",
+            "type": "invoice",
+            "account": "87375298"
+        }
+    ]
+}

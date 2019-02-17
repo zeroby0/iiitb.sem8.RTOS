@@ -1,0 +1,72 @@
+{
+    "name": "Mikel Stanton",
+    "username": "Clare48",
+    "email": "Jessika.Feest96@yahoo.com",
+    "address": {
+        "streetA": "Elise Mall",
+        "streetB": "962 Funk Mountains",
+        "streetC": "006 Delaney Ridge Suite 015",
+        "streetD": "Apt. 009",
+        "city": "Lake Cora",
+        "state": "Iowa",
+        "country": "Spain",
+        "zipcode": "72208-2087",
+        "geo": {
+            "lat": "46.9973",
+            "lng": "-176.1178"
+        }
+    },
+    "phone": "1-259-065-5429 x7303",
+    "website": "josiane.net",
+    "company": {
+        "name": "Tromp Inc",
+        "catchPhrase": "Cloned reciprocal internet solution",
+        "bs": "proactive matrix solutions"
+    },
+    "posts": [
+        {
+            "words": "quo perspiciatis ad",
+            "sentence": "Et excepturi enim expedita voluptate.",
+            "sentences": "Quia voluptatem nemo nesciunt fugiat quos aut id vel quae. Molestiae magnam quo voluptatem quis non. Qui et est quidem sunt vel eligendi. Ut cupiditate facilis facere blanditiis quo et. Ut quod quae ipsam quisquam omnis. Atque eos nisi voluptate maiores odit sunt rem ipsa perferendis.",
+            "paragraph": "Enim est ab labore rerum dolores culpa. Quos atque aliquid aut. Et cumque vel."
+        },
+        {
+            "words": "et ullam saepe",
+            "sentence": "Repellendus et quo magnam nostrum dolores ex id veniam.",
+            "sentences": "Delectus fugiat laudantium vel ullam. Nihil molestias qui alias voluptate optio voluptatem similique deserunt.",
+            "paragraph": "Consequatur expedita est corrupti porro totam alias autem. Rerum unde ut consequatur ex doloribus est ea magnam. Sapiente itaque tempora enim. Suscipit neque aut vero quia ipsam alias quod beatae. Repellat officia magnam modi repellendus. Sed aut dolorem quis ipsam dolorem."
+        },
+        {
+            "words": "quo soluta magnam",
+            "sentence": "Quia adipisci tempore at eius perspiciatis autem minus et.",
+            "sentences": "Et ducimus aperiam et dignissimos omnis. Mollitia cupiditate est omnis totam sit nam officiis maxime. Consequatur quo asperiores.",
+            "paragraph": "Omnis qui quam odit qui ab quam. Eos hic in occaecati tempore cumque nihil aut. Quas architecto sed nihil rerum provident rerum. Dolores magni voluptas est quos deserunt earum ut sit. Optio quibusdam magni et sed quod omnis autem dolor."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "961.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wisoky, Kovacek and Lockman",
+            "name": "Savings Account 2434",
+            "type": "invoice",
+            "account": "48260023"
+        },
+        {
+            "amount": "558.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaefer Group",
+            "name": "Personal Loan Account 3860",
+            "type": "deposit",
+            "account": "89630726"
+        },
+        {
+            "amount": "464.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gottlieb, Kertzmann and Bednar",
+            "name": "Savings Account 0346",
+            "type": "invoice",
+            "account": "87658407"
+        }
+    ]
+}

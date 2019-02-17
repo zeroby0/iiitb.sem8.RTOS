@@ -1,0 +1,72 @@
+{
+    "name": "Josh Welch PhD",
+    "username": "Roman_McClure7",
+    "email": "Taurean.Walker74@hotmail.com",
+    "address": {
+        "streetA": "Boyer Neck",
+        "streetB": "71282 Reyes Unions",
+        "streetC": "639 Roob Island Apt. 896",
+        "streetD": "Apt. 367",
+        "city": "Rexland",
+        "state": "North Dakota",
+        "country": "Madagascar",
+        "zipcode": "30176-2361",
+        "geo": {
+            "lat": "-30.9912",
+            "lng": "-82.7056"
+        }
+    },
+    "phone": "218-174-8442 x8693",
+    "website": "haylie.net",
+    "company": {
+        "name": "Tillman, Cole and Borer",
+        "catchPhrase": "Organic grid-enabled open system",
+        "bs": "wireless whiteboard infrastructures"
+    },
+    "posts": [
+        {
+            "words": "sapiente ut molestias",
+            "sentence": "Aut soluta numquam tenetur corporis.",
+            "sentences": "Incidunt ut harum id non inventore officia. Recusandae architecto eligendi expedita sed.",
+            "paragraph": "Et non et nesciunt. Iste sed eos sed a. Voluptatem repellat labore maxime libero molestiae ut possimus quasi dolores. Sed eum et eveniet autem nobis deserunt. Enim esse minima enim at culpa mollitia occaecati nihil ut."
+        },
+        {
+            "words": "enim quidem aspernatur",
+            "sentence": "Ipsam voluptate culpa suscipit animi ut saepe.",
+            "sentences": "Nesciunt assumenda laudantium explicabo quod amet quos neque rem. Velit magni dolor est repudiandae. Quisquam sunt explicabo eligendi. Eum repellendus laborum et harum totam.",
+            "paragraph": "Architecto autem numquam assumenda quo harum sit. Maiores nostrum architecto id est culpa iste. Officia quas ut ut asperiores ut consequatur ipsam illo eius."
+        },
+        {
+            "words": "incidunt suscipit iste",
+            "sentence": "Dolorem officiis tempore at aut.",
+            "sentences": "Libero aliquid occaecati cupiditate maiores sit aut perspiciatis aut. Sed temporibus illum. Sint quod consequatur ut doloremque quidem ea. Voluptatem omnis quo ducimus eius iusto. Dolor repudiandae dolor distinctio maxime sit enim.",
+            "paragraph": "Magni amet quia quia. Est laboriosam est voluptatem assumenda sunt voluptatum. Repellendus in beatae eaque libero nobis animi ut est. Minima dolores accusantium maxime. Minima et provident ducimus consequatur et suscipit culpa dolor."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "619.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Keefe and Sons",
+            "name": "Savings Account 3860",
+            "type": "invoice",
+            "account": "02223948"
+        },
+        {
+            "amount": "285.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Monahan Group",
+            "name": "Credit Card Account 1715",
+            "type": "deposit",
+            "account": "13571987"
+        },
+        {
+            "amount": "916.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Haag and Sons",
+            "name": "Investment Account 1241",
+            "type": "invoice",
+            "account": "66968519"
+        }
+    ]
+}

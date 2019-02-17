@@ -1,0 +1,72 @@
+{
+    "name": "Louvenia Crooks PhD",
+    "username": "Hailie_Beier",
+    "email": "Myra_Metz@gmail.com",
+    "address": {
+        "streetA": "Abbott Row",
+        "streetB": "0741 Reynolds Isle",
+        "streetC": "33737 Stehr Square Apt. 960",
+        "streetD": "Apt. 698",
+        "city": "Miloshire",
+        "state": "Louisiana",
+        "country": "Ecuador",
+        "zipcode": "45137-1043",
+        "geo": {
+            "lat": "-82.4904",
+            "lng": "84.1325"
+        }
+    },
+    "phone": "029.416.7516",
+    "website": "woodrow.info",
+    "company": {
+        "name": "Botsford, Kling and Goldner",
+        "catchPhrase": "Versatile maximized process improvement",
+        "bs": "clicks-and-mortar recontextualize content"
+    },
+    "posts": [
+        {
+            "words": "eveniet beatae minus",
+            "sentence": "Et omnis enim est aut unde quia.",
+            "sentences": "Quaerat quo minima sapiente et enim. Quo mollitia animi ullam aliquid reiciendis excepturi. Exercitationem explicabo repellat qui eius. Facilis minus iste culpa nihil. Qui ut ut eius iste dignissimos et amet.",
+            "paragraph": "Aut ducimus ab rem eveniet non. At facere id voluptatem est alias. Pariatur ut debitis facere eius adipisci. Velit accusamus est dolor debitis sit totam. Est voluptatem quia dolorum debitis in nihil reiciendis."
+        },
+        {
+            "words": "nobis consequatur voluptates",
+            "sentence": "Explicabo reprehenderit ut.",
+            "sentences": "Sapiente accusamus voluptatem. A necessitatibus vel quis provident. Nobis quia accusamus quidem. Earum explicabo sunt perferendis.",
+            "paragraph": "Est sapiente et architecto minima velit est corrupti et repudiandae. Debitis quibusdam delectus. Possimus nesciunt accusantium laborum quas officiis vel at suscipit eum."
+        },
+        {
+            "words": "omnis quo nesciunt",
+            "sentence": "Dolorum vero voluptatibus dolorum et voluptatem et sunt vel consequatur.",
+            "sentences": "Natus sed provident illo officia tempora eos aliquid dolorem. Accusamus sint saepe corporis nesciunt quibusdam fugit illo est. Praesentium unde repudiandae iure. Praesentium ut iure rerum sit. Sed minima recusandae aspernatur.",
+            "paragraph": "Dolorem qui quas aliquid. Ut aut rerum. Id molestias alias earum vitae laboriosam sequi illo voluptatem distinctio. Sed quo id doloribus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "725.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wiegand, Moore and Schmitt",
+            "name": "Money Market Account 0005",
+            "type": "deposit",
+            "account": "09342385"
+        },
+        {
+            "amount": "746.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Haley, Donnelly and Kunde",
+            "name": "Credit Card Account 4709",
+            "type": "invoice",
+            "account": "70440081"
+        },
+        {
+            "amount": "66.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kshlerin, Miller and Shields",
+            "name": "Credit Card Account 4045",
+            "type": "withdrawal",
+            "account": "38015716"
+        }
+    ]
+}

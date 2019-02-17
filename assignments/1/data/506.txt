@@ -1,0 +1,72 @@
+{
+    "name": "Hannah Stamm",
+    "username": "Zola.Rippin50",
+    "email": "Steve5@gmail.com",
+    "address": {
+        "streetA": "Bethel Fords",
+        "streetB": "400 Thalia Plaza",
+        "streetC": "9776 Hintz Rest Suite 218",
+        "streetD": "Apt. 684",
+        "city": "Spencershire",
+        "state": "Colorado",
+        "country": "Ethiopia",
+        "zipcode": "67241",
+        "geo": {
+            "lat": "10.5375",
+            "lng": "43.5412"
+        }
+    },
+    "phone": "(364) 575-7905 x5066",
+    "website": "elsa.com",
+    "company": {
+        "name": "Orn - Lindgren",
+        "catchPhrase": "Expanded modular complexity",
+        "bs": "strategic synergize vortals"
+    },
+    "posts": [
+        {
+            "words": "accusamus fugiat natus",
+            "sentence": "Voluptatem neque molestias suscipit non.",
+            "sentences": "Eligendi debitis autem. Soluta tempora aliquam quod modi saepe omnis. Adipisci explicabo tempore dolore distinctio fugiat quis voluptatem animi.",
+            "paragraph": "Laboriosam pariatur ut debitis sequi a beatae est. Distinctio dicta maxime magnam magnam voluptatibus velit. Adipisci incidunt repellat aspernatur quibusdam ab aspernatur odio."
+        },
+        {
+            "words": "laudantium pariatur exercitationem",
+            "sentence": "Qui repellat officiis similique.",
+            "sentences": "Voluptas voluptatibus laboriosam consectetur debitis. Iusto tempora est quasi consequatur recusandae nemo illum maiores.",
+            "paragraph": "Quis totam ut eaque voluptatum deleniti pariatur illo. Accusantium beatae molestiae eveniet nemo atque exercitationem laboriosam. Dolorem excepturi at dolor minus delectus. Velit ea veritatis rerum sed dicta natus magni. Omnis et blanditiis est."
+        },
+        {
+            "words": "impedit similique et",
+            "sentence": "Ut ipsum odit quia eligendi.",
+            "sentences": "Repellat modi vel qui non debitis perferendis. Enim aut consequatur recusandae praesentium iusto quibusdam. Nobis perferendis consectetur quia omnis a et. Iusto accusamus molestiae odio tempore excepturi quas quibusdam quisquam.",
+            "paragraph": "Delectus enim est. Hic dolor voluptate. Consequatur esse sunt rem eligendi et accusantium. Autem iure culpa ipsam ea."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "151.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Macejkovic - Schaden",
+            "name": "Savings Account 2784",
+            "type": "payment",
+            "account": "31042480"
+        },
+        {
+            "amount": "435.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tremblay - Hills",
+            "name": "Investment Account 5746",
+            "type": "payment",
+            "account": "49390107"
+        },
+        {
+            "amount": "606.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lubowitz, Ferry and Stiedemann",
+            "name": "Auto Loan Account 7010",
+            "type": "withdrawal",
+            "account": "48553586"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Bryce Beer",
+    "username": "Arno.Kohler",
+    "email": "Margret_Hamill@gmail.com",
+    "address": {
+        "streetA": "Elva Row",
+        "streetB": "10029 Haley Parkway",
+        "streetC": "7809 Nicolas Ridges Suite 336",
+        "streetD": "Apt. 943",
+        "city": "West Chasefurt",
+        "state": "Vermont",
+        "country": "Slovakia (Slovak Republic)",
+        "zipcode": "84345",
+        "geo": {
+            "lat": "-69.6771",
+            "lng": "-167.5901"
+        }
+    },
+    "phone": "(034) 806-9527 x313",
+    "website": "keagan.com",
+    "company": {
+        "name": "Gerhold LLC",
+        "catchPhrase": "Realigned multi-state budgetary management",
+        "bs": "e-business integrate partnerships"
+    },
+    "posts": [
+        {
+            "words": "et fuga ex",
+            "sentence": "Voluptatem consequatur cum voluptas sit quos beatae dolores.",
+            "sentences": "Consequatur perferendis repudiandae culpa ducimus similique sed repellendus. Eos laboriosam iusto voluptatem veniam. Exercitationem quo aliquid incidunt voluptatem minima consequatur soluta.",
+            "paragraph": "Ea sint optio. Culpa quibusdam aliquam non mollitia odit ut voluptatem. Neque tempore vel nihil sapiente odio corporis velit ab. Eum explicabo eaque rerum sequi."
+        },
+        {
+            "words": "reprehenderit ut omnis",
+            "sentence": "A illum alias nisi et aliquam.",
+            "sentences": "Ea ipsam incidunt accusamus architecto. Debitis voluptatibus ad vitae dignissimos. Voluptatem quibusdam ea commodi rerum reprehenderit. Dolor rerum aut pariatur illo.",
+            "paragraph": "Dignissimos eveniet exercitationem. Quo laborum quasi eaque saepe quia enim tempore provident. Perferendis velit ad voluptatibus corrupti reprehenderit. Temporibus esse dolorem veritatis incidunt voluptas. Et rerum vel voluptas voluptate vel ut dolorum tenetur. Sunt quam est qui dignissimos et."
+        },
+        {
+            "words": "et est rerum",
+            "sentence": "Vel optio ea nam nemo qui ipsum expedita.",
+            "sentences": "Placeat facilis assumenda qui cum saepe rerum at molestias. Adipisci consequatur mollitia. Dolorem esse repudiandae minus. Doloribus totam esse accusantium non. Aperiam laudantium ipsam et voluptatem sit illum rem.",
+            "paragraph": "Voluptas magnam sint et ipsum minus iusto. Ut cum eveniet rerum recusandae nihil. Dolores tempora hic hic maiores tempore dolorem. Et voluptatem ut ex voluptatem. Voluptatibus est numquam quo molestiae et dolor."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "944.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Towne - Boyle",
+            "name": "Money Market Account 5994",
+            "type": "deposit",
+            "account": "24300168"
+        },
+        {
+            "amount": "755.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tillman, Yundt and Gulgowski",
+            "name": "Checking Account 8688",
+            "type": "payment",
+            "account": "84624116"
+        },
+        {
+            "amount": "932.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Herzog, Olson and Bashirian",
+            "name": "Credit Card Account 7815",
+            "type": "payment",
+            "account": "10582194"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Eldon Schmidt",
+    "username": "Claudia.Lakin",
+    "email": "Ladarius_Hayes10@hotmail.com",
+    "address": {
+        "streetA": "Kristian Vista",
+        "streetB": "6275 Schoen Ford",
+        "streetC": "9356 Keeling Mountain Suite 301",
+        "streetD": "Apt. 432",
+        "city": "O'Connerport",
+        "state": "Colorado",
+        "country": "Estonia",
+        "zipcode": "32534",
+        "geo": {
+            "lat": "77.3604",
+            "lng": "0.0202"
+        }
+    },
+    "phone": "(646) 939-2690",
+    "website": "arden.info",
+    "company": {
+        "name": "Batz, Renner and Weber",
+        "catchPhrase": "Function-based optimal architecture",
+        "bs": "real-time aggregate infomediaries"
+    },
+    "posts": [
+        {
+            "words": "aliquam quis aspernatur",
+            "sentence": "Modi labore ut aut magni et voluptatum deserunt voluptatem.",
+            "sentences": "Neque cumque repellat. Ullam omnis explicabo modi. Corporis sit aut dignissimos nisi ut voluptas quaerat.",
+            "paragraph": "Numquam et dolor dolor. Qui ducimus dignissimos dolore dignissimos architecto deleniti culpa veniam. Ut vel magnam impedit eveniet commodi est commodi dolorem."
+        },
+        {
+            "words": "rem totam non",
+            "sentence": "Eaque minima ab rerum in.",
+            "sentences": "Ratione rerum provident aut aut. Velit ipsam molestiae. Possimus consectetur placeat quibusdam velit.",
+            "paragraph": "Aliquam qui recusandae quia vitae. Autem suscipit magnam harum odit sunt unde. Tenetur adipisci dolor iusto dolore facilis voluptatem reprehenderit voluptatibus."
+        },
+        {
+            "words": "totam architecto quia",
+            "sentence": "Sunt et et quibusdam tempora esse et odit accusantium sed.",
+            "sentences": "Omnis fuga omnis cum minus illo optio. Dolores ea repellendus aut et. Aut sit veniam vitae illo. Quibusdam necessitatibus omnis eos sequi dolor debitis.",
+            "paragraph": "Enim voluptatem laboriosam autem aliquid sed. Et iure rerum ut est recusandae. Saepe maiores veniam fuga. Dolorum eius explicabo et illum vel ullam quasi. Quo qui quis vel excepturi sequi ut explicabo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "694.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rutherford and Sons",
+            "name": "Money Market Account 2750",
+            "type": "deposit",
+            "account": "33283912"
+        },
+        {
+            "amount": "445.31",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Johnson LLC",
+            "name": "Investment Account 5152",
+            "type": "payment",
+            "account": "93094712"
+        },
+        {
+            "amount": "20.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Klocko - Schulist",
+            "name": "Checking Account 2076",
+            "type": "invoice",
+            "account": "34637278"
+        }
+    ]
+}

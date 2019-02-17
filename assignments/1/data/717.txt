@@ -1,0 +1,72 @@
+{
+    "name": "Cecile Bins",
+    "username": "Lelah.Schultz29",
+    "email": "Dereck.Haley@gmail.com",
+    "address": {
+        "streetA": "Haley Roads",
+        "streetB": "16285 Hyatt Lodge",
+        "streetC": "96915 Kenny Track Suite 526",
+        "streetD": "Suite 636",
+        "city": "Lake Tess",
+        "state": "Washington",
+        "country": "Saint Helena",
+        "zipcode": "06245",
+        "geo": {
+            "lat": "22.8656",
+            "lng": "70.2657"
+        }
+    },
+    "phone": "649-485-4940 x831",
+    "website": "brennon.name",
+    "company": {
+        "name": "Graham and Sons",
+        "catchPhrase": "Balanced heuristic contingency",
+        "bs": "next-generation embrace mindshare"
+    },
+    "posts": [
+        {
+            "words": "qui at ducimus",
+            "sentence": "Nihil et ut consequuntur saepe eius aliquid aut cumque sint.",
+            "sentences": "Sed aut odit voluptates et id tempore. Aliquid magnam provident maxime ipsam id. Laborum sint occaecati placeat est ullam. Quia ratione explicabo non.",
+            "paragraph": "Sit quae dolorem omnis eum alias voluptas. Quam dolore qui dignissimos quia quia dignissimos et voluptatem quod. Consequuntur quo blanditiis voluptatum dolor sint totam porro ratione repellendus. Dolor excepturi quas repellendus similique."
+        },
+        {
+            "words": "eos id expedita",
+            "sentence": "Dicta optio nihil ab illo quaerat.",
+            "sentences": "Est est vitae cumque explicabo et. Tempore asperiores laborum tenetur ratione hic soluta aut. Ut et quod sed consectetur exercitationem aut et rerum non. Nobis non architecto odio amet sed.",
+            "paragraph": "Adipisci quos aut ab maiores. Pariatur sapiente quia id modi non. Quo minus aut repudiandae qui ut. Id et soluta iste et atque laudantium velit deleniti."
+        },
+        {
+            "words": "quis alias unde",
+            "sentence": "Iste quas est eum nemo.",
+            "sentences": "Aperiam ut totam libero quibusdam iusto dolorem consequatur inventore. Repellendus aut id voluptas voluptatem iure voluptatem dolorum sit in. Officia sunt iusto beatae enim temporibus et.",
+            "paragraph": "Ducimus quam quam non repudiandae quia amet possimus ipsum. Rem deserunt rerum maxime deserunt ut architecto qui dolor. Quidem officia est."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "912.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Heller, Jacobson and Ledner",
+            "name": "Checking Account 9213",
+            "type": "invoice",
+            "account": "74845899"
+        },
+        {
+            "amount": "401.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pfeffer LLC",
+            "name": "Credit Card Account 1438",
+            "type": "payment",
+            "account": "21523897"
+        },
+        {
+            "amount": "829.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Moore - Klein",
+            "name": "Investment Account 7958",
+            "type": "invoice",
+            "account": "43901313"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Ora Jacobi",
+    "username": "Devon98",
+    "email": "Micah63@gmail.com",
+    "address": {
+        "streetA": "Lockman Key",
+        "streetB": "13114 Gerlach Ville",
+        "streetC": "5126 Fay Parkways Apt. 331",
+        "streetD": "Suite 656",
+        "city": "South Isabell",
+        "state": "Rhode Island",
+        "country": "Bangladesh",
+        "zipcode": "74554",
+        "geo": {
+            "lat": "-23.1265",
+            "lng": "71.9972"
+        }
+    },
+    "phone": "082.832.8175 x130",
+    "website": "darby.net",
+    "company": {
+        "name": "Ledner and Sons",
+        "catchPhrase": "Re-contextualized optimizing groupware",
+        "bs": "out-of-the-box morph action-items"
+    },
+    "posts": [
+        {
+            "words": "nisi vero quisquam",
+            "sentence": "Quaerat in aut natus sed nihil voluptatem illo quis non.",
+            "sentences": "Dolores voluptate praesentium. Sunt molestias aut enim. Ducimus id sed aliquid omnis rerum est est. Modi nulla ut qui. Quia amet enim voluptatem. Incidunt delectus iste.",
+            "paragraph": "Dolores repellat at vel cumque error. Nam sequi sed deserunt velit debitis. Eligendi nihil exercitationem dolorem ullam nam eligendi officiis ut. Molestias ipsum quibusdam in repellendus magni. Optio et deleniti occaecati perferendis."
+        },
+        {
+            "words": "vero est dolorum",
+            "sentence": "Corporis autem cupiditate qui molestias dolores ipsum.",
+            "sentences": "Architecto est qui veniam sit veritatis dolorem fuga. Delectus distinctio labore voluptate laborum amet sint. Distinctio et ea qui cumque recusandae.",
+            "paragraph": "Tempore eum explicabo in. In necessitatibus repudiandae velit ut sunt eos earum. Voluptatem dolorum vero voluptas rerum vel et consequuntur. Maiores id vero natus sunt consequatur."
+        },
+        {
+            "words": "voluptatem corrupti eum",
+            "sentence": "Aut velit ipsam iste tenetur ex.",
+            "sentences": "Reprehenderit cumque est in in. Dolor non quo commodi quo est nesciunt. Qui est dolor dignissimos molestias explicabo ab rerum consequuntur. Totam saepe vitae delectus provident. Debitis quis voluptatibus omnis error. Distinctio blanditiis eaque.",
+            "paragraph": "Eveniet accusantium quisquam quia impedit eum. Culpa odio hic nisi. Delectus et blanditiis qui optio ullam aut quas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "191.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rolfson Inc",
+            "name": "Home Loan Account 8248",
+            "type": "withdrawal",
+            "account": "58471471"
+        },
+        {
+            "amount": "773.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaefer Inc",
+            "name": "Investment Account 2456",
+            "type": "deposit",
+            "account": "06184488"
+        },
+        {
+            "amount": "444.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sporer Inc",
+            "name": "Checking Account 0014",
+            "type": "withdrawal",
+            "account": "19674847"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Ian Rippin",
+    "username": "Meta_Gibson",
+    "email": "Cleve_Kshlerin@gmail.com",
+    "address": {
+        "streetA": "Welch Roads",
+        "streetB": "167 Krajcik Plains",
+        "streetC": "0834 Cronin Meadows Suite 715",
+        "streetD": "Suite 072",
+        "city": "West Estellchester",
+        "state": "Virginia",
+        "country": "Burkina Faso",
+        "zipcode": "49225",
+        "geo": {
+            "lat": "-20.7100",
+            "lng": "121.7789"
+        }
+    },
+    "phone": "1-209-333-1894 x07472",
+    "website": "kaela.org",
+    "company": {
+        "name": "Dietrich, Mohr and Renner",
+        "catchPhrase": "Exclusive radical encoding",
+        "bs": "bricks-and-clicks embrace functionalities"
+    },
+    "posts": [
+        {
+            "words": "beatae rerum rerum",
+            "sentence": "Eos consequuntur magni sequi reiciendis velit assumenda dolor sequi ducimus.",
+            "sentences": "Quasi accusantium quo. Quaerat sunt assumenda et eius rerum perferendis consequatur. Ea omnis omnis ratione aut. Explicabo ea et sunt temporibus nihil natus eligendi. Et tenetur quisquam nihil sed quia.",
+            "paragraph": "Sed deserunt quibusdam voluptatem. Velit ut pariatur voluptatem eum libero. Aut doloremque doloremque totam et. Quibusdam dolor quaerat sed. Qui deleniti veniam et. Eius adipisci dolorum et nam iure aut corporis sequi exercitationem."
+        },
+        {
+            "words": "maxime non sunt",
+            "sentence": "Nostrum veritatis eius optio est deleniti pariatur doloremque enim.",
+            "sentences": "Libero iste est exercitationem velit et beatae eos fugit optio. Quia modi placeat. Sit delectus esse minus nam aspernatur labore nulla et quia. Suscipit est numquam.",
+            "paragraph": "Nesciunt perferendis qui explicabo accusamus reprehenderit omnis. Dolorum voluptatum et cum. Sit maiores tempora iusto et. Ut qui similique qui quis expedita unde non ad. Voluptatum numquam est voluptatibus praesentium occaecati sit."
+        },
+        {
+            "words": "est quisquam corporis",
+            "sentence": "Est blanditiis illum cupiditate.",
+            "sentences": "Dolores ratione in non. Voluptas quia assumenda earum. Suscipit distinctio ut enim. Tenetur id et ipsam ut. Culpa aut reiciendis et. Dolorem excepturi modi.",
+            "paragraph": "Architecto delectus aut quia quidem ab. Neque laborum sapiente excepturi est voluptatem saepe qui optio. Quis corrupti sunt. Quasi in labore omnis aut fugit autem enim."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "391.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schumm - Stroman",
+            "name": "Investment Account 4051",
+            "type": "invoice",
+            "account": "56537169"
+        },
+        {
+            "amount": "360.56",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Roberts - Williamson",
+            "name": "Checking Account 2317",
+            "type": "deposit",
+            "account": "82266724"
+        },
+        {
+            "amount": "296.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stracke - Leuschke",
+            "name": "Money Market Account 9558",
+            "type": "withdrawal",
+            "account": "01729870"
+        }
+    ]
+}

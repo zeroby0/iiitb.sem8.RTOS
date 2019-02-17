@@ -1,0 +1,72 @@
+{
+    "name": "Aglae Stehr",
+    "username": "Jerrold_Kunze20",
+    "email": "Tamia34@hotmail.com",
+    "address": {
+        "streetA": "Cole Views",
+        "streetB": "1807 Emard Plain",
+        "streetC": "79312 Vivien Islands Apt. 275",
+        "streetD": "Suite 039",
+        "city": "Halvorsonfurt",
+        "state": "Maine",
+        "country": "Croatia",
+        "zipcode": "36554-0788",
+        "geo": {
+            "lat": "-26.8806",
+            "lng": "-53.1181"
+        }
+    },
+    "phone": "948-118-0722 x587",
+    "website": "janie.name",
+    "company": {
+        "name": "Parisian, Roob and Senger",
+        "catchPhrase": "Secured didactic encoding",
+        "bs": "sexy cultivate eyeballs"
+    },
+    "posts": [
+        {
+            "words": "ipsum sit doloremque",
+            "sentence": "Possimus magni fuga aut id est.",
+            "sentences": "Voluptatem nihil velit amet exercitationem. At asperiores repellat sed ut quod ducimus praesentium perspiciatis aut.",
+            "paragraph": "Ducimus et eum doloribus repellendus ad. Recusandae optio molestiae a pariatur. Repellendus aspernatur sint deleniti earum illum."
+        },
+        {
+            "words": "quisquam qui dolor",
+            "sentence": "Laudantium consequatur molestias aut at.",
+            "sentences": "Consequatur modi nulla est id blanditiis tempora ex qui sunt. Dolores nihil quibusdam ratione veritatis deleniti pariatur. Doloremque cupiditate et dolorem aut odit vel et accusamus. Harum et exercitationem molestiae. Molestias commodi iste qui commodi labore officia.",
+            "paragraph": "Debitis quaerat reprehenderit totam magnam est at magni aut soluta. Molestias ipsum in rem ad. Sed voluptatem voluptatem."
+        },
+        {
+            "words": "est possimus ea",
+            "sentence": "Aspernatur aliquam non officia fugiat cum iste explicabo vero qui.",
+            "sentences": "Tenetur voluptas dolorem voluptatibus aliquam blanditiis atque mollitia. Aut aut architecto. Asperiores inventore voluptas.",
+            "paragraph": "Animi architecto perspiciatis tempore. Molestiae animi tempora ullam ullam quidem et. Sed asperiores facere quia dignissimos aut quaerat minima. Consequatur a quisquam deserunt. Fuga et mollitia exercitationem ipsam nisi saepe est quaerat eum. Vitae molestiae neque sit ex."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "928.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Predovic, Kohler and Mayert",
+            "name": "Checking Account 5034",
+            "type": "withdrawal",
+            "account": "69459195"
+        },
+        {
+            "amount": "56.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schowalter, Lind and Abshire",
+            "name": "Personal Loan Account 8631",
+            "type": "invoice",
+            "account": "96900259"
+        },
+        {
+            "amount": "195.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Towne Group",
+            "name": "Auto Loan Account 3391",
+            "type": "deposit",
+            "account": "21688063"
+        }
+    ]
+}

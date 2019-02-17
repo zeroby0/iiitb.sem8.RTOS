@@ -1,0 +1,72 @@
+{
+    "name": "Elmore Marks",
+    "username": "Adrain5",
+    "email": "Alice_Hilpert98@hotmail.com",
+    "address": {
+        "streetA": "Adriana Viaduct",
+        "streetB": "972 Hoeger Hollow",
+        "streetC": "64447 Nathaniel Plain Suite 239",
+        "streetD": "Apt. 362",
+        "city": "South Sincerebury",
+        "state": "Hawaii",
+        "country": "Afghanistan",
+        "zipcode": "65396-9395",
+        "geo": {
+            "lat": "63.6871",
+            "lng": "-134.6280"
+        }
+    },
+    "phone": "676-677-2346 x55357",
+    "website": "bryon.org",
+    "company": {
+        "name": "Johnston, Lesch and Konopelski",
+        "catchPhrase": "Triple-buffered multimedia productivity",
+        "bs": "cutting-edge implement communities"
+    },
+    "posts": [
+        {
+            "words": "sunt similique cupiditate",
+            "sentence": "Ut nesciunt praesentium tenetur molestias a et.",
+            "sentences": "Omnis reprehenderit nihil quod maxime commodi. Sit quis impedit quam tenetur. Ea et fugiat harum. Exercitationem enim blanditiis sit qui blanditiis quam et dolor maxime. Assumenda tenetur aperiam.",
+            "paragraph": "Et sit est voluptas dolorem cupiditate sit. Ipsa voluptatem eum repudiandae voluptate necessitatibus. Maiores in vel dolorum."
+        },
+        {
+            "words": "voluptatem explicabo saepe",
+            "sentence": "Non debitis est ea occaecati et deserunt recusandae.",
+            "sentences": "Quo minima magnam libero animi culpa ut excepturi. Illum reprehenderit occaecati et qui voluptatem velit laudantium nisi dolorum. Ad non culpa ut possimus ut quae ullam. Dolor reiciendis voluptatem dolorum harum voluptatem. Qui quia quis quasi. Aut non deserunt.",
+            "paragraph": "Ut eius nostrum et rem et et. Ut dolore non perspiciatis ad. Quod voluptas ea. Natus ducimus vero ut distinctio rem. Iure rerum numquam. Labore possimus cumque incidunt."
+        },
+        {
+            "words": "nisi sapiente dicta",
+            "sentence": "Atque aut nam beatae quia error consectetur non repellat.",
+            "sentences": "Iste quidem non labore ducimus. Laudantium nemo dolore esse ea laborum aut in fuga dolorem.",
+            "paragraph": "Incidunt laudantium sunt blanditiis fugit sit vel reprehenderit quia. Dicta nobis sint aspernatur. Ut dolores sint porro."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "467.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Corwin Inc",
+            "name": "Investment Account 2223",
+            "type": "payment",
+            "account": "47517771"
+        },
+        {
+            "amount": "304.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Daniel, Stamm and Moore",
+            "name": "Auto Loan Account 0179",
+            "type": "deposit",
+            "account": "00386397"
+        },
+        {
+            "amount": "635.34",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "MacGyver, Mraz and Corkery",
+            "name": "Auto Loan Account 5779",
+            "type": "payment",
+            "account": "12489989"
+        }
+    ]
+}

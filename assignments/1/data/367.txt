@@ -1,0 +1,72 @@
+{
+    "name": "Sedrick Mosciski",
+    "username": "Kendall52",
+    "email": "Eula_Adams77@gmail.com",
+    "address": {
+        "streetA": "Hamill Stravenue",
+        "streetB": "42552 Bogan Ridges",
+        "streetC": "119 Abelardo Forge Suite 748",
+        "streetD": "Suite 117",
+        "city": "New Brannonberg",
+        "state": "Oregon",
+        "country": "Brunei Darussalam",
+        "zipcode": "57446-1894",
+        "geo": {
+            "lat": "37.8753",
+            "lng": "119.0607"
+        }
+    },
+    "phone": "1-941-268-6025",
+    "website": "gerson.net",
+    "company": {
+        "name": "Rempel Group",
+        "catchPhrase": "Innovative high-level project",
+        "bs": "best-of-breed iterate e-commerce"
+    },
+    "posts": [
+        {
+            "words": "saepe recusandae et",
+            "sentence": "Repudiandae sit unde.",
+            "sentences": "Modi ad vel consequatur in. Illo illum eos et qui nostrum aut deleniti. Explicabo enim fuga nesciunt quisquam libero incidunt. Reprehenderit qui qui nostrum ut magni.",
+            "paragraph": "Qui est earum cumque ea. Beatae est placeat quia. Exercitationem perspiciatis expedita illum maiores. Esse officia corrupti consectetur sunt ullam pariatur sed in harum. Ipsum repudiandae dolor sed fugiat minus."
+        },
+        {
+            "words": "est consequatur voluptatem",
+            "sentence": "Dolore quasi reiciendis repudiandae nam.",
+            "sentences": "Id rem et. Necessitatibus aut est.",
+            "paragraph": "Eligendi itaque hic. Occaecati excepturi alias et rerum sapiente. Sed dolores ullam molestias molestias dolor exercitationem possimus."
+        },
+        {
+            "words": "eius est pariatur",
+            "sentence": "Rerum architecto non qui et voluptatem libero.",
+            "sentences": "Deleniti nisi a at et saepe sint aliquid culpa. Soluta id ut ut facilis. Occaecati est provident quam dolorem ut repudiandae quidem dolorem. Et reiciendis laborum accusantium fugiat.",
+            "paragraph": "At perferendis sed dolor voluptatem harum veniam error. Maiores facere et tempore inventore. Est doloremque omnis nesciunt quia possimus ipsa voluptas atque. Quia nam omnis necessitatibus doloremque error odio."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "923.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Armstrong, Kuhlman and Langworth",
+            "name": "Auto Loan Account 3536",
+            "type": "invoice",
+            "account": "15225351"
+        },
+        {
+            "amount": "834.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Champlin, Hettinger and Corkery",
+            "name": "Savings Account 8857",
+            "type": "invoice",
+            "account": "78755813"
+        },
+        {
+            "amount": "904.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gutkowski - Strosin",
+            "name": "Checking Account 5634",
+            "type": "payment",
+            "account": "06238531"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Dr. Shany Nicolas",
+    "username": "Javier69",
+    "email": "Francesca.Erdman@yahoo.com",
+    "address": {
+        "streetA": "Stracke Plain",
+        "streetB": "1156 Rath Via",
+        "streetC": "0787 Kozey Underpass Apt. 872",
+        "streetD": "Apt. 005",
+        "city": "Lake Carolanne",
+        "state": "Virginia",
+        "country": "Jamaica",
+        "zipcode": "57307",
+        "geo": {
+            "lat": "-15.3287",
+            "lng": "90.0477"
+        }
+    },
+    "phone": "(833) 427-2307 x071",
+    "website": "michael.biz",
+    "company": {
+        "name": "Fritsch Inc",
+        "catchPhrase": "Expanded 6th generation project",
+        "bs": "viral orchestrate niches"
+    },
+    "posts": [
+        {
+            "words": "asperiores ipsum iste",
+            "sentence": "Aut et quaerat velit dolorum nisi quibusdam voluptas laudantium.",
+            "sentences": "Quos et distinctio dolorem iste ipsam. Earum unde sunt.",
+            "paragraph": "Iste assumenda quo possimus quis. Facere reiciendis accusamus cupiditate qui dicta sed. Consequuntur incidunt sed in ut."
+        },
+        {
+            "words": "maxime vel odit",
+            "sentence": "Perspiciatis et recusandae nam non sunt voluptatem quia eos.",
+            "sentences": "Veniam vero nihil et autem odit aut dolor cum soluta. Provident placeat eos qui dolores. Sed ipsa sed soluta et quo et cupiditate doloribus.",
+            "paragraph": "Natus magnam autem qui libero deserunt deserunt. Et quam enim esse consequatur consequuntur reiciendis molestias. Quia omnis qui ut ex quisquam voluptatibus possimus. Tempora quia et facere rerum nisi quia et expedita aut. Maiores atque eum et illo. Minima et qui ea numquam."
+        },
+        {
+            "words": "temporibus necessitatibus dolor",
+            "sentence": "Corrupti blanditiis at modi asperiores voluptatum nobis quidem nobis.",
+            "sentences": "Dignissimos rem aspernatur. Molestias et reiciendis earum non doloribus saepe. Ut qui blanditiis et porro ratione molestiae a.",
+            "paragraph": "Ipsa corporis adipisci quis saepe. Vero et architecto iusto et velit doloribus quo voluptatem tempora. Vero rerum aut rerum nulla qui eos. Non quod rerum ea. Corrupti et numquam eum aliquam. Consequuntur exercitationem sint."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "589.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bechtelar - Wilkinson",
+            "name": "Checking Account 3058",
+            "type": "payment",
+            "account": "68284540"
+        },
+        {
+            "amount": "684.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ondricka, Durgan and Grimes",
+            "name": "Investment Account 0272",
+            "type": "withdrawal",
+            "account": "22461675"
+        },
+        {
+            "amount": "957.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Smith - Batz",
+            "name": "Auto Loan Account 5908",
+            "type": "withdrawal",
+            "account": "76597264"
+        }
+    ]
+}

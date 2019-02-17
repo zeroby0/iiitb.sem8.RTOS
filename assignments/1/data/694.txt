@@ -1,0 +1,72 @@
+{
+    "name": "Margarette Schimmel",
+    "username": "Roscoe_Schaefer98",
+    "email": "Mohamed90@yahoo.com",
+    "address": {
+        "streetA": "Karine Valley",
+        "streetB": "268 Pietro Well",
+        "streetC": "0755 Murazik Fields Apt. 465",
+        "streetD": "Apt. 347",
+        "city": "O'Connellton",
+        "state": "Virginia",
+        "country": "Greece",
+        "zipcode": "20475-2266",
+        "geo": {
+            "lat": "-12.1945",
+            "lng": "13.8229"
+        }
+    },
+    "phone": "(982) 664-4651 x735",
+    "website": "avery.biz",
+    "company": {
+        "name": "McLaughlin Inc",
+        "catchPhrase": "Extended optimizing secured line",
+        "bs": "robust transition paradigms"
+    },
+    "posts": [
+        {
+            "words": "harum velit aut",
+            "sentence": "Et eveniet eaque sunt.",
+            "sentences": "Ut dignissimos possimus voluptas ut ullam. Vel nostrum omnis labore quod molestiae consequatur. Incidunt officiis dicta consequatur qui sapiente omnis. Porro nisi nobis magni occaecati. Dolor ex molestias ad ipsam totam illum dicta.",
+            "paragraph": "At quo sit quas mollitia autem. Maxime velit recusandae eum quam omnis voluptatem sit ut. Dolores sit ullam iste qui facere. Beatae consectetur et quis consequatur. Magnam sed minus necessitatibus harum labore."
+        },
+        {
+            "words": "fugit asperiores aut",
+            "sentence": "Non eum ipsa aut quia alias iusto ab commodi est.",
+            "sentences": "Illo quae amet dolor. Eum quaerat quo aut nesciunt explicabo voluptates. Quo veniam ullam voluptate quas. Odit est soluta suscipit dignissimos modi et nisi quis. Non aperiam quam recusandae a animi eos architecto. Beatae occaecati non vel aut doloribus atque sapiente.",
+            "paragraph": "Delectus velit vero eos blanditiis autem. Tempore molestiae voluptate et et. Aut magni alias delectus quas nam expedita iure quos. Sit tempore quia qui et non. Ipsa quod ut consequatur ab vel."
+        },
+        {
+            "words": "amet molestiae sunt",
+            "sentence": "Cum fuga atque earum atque quas.",
+            "sentences": "Dolor tempora aperiam. Inventore consequatur veniam expedita illo eaque minima. Corporis aut aut dolorem magni nobis quis. Commodi ut commodi. Non et explicabo quasi asperiores ut enim nobis.",
+            "paragraph": "Dolores ea doloribus alias sint atque veniam. Aliquam laudantium cupiditate perferendis ullam nulla distinctio vel. Optio repellendus sint at. Fuga possimus est consequatur placeat reprehenderit est distinctio."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "147.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kassulke, Lesch and Lynch",
+            "name": "Checking Account 2951",
+            "type": "deposit",
+            "account": "88272823"
+        },
+        {
+            "amount": "870.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wiza - Brakus",
+            "name": "Personal Loan Account 6007",
+            "type": "withdrawal",
+            "account": "29307643"
+        },
+        {
+            "amount": "77.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Champlin, Hermann and Schmidt",
+            "name": "Checking Account 1131",
+            "type": "invoice",
+            "account": "41260078"
+        }
+    ]
+}

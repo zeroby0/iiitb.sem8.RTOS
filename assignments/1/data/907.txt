@@ -1,0 +1,72 @@
+{
+    "name": "Amaya Turcotte",
+    "username": "Hiram4",
+    "email": "Kian_Hills@hotmail.com",
+    "address": {
+        "streetA": "Harvey Burgs",
+        "streetB": "37570 Myrl Forks",
+        "streetC": "1299 Lisette Lodge Suite 458",
+        "streetD": "Apt. 363",
+        "city": "Zeldafort",
+        "state": "Ohio",
+        "country": "Bhutan",
+        "zipcode": "79287-2530",
+        "geo": {
+            "lat": "24.5179",
+            "lng": "35.7153"
+        }
+    },
+    "phone": "592.985.2284 x485",
+    "website": "clara.info",
+    "company": {
+        "name": "Terry Group",
+        "catchPhrase": "Front-line zero tolerance open system",
+        "bs": "world-class innovate users"
+    },
+    "posts": [
+        {
+            "words": "rerum hic magnam",
+            "sentence": "Et aperiam earum aspernatur.",
+            "sentences": "Molestiae provident esse ut cupiditate. Voluptate consequatur veritatis magnam iste adipisci quis consequuntur corrupti tempora. Ex qui rerum deleniti amet nostrum sed. Velit praesentium aut suscipit blanditiis officiis est illum nesciunt. Qui repudiandae quaerat tenetur. Voluptates non et iusto neque voluptatem.",
+            "paragraph": "Ut ducimus voluptatem aut iure ut aperiam. Ab velit occaecati. Optio est atque rerum ducimus quis non."
+        },
+        {
+            "words": "maxime esse laborum",
+            "sentence": "Nobis iusto dolor sed et quo voluptatum omnis rerum harum.",
+            "sentences": "Labore temporibus nemo beatae ipsum dolorem voluptas. Soluta quia corrupti. Nam sint odio animi a provident earum porro et. Ut cum tempore impedit. Et sit velit eaque doloribus reiciendis ex consequatur.",
+            "paragraph": "Similique dignissimos officia atque. Rem sunt quia mollitia omnis ratione. Rerum quaerat dignissimos dicta quae dolores dignissimos possimus ea. Veritatis eaque qui ut omnis nostrum provident. Quia ut dicta sit sunt ut qui fugiat ullam."
+        },
+        {
+            "words": "qui fugiat sequi",
+            "sentence": "Mollitia et accusamus ad nihil eum.",
+            "sentences": "Fuga quo reiciendis illo tenetur quis. Voluptas accusamus totam autem voluptas voluptatibus assumenda. Aut itaque facilis quia ex iure recusandae. Ut distinctio omnis culpa iste quia. Quia nihil rerum tempora officiis repudiandae cumque qui. Molestiae rerum voluptatem.",
+            "paragraph": "Iusto a nihil. Eius consequuntur qui dolorem maiores dolore. Incidunt est atque fugiat. Fugit ducimus dolores animi inventore fugit. Et quia dignissimos a quo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "306.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schneider, Conroy and Wisozk",
+            "name": "Personal Loan Account 2156",
+            "type": "payment",
+            "account": "88299486"
+        },
+        {
+            "amount": "788.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mraz Inc",
+            "name": "Home Loan Account 7287",
+            "type": "invoice",
+            "account": "54574855"
+        },
+        {
+            "amount": "298.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mohr, Mueller and Kunze",
+            "name": "Checking Account 1476",
+            "type": "invoice",
+            "account": "29494554"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Madelynn Kuhn",
+    "username": "Peyton4",
+    "email": "Makayla82@gmail.com",
+    "address": {
+        "streetA": "Iliana Locks",
+        "streetB": "58928 Murray Ports",
+        "streetC": "596 Cullen Pine Suite 261",
+        "streetD": "Suite 957",
+        "city": "West Bradford",
+        "state": "Delaware",
+        "country": "Turkmenistan",
+        "zipcode": "10694-6763",
+        "geo": {
+            "lat": "-53.3217",
+            "lng": "52.8501"
+        }
+    },
+    "phone": "220.958.5833 x6061",
+    "website": "isai.name",
+    "company": {
+        "name": "Koelpin - Rice",
+        "catchPhrase": "Upgradable maximized neural-net",
+        "bs": "extensible deliver e-tailers"
+    },
+    "posts": [
+        {
+            "words": "dolorem rerum quia",
+            "sentence": "Nobis quis qui illum quo quis ipsam ad.",
+            "sentences": "Qui consectetur natus. Error quos magni eius temporibus aspernatur et delectus.",
+            "paragraph": "Dolor deserunt eum ea quia. Dolorem itaque aut id ipsum voluptate tempore sit. Esse enim voluptate quasi nulla ut. Quibusdam nihil quae nobis occaecati ut quam. Ad ut fugit pariatur soluta. Iste velit perferendis."
+        },
+        {
+            "words": "rerum harum corporis",
+            "sentence": "Et ex laboriosam veniam dicta repellat.",
+            "sentences": "Sint cupiditate velit architecto aut illo eum. Dolorum labore sequi id quae et ipsum tempore ratione et.",
+            "paragraph": "Et veniam qui sint dolore. Eligendi quas qui voluptatem. Eos provident mollitia reprehenderit in. Sit ut error quibusdam tempora. Soluta quas pariatur molestiae at recusandae. Consequatur mollitia sit amet dolorem."
+        },
+        {
+            "words": "nihil corrupti voluptatem",
+            "sentence": "Saepe quos tenetur quas.",
+            "sentences": "Odit voluptatibus modi officiis ut est nemo incidunt. Quia voluptate sint qui fugit iure consequuntur quod qui nam.",
+            "paragraph": "Quia dolorem totam quia impedit unde rerum eos voluptatem dolores. Rerum aut odit. Quidem minus tenetur velit quos officia. Eos a ad dolorum deleniti quasi et soluta perspiciatis velit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "915.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kihn LLC",
+            "name": "Checking Account 6150",
+            "type": "payment",
+            "account": "62025160"
+        },
+        {
+            "amount": "244.50",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Quigley LLC",
+            "name": "Credit Card Account 1318",
+            "type": "invoice",
+            "account": "79538519"
+        },
+        {
+            "amount": "49.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Spencer, Tremblay and Lubowitz",
+            "name": "Auto Loan Account 2642",
+            "type": "withdrawal",
+            "account": "35880987"
+        }
+    ]
+}

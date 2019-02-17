@@ -1,0 +1,72 @@
+{
+    "name": "Luella Reichel",
+    "username": "Stanley16",
+    "email": "Dorcas.Okuneva0@hotmail.com",
+    "address": {
+        "streetA": "Della Mount",
+        "streetB": "3744 Goyette Mission",
+        "streetC": "84925 Hand Villages Suite 362",
+        "streetD": "Suite 167",
+        "city": "Botsfordland",
+        "state": "Vermont",
+        "country": "Armenia",
+        "zipcode": "24249-8594",
+        "geo": {
+            "lat": "7.9251",
+            "lng": "48.9452"
+        }
+    },
+    "phone": "490-190-4187 x891",
+    "website": "vern.info",
+    "company": {
+        "name": "Mayert - Christiansen",
+        "catchPhrase": "Multi-tiered global website",
+        "bs": "B2B deploy infomediaries"
+    },
+    "posts": [
+        {
+            "words": "repellendus vitae ipsa",
+            "sentence": "Odio fugit eligendi et.",
+            "sentences": "Quis illum ipsum. Quo veniam dolorem sunt qui sit quo sunt. Rerum blanditiis nesciunt et ut. Nostrum officiis corporis vitae. Veniam tempora sed cumque ipsa quisquam omnis nam quisquam ut.",
+            "paragraph": "Neque voluptatibus optio. Velit laborum et rerum est. Nihil eaque non omnis blanditiis quos recusandae. Soluta dolores asperiores debitis consequatur quod aut ut. Aliquid doloremque voluptatum aspernatur id. Error laboriosam officia nobis."
+        },
+        {
+            "words": "voluptas aut magnam",
+            "sentence": "Consequatur voluptas consequatur.",
+            "sentences": "Ab et itaque dolores voluptates. Tempore aspernatur nulla ullam sed ut culpa unde. Aspernatur reprehenderit doloremque et dolore et ex aut voluptatem dolorem. Aliquam quae ullam consequuntur non. Assumenda rem consectetur ad quas ullam.",
+            "paragraph": "Sapiente et voluptatem illum voluptatibus molestiae deleniti quaerat. Quis velit doloribus eos ut aut. Vel ut eius et."
+        },
+        {
+            "words": "est voluptas velit",
+            "sentence": "Aut et temporibus.",
+            "sentences": "Consequatur voluptatibus vero ut ex rem. Est atque vero vel. Ea reiciendis at quasi.",
+            "paragraph": "Sed ex et maiores et voluptatem eos quia quia neque. Commodi quos explicabo eligendi dolores culpa odio facere quibusdam sed. Dolorum commodi dicta quis dolores eos rem. Nesciunt est facilis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "459.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bosco, Orn and Ritchie",
+            "name": "Investment Account 6246",
+            "type": "deposit",
+            "account": "81690311"
+        },
+        {
+            "amount": "534.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reilly Group",
+            "name": "Money Market Account 2998",
+            "type": "invoice",
+            "account": "98945724"
+        },
+        {
+            "amount": "120.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wolff, Borer and Emard",
+            "name": "Investment Account 7404",
+            "type": "invoice",
+            "account": "10840728"
+        }
+    ]
+}

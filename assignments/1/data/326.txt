@@ -1,0 +1,72 @@
+{
+    "name": "Jermain Armstrong",
+    "username": "Consuelo_Marquardt28",
+    "email": "Murray_Wisozk46@gmail.com",
+    "address": {
+        "streetA": "Deron Glen",
+        "streetB": "41390 Borer Shoal",
+        "streetC": "311 Norene Harbor Apt. 835",
+        "streetD": "Suite 980",
+        "city": "Nataliemouth",
+        "state": "Virginia",
+        "country": "Falkland Islands (Malvinas)",
+        "zipcode": "35281-2378",
+        "geo": {
+            "lat": "-68.3539",
+            "lng": "38.7314"
+        }
+    },
+    "phone": "(361) 104-3847",
+    "website": "jaclyn.net",
+    "company": {
+        "name": "Cassin, Brekke and Becker",
+        "catchPhrase": "Seamless didactic encryption",
+        "bs": "seamless enable convergence"
+    },
+    "posts": [
+        {
+            "words": "qui nam reiciendis",
+            "sentence": "Veniam tenetur adipisci at fugit sapiente doloribus quis inventore.",
+            "sentences": "Velit nostrum tenetur corrupti dicta sapiente. Qui officiis praesentium delectus saepe quisquam. Assumenda ut laborum velit assumenda accusamus omnis aut. Ab mollitia quidem odit perspiciatis est eum.",
+            "paragraph": "Impedit ab laboriosam voluptatem excepturi cupiditate ut in voluptates. Et nulla a sit officia sunt totam quam. Labore eligendi ratione. Sunt et laboriosam. Rerum qui enim velit qui autem sunt."
+        },
+        {
+            "words": "et distinctio optio",
+            "sentence": "Magnam unde consequatur sint iure fugiat voluptates.",
+            "sentences": "Ratione quod et aut incidunt. Nisi vitae corrupti omnis dolorum.",
+            "paragraph": "Amet velit cupiditate ducimus nisi. Voluptate placeat corporis cum aut et est. Et odit omnis porro est."
+        },
+        {
+            "words": "aut aut voluptas",
+            "sentence": "Velit qui quia commodi perferendis cum et possimus totam sed.",
+            "sentences": "Odit animi aliquam. Ut laboriosam expedita iure cupiditate non. Aut omnis a qui facere. Provident est voluptatem et voluptas nostrum cumque. Sit eaque temporibus.",
+            "paragraph": "Adipisci suscipit quasi voluptatem. Consectetur est excepturi facilis alias perspiciatis quis doloribus amet. Earum eum deserunt laudantium inventore rerum rerum. Labore ratione explicabo quas assumenda cum voluptas rerum quia. Sint labore a debitis pariatur quod vel. Sunt eligendi quasi laborum nam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "149.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuhic, Kulas and Moen",
+            "name": "Savings Account 6193",
+            "type": "withdrawal",
+            "account": "60288707"
+        },
+        {
+            "amount": "294.97",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "VonRueden - Daniel",
+            "name": "Personal Loan Account 9933",
+            "type": "invoice",
+            "account": "70264411"
+        },
+        {
+            "amount": "657.86",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mayert, Ferry and Vandervort",
+            "name": "Investment Account 1630",
+            "type": "withdrawal",
+            "account": "40070558"
+        }
+    ]
+}

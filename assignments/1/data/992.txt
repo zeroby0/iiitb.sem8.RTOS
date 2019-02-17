@@ -1,0 +1,72 @@
+{
+    "name": "Rudy Huels",
+    "username": "Laurie_Strosin34",
+    "email": "Ona18@yahoo.com",
+    "address": {
+        "streetA": "Kshlerin Route",
+        "streetB": "5103 Marc Mission",
+        "streetC": "1662 Pollich Spur Apt. 172",
+        "streetD": "Suite 899",
+        "city": "New Codybury",
+        "state": "Delaware",
+        "country": "Western Sahara",
+        "zipcode": "52375-7644",
+        "geo": {
+            "lat": "-35.8921",
+            "lng": "128.2619"
+        }
+    },
+    "phone": "888.136.9394",
+    "website": "antonio.com",
+    "company": {
+        "name": "Goyette - Runolfsdottir",
+        "catchPhrase": "Front-line directional hierarchy",
+        "bs": "clicks-and-mortar mesh deliverables"
+    },
+    "posts": [
+        {
+            "words": "dolorem explicabo sapiente",
+            "sentence": "Velit voluptates ea et aut aliquam quas nesciunt unde quisquam.",
+            "sentences": "Id sunt eaque accusamus. Ut nam voluptatem et rem sapiente aut ut vel. Esse quia inventore aut adipisci et in necessitatibus quo reprehenderit. Ut vitae harum delectus ea.",
+            "paragraph": "Voluptas repudiandae tempora. Pariatur voluptatibus est nihil corrupti exercitationem. Veritatis ut iusto facilis."
+        },
+        {
+            "words": "dolorum ut corporis",
+            "sentence": "Reiciendis cum aut dolores quia voluptatem.",
+            "sentences": "Odit perferendis sint. Atque velit quia animi accusamus velit expedita asperiores velit. Dolor quia sint ut molestiae earum.",
+            "paragraph": "Iure beatae autem consequatur facere saepe amet aut. Similique ut sit et. Voluptas facilis et itaque voluptatem cum sunt."
+        },
+        {
+            "words": "possimus rem aut",
+            "sentence": "Ut nemo voluptates quae sed nihil doloribus et.",
+            "sentences": "Itaque quam suscipit consequatur recusandae quia qui omnis ad numquam. Nihil expedita reiciendis blanditiis unde reiciendis quod commodi in non.",
+            "paragraph": "Perspiciatis libero non enim sapiente laudantium alias. Est veritatis aut necessitatibus recusandae amet deserunt nobis. Iure cum et commodi maiores et accusamus. Accusantium dolore incidunt repellat et dolores. In fugiat porro ut consequatur quod ullam ex minus. Qui et ab et non quibusdam ut facilis aperiam explicabo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "894.54",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Franecki - West",
+            "name": "Credit Card Account 3437",
+            "type": "withdrawal",
+            "account": "68535748"
+        },
+        {
+            "amount": "309.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lesch, Feeney and Denesik",
+            "name": "Money Market Account 9621",
+            "type": "deposit",
+            "account": "12173619"
+        },
+        {
+            "amount": "618.72",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Howell Group",
+            "name": "Credit Card Account 5763",
+            "type": "invoice",
+            "account": "56288363"
+        }
+    ]
+}

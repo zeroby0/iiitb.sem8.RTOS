@@ -1,0 +1,72 @@
+{
+    "name": "Claudia Gaylord",
+    "username": "Waylon_Reichert",
+    "email": "Tanya18@gmail.com",
+    "address": {
+        "streetA": "Hane Knoll",
+        "streetB": "474 Kuphal Meadow",
+        "streetC": "419 Lesch Walk Suite 812",
+        "streetD": "Apt. 961",
+        "city": "South Verna",
+        "state": "Oklahoma",
+        "country": "Libyan Arab Jamahiriya",
+        "zipcode": "86922-6110",
+        "geo": {
+            "lat": "52.7325",
+            "lng": "113.9106"
+        }
+    },
+    "phone": "1-420-701-7220",
+    "website": "isaias.name",
+    "company": {
+        "name": "Dicki, Nicolas and Anderson",
+        "catchPhrase": "Robust explicit monitoring",
+        "bs": "enterprise incentivize networks"
+    },
+    "posts": [
+        {
+            "words": "maiores assumenda distinctio",
+            "sentence": "Eos quod repudiandae saepe voluptatem.",
+            "sentences": "Optio consequatur perferendis voluptas. Fugit dolorem est eos dolores blanditiis reiciendis. Ex molestias qui consequatur et et non qui perspiciatis voluptate. Eum perspiciatis non. Voluptatem fuga aut sit ut voluptatem. Vel enim similique modi corrupti ea voluptates quod.",
+            "paragraph": "Vero qui similique ratione. Quia omnis voluptates. Adipisci aut est est culpa."
+        },
+        {
+            "words": "necessitatibus ut incidunt",
+            "sentence": "Qui optio fugiat fuga tenetur consectetur.",
+            "sentences": "Consequatur ducimus qui sit nesciunt at rerum ullam at. Necessitatibus iure magnam aspernatur quas aut adipisci doloremque.",
+            "paragraph": "Consequatur et nisi quam iusto. Aliquam necessitatibus quaerat quaerat amet earum eaque nihil doloribus. Veniam qui repellendus consequatur mollitia cupiditate. Distinctio sunt et delectus sunt corporis necessitatibus laborum eos."
+        },
+        {
+            "words": "aliquam hic facere",
+            "sentence": "Architecto aut dolor sit molestias sed voluptatem doloribus.",
+            "sentences": "Asperiores non sunt adipisci velit dolore ut hic. Assumenda soluta impedit. Ut aut qui. Ut quasi sit voluptate. Rerum est quibusdam expedita aut optio quia.",
+            "paragraph": "Rem quae quod sit exercitationem. Et velit exercitationem maxime quaerat sit sunt iste incidunt qui. Dolor aspernatur fugit iure. Autem impedit qui voluptatum explicabo nulla quod. Quas tempore dolorum tempore et ullam provident."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "167.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nienow, Ortiz and Funk",
+            "name": "Auto Loan Account 4197",
+            "type": "invoice",
+            "account": "60196561"
+        },
+        {
+            "amount": "170.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Corkery and Sons",
+            "name": "Money Market Account 5705",
+            "type": "deposit",
+            "account": "24153874"
+        },
+        {
+            "amount": "784.04",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cormier, Russel and Larson",
+            "name": "Savings Account 8395",
+            "type": "withdrawal",
+            "account": "36168482"
+        }
+    ]
+}

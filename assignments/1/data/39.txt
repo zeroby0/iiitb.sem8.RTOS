@@ -1,0 +1,72 @@
+{
+    "name": "Jairo Wisoky",
+    "username": "Jarrod16",
+    "email": "Kaylin63@yahoo.com",
+    "address": {
+        "streetA": "Ethan Summit",
+        "streetB": "71324 Adam Mill",
+        "streetC": "54842 Schuppe Land Apt. 930",
+        "streetD": "Apt. 366",
+        "city": "Rashawnchester",
+        "state": "Georgia",
+        "country": "Cuba",
+        "zipcode": "72922-2886",
+        "geo": {
+            "lat": "-88.0290",
+            "lng": "-43.9489"
+        }
+    },
+    "phone": "(923) 148-0293 x966",
+    "website": "hermann.name",
+    "company": {
+        "name": "Thompson - Kohler",
+        "catchPhrase": "Implemented incremental model",
+        "bs": "revolutionary morph e-services"
+    },
+    "posts": [
+        {
+            "words": "quam quidem nobis",
+            "sentence": "Quidem sequi est reiciendis reprehenderit nam dolor ipsum.",
+            "sentences": "Illum ipsam qui doloremque rem et officia aut aut. Ea et numquam dolore iste temporibus quas sit nemo reiciendis. Rerum quisquam minus quis tenetur. Expedita quaerat explicabo. Molestiae saepe voluptatem omnis. Quia cumque et quas nemo aperiam dolorem aperiam voluptatem voluptas.",
+            "paragraph": "Voluptas voluptatem incidunt autem ea tenetur nihil debitis similique voluptas. Cum possimus ut quaerat rem maiores quam. Debitis fugit ad dolor nesciunt. Officia aperiam numquam quas sed dolore."
+        },
+        {
+            "words": "in architecto officiis",
+            "sentence": "Laborum omnis quia ut et et voluptates consequuntur culpa.",
+            "sentences": "Culpa minus odit similique. Corrupti ad nesciunt omnis aut nemo soluta nihil aut dolorum. Aut ullam dolorum. Ipsam fuga ea nihil. Animi mollitia omnis sunt dolore modi. Maxime deleniti quo aut autem corporis quia accusantium eaque.",
+            "paragraph": "Repellendus et aut odit inventore. Vero quidem et praesentium libero omnis ab illum nihil. Commodi aspernatur non non accusamus officiis accusantium. Deserunt omnis cupiditate et dolor nisi est labore."
+        },
+        {
+            "words": "ducimus ea debitis",
+            "sentence": "Et et nesciunt soluta.",
+            "sentences": "Eius ullam iste qui soluta magnam deleniti deserunt totam dolorum. Animi officiis qui amet at dicta enim similique hic. Rerum optio doloribus in dolor voluptas.",
+            "paragraph": "Ratione unde omnis et officia porro aut voluptates et impedit. Esse quae ut tempora recusandae quo. Dolorem ipsum dolorem officia et natus voluptatem eos. Numquam et qui repellat debitis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "565.58",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stamm - Reichert",
+            "name": "Checking Account 4095",
+            "type": "deposit",
+            "account": "99155667"
+        },
+        {
+            "amount": "242.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Shields Inc",
+            "name": "Auto Loan Account 5726",
+            "type": "invoice",
+            "account": "73903011"
+        },
+        {
+            "amount": "693.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hermiston, Stiedemann and Abernathy",
+            "name": "Checking Account 5480",
+            "type": "deposit",
+            "account": "92329025"
+        }
+    ]
+}

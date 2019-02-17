@@ -1,0 +1,72 @@
+{
+    "name": "Mrs. Olga Brakus",
+    "username": "Chesley_Lubowitz68",
+    "email": "Kamryn.Waters89@gmail.com",
+    "address": {
+        "streetA": "Ortiz Dale",
+        "streetB": "109 Reed Lodge",
+        "streetC": "564 Kenna Shore Suite 841",
+        "streetD": "Apt. 060",
+        "city": "Haleybury",
+        "state": "Tennessee",
+        "country": "Guyana",
+        "zipcode": "38733",
+        "geo": {
+            "lat": "28.2679",
+            "lng": "40.1645"
+        }
+    },
+    "phone": "(166) 044-4212 x971",
+    "website": "maryse.name",
+    "company": {
+        "name": "Bruen Inc",
+        "catchPhrase": "Robust bi-directional orchestration",
+        "bs": "frictionless streamline markets"
+    },
+    "posts": [
+        {
+            "words": "quis ex ullam",
+            "sentence": "Reiciendis aut quam tenetur sunt vitae numquam ut.",
+            "sentences": "Fugiat natus est vero. Enim harum eveniet laborum similique omnis maiores. Aliquid rerum modi quia eum magni voluptatem nemo et. Vel dolores a dignissimos nesciunt dignissimos eos unde excepturi. Animi amet ipsum facere nisi et eveniet. Quaerat odio exercitationem.",
+            "paragraph": "Necessitatibus corrupti quis expedita accusantium ex. Aliquam quis alias vero. Est libero quibusdam sed voluptatem similique."
+        },
+        {
+            "words": "pariatur ipsam ut",
+            "sentence": "Vel doloribus eum eum iure voluptas ipsum culpa nesciunt.",
+            "sentences": "Veniam non aut dolor excepturi beatae corporis. Autem expedita cumque ex beatae qui porro ab eum. Sunt dolores incidunt nesciunt repudiandae animi. In a vitae ipsa qui est architecto qui amet culpa. Qui atque nobis. Nulla in dolor deserunt quaerat ut commodi sed.",
+            "paragraph": "Et recusandae aliquam qui dolores delectus et. Illum nihil iste culpa nesciunt autem facere veniam et. Natus debitis id vel perspiciatis recusandae sunt eum veniam. Id pariatur eum porro dolores ut distinctio adipisci."
+        },
+        {
+            "words": "eaque praesentium architecto",
+            "sentence": "Illum eum eum et vel facere reprehenderit.",
+            "sentences": "Et et rerum ipsam aut reiciendis deserunt. Ipsa dolor enim odit ipsum et similique atque.",
+            "paragraph": "Qui corrupti vero est odio deserunt quia consequatur. Id tempore velit aut vel consequatur repudiandae et dolorum. Sit pariatur in aut beatae consequatur et. Est vero ex omnis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "310.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kessler Group",
+            "name": "Investment Account 8918",
+            "type": "withdrawal",
+            "account": "75571958"
+        },
+        {
+            "amount": "512.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Keeling - Wilderman",
+            "name": "Home Loan Account 2934",
+            "type": "invoice",
+            "account": "93387187"
+        },
+        {
+            "amount": "990.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Roob, Gorczany and Hagenes",
+            "name": "Home Loan Account 1940",
+            "type": "deposit",
+            "account": "54149932"
+        }
+    ]
+}

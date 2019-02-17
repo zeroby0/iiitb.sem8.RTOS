@@ -1,0 +1,72 @@
+{
+    "name": "Jacklyn Bahringer",
+    "username": "Dallas_Tillman",
+    "email": "Chris_Lynch@yahoo.com",
+    "address": {
+        "streetA": "Gislason Mission",
+        "streetB": "84046 Schmidt Station",
+        "streetC": "531 Lindgren Shore Apt. 153",
+        "streetD": "Apt. 047",
+        "city": "North Oscar",
+        "state": "Missouri",
+        "country": "Kiribati",
+        "zipcode": "96418-4897",
+        "geo": {
+            "lat": "79.6777",
+            "lng": "-83.6884"
+        }
+    },
+    "phone": "211.058.1641",
+    "website": "una.info",
+    "company": {
+        "name": "Nolan - Considine",
+        "catchPhrase": "Exclusive 5th generation alliance",
+        "bs": "killer redefine initiatives"
+    },
+    "posts": [
+        {
+            "words": "magnam dolores magni",
+            "sentence": "Consequuntur ad vitae earum.",
+            "sentences": "Quibusdam quas sunt sint. Dolore dolorum eius dicta distinctio magni inventore adipisci et. Culpa nesciunt commodi saepe vel eius quisquam. Nostrum est voluptates eaque fuga magni amet hic.",
+            "paragraph": "Quas ratione aliquid natus est. Vitae ratione ut tempora explicabo eum. Voluptatem sequi quaerat debitis adipisci quis. Perspiciatis totam veniam animi explicabo sed temporibus placeat quia. Autem quam est omnis commodi earum."
+        },
+        {
+            "words": "accusamus quis accusantium",
+            "sentence": "Voluptate molestiae aut exercitationem.",
+            "sentences": "Amet esse ad consequatur voluptatem eligendi voluptas et. Dolores cupiditate iure quo facere inventore aut aliquid aperiam sit. Rerum est dignissimos corporis debitis est et et. Commodi itaque est modi nemo dicta totam.",
+            "paragraph": "Qui quia labore atque itaque mollitia illum vel nisi optio. Odio et quisquam nemo voluptatum. Fugit sed vitae tenetur excepturi voluptate. Officia nihil dignissimos est nostrum. Sequi cupiditate tempora. Est qui laudantium id."
+        },
+        {
+            "words": "et dolorum incidunt",
+            "sentence": "Ratione omnis dolorum qui est dolor eaque nam eos.",
+            "sentences": "Aut quia eum illum ipsum et. Unde enim autem molestiae in asperiores quasi culpa libero in. Numquam earum est amet. Aut qui nemo eveniet consequuntur et corporis laboriosam. Distinctio rem odio excepturi consectetur et et occaecati magni sed.",
+            "paragraph": "Eum voluptas laudantium. Iure asperiores commodi ut. Ut et aut est earum voluptate facilis soluta est. Optio non ex ratione est. Commodi et impedit sequi tempore commodi neque est voluptatem id. Voluptas animi qui veniam sint voluptatibus aut rem quia perspiciatis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "378.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "West LLC",
+            "name": "Auto Loan Account 1410",
+            "type": "invoice",
+            "account": "95609713"
+        },
+        {
+            "amount": "760.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Osinski, Rohan and Osinski",
+            "name": "Home Loan Account 4134",
+            "type": "invoice",
+            "account": "71214188"
+        },
+        {
+            "amount": "296.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jenkins, Olson and Cole",
+            "name": "Investment Account 4242",
+            "type": "withdrawal",
+            "account": "91566022"
+        }
+    ]
+}

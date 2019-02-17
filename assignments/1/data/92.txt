@@ -1,0 +1,72 @@
+{
+    "name": "Jordon Armstrong",
+    "username": "Bobbie22",
+    "email": "Orval.Wilderman40@hotmail.com",
+    "address": {
+        "streetA": "Marcia Corner",
+        "streetB": "72967 Kulas Pines",
+        "streetC": "2729 Stanton Well Apt. 270",
+        "streetD": "Suite 374",
+        "city": "North Jaunitastad",
+        "state": "Alabama",
+        "country": "Turks and Caicos Islands",
+        "zipcode": "17159-4624",
+        "geo": {
+            "lat": "48.3469",
+            "lng": "-144.4314"
+        }
+    },
+    "phone": "335.601.6669 x669",
+    "website": "elias.com",
+    "company": {
+        "name": "Cartwright, King and Strosin",
+        "catchPhrase": "Persistent composite strategy",
+        "bs": "value-added innovate ROI"
+    },
+    "posts": [
+        {
+            "words": "velit et est",
+            "sentence": "Quod ratione fugit deserunt sint sed provident nostrum expedita.",
+            "sentences": "Odio aut qui quis qui aliquid reprehenderit temporibus mollitia. Porro voluptas ea quis aspernatur consequatur quis in nesciunt sint. Quae placeat et qui qui odit dolore. Quod nobis delectus et laudantium voluptatem et repudiandae.",
+            "paragraph": "Magnam ipsa officia corporis ab aut quibusdam ipsa. Consequatur sed harum est architecto. Cupiditate eligendi cumque in vel iste. Quod qui aut officiis possimus quo sed alias vero fugiat. Asperiores fugiat voluptatem nisi soluta magni rerum ut. Nostrum quaerat quis modi odit ut officia impedit excepturi delectus."
+        },
+        {
+            "words": "sed quia ipsum",
+            "sentence": "Nobis in ipsam impedit quia est necessitatibus et enim rerum.",
+            "sentences": "Cupiditate est rerum et laboriosam ab quaerat quia. Autem impedit consequatur perspiciatis fugiat repellendus pariatur quia. Enim asperiores voluptatem totam.",
+            "paragraph": "Ipsum provident asperiores. Qui quia labore sint officiis harum repellat quae hic culpa. Quibusdam atque sunt. Quisquam quis excepturi natus eaque quod maiores laudantium sit. Error aut quae non voluptas eos."
+        },
+        {
+            "words": "aspernatur eveniet aut",
+            "sentence": "Sit quasi sed rerum qui totam.",
+            "sentences": "Ea id velit esse magni dolores dolores autem. Voluptas at consectetur et voluptatem expedita consequatur sit officiis.",
+            "paragraph": "Quisquam quas et voluptas optio. Deserunt id eaque officia. Voluptate nisi ut sapiente tempore iusto quas dolorum impedit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "767.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Parisian Inc",
+            "name": "Home Loan Account 4547",
+            "type": "deposit",
+            "account": "30380719"
+        },
+        {
+            "amount": "558.58",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lemke - Jacobs",
+            "name": "Money Market Account 6139",
+            "type": "withdrawal",
+            "account": "31178987"
+        },
+        {
+            "amount": "216.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stiedemann, Hahn and Nader",
+            "name": "Home Loan Account 1806",
+            "type": "deposit",
+            "account": "41913039"
+        }
+    ]
+}

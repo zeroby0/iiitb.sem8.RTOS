@@ -1,0 +1,72 @@
+{
+    "name": "Mariam Effertz",
+    "username": "Alexandria45",
+    "email": "Coleman.Rohan@gmail.com",
+    "address": {
+        "streetA": "Heidenreich Mission",
+        "streetB": "55705 Durgan Greens",
+        "streetC": "8393 Osinski Greens Suite 764",
+        "streetD": "Suite 380",
+        "city": "Elissaview",
+        "state": "Virginia",
+        "country": "Albania",
+        "zipcode": "48532",
+        "geo": {
+            "lat": "-17.6258",
+            "lng": "89.6692"
+        }
+    },
+    "phone": "780-723-1800 x38980",
+    "website": "harmon.net",
+    "company": {
+        "name": "Becker Inc",
+        "catchPhrase": "Focused demand-driven algorithm",
+        "bs": "scalable enable infrastructures"
+    },
+    "posts": [
+        {
+            "words": "voluptatibus tenetur error",
+            "sentence": "Ut doloribus culpa.",
+            "sentences": "Fugiat laboriosam pariatur. Nihil tempora ducimus. Et odio est sequi. Magnam quia qui rerum laudantium error non qui. Expedita occaecati reiciendis labore.",
+            "paragraph": "Qui nobis minima voluptatem veniam totam aut dolores ut. Et aut quam at quia eligendi velit. Sed aut dolores ut ad soluta maxime quam quae. Deserunt consequatur qui corrupti."
+        },
+        {
+            "words": "qui voluptatem sed",
+            "sentence": "Quidem at impedit impedit eos quisquam consequuntur dicta.",
+            "sentences": "Voluptas pariatur voluptatem eius enim a. Eius nam placeat in officia et quaerat. In magni velit qui quia a a pariatur aut. Ullam neque commodi. Animi ipsa quisquam voluptate deserunt sapiente omnis pariatur nemo aut.",
+            "paragraph": "Officia esse nisi similique consequatur reprehenderit error. Dolorem quis est sunt unde dolor voluptatem architecto. Veniam id vel sed ea esse praesentium atque. Totam dolorem et. Voluptatem accusamus laudantium ipsa velit asperiores nesciunt atque minima."
+        },
+        {
+            "words": "saepe qui aut",
+            "sentence": "Iure nesciunt id aliquam consequatur quia.",
+            "sentences": "Suscipit ea modi quas et. Hic hic deserunt nam deleniti. Temporibus id dolorem et illo cumque qui blanditiis. Nulla et quam quam est sit ad excepturi.",
+            "paragraph": "Error aperiam dolorem ut provident ab asperiores placeat dignissimos et. Possimus commodi et eaque quas est eum. Sapiente magni dolores est."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "362.74",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hettinger - Raynor",
+            "name": "Home Loan Account 2006",
+            "type": "deposit",
+            "account": "48830494"
+        },
+        {
+            "amount": "523.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bashirian - Marks",
+            "name": "Savings Account 7101",
+            "type": "payment",
+            "account": "39147538"
+        },
+        {
+            "amount": "322.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gleason, Conn and Metz",
+            "name": "Home Loan Account 2221",
+            "type": "invoice",
+            "account": "07526897"
+        }
+    ]
+}

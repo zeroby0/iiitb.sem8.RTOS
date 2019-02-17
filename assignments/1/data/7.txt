@@ -1,0 +1,72 @@
+{
+    "name": "Kevin Hills",
+    "username": "Demario_Williamson",
+    "email": "Grace_Ritchie@hotmail.com",
+    "address": {
+        "streetA": "Reginald Burg",
+        "streetB": "190 Wisozk Place",
+        "streetC": "18344 Americo Wall Apt. 729",
+        "streetD": "Apt. 298",
+        "city": "Lake Favian",
+        "state": "New Jersey",
+        "country": "Kiribati",
+        "zipcode": "15099-7949",
+        "geo": {
+            "lat": "67.3913",
+            "lng": "-66.9611"
+        }
+    },
+    "phone": "(222) 693-0107",
+    "website": "billy.com",
+    "company": {
+        "name": "Gutkowski Group",
+        "catchPhrase": "Monitored bifurcated artificial intelligence",
+        "bs": "granular optimize users"
+    },
+    "posts": [
+        {
+            "words": "et iure ab",
+            "sentence": "Eaque consequatur sit.",
+            "sentences": "Ullam ut id quidem possimus molestias itaque voluptates quibusdam. Itaque aut aut est quos consequatur optio ut distinctio. Quos modi reiciendis beatae sunt ea magnam facere natus qui. Provident ea repellendus.",
+            "paragraph": "Velit laboriosam reprehenderit illum numquam id officiis. Excepturi qui voluptas soluta est sed et quibusdam dolores tempora. Qui perferendis totam minima. Possimus ut voluptatem dignissimos."
+        },
+        {
+            "words": "corrupti excepturi quos",
+            "sentence": "Beatae qui rerum sit porro voluptatem distinctio.",
+            "sentences": "Ipsa ipsa sunt ab dolorem dolore corporis ex reprehenderit. Repellendus sunt animi ipsum tenetur atque id accusantium qui dolor. Est sit velit.",
+            "paragraph": "Numquam quod nulla est. Incidunt id voluptatem itaque earum. Iste sunt reprehenderit incidunt culpa id dolorem vitae. Dolore porro delectus a perferendis. Velit voluptatum in facere enim."
+        },
+        {
+            "words": "sequi ut placeat",
+            "sentence": "Consequuntur odit in error labore fuga vero numquam.",
+            "sentences": "Vel facere aut non. Tempora earum nemo quia porro amet quam. Est dolores eius et atque enim molestias. Beatae cupiditate ut.",
+            "paragraph": "Voluptatem ex perspiciatis dignissimos harum ratione. Animi incidunt accusantium dolorem et sint. Tenetur corrupti aut corrupti cum dolor consequatur ipsum totam reiciendis. Architecto quam autem maxime ex possimus. Ab debitis ducimus. Ut et quidem reiciendis doloribus perspiciatis ut reiciendis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "837.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Glover Group",
+            "name": "Savings Account 6020",
+            "type": "invoice",
+            "account": "79984330"
+        },
+        {
+            "amount": "952.54",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tromp Inc",
+            "name": "Home Loan Account 9451",
+            "type": "invoice",
+            "account": "56263392"
+        },
+        {
+            "amount": "143.74",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Collier - Williamson",
+            "name": "Credit Card Account 4165",
+            "type": "deposit",
+            "account": "29060986"
+        }
+    ]
+}

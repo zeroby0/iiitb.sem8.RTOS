@@ -1,0 +1,72 @@
+{
+    "name": "Mr. Kian Stoltenberg",
+    "username": "Celia_Collins",
+    "email": "Arjun.Heidenreich@hotmail.com",
+    "address": {
+        "streetA": "Crist Plaza",
+        "streetB": "6578 Deondre Forest",
+        "streetC": "1067 Wilmer Square Apt. 981",
+        "streetD": "Apt. 808",
+        "city": "Kevenside",
+        "state": "Virginia",
+        "country": "Netherlands",
+        "zipcode": "47013",
+        "geo": {
+            "lat": "89.9957",
+            "lng": "163.9299"
+        }
+    },
+    "phone": "1-504-836-1608",
+    "website": "brent.org",
+    "company": {
+        "name": "Stark Group",
+        "catchPhrase": "Enhanced needs-based process improvement",
+        "bs": "scalable cultivate models"
+    },
+    "posts": [
+        {
+            "words": "id aspernatur sunt",
+            "sentence": "Dolores id earum asperiores similique aliquid maxime.",
+            "sentences": "Enim enim quos. Ut perferendis quod qui delectus accusamus nostrum provident consequatur voluptas. Dolores a optio rem voluptatem natus omnis dolor error. Exercitationem molestias qui. Ipsa harum omnis dolore maxime.",
+            "paragraph": "Dolore exercitationem voluptatibus quia. Sit facilis placeat non est expedita et. Delectus neque quaerat aut officia consequuntur quo quo."
+        },
+        {
+            "words": "ut vel eius",
+            "sentence": "Consequatur ab fugit sed.",
+            "sentences": "Ipsa qui nostrum dolorem. Dolor et sint. Ipsa quibusdam accusantium esse eos. Ipsam eum et autem reprehenderit qui repellendus voluptas suscipit. Ut natus architecto suscipit ut.",
+            "paragraph": "Voluptas velit et amet labore necessitatibus iusto placeat. Harum aperiam eligendi consequatur. Est ut ad corporis qui ut quam. Qui quia libero doloremque quas tenetur doloremque qui vel. Eaque aut aspernatur quos ad quia."
+        },
+        {
+            "words": "sed velit molestiae",
+            "sentence": "Vel aut soluta qui.",
+            "sentences": "Rem ea voluptas molestiae voluptatum et consequatur adipisci et ut. Iste aut suscipit. Et pariatur non. Repellendus mollitia et quo quis expedita vitae aperiam sapiente rem. Dolore repellat quo.",
+            "paragraph": "Sed enim veniam ab aut tempore officiis. Sit ut dolorem assumenda vero nostrum unde ullam nulla. Occaecati magni ducimus laudantium vero in natus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "804.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Torp, Kulas and Sipes",
+            "name": "Money Market Account 4818",
+            "type": "withdrawal",
+            "account": "70467288"
+        },
+        {
+            "amount": "29.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Buckridge, Little and Fadel",
+            "name": "Money Market Account 7139",
+            "type": "withdrawal",
+            "account": "20874002"
+        },
+        {
+            "amount": "270.65",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "West - O'Hara",
+            "name": "Auto Loan Account 9652",
+            "type": "withdrawal",
+            "account": "61821864"
+        }
+    ]
+}

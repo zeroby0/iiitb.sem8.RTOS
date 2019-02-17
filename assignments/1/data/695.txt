@@ -1,0 +1,72 @@
+{
+    "name": "Reyna Lind",
+    "username": "Dane.Ratke32",
+    "email": "Crawford.Shields@gmail.com",
+    "address": {
+        "streetA": "Arlo Center",
+        "streetB": "90301 Mante Cape",
+        "streetC": "20312 Mante Causeway Apt. 810",
+        "streetD": "Apt. 948",
+        "city": "North Toy",
+        "state": "Arkansas",
+        "country": "Bolivia",
+        "zipcode": "87107-4834",
+        "geo": {
+            "lat": "-7.2742",
+            "lng": "1.1383"
+        }
+    },
+    "phone": "1-535-987-5175",
+    "website": "aiyana.info",
+    "company": {
+        "name": "Johns - O'Hara",
+        "catchPhrase": "Fully-configurable regional secured line",
+        "bs": "killer evolve interfaces"
+    },
+    "posts": [
+        {
+            "words": "reprehenderit illo distinctio",
+            "sentence": "Unde ut consequuntur adipisci odio minus voluptatem vero sapiente ut.",
+            "sentences": "Nostrum explicabo id corrupti. Esse non commodi ut reprehenderit tempore. Voluptas et iure laudantium asperiores a doloribus dolore. Ullam in pariatur et amet beatae est. Ut tempore dolorum quas quos voluptatem.",
+            "paragraph": "Error aliquid exercitationem cupiditate iste voluptate corrupti hic ut culpa. Esse expedita modi cumque perspiciatis occaecati consequatur debitis maxime aut. Dolore ad voluptas id quidem et. Laboriosam et qui cupiditate sunt. Fuga omnis voluptas distinctio ea dicta inventore."
+        },
+        {
+            "words": "fugiat est libero",
+            "sentence": "Accusamus necessitatibus corporis consequatur molestiae perferendis porro.",
+            "sentences": "Accusantium molestiae aliquam quo repellendus sit sit. Qui id eius reprehenderit amet rerum ut pariatur magni. Aliquid qui hic. Nobis est sunt temporibus ipsum et id occaecati. Dolores voluptatem vel numquam perferendis ex.",
+            "paragraph": "Accusamus aut numquam iste accusantium quia eveniet quia. Qui tenetur reprehenderit labore voluptas accusamus quibusdam provident suscipit. Quia ipsa sit. Voluptatem eveniet aliquam molestiae sunt consequuntur asperiores impedit. Voluptatem dolorem deleniti. Id quas qui qui nobis aut blanditiis natus non."
+        },
+        {
+            "words": "natus voluptate ea",
+            "sentence": "Voluptatem repudiandae culpa ipsam.",
+            "sentences": "In sit nam explicabo autem cumque error dolores consequatur deserunt. Aliquam ab exercitationem voluptas possimus minima molestiae exercitationem et. Asperiores labore voluptas dolorum asperiores eligendi iure inventore ut quia. Unde veritatis ullam quae. Qui sit autem sapiente vel corporis eum non ratione et. Error sit deserunt molestiae voluptatum nulla ipsa.",
+            "paragraph": "Incidunt et ipsa nam qui aut. Et possimus ut libero quis molestiae sit. Modi iusto est dicta. Doloremque laborum officia voluptatem rerum quis nesciunt. Voluptas voluptatem distinctio explicabo voluptatem omnis eum facilis molestiae. Et neque quam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "610.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Thiel - Altenwerth",
+            "name": "Credit Card Account 7160",
+            "type": "payment",
+            "account": "67425939"
+        },
+        {
+            "amount": "415.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bartell - Ankunding",
+            "name": "Home Loan Account 9658",
+            "type": "withdrawal",
+            "account": "55113303"
+        },
+        {
+            "amount": "498.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Renner and Sons",
+            "name": "Investment Account 2927",
+            "type": "deposit",
+            "account": "99162433"
+        }
+    ]
+}

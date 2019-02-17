@@ -1,0 +1,72 @@
+{
+    "name": "Tavares Stark",
+    "username": "Jace66",
+    "email": "Joanny.Spencer@yahoo.com",
+    "address": {
+        "streetA": "Tito Union",
+        "streetB": "4092 Dickens Run",
+        "streetC": "152 Francis Crossroad Apt. 886",
+        "streetD": "Suite 064",
+        "city": "North Jazmynborough",
+        "state": "Iowa",
+        "country": "Argentina",
+        "zipcode": "16969",
+        "geo": {
+            "lat": "-31.2155",
+            "lng": "-22.5081"
+        }
+    },
+    "phone": "(158) 201-5970",
+    "website": "gabriel.biz",
+    "company": {
+        "name": "Boyle, Konopelski and Beahan",
+        "catchPhrase": "Focused 5th generation budgetary management",
+        "bs": "synergistic synergize metrics"
+    },
+    "posts": [
+        {
+            "words": "quia nam temporibus",
+            "sentence": "Rerum nesciunt aspernatur.",
+            "sentences": "Natus quidem dicta natus rem. Mollitia sed non vel eum repudiandae illum consectetur magni. Nesciunt recusandae quas rerum doloribus libero quibusdam. Sequi harum dignissimos alias nihil omnis molestiae. Doloribus delectus repellendus minima modi. Eum est alias quam.",
+            "paragraph": "Quos expedita cupiditate et eos dolore. Ut facilis quia. Provident doloremque necessitatibus rem aut voluptatem maxime. Tempore reprehenderit similique ex laborum est aut sit nesciunt esse. Dolorem atque unde ut culpa accusantium tempora nisi. Aliquam sed eligendi molestias ipsum nam asperiores nihil id."
+        },
+        {
+            "words": "quam pariatur minus",
+            "sentence": "Nemo architecto explicabo officiis repellat velit.",
+            "sentences": "Aperiam tempore ullam et minus. Minus beatae dolores consectetur architecto qui ut et nemo. At porro voluptatibus enim est et inventore est voluptatem. Harum sit dignissimos beatae aut aliquid ut voluptatem quae.",
+            "paragraph": "Et eligendi aliquam maiores facilis quos sint ea nobis libero. Cum facere aliquid veritatis nobis aut perspiciatis quaerat dicta tempore. Officiis ut debitis iusto et ut repudiandae consequatur qui aliquid. Eligendi hic velit amet. Quia omnis sed accusamus."
+        },
+        {
+            "words": "fugit inventore incidunt",
+            "sentence": "Qui consequatur est omnis excepturi aspernatur voluptates.",
+            "sentences": "Laborum cum nesciunt commodi molestiae nulla. Ipsa repellat id dignissimos occaecati. Libero quaerat expedita inventore eaque consequatur repudiandae inventore neque. Et iure quia fugiat velit quidem dolor quae laudantium et.",
+            "paragraph": "Molestias vitae modi hic. Nihil vel ab eum enim a dignissimos adipisci. Vero aut ipsam voluptas omnis iste deleniti. Voluptatum ipsa dolores harum non. Quae aliquam aspernatur qui minus suscipit perspiciatis labore et autem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "982.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Johnston - Prohaska",
+            "name": "Credit Card Account 2489",
+            "type": "deposit",
+            "account": "88178161"
+        },
+        {
+            "amount": "631.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobi - Wuckert",
+            "name": "Auto Loan Account 5680",
+            "type": "withdrawal",
+            "account": "90247580"
+        },
+        {
+            "amount": "633.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Huels and Sons",
+            "name": "Credit Card Account 5106",
+            "type": "invoice",
+            "account": "24729197"
+        }
+    ]
+}

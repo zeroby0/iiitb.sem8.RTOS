@@ -1,0 +1,72 @@
+{
+    "name": "Oceane Ruecker",
+    "username": "Rubye_Schmidt64",
+    "email": "Cortney.Lemke56@yahoo.com",
+    "address": {
+        "streetA": "Emely Village",
+        "streetB": "82498 Saul Spur",
+        "streetC": "5681 Edwin Shore Apt. 968",
+        "streetD": "Apt. 186",
+        "city": "Lake Candida",
+        "state": "Wyoming",
+        "country": "Zimbabwe",
+        "zipcode": "31777",
+        "geo": {
+            "lat": "-28.9273",
+            "lng": "62.4463"
+        }
+    },
+    "phone": "(381) 884-6675 x03800",
+    "website": "lorine.biz",
+    "company": {
+        "name": "Stamm - Daniel",
+        "catchPhrase": "Configurable national infrastructure",
+        "bs": "holistic aggregate functionalities"
+    },
+    "posts": [
+        {
+            "words": "consequatur temporibus at",
+            "sentence": "Et recusandae neque quae ratione quam libero.",
+            "sentences": "Sint ea optio qui voluptas. Fugit quos a ipsa ex. Laudantium voluptates aperiam ut. Laudantium praesentium quisquam velit earum fuga provident fugiat cumque. Ex aperiam unde dolor fuga temporibus.",
+            "paragraph": "Excepturi enim laboriosam labore magnam esse eum sint consequuntur. Praesentium nihil sit. Perspiciatis odit quidem qui. Consequatur quibusdam ut aut cupiditate rem nihil accusantium enim. Sequi corrupti dolor in."
+        },
+        {
+            "words": "voluptas id dolores",
+            "sentence": "Eos et incidunt voluptatem nisi neque saepe voluptatem alias delectus.",
+            "sentences": "Omnis molestiae aspernatur libero et aut dolore tenetur delectus rem. Accusamus repellat consequatur molestias occaecati deleniti. Nesciunt et mollitia eos dolores quaerat sint molestiae.",
+            "paragraph": "Quisquam eveniet ut suscipit. Rem omnis tempora exercitationem natus culpa voluptatem nihil cum neque. Est omnis corporis. Ut nihil sint officia corrupti qui sunt quo. Et ut sapiente aliquam. Est fugiat porro."
+        },
+        {
+            "words": "deserunt nobis quia",
+            "sentence": "Laudantium quia autem.",
+            "sentences": "Et fuga delectus esse quia iusto qui autem et. Labore voluptas saepe unde vero unde ut non sint atque.",
+            "paragraph": "Aut ratione numquam minus. Et maxime facere ad vero provident eaque et deserunt cupiditate. Unde ut sed doloremque culpa tempora. Saepe sit eos veritatis commodi minima aut. Eaque quia cupiditate ut ab eligendi rem perferendis. Perferendis temporibus aut consequuntur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "402.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Turner - Wintheiser",
+            "name": "Personal Loan Account 2717",
+            "type": "deposit",
+            "account": "50361821"
+        },
+        {
+            "amount": "555.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bernier - Littel",
+            "name": "Investment Account 2266",
+            "type": "invoice",
+            "account": "75766535"
+        },
+        {
+            "amount": "650.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beier, Daugherty and Blanda",
+            "name": "Savings Account 5995",
+            "type": "withdrawal",
+            "account": "60831692"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Willard Mraz",
+    "username": "Jesus22",
+    "email": "Alfreda.Nolan@hotmail.com",
+    "address": {
+        "streetA": "Nicola Park",
+        "streetB": "42203 Paucek Point",
+        "streetC": "050 Moen Field Suite 761",
+        "streetD": "Apt. 150",
+        "city": "West Justusburgh",
+        "state": "North Carolina",
+        "country": "Djibouti",
+        "zipcode": "39105",
+        "geo": {
+            "lat": "-30.3012",
+            "lng": "59.8818"
+        }
+    },
+    "phone": "1-740-069-6832 x248",
+    "website": "lucas.com",
+    "company": {
+        "name": "Jones LLC",
+        "catchPhrase": "Decentralized multi-tasking superstructure",
+        "bs": "24/7 deliver deliverables"
+    },
+    "posts": [
+        {
+            "words": "sequi rem quis",
+            "sentence": "Ut aut quo corrupti vero dolorem fuga praesentium ut.",
+            "sentences": "Quisquam similique excepturi non aut neque. Nostrum incidunt facilis quae veritatis quam deleniti hic optio. Alias explicabo consequatur placeat nostrum.",
+            "paragraph": "Autem corrupti consequatur ex repellendus est. Et et ullam. Consequatur dolore cum ipsa est illum. Hic aut aut."
+        },
+        {
+            "words": "ab odio quia",
+            "sentence": "Repellendus aut sunt harum iure molestiae.",
+            "sentences": "Maxime non itaque pariatur libero dolores fugiat laborum. Praesentium autem quis.",
+            "paragraph": "Cum fugiat quam aut voluptas. Omnis est eaque ex sint a omnis. Corrupti et molestiae unde voluptates officiis excepturi repellat aperiam ut. Id minus libero corrupti omnis illum cumque ullam facere. Et dolores quia id ut."
+        },
+        {
+            "words": "beatae ipsa ut",
+            "sentence": "Quis laborum qui iure accusamus molestiae vero odio est.",
+            "sentences": "Magni necessitatibus veritatis corporis. Perferendis dolore voluptate molestiae nam voluptas laboriosam esse. Libero voluptatem qui eos omnis ea tempora quibusdam. Labore dolore saepe fugit numquam unde enim odio.",
+            "paragraph": "Sequi quaerat fugit et qui et. Ex aspernatur occaecati accusamus sunt. Rerum explicabo quas et possimus fuga quos fugiat soluta."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "151.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Streich - Botsford",
+            "name": "Personal Loan Account 1092",
+            "type": "payment",
+            "account": "15142631"
+        },
+        {
+            "amount": "9.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Green, Mraz and Will",
+            "name": "Home Loan Account 5151",
+            "type": "withdrawal",
+            "account": "45159003"
+        },
+        {
+            "amount": "561.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ankunding and Sons",
+            "name": "Personal Loan Account 3653",
+            "type": "payment",
+            "account": "94228782"
+        }
+    ]
+}

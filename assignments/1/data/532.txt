@@ -1,0 +1,72 @@
+{
+    "name": "Mrs. Malcolm Beahan",
+    "username": "Korey.Bechtelar11",
+    "email": "Uriah68@gmail.com",
+    "address": {
+        "streetA": "Nolan Lake",
+        "streetB": "044 O'Kon Drive",
+        "streetC": "64707 Mabel Wells Apt. 242",
+        "streetD": "Apt. 785",
+        "city": "Bernardside",
+        "state": "Tennessee",
+        "country": "Svalbard & Jan Mayen Islands",
+        "zipcode": "67959-7515",
+        "geo": {
+            "lat": "80.5317",
+            "lng": "6.5121"
+        }
+    },
+    "phone": "479-276-6380 x33614",
+    "website": "gia.name",
+    "company": {
+        "name": "Rowe - Abernathy",
+        "catchPhrase": "Cross-group motivating pricing structure",
+        "bs": "plug-and-play expedite systems"
+    },
+    "posts": [
+        {
+            "words": "dignissimos soluta veritatis",
+            "sentence": "Ad rerum totam ut tenetur incidunt.",
+            "sentences": "Eius maiores dolores. Et culpa modi similique quo possimus voluptatem ratione. Praesentium voluptas occaecati. Cupiditate veniam ex eum. Est ad tenetur dignissimos atque.",
+            "paragraph": "Accusantium mollitia sint facere est et sed dolores dolor. Doloremque ea nam et pariatur optio non commodi. Aut maxime ipsa sed sed quibusdam ut nulla quasi quaerat. Ut et eaque ut. Ducimus aperiam magni. Laudantium omnis officiis."
+        },
+        {
+            "words": "quae non distinctio",
+            "sentence": "Ut sunt quis qui voluptas est id iusto.",
+            "sentences": "Corporis autem aut animi totam quia. Ex fuga laborum necessitatibus quo veniam at. Explicabo est nisi perferendis illo itaque amet est enim dolores. Dolor autem sunt. Autem nemo iure ut. Voluptatem et nostrum numquam ipsa delectus ipsum autem ut.",
+            "paragraph": "Totam et iste labore qui quia. Reiciendis aliquam quibusdam nemo sed repellendus aut dolor id. Explicabo qui optio. Eum ex dolorem ab vitae totam et quod velit. Sit dolores quia. Nisi voluptatum sint similique odio voluptas facere."
+        },
+        {
+            "words": "nulla corporis aliquam",
+            "sentence": "Saepe dolores nisi.",
+            "sentences": "Voluptates asperiores perferendis excepturi architecto eveniet. Sed tempora eveniet quia voluptas. Commodi cumque dolor incidunt aperiam. Id dicta aut non a. Molestiae quia autem atque vel earum minima pariatur.",
+            "paragraph": "Labore voluptates sint sit aperiam ut laboriosam voluptatibus. Debitis et qui consectetur at aspernatur quos quo. Quam quaerat aut laborum laboriosam dolorem vero exercitationem iusto."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "230.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jast - Marks",
+            "name": "Savings Account 5965",
+            "type": "withdrawal",
+            "account": "56676279"
+        },
+        {
+            "amount": "53.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rau - Kiehn",
+            "name": "Personal Loan Account 4076",
+            "type": "deposit",
+            "account": "13760641"
+        },
+        {
+            "amount": "320.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Satterfield - Beier",
+            "name": "Money Market Account 5258",
+            "type": "withdrawal",
+            "account": "00294405"
+        }
+    ]
+}

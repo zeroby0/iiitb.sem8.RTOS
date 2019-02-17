@@ -1,0 +1,72 @@
+{
+    "name": "Jaclyn Smitham",
+    "username": "Dudley_OKon98",
+    "email": "Milton_Abbott@gmail.com",
+    "address": {
+        "streetA": "Camden Alley",
+        "streetB": "93775 O'Hara Brooks",
+        "streetC": "2630 Maiya Locks Apt. 878",
+        "streetD": "Apt. 381",
+        "city": "South Kevenview",
+        "state": "Maryland",
+        "country": "Central African Republic",
+        "zipcode": "13906-5875",
+        "geo": {
+            "lat": "-62.6283",
+            "lng": "-132.1824"
+        }
+    },
+    "phone": "1-055-383-9097 x54601",
+    "website": "ryann.net",
+    "company": {
+        "name": "Parisian - Sanford",
+        "catchPhrase": "Open-architected attitude-oriented superstructure",
+        "bs": "transparent exploit content"
+    },
+    "posts": [
+        {
+            "words": "culpa vitae soluta",
+            "sentence": "Maiores voluptas tenetur quas quia pariatur.",
+            "sentences": "Vel modi quas totam quo nostrum culpa. Quae quidem iste vitae pariatur occaecati vel. Quasi atque id unde qui. Ea ut esse deserunt rerum eum maxime quasi. Nobis cum autem sapiente reiciendis ratione ut. Sit velit facilis sequi aut doloremque expedita fuga.",
+            "paragraph": "Voluptas reiciendis quisquam dignissimos a alias cum explicabo quod. Rerum pariatur consequatur aspernatur illum deleniti et omnis. Itaque autem totam sit quis et et est dignissimos ut."
+        },
+        {
+            "words": "consequatur molestias qui",
+            "sentence": "Facere sed sunt vel a dignissimos labore accusantium fuga dignissimos.",
+            "sentences": "Sit reprehenderit quaerat itaque voluptatum ad consectetur. Commodi expedita magnam doloribus dolorem voluptas in quam dolore. Autem magnam quod minima velit. Aut animi enim. Sit velit et non.",
+            "paragraph": "Soluta mollitia deserunt. Ex fugiat consequatur. Architecto et at sint rerum veritatis ab deleniti. Ad omnis tempore hic assumenda. Cum sunt accusantium eius eveniet optio."
+        },
+        {
+            "words": "voluptatem tempora a",
+            "sentence": "Qui eos similique qui consequuntur tempora doloremque qui minima nam.",
+            "sentences": "Libero quo quis. Omnis exercitationem qui ad ullam alias repudiandae excepturi. Vero et velit sit itaque ad.",
+            "paragraph": "Aut sed ut optio. Commodi quis labore quas eum incidunt. Sunt dolor repellendus cumque saepe. Vel dolores architecto earum quas est ullam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "857.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mosciski - Reilly",
+            "name": "Personal Loan Account 4826",
+            "type": "deposit",
+            "account": "28320225"
+        },
+        {
+            "amount": "896.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Champlin - Mraz",
+            "name": "Savings Account 0142",
+            "type": "withdrawal",
+            "account": "88619632"
+        },
+        {
+            "amount": "564.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dicki - Mayer",
+            "name": "Checking Account 3894",
+            "type": "invoice",
+            "account": "03767131"
+        }
+    ]
+}

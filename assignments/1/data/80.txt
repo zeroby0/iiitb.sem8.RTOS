@@ -1,0 +1,72 @@
+{
+    "name": "Jayde Schinner",
+    "username": "Wilhelmine_Zboncak20",
+    "email": "Uriah_Kilback64@yahoo.com",
+    "address": {
+        "streetA": "Laila Key",
+        "streetB": "1005 Rosella Drive",
+        "streetC": "98198 Gutmann Canyon Suite 221",
+        "streetD": "Suite 985",
+        "city": "West Gudrun",
+        "state": "North Dakota",
+        "country": "Slovenia",
+        "zipcode": "40882",
+        "geo": {
+            "lat": "-10.1318",
+            "lng": "-27.2521"
+        }
+    },
+    "phone": "659.925.1489 x566",
+    "website": "tomas.net",
+    "company": {
+        "name": "Witting and Sons",
+        "catchPhrase": "Secured user-facing concept",
+        "bs": "web-enabled cultivate infrastructures"
+    },
+    "posts": [
+        {
+            "words": "dignissimos in nam",
+            "sentence": "Ut quis sint qui voluptates aut eum accusantium aut fugiat.",
+            "sentences": "Quia voluptate ab tenetur non velit officiis quibusdam. Atque possimus alias illo libero voluptatem. Et excepturi dolor. Qui est sit voluptatem distinctio dolorum ea sit. Placeat voluptate id.",
+            "paragraph": "Autem optio in. Quis eligendi soluta et tempora repudiandae voluptatem corporis id sapiente. Soluta amet voluptatem velit possimus aperiam ex aut id eaque."
+        },
+        {
+            "words": "sint at minus",
+            "sentence": "Nobis atque optio iure odit tempora placeat expedita harum asperiores.",
+            "sentences": "Architecto mollitia temporibus ut repellendus. Aperiam quis incidunt debitis. Sit quo minus odio fugit culpa qui vel ut nesciunt.",
+            "paragraph": "Ratione natus nesciunt amet amet sit illo illo. Ut asperiores ratione libero harum omnis exercitationem aut eaque. Quae voluptatibus illo temporibus velit culpa. Et aliquid consequuntur occaecati voluptatum accusamus porro quia sit. Dolor veniam porro consectetur commodi exercitationem vel. Nobis maiores quis eum quia aspernatur dolorem asperiores officia commodi."
+        },
+        {
+            "words": "consequatur beatae similique",
+            "sentence": "Quidem sed aut commodi totam et fuga omnis quis consequuntur.",
+            "sentences": "Voluptatum consectetur rerum dolorum recusandae nisi non voluptatibus beatae. Esse maiores ipsam et commodi accusamus. Quibusdam facere veritatis velit tenetur ipsa quis qui.",
+            "paragraph": "Mollitia rerum explicabo. Aut beatae qui neque. Qui ducimus occaecati voluptatem nostrum laboriosam voluptas numquam aut molestiae. Laboriosam expedita numquam quisquam suscipit aliquid aperiam. Magnam amet delectus consequuntur voluptas consectetur nulla aut. Officia praesentium voluptatem et sed enim et sint culpa sint."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "208.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Barton Group",
+            "name": "Home Loan Account 2538",
+            "type": "payment",
+            "account": "77983671"
+        },
+        {
+            "amount": "67.31",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lehner LLC",
+            "name": "Personal Loan Account 2246",
+            "type": "invoice",
+            "account": "71862296"
+        },
+        {
+            "amount": "196.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Corkery, Russel and Roberts",
+            "name": "Personal Loan Account 3372",
+            "type": "withdrawal",
+            "account": "77621446"
+        }
+    ]
+}

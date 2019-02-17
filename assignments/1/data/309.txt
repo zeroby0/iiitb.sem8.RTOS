@@ -1,0 +1,72 @@
+{
+    "name": "Constantin Stark",
+    "username": "Noemie45",
+    "email": "Audie_Rodriguez@yahoo.com",
+    "address": {
+        "streetA": "Jaunita Estate",
+        "streetB": "3697 Demetris Mission",
+        "streetC": "893 Collier Views Suite 854",
+        "streetD": "Suite 725",
+        "city": "South Shany",
+        "state": "Minnesota",
+        "country": "Syrian Arab Republic",
+        "zipcode": "49959",
+        "geo": {
+            "lat": "-21.9596",
+            "lng": "-38.6431"
+        }
+    },
+    "phone": "1-225-411-4430 x54792",
+    "website": "sherman.info",
+    "company": {
+        "name": "Fritsch, Lueilwitz and Thiel",
+        "catchPhrase": "Integrated demand-driven project",
+        "bs": "synergistic facilitate paradigms"
+    },
+    "posts": [
+        {
+            "words": "vel quis eos",
+            "sentence": "Alias doloribus error ut non et.",
+            "sentences": "Molestiae distinctio et. Eos voluptatum neque sapiente quo quia consequatur.",
+            "paragraph": "Qui animi dignissimos fugiat expedita qui iure eum repudiandae totam. Blanditiis rerum et iusto explicabo in dolor voluptatem. Neque corporis delectus aut pariatur possimus animi facere sapiente velit."
+        },
+        {
+            "words": "nulla mollitia omnis",
+            "sentence": "Earum dicta eum error nisi nihil consequuntur architecto qui doloremque.",
+            "sentences": "Quia dicta expedita reprehenderit. Autem occaecati non velit ut temporibus.",
+            "paragraph": "Nemo ea architecto esse rerum voluptatem molestiae. Soluta architecto molestias. Nostrum placeat temporibus nemo commodi velit est. Ipsa possimus blanditiis et id ratione quas. Est pariatur doloremque nobis natus nihil sit nobis."
+        },
+        {
+            "words": "velit deserunt consequatur",
+            "sentence": "Nostrum voluptates mollitia aliquid ut accusantium.",
+            "sentences": "Explicabo beatae ut beatae sit sit ut non. Aliquam aut nam explicabo consequuntur et aut et eligendi error. Numquam aperiam accusamus quae quis ea nesciunt sint. Animi repudiandae animi in amet.",
+            "paragraph": "Ea voluptatem animi minima aut quasi ea sed id quibusdam. Animi qui praesentium accusantium doloremque maiores ut. A hic quo eaque ea ut autem error. Pariatur fugit eum omnis numquam qui."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "296.50",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Weber, Kreiger and Swift",
+            "name": "Auto Loan Account 4922",
+            "type": "payment",
+            "account": "83158515"
+        },
+        {
+            "amount": "886.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Armstrong - Bergstrom",
+            "name": "Savings Account 8617",
+            "type": "invoice",
+            "account": "73999601"
+        },
+        {
+            "amount": "618.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bednar LLC",
+            "name": "Checking Account 7258",
+            "type": "deposit",
+            "account": "69640476"
+        }
+    ]
+}

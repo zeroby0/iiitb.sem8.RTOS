@@ -1,0 +1,72 @@
+{
+    "name": "Frankie Pacocha",
+    "username": "Adolf.Leuschke",
+    "email": "Clifford.Bechtelar@hotmail.com",
+    "address": {
+        "streetA": "Laurine Wells",
+        "streetB": "20627 Crist Streets",
+        "streetC": "3795 Rowe Turnpike Apt. 391",
+        "streetD": "Apt. 388",
+        "city": "West Joefort",
+        "state": "Arkansas",
+        "country": "Montenegro",
+        "zipcode": "20991-1533",
+        "geo": {
+            "lat": "0.1543",
+            "lng": "50.9420"
+        }
+    },
+    "phone": "183.615.6034",
+    "website": "agustina.biz",
+    "company": {
+        "name": "Little, Schowalter and Wintheiser",
+        "catchPhrase": "Phased exuding matrix",
+        "bs": "world-class drive e-tailers"
+    },
+    "posts": [
+        {
+            "words": "labore qui voluptate",
+            "sentence": "Aut eligendi in voluptates.",
+            "sentences": "Qui et sunt nihil doloribus. Error eaque in. Id nihil aliquid et ipsa est quaerat voluptas. Nobis nostrum iste beatae quas ut veritatis. Velit in architecto. Eum itaque ut sunt harum quo.",
+            "paragraph": "Eum voluptate aliquam odit in nesciunt et tempora rem. Tempore assumenda quia omnis ex ut sit voluptatibus voluptate eum. Quisquam omnis pariatur minima dolorem dolores. Et molestias consectetur excepturi sequi est itaque sed."
+        },
+        {
+            "words": "quia tempore saepe",
+            "sentence": "Cumque nam laudantium occaecati amet et quod mollitia velit.",
+            "sentences": "Aut quos reiciendis rerum sint officia soluta nostrum. Dolorum velit sit.",
+            "paragraph": "Incidunt eos consequatur ea quas eum a et doloremque. Dolorum consequuntur nisi eum quaerat omnis suscipit a. Dolorem et minus consequuntur nesciunt ut id quia. Qui qui dolor molestiae dignissimos quos nemo."
+        },
+        {
+            "words": "aspernatur est id",
+            "sentence": "Tempore ratione maiores nemo eum.",
+            "sentences": "Illo repudiandae laborum rerum dolorem vitae placeat soluta accusantium. Exercitationem autem tempora corrupti. Commodi quod exercitationem sapiente sapiente voluptatem cupiditate sit debitis sunt. Rem et magnam. Et eligendi et consectetur.",
+            "paragraph": "Earum magni inventore rem aperiam et et et qui. Laboriosam voluptatem consequatur voluptatem numquam tempora quod voluptas quis aut. Omnis neque ut deserunt fuga ut. Eaque nobis tempora nihil exercitationem quod. Impedit repellendus quia quidem exercitationem ipsum consequatur enim. Sed recusandae ut et tenetur provident eum saepe quidem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "453.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kessler Group",
+            "name": "Money Market Account 5898",
+            "type": "invoice",
+            "account": "70940630"
+        },
+        {
+            "amount": "248.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kovacek - Considine",
+            "name": "Home Loan Account 6979",
+            "type": "deposit",
+            "account": "81988150"
+        },
+        {
+            "amount": "466.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lakin - Rempel",
+            "name": "Credit Card Account 5974",
+            "type": "withdrawal",
+            "account": "98508443"
+        }
+    ]
+}

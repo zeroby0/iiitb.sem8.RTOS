@@ -1,0 +1,72 @@
+{
+    "name": "Irma Ryan III",
+    "username": "Moises.Kuphal",
+    "email": "Breana_Bernier@yahoo.com",
+    "address": {
+        "streetA": "Bernice Stream",
+        "streetB": "583 Wuckert Ford",
+        "streetC": "372 Russel Bridge Apt. 030",
+        "streetD": "Suite 790",
+        "city": "Cronastad",
+        "state": "Massachusetts",
+        "country": "Mozambique",
+        "zipcode": "74563",
+        "geo": {
+            "lat": "20.6740",
+            "lng": "-54.3040"
+        }
+    },
+    "phone": "(160) 594-5513",
+    "website": "martina.info",
+    "company": {
+        "name": "O'Kon - Hills",
+        "catchPhrase": "Switchable bi-directional workforce",
+        "bs": "bricks-and-clicks utilize ROI"
+    },
+    "posts": [
+        {
+            "words": "quidem et deserunt",
+            "sentence": "Asperiores velit autem sed id magnam libero et distinctio.",
+            "sentences": "Sapiente eaque accusantium sed est aspernatur veritatis dolores. Quisquam libero aut quia fuga. Hic vel sequi eos eum velit.",
+            "paragraph": "Quia deserunt nesciunt asperiores recusandae asperiores. Ipsum exercitationem esse. Vero soluta et et. Et molestias quod voluptatem sapiente neque eveniet incidunt ea. Aspernatur iste excepturi illo architecto dolores necessitatibus. Doloribus minus facilis."
+        },
+        {
+            "words": "perspiciatis ipsa et",
+            "sentence": "Omnis accusantium laboriosam esse culpa odit iusto quidem tempora maxime.",
+            "sentences": "Voluptate explicabo dolor deserunt distinctio. Cum et consequatur quia dicta nemo voluptatum. Nihil eum ut sit sit. Voluptatibus sunt tempore reiciendis saepe pariatur.",
+            "paragraph": "Quo ipsam placeat incidunt voluptatem corporis. Quis illo dolorum pariatur incidunt est qui temporibus earum. Rerum occaecati totam est non in et hic tempore. Fugiat sapiente dolore ea illo qui rerum atque reprehenderit. Perspiciatis rerum nisi nemo laborum et incidunt ut et."
+        },
+        {
+            "words": "corrupti beatae fugiat",
+            "sentence": "Sunt facere nisi aliquam voluptates.",
+            "sentences": "Et ipsam ipsa dolores tempora. Magnam maxime voluptatem accusantium. Id magnam vitae sunt alias. Consequatur facere id voluptate occaecati aliquid excepturi. Earum asperiores cum eligendi pariatur distinctio. In dignissimos totam minus.",
+            "paragraph": "Blanditiis libero pariatur nobis minima qui. Rem sit voluptatem incidunt neque quia ut nobis libero. Ipsam officia nihil velit. Odit est natus aut numquam impedit explicabo odit. Explicabo quam sint quos tenetur est et similique eaque ea. Id ut corporis sed sapiente placeat voluptas quis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "276.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Grady and Sons",
+            "name": "Credit Card Account 2303",
+            "type": "deposit",
+            "account": "56202800"
+        },
+        {
+            "amount": "657.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wunsch - Schiller",
+            "name": "Savings Account 6336",
+            "type": "withdrawal",
+            "account": "75649364"
+        },
+        {
+            "amount": "509.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cassin, Miller and Stehr",
+            "name": "Auto Loan Account 5281",
+            "type": "withdrawal",
+            "account": "93670935"
+        }
+    ]
+}

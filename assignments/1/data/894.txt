@@ -1,0 +1,72 @@
+{
+    "name": "Bernardo Borer",
+    "username": "Felicia.Daniel10",
+    "email": "Archibald.Green@gmail.com",
+    "address": {
+        "streetA": "Rashad Fords",
+        "streetB": "9627 Langosh Fork",
+        "streetC": "376 Hermann Squares Suite 949",
+        "streetD": "Suite 976",
+        "city": "McLaughlintown",
+        "state": "New Mexico",
+        "country": "Paraguay",
+        "zipcode": "75479-8133",
+        "geo": {
+            "lat": "0.3669",
+            "lng": "105.0168"
+        }
+    },
+    "phone": "(628) 123-5785 x6320",
+    "website": "lilian.biz",
+    "company": {
+        "name": "Hettinger, Bruen and O'Keefe",
+        "catchPhrase": "Fully-configurable dedicated workforce",
+        "bs": "transparent engage action-items"
+    },
+    "posts": [
+        {
+            "words": "voluptatem voluptatibus et",
+            "sentence": "Nemo animi pariatur non ut consequuntur.",
+            "sentences": "Et in a. In possimus cupiditate rem. In placeat ut. Quo explicabo consequuntur repudiandae ab repellat non sunt vitae. Eveniet deserunt ut ut. Vel repudiandae in.",
+            "paragraph": "Quasi ipsa nam incidunt totam et molestiae voluptatibus. Velit omnis aliquam saepe rerum eos. Consectetur amet ipsa consectetur dolor est corporis tempore voluptatum. Molestiae debitis consequatur rerum. Consequatur fugit quaerat ex suscipit repellat. Veniam cupiditate odio eos quia libero at."
+        },
+        {
+            "words": "quam facilis alias",
+            "sentence": "Iste quidem non facilis.",
+            "sentences": "Harum voluptates rerum. Iure voluptas et animi quae et explicabo inventore. Atque et voluptas animi officia. Non dicta ratione nisi nihil veniam reiciendis laboriosam quos natus. Voluptatum qui perferendis doloribus magnam voluptas hic eius aut velit. Consequatur ut incidunt reiciendis non quis.",
+            "paragraph": "Est vel impedit veniam omnis. Est corrupti rem et aut eligendi perferendis quas et nemo. Repellat ex assumenda. Modi officiis quasi vel consequatur voluptatem. Id dolor sunt. Eveniet vitae saepe recusandae dolor voluptas et autem at."
+        },
+        {
+            "words": "magni rerum omnis",
+            "sentence": "Illum quam et blanditiis repellendus praesentium corporis.",
+            "sentences": "Esse ut quo et vero impedit quo nihil. Velit in atque ea. Consectetur consectetur pariatur et non dolore dolorem tempore ea aut. Ut asperiores ut unde ex quo. Commodi ad numquam quod beatae dolorem. Quos assumenda nobis.",
+            "paragraph": "Nostrum fugit eligendi quo et qui. Voluptatum voluptatum soluta corporis aspernatur quam minima. Ullam nobis voluptatibus molestiae consequatur quis est ut ut ut. Pariatur rerum incidunt debitis. Quo placeat nam modi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "201.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hand, Russel and Braun",
+            "name": "Credit Card Account 3929",
+            "type": "withdrawal",
+            "account": "98180270"
+        },
+        {
+            "amount": "973.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Leuschke, Ortiz and Altenwerth",
+            "name": "Checking Account 1494",
+            "type": "deposit",
+            "account": "93335315"
+        },
+        {
+            "amount": "912.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reinger Group",
+            "name": "Investment Account 2439",
+            "type": "invoice",
+            "account": "36939239"
+        }
+    ]
+}

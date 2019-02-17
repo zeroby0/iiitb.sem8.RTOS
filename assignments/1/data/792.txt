@@ -1,0 +1,72 @@
+{
+    "name": "Oceane Stroman PhD",
+    "username": "Theodora_Terry",
+    "email": "Pauline.Kulas@hotmail.com",
+    "address": {
+        "streetA": "Schultz Freeway",
+        "streetB": "544 Kamille Mills",
+        "streetC": "8741 Ericka Stravenue Suite 023",
+        "streetD": "Apt. 088",
+        "city": "Whiteton",
+        "state": "Iowa",
+        "country": "Liberia",
+        "zipcode": "90264-6578",
+        "geo": {
+            "lat": "-47.1269",
+            "lng": "33.9551"
+        }
+    },
+    "phone": "979.951.4189 x84827",
+    "website": "doris.org",
+    "company": {
+        "name": "Kertzmann, Kiehn and Hane",
+        "catchPhrase": "Right-sized executive policy",
+        "bs": "vertical reinvent users"
+    },
+    "posts": [
+        {
+            "words": "quia mollitia consequatur",
+            "sentence": "Sunt mollitia molestiae expedita ex libero inventore aut aut.",
+            "sentences": "Debitis quaerat sit iusto ad. Sit dignissimos quidem aspernatur veniam. Quis dolores in et id minima. Quo itaque totam animi quas error architecto temporibus. Qui veniam eveniet non blanditiis.",
+            "paragraph": "Et dignissimos soluta enim qui est. Non molestiae repudiandae dignissimos aut. Maiores sequi quos quas qui id dolore ipsa. Non voluptas in vitae. Quod at eum. Non eius cumque."
+        },
+        {
+            "words": "vitae aut impedit",
+            "sentence": "Explicabo fugit non ipsum delectus ut magni sunt.",
+            "sentences": "Quam illum quia. Aliquam et ut neque facilis eveniet qui ut qui. Similique magnam ratione. Perferendis fugiat vel iusto non dolorem laudantium. Eveniet consequatur magnam quia molestiae consectetur vero quae quisquam. Temporibus velit nobis et et explicabo.",
+            "paragraph": "Cumque sed delectus quis ipsa sed sed quaerat voluptatum deserunt. Excepturi est quo deleniti non. In totam veniam at fugiat. Culpa iusto quia atque et voluptatem dolorem non."
+        },
+        {
+            "words": "dolores quia voluptatem",
+            "sentence": "Labore doloribus laborum quis unde odio voluptas ut.",
+            "sentences": "Sunt fuga eum recusandae nulla autem inventore cumque adipisci. Quia assumenda dolores suscipit fugiat consequuntur a. Necessitatibus quidem nihil non et.",
+            "paragraph": "Itaque quo ex. Ratione rem nulla sit id et. Quod fugiat esse asperiores. Quas rerum fugiat est rerum odio ipsum vel cupiditate adipisci. Ratione inventore assumenda qui temporibus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "471.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Streich Group",
+            "name": "Personal Loan Account 5721",
+            "type": "payment",
+            "account": "83938115"
+        },
+        {
+            "amount": "40.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Blick Group",
+            "name": "Credit Card Account 3588",
+            "type": "payment",
+            "account": "93699892"
+        },
+        {
+            "amount": "918.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hayes, Bosco and Schiller",
+            "name": "Investment Account 8228",
+            "type": "invoice",
+            "account": "45374858"
+        }
+    ]
+}

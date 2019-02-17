@@ -1,0 +1,72 @@
+{
+    "name": "Miss Jeanette Lakin",
+    "username": "Wellington_Parisian45",
+    "email": "Anais.Kilback4@gmail.com",
+    "address": {
+        "streetA": "Cristobal Spur",
+        "streetB": "1196 Bogisich Oval",
+        "streetC": "577 Shirley Pine Apt. 618",
+        "streetD": "Apt. 564",
+        "city": "Carmellaview",
+        "state": "Florida",
+        "country": "Senegal",
+        "zipcode": "24255-6907",
+        "geo": {
+            "lat": "73.4738",
+            "lng": "-106.6611"
+        }
+    },
+    "phone": "1-270-961-6376 x356",
+    "website": "yvette.name",
+    "company": {
+        "name": "Hickle, Wyman and Dooley",
+        "catchPhrase": "Open-architected systemic moderator",
+        "bs": "plug-and-play redefine e-services"
+    },
+    "posts": [
+        {
+            "words": "odio placeat in",
+            "sentence": "Minima similique est ab sit dignissimos.",
+            "sentences": "Omnis velit delectus voluptas labore dolores molestias iusto nihil. Cupiditate repellendus temporibus animi rerum pariatur voluptatem fugiat molestiae. Soluta enim est velit dolore error natus. Impedit laboriosam eum.",
+            "paragraph": "Quia odio vitae rerum officia repellat et similique incidunt. Veniam vitae totam omnis voluptatem. Aut et quibusdam voluptatem impedit ut sint sed repudiandae quidem. Voluptatem sit soluta veritatis perspiciatis et. Voluptatem necessitatibus minus est. Aut numquam debitis voluptates quia."
+        },
+        {
+            "words": "tenetur sapiente et",
+            "sentence": "Quis laborum repellendus earum unde esse repellendus tenetur asperiores.",
+            "sentences": "Alias soluta dicta modi totam velit aliquid dolore ut. Aliquam quia voluptate.",
+            "paragraph": "Cum quasi fuga qui. Nemo aspernatur et eveniet et alias aut illo repellendus. Id labore cupiditate omnis dolorem. Distinctio quia dolorem deserunt animi tempore dolor et. Eos molestiae cumque illo rerum eum. Necessitatibus et libero et qui."
+        },
+        {
+            "words": "et reiciendis voluptatem",
+            "sentence": "Eum ratione excepturi et tempora rerum libero et.",
+            "sentences": "Tempora vel dolorum. Deleniti sunt eos. Alias ut officiis facilis esse ex sint accusantium et fugiat.",
+            "paragraph": "Et quae quia nobis ut et. Accusantium magni eligendi officia est voluptate odio temporibus. In enim aliquid id eligendi dolorem voluptatem consequatur atque."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "171.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wilkinson - Bode",
+            "name": "Checking Account 9316",
+            "type": "payment",
+            "account": "73251750"
+        },
+        {
+            "amount": "923.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Brakus and Sons",
+            "name": "Home Loan Account 8998",
+            "type": "withdrawal",
+            "account": "17176993"
+        },
+        {
+            "amount": "379.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Haley - Wunsch",
+            "name": "Auto Loan Account 8818",
+            "type": "deposit",
+            "account": "32183553"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Angela Rempel",
+    "username": "Halie.Cremin",
+    "email": "Georgette_Lind99@gmail.com",
+    "address": {
+        "streetA": "Volkman Highway",
+        "streetB": "8034 Evans Plaza",
+        "streetC": "373 D'Amore Prairie Apt. 078",
+        "streetD": "Suite 146",
+        "city": "Lake Jenningsland",
+        "state": "Iowa",
+        "country": "Belize",
+        "zipcode": "37041-6719",
+        "geo": {
+            "lat": "3.0052",
+            "lng": "20.6498"
+        }
+    },
+    "phone": "1-815-546-3918 x98834",
+    "website": "lafayette.info",
+    "company": {
+        "name": "Bergnaum - Schaefer",
+        "catchPhrase": "Face to face optimizing function",
+        "bs": "visionary syndicate channels"
+    },
+    "posts": [
+        {
+            "words": "aperiam et omnis",
+            "sentence": "Laboriosam cum quam voluptatum doloremque ipsum sit iusto dolores.",
+            "sentences": "Quia accusamus eos omnis cum esse vitae dolores id rerum. Reprehenderit aliquam ipsam. Et ipsa nihil ipsam quis architecto dolorum. Voluptatem ut aliquam aut ut maiores fugit nemo sunt.",
+            "paragraph": "Ut asperiores esse placeat ut reprehenderit occaecati quibusdam. Non porro earum necessitatibus tenetur aut cumque ducimus officia voluptas. Odit harum debitis id. Aliquid veniam qui vitae voluptas voluptate fugiat qui porro. Eligendi non ut aperiam natus velit voluptas voluptatem at aut. Tempore qui et et sunt."
+        },
+        {
+            "words": "quisquam velit sequi",
+            "sentence": "Rerum eos autem dolores quae debitis.",
+            "sentences": "Autem ea id rerum. Distinctio beatae sunt et molestiae non rerum. Magni commodi eius. Repellat dolor aliquid eligendi beatae cupiditate libero eos et quia. Fugiat magnam et iste nostrum et quia aliquid. Consectetur commodi sint accusantium et est eveniet.",
+            "paragraph": "Itaque nihil tempora aliquid officia at nulla. Itaque repudiandae in illum voluptas reiciendis velit tenetur incidunt occaecati. Aut consequatur dolores non odit pariatur id error."
+        },
+        {
+            "words": "sed nemo voluptatem",
+            "sentence": "Qui voluptate ratione doloribus omnis quos.",
+            "sentences": "Non ad nobis vero tempore consequatur. Ad dicta qui accusantium sed et molestiae sint.",
+            "paragraph": "Molestiae exercitationem rerum accusantium praesentium. Adipisci dolorem voluptatem et. Mollitia ab veniam animi voluptatem deleniti. Qui quibusdam saepe ipsam dolor ea dicta dolorum et. Repellendus quia dolore molestiae eum tempore ducimus dolore quo accusantium. Ut natus aut culpa molestias incidunt."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "820.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Langosh Group",
+            "name": "Money Market Account 2049",
+            "type": "deposit",
+            "account": "90414611"
+        },
+        {
+            "amount": "936.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ebert - Larkin",
+            "name": "Credit Card Account 6323",
+            "type": "invoice",
+            "account": "11022394"
+        },
+        {
+            "amount": "598.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Goodwin - Cremin",
+            "name": "Investment Account 9512",
+            "type": "invoice",
+            "account": "00278151"
+        }
+    ]
+}

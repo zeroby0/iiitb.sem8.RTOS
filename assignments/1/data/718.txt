@@ -1,0 +1,72 @@
+{
+    "name": "Alden Bahringer",
+    "username": "Tevin52",
+    "email": "Guillermo.Trantow@hotmail.com",
+    "address": {
+        "streetA": "Pfannerstill Junction",
+        "streetB": "66341 Herman Plaza",
+        "streetC": "6807 Virginia Via Suite 161",
+        "streetD": "Suite 672",
+        "city": "Anselville",
+        "state": "North Carolina",
+        "country": "Maldives",
+        "zipcode": "20844",
+        "geo": {
+            "lat": "77.2600",
+            "lng": "-80.2310"
+        }
+    },
+    "phone": "1-317-189-8627 x3780",
+    "website": "lola.com",
+    "company": {
+        "name": "Vandervort, Hammes and Wiza",
+        "catchPhrase": "Diverse grid-enabled emulation",
+        "bs": "turn-key benchmark vortals"
+    },
+    "posts": [
+        {
+            "words": "non repellendus adipisci",
+            "sentence": "Ipsum quod qui.",
+            "sentences": "Tenetur ut nulla nostrum ut modi ut. Et iste vitae omnis et aliquam delectus minus qui qui. Ex animi blanditiis.",
+            "paragraph": "Adipisci maxime perspiciatis quia vel quia tempore omnis qui molestiae. Facilis ullam dolore. Sit ea necessitatibus et fugiat repudiandae. Impedit officia ut non labore ut ducimus."
+        },
+        {
+            "words": "eos a nostrum",
+            "sentence": "Reiciendis aliquam dicta dignissimos eius placeat possimus et dolore.",
+            "sentences": "Qui atque doloribus commodi fuga. Sint amet sunt atque dolorem voluptatem et ut perspiciatis. Consequuntur occaecati numquam. Non totam hic soluta ipsam tempore nihil incidunt nihil consequuntur.",
+            "paragraph": "Dolor voluptatem doloribus expedita voluptates sed et facere voluptatibus doloribus. Nobis et commodi sit totam non. Sed est corporis vel provident odio. Corporis aut eius ut nihil. Ut perspiciatis ea provident."
+        },
+        {
+            "words": "enim dolorem nemo",
+            "sentence": "Eligendi corporis modi dolorem ad.",
+            "sentences": "Optio est alias accusantium voluptas quia et. Asperiores facere dolorem magnam ducimus porro temporibus pariatur et. Nostrum aliquam quo quo voluptatem eum exercitationem. Voluptatem eaque debitis. Provident dolorem omnis quidem eum occaecati architecto nisi reprehenderit aut. Tempora explicabo excepturi et dolor commodi nisi magnam.",
+            "paragraph": "Fuga eveniet voluptatem quidem et. Est aut sed saepe magni qui. Sunt facilis illo vel sed iusto ab ullam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "631.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stroman, Gutmann and Bernhard",
+            "name": "Savings Account 5051",
+            "type": "withdrawal",
+            "account": "87999766"
+        },
+        {
+            "amount": "880.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reilly - Reichel",
+            "name": "Money Market Account 7169",
+            "type": "invoice",
+            "account": "07342452"
+        },
+        {
+            "amount": "500.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hermiston, Mante and Kub",
+            "name": "Money Market Account 0863",
+            "type": "payment",
+            "account": "90017908"
+        }
+    ]
+}

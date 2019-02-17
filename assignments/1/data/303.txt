@@ -1,0 +1,72 @@
+{
+    "name": "Oleta Kris DVM",
+    "username": "Katherine16",
+    "email": "Rene.Nitzsche6@yahoo.com",
+    "address": {
+        "streetA": "Kohler Track",
+        "streetB": "0639 Lynch Pines",
+        "streetC": "10410 King Mission Suite 376",
+        "streetD": "Apt. 527",
+        "city": "New Idellburgh",
+        "state": "Wyoming",
+        "country": "Egypt",
+        "zipcode": "79791-0316",
+        "geo": {
+            "lat": "4.6104",
+            "lng": "63.6543"
+        }
+    },
+    "phone": "1-205-398-6198 x01971",
+    "website": "desiree.biz",
+    "company": {
+        "name": "Hermiston - Shanahan",
+        "catchPhrase": "Multi-tiered human-resource info-mediaries",
+        "bs": "distributed generate e-tailers"
+    },
+    "posts": [
+        {
+            "words": "veritatis et saepe",
+            "sentence": "Eaque facilis quod.",
+            "sentences": "Nesciunt est sapiente laborum accusantium. Voluptatem rem animi perspiciatis earum vel et illum dolorum. Id quasi delectus et et pariatur quibusdam quia quibusdam vel. Velit aut rerum quam optio et. Eos maxime aut perferendis.",
+            "paragraph": "Aspernatur sunt blanditiis. Sunt et voluptatum sequi iure eos. Fugiat vero ut eligendi quia neque saepe libero magni autem. Ad repellendus voluptas quis."
+        },
+        {
+            "words": "ex magnam et",
+            "sentence": "Ad cumque animi molestias earum ea sit molestiae.",
+            "sentences": "Nam quam cum veritatis necessitatibus impedit possimus magnam. Velit et recusandae maxime quia sit. Inventore quo voluptas accusantium cumque repellat odio illum. Nisi unde velit illo deserunt deserunt reprehenderit dicta laudantium. Dignissimos rem ipsa sequi vel praesentium recusandae. Autem aperiam et quo rem dolorem et nihil.",
+            "paragraph": "Cumque nisi et temporibus qui id assumenda. Maxime eos tempora non perspiciatis. Iste sed debitis molestias dolorem. Eveniet aspernatur aut sit ab modi dolorem. Et quo et quas similique sapiente nam. Alias autem et et cumque inventore ut odio est occaecati."
+        },
+        {
+            "words": "dolorem qui temporibus",
+            "sentence": "Eos repellendus praesentium.",
+            "sentences": "Dolore corrupti commodi quis. Inventore dolorem qui. Distinctio est non.",
+            "paragraph": "Assumenda et labore non qui praesentium eius velit voluptas id. Eius et eos inventore. Veritatis id sint dolorem molestiae. Vitae est est totam eligendi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "411.24",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Keebler Group",
+            "name": "Auto Loan Account 1311",
+            "type": "payment",
+            "account": "29963093"
+        },
+        {
+            "amount": "225.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "MacGyver Inc",
+            "name": "Money Market Account 9488",
+            "type": "payment",
+            "account": "24891213"
+        },
+        {
+            "amount": "439.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "King Group",
+            "name": "Money Market Account 5133",
+            "type": "invoice",
+            "account": "50817729"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Jada Swift",
+    "username": "Jonatan45",
+    "email": "Alize.Sipes38@hotmail.com",
+    "address": {
+        "streetA": "Georgette Expressway",
+        "streetB": "0942 Baron Garden",
+        "streetC": "5816 Flavio Mission Apt. 980",
+        "streetD": "Suite 469",
+        "city": "Rogahnville",
+        "state": "North Dakota",
+        "country": "United Kingdom",
+        "zipcode": "43598",
+        "geo": {
+            "lat": "49.9674",
+            "lng": "21.6639"
+        }
+    },
+    "phone": "(033) 076-2070 x87966",
+    "website": "angus.net",
+    "company": {
+        "name": "Considine - Kub",
+        "catchPhrase": "Distributed attitude-oriented leverage",
+        "bs": "intuitive enable relationships"
+    },
+    "posts": [
+        {
+            "words": "velit nemo quisquam",
+            "sentence": "Ut et voluptatum quas.",
+            "sentences": "Dolor tenetur quasi facilis aspernatur adipisci reprehenderit officia. Error voluptatem totam eos quasi consequatur sint. At ut reiciendis esse.",
+            "paragraph": "Esse veritatis qui sapiente. Iusto enim sequi eius ea nostrum odio temporibus. Sit voluptatem vero inventore."
+        },
+        {
+            "words": "id aut soluta",
+            "sentence": "Facere et nemo est porro amet et sit.",
+            "sentences": "Aut molestiae consectetur. Occaecati vel sunt unde velit alias et maiores ea.",
+            "paragraph": "Tempore est rem. Commodi asperiores distinctio sapiente aspernatur vel error ex. Consequatur nobis qui sapiente amet iusto incidunt."
+        },
+        {
+            "words": "ad officia voluptatem",
+            "sentence": "Velit nam sed minima qui quia iusto et aliquid accusamus.",
+            "sentences": "Id sint dolores et et cumque incidunt omnis. Omnis aut repellendus et ea exercitationem. Enim aperiam ducimus dolores provident. Et et ducimus quia dolores quia ex sed enim.",
+            "paragraph": "Autem ratione voluptas et. Qui et omnis quia aut. Enim quisquam et. Voluptatem omnis sapiente quia et placeat voluptatem id est. Quia sit sunt aspernatur itaque aut quod tempora."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "725.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dare - Greenholt",
+            "name": "Credit Card Account 0314",
+            "type": "invoice",
+            "account": "96658503"
+        },
+        {
+            "amount": "22.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rice LLC",
+            "name": "Personal Loan Account 3650",
+            "type": "deposit",
+            "account": "88093900"
+        },
+        {
+            "amount": "122.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Maggio - Rempel",
+            "name": "Home Loan Account 7815",
+            "type": "withdrawal",
+            "account": "00230929"
+        }
+    ]
+}

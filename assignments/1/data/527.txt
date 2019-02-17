@@ -1,0 +1,72 @@
+{
+    "name": "Olaf West",
+    "username": "Laverne.Kirlin68",
+    "email": "Electa_Jacobi@yahoo.com",
+    "address": {
+        "streetA": "Nelson Light",
+        "streetB": "672 Jacynthe Burgs",
+        "streetC": "978 Fahey Common Suite 187",
+        "streetD": "Suite 744",
+        "city": "East Martyfurt",
+        "state": "Rhode Island",
+        "country": "Uruguay",
+        "zipcode": "35008",
+        "geo": {
+            "lat": "85.1045",
+            "lng": "-144.8229"
+        }
+    },
+    "phone": "563-768-3790 x6308",
+    "website": "josianne.info",
+    "company": {
+        "name": "Wyman LLC",
+        "catchPhrase": "Realigned content-based structure",
+        "bs": "out-of-the-box e-enable metrics"
+    },
+    "posts": [
+        {
+            "words": "sint vel vitae",
+            "sentence": "Perferendis blanditiis molestias beatae quia.",
+            "sentences": "Ipsam eius impedit voluptatem itaque quo aliquid dolorem. Explicabo ab earum labore. Unde accusamus praesentium dolorem quod ea error at cum tempore. Est temporibus sint. Tempora reprehenderit sit dolore laborum omnis tempore.",
+            "paragraph": "Modi voluptatem in ipsam. Minus minima pariatur quibusdam. Enim praesentium et nesciunt. Velit consequuntur autem atque rerum porro et voluptas sit. Possimus consequatur debitis cumque omnis."
+        },
+        {
+            "words": "suscipit sed ullam",
+            "sentence": "Quia eligendi aut odit illo quis qui eaque culpa.",
+            "sentences": "Quia fugiat non rerum perferendis. Ullam nisi laboriosam hic.",
+            "paragraph": "Nostrum odio dolor inventore autem aliquid eius. Blanditiis laudantium porro eum fugiat. Id praesentium voluptas. Expedita autem reprehenderit similique nihil magnam."
+        },
+        {
+            "words": "sit sed quia",
+            "sentence": "Vero et tenetur et itaque.",
+            "sentences": "Corrupti omnis aut ea sint quis. Commodi et voluptas ratione ut aperiam. Et aut doloribus illum quis inventore voluptas aliquam. Aut reiciendis consequatur optio illo.",
+            "paragraph": "Tempore molestias omnis adipisci vitae voluptatem ut voluptatibus impedit et. Veniam nemo asperiores. Rerum suscipit reprehenderit rerum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "136.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fadel - Prohaska",
+            "name": "Savings Account 0493",
+            "type": "payment",
+            "account": "75768103"
+        },
+        {
+            "amount": "346.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Grimes and Sons",
+            "name": "Credit Card Account 1240",
+            "type": "deposit",
+            "account": "95631810"
+        },
+        {
+            "amount": "973.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rippin, Deckow and Collins",
+            "name": "Personal Loan Account 1240",
+            "type": "withdrawal",
+            "account": "23350914"
+        }
+    ]
+}

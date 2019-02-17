@@ -1,0 +1,72 @@
+{
+    "name": "Brigitte Goyette",
+    "username": "Joseph17",
+    "email": "Tate41@yahoo.com",
+    "address": {
+        "streetA": "Layne Knoll",
+        "streetB": "72414 Boehm Cliffs",
+        "streetC": "0694 Johnny Island Suite 439",
+        "streetD": "Apt. 553",
+        "city": "Kuhnville",
+        "state": "Rhode Island",
+        "country": "Guyana",
+        "zipcode": "26570-0110",
+        "geo": {
+            "lat": "39.4645",
+            "lng": "-52.1516"
+        }
+    },
+    "phone": "409.378.7043",
+    "website": "keely.biz",
+    "company": {
+        "name": "Krajcik - Wehner",
+        "catchPhrase": "Re-engineered intermediate challenge",
+        "bs": "end-to-end monetize technologies"
+    },
+    "posts": [
+        {
+            "words": "quia explicabo ut",
+            "sentence": "Distinctio est et consequuntur qui.",
+            "sentences": "Autem deserunt qui repellat quis ea repellat sint eum. In odio aliquam autem autem occaecati sint id.",
+            "paragraph": "Accusantium id consequatur ut neque sed nihil non. Quia sapiente fugit ut cum adipisci expedita eaque nobis occaecati. Non ut eos ut modi voluptatem odio aut. Itaque tempore ut."
+        },
+        {
+            "words": "excepturi non aspernatur",
+            "sentence": "Eius harum enim sed dolorem deserunt aut natus cupiditate quae.",
+            "sentences": "Et cupiditate repellat et ratione suscipit dolores maiores. Ipsam voluptas libero velit aliquam non quia mollitia aliquam eum. Dolores consequatur dolorem accusamus iure nesciunt quo.",
+            "paragraph": "Eos quis et reiciendis porro odit. Dolores animi enim et. Voluptatem dolore laborum magnam aut harum."
+        },
+        {
+            "words": "occaecati omnis ut",
+            "sentence": "At inventore est eius voluptatibus libero deserunt.",
+            "sentences": "Inventore molestiae porro dolor quo. Facilis velit nostrum aut ad tempore. Inventore deserunt consequuntur dolores optio beatae occaecati. Itaque porro atque cum quaerat enim temporibus sed voluptates nihil. Et iusto voluptatem qui ut possimus vitae consequatur at.",
+            "paragraph": "Explicabo qui ullam. Non perspiciatis eos cupiditate et nisi ullam dolorem labore quis. Deleniti molestias consequatur veniam adipisci dolorum soluta."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "319.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ratke, Waters and Bauch",
+            "name": "Personal Loan Account 0231",
+            "type": "withdrawal",
+            "account": "30017091"
+        },
+        {
+            "amount": "225.72",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nader, Ledner and Grant",
+            "name": "Money Market Account 3060",
+            "type": "payment",
+            "account": "55783910"
+        },
+        {
+            "amount": "587.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fritsch Group",
+            "name": "Credit Card Account 2526",
+            "type": "invoice",
+            "account": "47605886"
+        }
+    ]
+}

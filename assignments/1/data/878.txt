@@ -1,0 +1,72 @@
+{
+    "name": "Zora Hilll",
+    "username": "Dulce_Block",
+    "email": "Haskell67@hotmail.com",
+    "address": {
+        "streetA": "Ceasar Plain",
+        "streetB": "34795 Lubowitz Streets",
+        "streetC": "229 West Dale Suite 678",
+        "streetD": "Apt. 870",
+        "city": "Danielland",
+        "state": "Nevada",
+        "country": "Chile",
+        "zipcode": "58091-8322",
+        "geo": {
+            "lat": "65.6568",
+            "lng": "133.1910"
+        }
+    },
+    "phone": "1-554-814-0239 x208",
+    "website": "mark.name",
+    "company": {
+        "name": "Roberts LLC",
+        "catchPhrase": "Innovative analyzing focus group",
+        "bs": "frictionless aggregate content"
+    },
+    "posts": [
+        {
+            "words": "repellendus numquam excepturi",
+            "sentence": "Est est eos voluptatum aspernatur fugiat vel sequi et.",
+            "sentences": "Sed quam ullam ipsa consequatur exercitationem consectetur nobis. Velit sed laborum. Provident sequi corporis id officiis consectetur aut facilis. Vel autem occaecati impedit aut in voluptatem quia quidem quia.",
+            "paragraph": "Exercitationem officiis et est illo libero. Alias quae ipsam quis quas delectus. Minima esse illo dicta mollitia ullam."
+        },
+        {
+            "words": "incidunt enim ea",
+            "sentence": "Minus placeat voluptas saepe et id aut consequuntur est.",
+            "sentences": "Expedita molestiae odit molestias eaque quaerat consequatur quod qui voluptatem. Quis harum omnis. Esse provident reiciendis modi neque officiis. Provident porro laborum sit inventore dolorem magni rerum. Porro tenetur quia voluptas dignissimos tenetur facilis.",
+            "paragraph": "Omnis sint voluptate. Exercitationem consequatur soluta architecto quia quia delectus non libero et. Eum quidem repellendus odio nihil architecto autem neque qui. Facere maiores possimus iusto dolores tempore. Nulla corporis doloremque saepe officiis molestiae. Fugit quas occaecati vero qui veritatis voluptatibus et."
+        },
+        {
+            "words": "aut ullam expedita",
+            "sentence": "Velit architecto iste sunt.",
+            "sentences": "Accusamus ipsum magnam et. Est et dignissimos odio et. Molestiae reprehenderit eum et. Modi quae esse exercitationem ipsam quaerat rerum rerum corrupti. Nemo et cum eligendi omnis aut recusandae doloremque numquam quo. Aperiam sunt est enim eos harum quia quidem.",
+            "paragraph": "Autem maiores praesentium suscipit enim vel tenetur excepturi itaque commodi. Est voluptatum et molestias. Explicabo architecto hic optio in voluptatibus sed. Sunt qui quis quo aliquid modi. Ad excepturi at rerum dolores molestias quo. Placeat consectetur corrupti tenetur asperiores corrupti rerum culpa aperiam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "394.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Weissnat, Gislason and Buckridge",
+            "name": "Money Market Account 1866",
+            "type": "payment",
+            "account": "16068670"
+        },
+        {
+            "amount": "791.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schumm, Krajcik and Maggio",
+            "name": "Savings Account 3962",
+            "type": "payment",
+            "account": "51647314"
+        },
+        {
+            "amount": "433.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Botsford - Pfannerstill",
+            "name": "Auto Loan Account 3953",
+            "type": "payment",
+            "account": "97780999"
+        }
+    ]
+}

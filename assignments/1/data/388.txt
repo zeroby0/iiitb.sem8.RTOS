@@ -1,0 +1,72 @@
+{
+    "name": "Vern Krajcik",
+    "username": "Jett.Moen9",
+    "email": "Timothy.Koch16@yahoo.com",
+    "address": {
+        "streetA": "Daniel Corner",
+        "streetB": "8358 Ethyl Station",
+        "streetC": "7508 Jaylen Points Suite 212",
+        "streetD": "Suite 388",
+        "city": "Emeliabury",
+        "state": "Oregon",
+        "country": "Cameroon",
+        "zipcode": "51551-3535",
+        "geo": {
+            "lat": "48.2098",
+            "lng": "-133.5973"
+        }
+    },
+    "phone": "(538) 445-6429",
+    "website": "antoinette.net",
+    "company": {
+        "name": "Cremin LLC",
+        "catchPhrase": "Self-enabling content-based policy",
+        "bs": "open-source enable e-tailers"
+    },
+    "posts": [
+        {
+            "words": "exercitationem blanditiis suscipit",
+            "sentence": "Laudantium voluptates eos quas occaecati nihil consequatur nisi assumenda laboriosam.",
+            "sentences": "Dolores optio doloremque error et doloremque at et. Voluptate qui quis repudiandae et eos. Assumenda et cum voluptate earum et non non et. Facere accusamus incidunt est officiis esse nihil. Dolores eum quidem ipsam.",
+            "paragraph": "Quas inventore eveniet aspernatur. Deserunt ut maiores. Ea laudantium officiis pariatur nesciunt non quae quis dolor laboriosam."
+        },
+        {
+            "words": "doloribus aut dolores",
+            "sentence": "Fugit debitis labore et quos maxime placeat ipsam sit.",
+            "sentences": "Ea quia eos. Esse et aspernatur architecto sapiente. Ut voluptas et explicabo. Molestiae praesentium reprehenderit ut.",
+            "paragraph": "Molestiae veritatis voluptate ea est voluptate ex sed. Praesentium autem aut officiis ut perspiciatis. Et quos iste facilis sunt nisi et velit reiciendis quibusdam."
+        },
+        {
+            "words": "et quia eos",
+            "sentence": "A voluptas optio ut aut commodi quis est rerum cumque.",
+            "sentences": "Vero aut nemo aliquid eos similique dolorem illum sed. Qui autem architecto nostrum sit eaque id incidunt nam delectus. Optio quod eos. Aut officiis doloribus et in vel qui fugit quo nesciunt. Sed deleniti praesentium quae pariatur eum. Asperiores asperiores possimus laudantium veniam laboriosam ipsum eligendi et ratione.",
+            "paragraph": "Ipsum quos aut est dolorem neque qui. Quibusdam hic et corporis dolor qui est expedita. Qui cupiditate amet."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "605.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hegmann and Sons",
+            "name": "Credit Card Account 7032",
+            "type": "withdrawal",
+            "account": "70786899"
+        },
+        {
+            "amount": "573.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Daugherty, Gottlieb and Mosciski",
+            "name": "Home Loan Account 0817",
+            "type": "withdrawal",
+            "account": "42274868"
+        },
+        {
+            "amount": "929.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wisozk, Considine and Wuckert",
+            "name": "Checking Account 1957",
+            "type": "invoice",
+            "account": "07321590"
+        }
+    ]
+}

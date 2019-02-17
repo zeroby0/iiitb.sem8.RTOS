@@ -1,0 +1,72 @@
+{
+    "name": "Aubree Rodriguez",
+    "username": "Hailee.Turner",
+    "email": "Jovani.Abbott@yahoo.com",
+    "address": {
+        "streetA": "Murray Rapids",
+        "streetB": "8723 Bruen Cove",
+        "streetC": "52298 Brekke Village Apt. 550",
+        "streetD": "Suite 714",
+        "city": "East Hassan",
+        "state": "Alaska",
+        "country": "Finland",
+        "zipcode": "55806-7431",
+        "geo": {
+            "lat": "7.4427",
+            "lng": "-178.6656"
+        }
+    },
+    "phone": "1-058-135-3593",
+    "website": "christ.biz",
+    "company": {
+        "name": "Windler LLC",
+        "catchPhrase": "Cloned impactful open architecture",
+        "bs": "efficient transition bandwidth"
+    },
+    "posts": [
+        {
+            "words": "doloribus inventore eius",
+            "sentence": "Sit aspernatur a totam animi esse unde molestiae.",
+            "sentences": "Delectus aut eos accusantium. Recusandae tenetur et ullam illo ut pariatur eligendi ipsa.",
+            "paragraph": "Est modi voluptatem minima. Delectus iste corporis consequatur fugiat reprehenderit ut voluptatem at non. Voluptas voluptates saepe architecto at dolores quo."
+        },
+        {
+            "words": "est id tempora",
+            "sentence": "Inventore voluptas eius delectus.",
+            "sentences": "Tempore fugit eligendi. Rerum et sequi tempora qui inventore dolorem asperiores libero corporis. Quis consequatur sint alias aspernatur aperiam veritatis rerum eaque rerum. Aperiam totam et sit error est vitae. Nam sunt culpa asperiores.",
+            "paragraph": "Cum dolores suscipit. Voluptas quidem sunt velit. Maxime voluptatem quia quam qui sint harum. Sapiente aut eos vero earum nam doloremque facere qui. Facere nam ea. Ut eos omnis non provident odio libero."
+        },
+        {
+            "words": "cupiditate quo nobis",
+            "sentence": "Incidunt qui error consequatur veritatis suscipit sed eveniet.",
+            "sentences": "Quis ut sunt molestiae. Ut ut minus illo est. Sit dolorum aut molestiae est quisquam. Et in et in. Qui aut id ut ut quod provident quia.",
+            "paragraph": "At dicta sit doloribus aut est sunt consequatur. Asperiores rerum odit. In ipsum laboriosam maiores provident iste repellat."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "691.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lebsack Group",
+            "name": "Money Market Account 4848",
+            "type": "payment",
+            "account": "25337316"
+        },
+        {
+            "amount": "553.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Orn - Torphy",
+            "name": "Savings Account 5634",
+            "type": "withdrawal",
+            "account": "57145315"
+        },
+        {
+            "amount": "869.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Breitenberg - Baumbach",
+            "name": "Investment Account 9136",
+            "type": "withdrawal",
+            "account": "84758884"
+        }
+    ]
+}

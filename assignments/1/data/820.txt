@@ -1,0 +1,72 @@
+{
+    "name": "Ruth Hermann",
+    "username": "Magali.Von",
+    "email": "Cleta5@yahoo.com",
+    "address": {
+        "streetA": "Brody Falls",
+        "streetB": "5109 Quigley Meadow",
+        "streetC": "3324 Leonardo Walk Suite 433",
+        "streetD": "Suite 926",
+        "city": "Port Nichole",
+        "state": "Indiana",
+        "country": "Japan",
+        "zipcode": "96951",
+        "geo": {
+            "lat": "80.7382",
+            "lng": "-35.9840"
+        }
+    },
+    "phone": "(087) 088-4328 x4637",
+    "website": "vince.info",
+    "company": {
+        "name": "Stehr - Kling",
+        "catchPhrase": "Progressive heuristic challenge",
+        "bs": "B2B generate relationships"
+    },
+    "posts": [
+        {
+            "words": "ab eos reprehenderit",
+            "sentence": "Et cupiditate reiciendis et.",
+            "sentences": "Aliquam error excepturi minima. Rerum sed possimus dolores quos minus nobis rerum accusantium quia. Saepe dolore soluta odio quod.",
+            "paragraph": "Recusandae tempore consequuntur cumque repellat. Est molestias consequatur sed quia quaerat rerum et rerum rerum. Debitis eligendi et at quod dolor laborum voluptas et. Quasi voluptatem et animi earum vitae. Id explicabo tempore assumenda necessitatibus nam pariatur ad commodi et. Repellat est enim quia officiis nam architecto ipsa."
+        },
+        {
+            "words": "illum aut adipisci",
+            "sentence": "Doloribus eum molestiae ex.",
+            "sentences": "Voluptatem ipsam est aut tenetur cupiditate dolor totam autem sed. Ut odio perferendis cumque. Quidem facere culpa et quod dolorem deleniti. Quaerat sit velit est ipsum officia tempore. Occaecati ducimus cum porro enim et facere laborum est. Iusto et commodi deserunt aut.",
+            "paragraph": "Et eos dicta modi aut alias cupiditate. Eum qui officia neque consequuntur quibusdam. Eveniet eligendi id. Est enim aut vero est omnis nobis eos voluptatum."
+        },
+        {
+            "words": "ad sit error",
+            "sentence": "Dolorem aut eum pariatur nam ea voluptas deserunt nesciunt.",
+            "sentences": "Fugiat quibusdam commodi possimus. Illo id atque omnis quisquam ducimus et nihil. Ab itaque consequatur odio vel est consequatur.",
+            "paragraph": "Perferendis sunt sit. Perspiciatis sunt soluta eos. Neque quia impedit aut enim sunt est earum consequatur. Quae incidunt sapiente aspernatur voluptas ipsa nobis. Necessitatibus doloribus blanditiis repellendus soluta."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "683.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Douglas, Jerde and Harvey",
+            "name": "Investment Account 1955",
+            "type": "invoice",
+            "account": "76192079"
+        },
+        {
+            "amount": "330.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuhn - Homenick",
+            "name": "Home Loan Account 1018",
+            "type": "deposit",
+            "account": "52066454"
+        },
+        {
+            "amount": "288.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bednar, Stanton and O'Connell",
+            "name": "Investment Account 9092",
+            "type": "withdrawal",
+            "account": "61646530"
+        }
+    ]
+}

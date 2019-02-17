@@ -1,0 +1,72 @@
+{
+    "name": "Telly Zemlak Jr.",
+    "username": "Andreanne.Lueilwitz39",
+    "email": "Bernardo.Sauer@hotmail.com",
+    "address": {
+        "streetA": "Jacobson Stravenue",
+        "streetB": "1441 Eldred Bridge",
+        "streetC": "0761 Dewayne Point Apt. 498",
+        "streetD": "Apt. 083",
+        "city": "Thielburgh",
+        "state": "Massachusetts",
+        "country": "Rwanda",
+        "zipcode": "03223-7281",
+        "geo": {
+            "lat": "-60.9293",
+            "lng": "147.0794"
+        }
+    },
+    "phone": "864-423-9173",
+    "website": "terrill.name",
+    "company": {
+        "name": "Grant - Cremin",
+        "catchPhrase": "Switchable coherent orchestration",
+        "bs": "revolutionary whiteboard systems"
+    },
+    "posts": [
+        {
+            "words": "similique eligendi ut",
+            "sentence": "Nemo voluptas eos temporibus laborum nemo doloribus libero at commodi.",
+            "sentences": "Consequuntur consequatur rerum velit numquam nihil mollitia aut. Quas tempore explicabo est asperiores provident non et animi ad. Est voluptatem vero eaque modi. Eligendi odio sapiente illum sed esse sunt ut facilis sunt.",
+            "paragraph": "Tenetur rerum magni et quo doloremque sed est eum. Nisi laudantium magni non id temporibus laudantium beatae iusto nobis. Nemo harum iure natus cum sint est fugit enim omnis. Quibusdam repellat qui delectus occaecati exercitationem minima. Non voluptate qui debitis."
+        },
+        {
+            "words": "commodi eos eos",
+            "sentence": "Doloribus labore deleniti dolores maxime commodi dolor rerum.",
+            "sentences": "Asperiores distinctio harum quasi inventore. Nesciunt nisi sed tenetur fuga et delectus sunt et sit. Velit ut in aperiam earum. Quam est pariatur corporis. Quibusdam quo cum.",
+            "paragraph": "Ipsa rerum dolor eveniet dolores odit ut aut doloremque at. Eaque iure qui cumque. Atque et delectus. A omnis rerum iste sit doloribus."
+        },
+        {
+            "words": "commodi nihil dolor",
+            "sentence": "Repudiandae alias sed aut id facere ipsum praesentium.",
+            "sentences": "Rerum ut earum odit nihil. Natus error placeat porro quos expedita. Rerum molestiae assumenda consequuntur.",
+            "paragraph": "Et sunt nisi ad eos magnam qui. Et accusamus alias laboriosam libero ut perspiciatis et inventore qui. Perspiciatis rerum voluptate ea."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "303.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Windler - Lebsack",
+            "name": "Savings Account 8577",
+            "type": "invoice",
+            "account": "53473899"
+        },
+        {
+            "amount": "55.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koelpin, Wiza and Sipes",
+            "name": "Home Loan Account 5510",
+            "type": "invoice",
+            "account": "49995780"
+        },
+        {
+            "amount": "342.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mann Group",
+            "name": "Auto Loan Account 9336",
+            "type": "payment",
+            "account": "38868921"
+        }
+    ]
+}

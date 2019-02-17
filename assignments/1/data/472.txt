@@ -1,0 +1,72 @@
+{
+    "name": "Miss Nova Ledner",
+    "username": "Dan34",
+    "email": "Nelson.Roberts@gmail.com",
+    "address": {
+        "streetA": "Barrows Common",
+        "streetB": "1136 Muller Avenue",
+        "streetC": "51160 Raul Burg Suite 279",
+        "streetD": "Suite 739",
+        "city": "Skilesland",
+        "state": "South Carolina",
+        "country": "New Zealand",
+        "zipcode": "59035",
+        "geo": {
+            "lat": "71.6225",
+            "lng": "174.4543"
+        }
+    },
+    "phone": "443-175-8277 x1303",
+    "website": "matilde.name",
+    "company": {
+        "name": "Lind - Larson",
+        "catchPhrase": "Organic client-driven service-desk",
+        "bs": "collaborative iterate applications"
+    },
+    "posts": [
+        {
+            "words": "consequuntur et id",
+            "sentence": "Est et recusandae vel ipsam ut eveniet rerum praesentium similique.",
+            "sentences": "Ea exercitationem voluptates. Et et voluptas itaque quos et. In ut esse velit ipsum impedit quidem velit. Rerum voluptas non at assumenda officia laborum occaecati sed.",
+            "paragraph": "Magni dignissimos illo corrupti velit dignissimos aut animi. Rem qui labore magni repellendus corporis iusto aut expedita possimus. Totam iusto et ab natus voluptate sunt provident. Eos amet delectus voluptatum illum aliquam repudiandae nemo deleniti. Amet dolores minus fugit est cumque et illum temporibus."
+        },
+        {
+            "words": "iste sit autem",
+            "sentence": "Vel et ut.",
+            "sentences": "Ullam sit quo et illo corporis. Id eligendi quod corrupti pariatur assumenda. Provident est ullam placeat perferendis mollitia quam officia laboriosam. Magni hic et qui deleniti impedit saepe. Omnis ut quia nesciunt nisi neque aut eos in.",
+            "paragraph": "Sed quia quos. Nulla aut et. Corporis non omnis fugit et soluta dolores voluptatibus voluptas in."
+        },
+        {
+            "words": "voluptate quisquam ad",
+            "sentence": "Odio ducimus est inventore soluta aperiam.",
+            "sentences": "Hic ut omnis sequi consectetur sed. Quibusdam consequuntur vero et dicta harum omnis saepe.",
+            "paragraph": "Quas consequatur sed beatae illum culpa. Quaerat quod consequatur. Eum reiciendis numquam magni sunt dolorum repellat dolor iste."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "511.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Volkman - Littel",
+            "name": "Credit Card Account 3117",
+            "type": "payment",
+            "account": "99020774"
+        },
+        {
+            "amount": "502.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Morissette, Ebert and D'Amore",
+            "name": "Money Market Account 4515",
+            "type": "deposit",
+            "account": "97995718"
+        },
+        {
+            "amount": "532.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stanton LLC",
+            "name": "Personal Loan Account 6701",
+            "type": "withdrawal",
+            "account": "57492704"
+        }
+    ]
+}

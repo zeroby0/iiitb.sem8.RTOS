@@ -1,0 +1,72 @@
+{
+    "name": "Brayan Olson",
+    "username": "Timmothy.Gleichner11",
+    "email": "Emilie63@gmail.com",
+    "address": {
+        "streetA": "Carmella Hollow",
+        "streetB": "96592 Nikki Common",
+        "streetC": "62493 Stanton Ports Suite 559",
+        "streetD": "Suite 278",
+        "city": "Weimannborough",
+        "state": "Oregon",
+        "country": "Philippines",
+        "zipcode": "30368",
+        "geo": {
+            "lat": "55.4309",
+            "lng": "18.7803"
+        }
+    },
+    "phone": "1-886-675-8069 x2646",
+    "website": "tad.name",
+    "company": {
+        "name": "Keeling and Sons",
+        "catchPhrase": "Multi-tiered well-modulated initiative",
+        "bs": "scalable exploit paradigms"
+    },
+    "posts": [
+        {
+            "words": "vel ipsum enim",
+            "sentence": "Esse ad autem.",
+            "sentences": "Soluta et natus. Commodi neque eos cum et deserunt unde consequuntur. Exercitationem est ex minima. Sed tempora enim id et dolorum corrupti. Sit nemo nam.",
+            "paragraph": "Commodi consectetur dolorem excepturi ducimus consectetur. Repellat quis deserunt dicta ipsam aut dolorem cumque voluptas et. Facere assumenda dolorem assumenda ut fugit atque veniam. Dolorem qui rerum sunt enim occaecati quod quam aut. Est at in recusandae et ut voluptatem."
+        },
+        {
+            "words": "totam saepe et",
+            "sentence": "Iusto id consequatur occaecati laudantium earum.",
+            "sentences": "Dignissimos vel quod ad quasi quod provident laudantium hic perferendis. Aut quae autem et officiis molestiae voluptatem. Iure velit maiores architecto officia quasi aut quidem praesentium quam. Dolorem voluptas porro vitae at cum. Est porro alias aut odio reprehenderit iure nemo maiores.",
+            "paragraph": "Exercitationem nesciunt quasi. Modi impedit incidunt occaecati. Illum rerum rerum exercitationem. Ex odit quo eum hic doloribus rerum non. Laborum saepe ipsam voluptatibus non sint."
+        },
+        {
+            "words": "nemo est repellat",
+            "sentence": "In sunt rerum quidem vel cupiditate.",
+            "sentences": "Quo asperiores explicabo quibusdam explicabo ratione. Aspernatur et voluptas. Reprehenderit non aut voluptatum sed molestiae non. Voluptatem ut omnis distinctio officiis voluptas. Debitis qui qui error nisi. Ut temporibus voluptas.",
+            "paragraph": "Et est eveniet sint. Cum doloribus et unde vel illum. Aspernatur ea aut facere repellendus nesciunt aut molestias ipsam. Animi a et laboriosam iure quis. Numquam culpa doloremque error debitis officia. Aut atque recusandae pariatur provident sit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "927.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gorczany, Lowe and Rosenbaum",
+            "name": "Auto Loan Account 9397",
+            "type": "deposit",
+            "account": "49761316"
+        },
+        {
+            "amount": "262.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bruen - Legros",
+            "name": "Credit Card Account 0918",
+            "type": "deposit",
+            "account": "79925567"
+        },
+        {
+            "amount": "476.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobson Group",
+            "name": "Savings Account 6938",
+            "type": "payment",
+            "account": "88611836"
+        }
+    ]
+}

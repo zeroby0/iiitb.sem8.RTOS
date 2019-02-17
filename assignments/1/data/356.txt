@@ -1,0 +1,72 @@
+{
+    "name": "Adrain Windler",
+    "username": "Vernie17",
+    "email": "Rowland.Quitzon2@hotmail.com",
+    "address": {
+        "streetA": "Alberto Island",
+        "streetB": "47086 Harber Trail",
+        "streetC": "04517 Wiza Lakes Apt. 992",
+        "streetD": "Suite 906",
+        "city": "Alysontown",
+        "state": "Vermont",
+        "country": "French Guiana",
+        "zipcode": "30249",
+        "geo": {
+            "lat": "39.2758",
+            "lng": "78.7841"
+        }
+    },
+    "phone": "949-739-3830",
+    "website": "clementine.info",
+    "company": {
+        "name": "Hintz and Sons",
+        "catchPhrase": "Open-architected intangible Graphic Interface",
+        "bs": "B2B whiteboard partnerships"
+    },
+    "posts": [
+        {
+            "words": "sit et ut",
+            "sentence": "Tempore quasi ut excepturi magnam quaerat aut.",
+            "sentences": "Nulla incidunt nemo deserunt rerum qui incidunt. Provident sed dolorem odio pariatur et et ullam aut nam.",
+            "paragraph": "Facere iure iusto accusamus tempora nihil delectus explicabo facere officia. Quis voluptatibus ab voluptatum expedita est sit sed. Deleniti ab deleniti atque ipsa non rerum quia autem. Molestias et qui dolores qui recusandae saepe quas libero iste."
+        },
+        {
+            "words": "corporis et tempora",
+            "sentence": "Suscipit illum asperiores id aut alias deserunt.",
+            "sentences": "Unde ut officiis. Aut aperiam et provident tenetur. Ea qui et perspiciatis voluptas aliquam et. Quaerat eum consequatur vel. Ad numquam maiores a quia odit aut distinctio.",
+            "paragraph": "Quisquam recusandae deserunt officiis fuga molestiae incidunt aut fugit ratione. Iure et voluptatem quidem enim repellat quia minus minima. Perspiciatis et voluptatum et."
+        },
+        {
+            "words": "laudantium voluptas placeat",
+            "sentence": "Beatae odio aut voluptatem aut aut blanditiis pariatur accusamus.",
+            "sentences": "Velit est aut excepturi quis et. Molestiae molestias harum velit qui doloribus. Voluptates molestiae veniam et veniam voluptatem molestiae sit non consectetur.",
+            "paragraph": "Molestias ea repellat aliquid perspiciatis impedit et beatae consequatur voluptatibus. Expedita perferendis sed eveniet nostrum dolorum. Et ex impedit autem quis laboriosam rerum aut molestias. Et aliquam eum error quod quod in cum placeat sit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "269.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Vandervort, Romaguera and Cormier",
+            "name": "Home Loan Account 7045",
+            "type": "withdrawal",
+            "account": "84199376"
+        },
+        {
+            "amount": "254.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Conner, Schowalter and Hoppe",
+            "name": "Investment Account 6608",
+            "type": "withdrawal",
+            "account": "31521918"
+        },
+        {
+            "amount": "402.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mann LLC",
+            "name": "Auto Loan Account 9025",
+            "type": "payment",
+            "account": "52231971"
+        }
+    ]
+}

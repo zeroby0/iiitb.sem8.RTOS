@@ -1,0 +1,72 @@
+{
+    "name": "Therese Sanford II",
+    "username": "Milton_Volkman",
+    "email": "Cydney.Rodriguez@gmail.com",
+    "address": {
+        "streetA": "Austyn Rest",
+        "streetB": "636 Mariela Tunnel",
+        "streetC": "291 Vena Ferry Suite 139",
+        "streetD": "Apt. 665",
+        "city": "South Palma",
+        "state": "Delaware",
+        "country": "Eritrea",
+        "zipcode": "95605",
+        "geo": {
+            "lat": "79.5444",
+            "lng": "91.2608"
+        }
+    },
+    "phone": "997-483-1248 x30631",
+    "website": "idella.biz",
+    "company": {
+        "name": "O'Reilly, Heaney and Kuhn",
+        "catchPhrase": "Versatile well-modulated core",
+        "bs": "frictionless whiteboard methodologies"
+    },
+    "posts": [
+        {
+            "words": "quam maxime vero",
+            "sentence": "Eum rerum voluptas quidem repudiandae eum officiis laudantium earum.",
+            "sentences": "Distinctio numquam sint est nemo a. Ab aut et ipsam a necessitatibus dolorem nulla sunt sed.",
+            "paragraph": "Aut natus officiis repellendus. Repellat quia tempore perspiciatis sit sit et iste beatae. Quis tempore sunt dolorum rerum. Ipsum quia expedita illum odit fuga voluptate facere vel ut."
+        },
+        {
+            "words": "eveniet fugit doloremque",
+            "sentence": "Odio mollitia maxime dicta quo molestiae quos.",
+            "sentences": "Ut aut maiores id aliquam. Quo quis et dolor architecto quod aut. Eos et reiciendis ratione illo. Deserunt saepe odit. Perferendis sed id nam sit. Omnis tempore totam aliquam veniam.",
+            "paragraph": "Est suscipit vel. Iste quaerat voluptatem delectus id quidem iusto at cumque. Minima repudiandae voluptatem quisquam eos. Iure optio maxime. Earum id quas esse ducimus illo quisquam repellat cum. Alias enim adipisci quis at ad ut rerum."
+        },
+        {
+            "words": "adipisci amet consectetur",
+            "sentence": "Non illum ut alias nisi qui earum dolore.",
+            "sentences": "Voluptas ipsum enim repudiandae dolorum. Sint rerum sunt at non aut quia rem facilis.",
+            "paragraph": "Id quia quisquam. Magni iusto aut nesciunt eveniet eum. Ut praesentium ipsam quam ab soluta libero voluptas error voluptatem. Amet quisquam beatae ab consequatur sequi. Dignissimos dolorem voluptatibus est officiis illo fugiat sunt. Ut tempore cupiditate ut ea possimus asperiores mollitia quod quo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "624.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Barrows - Schmeler",
+            "name": "Home Loan Account 2714",
+            "type": "payment",
+            "account": "95139502"
+        },
+        {
+            "amount": "171.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ferry Inc",
+            "name": "Money Market Account 6482",
+            "type": "deposit",
+            "account": "43588582"
+        },
+        {
+            "amount": "49.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reichert, Crona and Lowe",
+            "name": "Investment Account 5643",
+            "type": "withdrawal",
+            "account": "69352133"
+        }
+    ]
+}

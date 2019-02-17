@@ -1,0 +1,72 @@
+{
+    "name": "Rowland Block",
+    "username": "Desmond.Parisian",
+    "email": "Birdie_Fay95@hotmail.com",
+    "address": {
+        "streetA": "Langosh Ferry",
+        "streetB": "853 Gorczany Circle",
+        "streetC": "62758 Christiansen Port Suite 208",
+        "streetD": "Apt. 957",
+        "city": "Veronaberg",
+        "state": "Alaska",
+        "country": "Singapore",
+        "zipcode": "77737-7323",
+        "geo": {
+            "lat": "12.1562",
+            "lng": "-119.9975"
+        }
+    },
+    "phone": "246.330.0137",
+    "website": "vicente.com",
+    "company": {
+        "name": "D'Amore, Rohan and Hauck",
+        "catchPhrase": "Devolved 3rd generation hub",
+        "bs": "web-enabled engineer partnerships"
+    },
+    "posts": [
+        {
+            "words": "natus totam ut",
+            "sentence": "Ut repudiandae architecto nesciunt est laboriosam animi sit.",
+            "sentences": "Fugit similique velit. Consectetur voluptas minima fugiat. Et accusamus rerum soluta et laborum. Earum quam aperiam.",
+            "paragraph": "Nemo nesciunt consequatur officia aut repellendus sapiente ut quos. Tenetur est iusto. Officiis nihil repudiandae labore omnis voluptas fuga."
+        },
+        {
+            "words": "minima occaecati distinctio",
+            "sentence": "Rerum laudantium qui est iusto delectus sequi asperiores quia.",
+            "sentences": "Aut enim maiores repudiandae. Asperiores ab velit dignissimos excepturi voluptas.",
+            "paragraph": "Enim commodi nostrum et non praesentium laudantium sit. Iusto magni facere eius ut quam fuga. Voluptatem et est molestias dolore. In dolor voluptatem provident voluptatum est laudantium quia omnis dolorem. Eveniet molestiae assumenda quia hic tenetur magni est eligendi quas. Eveniet veritatis atque et."
+        },
+        {
+            "words": "est occaecati impedit",
+            "sentence": "Et qui numquam distinctio.",
+            "sentences": "Nulla rerum et. Sit voluptates sed unde dolorum atque quo.",
+            "paragraph": "Est velit ut aliquid voluptas itaque itaque. Esse doloremque et. Asperiores autem dolore dolore voluptas. Recusandae inventore ut iste voluptatem. Maxime voluptatem et voluptas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "197.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Zulauf - Shields",
+            "name": "Auto Loan Account 8150",
+            "type": "invoice",
+            "account": "71947433"
+        },
+        {
+            "amount": "90.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Marks - Gislason",
+            "name": "Personal Loan Account 6865",
+            "type": "deposit",
+            "account": "39774219"
+        },
+        {
+            "amount": "186.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Collins - Predovic",
+            "name": "Home Loan Account 2788",
+            "type": "withdrawal",
+            "account": "75188736"
+        }
+    ]
+}

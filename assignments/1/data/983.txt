@@ -1,0 +1,72 @@
+{
+    "name": "Marcellus Nienow",
+    "username": "Arlie.Bosco93",
+    "email": "David.Lemke@yahoo.com",
+    "address": {
+        "streetA": "Bogan Glen",
+        "streetB": "4225 Bradtke Ways",
+        "streetC": "9531 Walker Plaza Apt. 133",
+        "streetD": "Apt. 319",
+        "city": "Tanyaport",
+        "state": "Oregon",
+        "country": "Honduras",
+        "zipcode": "91068-4059",
+        "geo": {
+            "lat": "6.0668",
+            "lng": "-135.0487"
+        }
+    },
+    "phone": "566.616.3728 x176",
+    "website": "shanel.org",
+    "company": {
+        "name": "Mayert, Leuschke and Berge",
+        "catchPhrase": "Streamlined national standardization",
+        "bs": "global streamline partnerships"
+    },
+    "posts": [
+        {
+            "words": "et neque saepe",
+            "sentence": "Quod cumque non.",
+            "sentences": "Beatae laborum non deleniti. A numquam est. Dolorem officia quisquam necessitatibus omnis cum saepe. Eos et quo dolore eos. Aut cupiditate animi ut rem.",
+            "paragraph": "Repellendus in sed ipsum error accusamus est accusantium. Illum ipsum dolorem impedit mollitia dolor a. Magni blanditiis libero illo."
+        },
+        {
+            "words": "fuga at aut",
+            "sentence": "Doloribus harum omnis.",
+            "sentences": "Rem velit adipisci. Eveniet iusto id explicabo corporis. Tempora tempore ut. Excepturi non placeat dolor corrupti quia nesciunt perspiciatis voluptas saepe.",
+            "paragraph": "Minus tempore est omnis ab quo. Repudiandae excepturi qui quos laboriosam vel alias optio non soluta. Fugit corrupti eius. Sed rerum quo labore sint suscipit expedita. Necessitatibus rerum aliquam iste placeat voluptatem reprehenderit cupiditate."
+        },
+        {
+            "words": "aliquid dolores nihil",
+            "sentence": "Id in ea corporis repellat aut quasi autem tempore.",
+            "sentences": "Molestias assumenda adipisci ut qui nihil dolorem porro ut. Unde dolor qui et.",
+            "paragraph": "Expedita rerum dolor quasi maxime non. Et eius cupiditate. Magni est ad. Assumenda dolores hic. Vitae minus et architecto et quam occaecati voluptas modi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "446.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Feest - Schinner",
+            "name": "Auto Loan Account 5938",
+            "type": "invoice",
+            "account": "41263103"
+        },
+        {
+            "amount": "282.29",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Deckow - Bradtke",
+            "name": "Home Loan Account 0119",
+            "type": "deposit",
+            "account": "83691334"
+        },
+        {
+            "amount": "187.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rohan and Sons",
+            "name": "Savings Account 1231",
+            "type": "deposit",
+            "account": "78261040"
+        }
+    ]
+}

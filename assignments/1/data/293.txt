@@ -1,0 +1,72 @@
+{
+    "name": "Osborne Schinner PhD",
+    "username": "Celine_Koepp",
+    "email": "Virgil.Bradtke46@gmail.com",
+    "address": {
+        "streetA": "Jo Motorway",
+        "streetB": "332 Langworth Ferry",
+        "streetC": "073 Reggie Dam Apt. 163",
+        "streetD": "Suite 361",
+        "city": "New Jamel",
+        "state": "Kansas",
+        "country": "Virgin Islands, British",
+        "zipcode": "27111-7660",
+        "geo": {
+            "lat": "44.0843",
+            "lng": "125.5101"
+        }
+    },
+    "phone": "1-200-468-1290 x7173",
+    "website": "ruben.com",
+    "company": {
+        "name": "Sipes, McLaughlin and Ernser",
+        "catchPhrase": "Triple-buffered eco-centric emulation",
+        "bs": "sexy implement users"
+    },
+    "posts": [
+        {
+            "words": "ut commodi omnis",
+            "sentence": "Earum aut ut dicta.",
+            "sentences": "Officiis commodi minima. Quia quam quasi. Omnis necessitatibus ut dignissimos consequuntur maiores placeat maxime eius beatae.",
+            "paragraph": "Rerum eos tenetur ex adipisci. Excepturi non quidem voluptatem magnam et sit commodi. Velit illo laboriosam itaque facilis consequatur blanditiis et. Reprehenderit delectus culpa voluptatum voluptas qui. Optio laudantium aut distinctio ea voluptatem modi recusandae voluptatibus. Fuga aliquid nostrum dignissimos."
+        },
+        {
+            "words": "est natus reprehenderit",
+            "sentence": "Nostrum quos accusantium.",
+            "sentences": "Harum non architecto consequatur eum voluptatem eum tempore. Et placeat ex fugiat optio rem in quia voluptates ad. Enim facere suscipit unde ut optio qui expedita. Accusamus eos illo similique similique.",
+            "paragraph": "Numquam vel voluptates nobis. Fuga aut neque reiciendis. Aut vitae illum et."
+        },
+        {
+            "words": "necessitatibus qui laboriosam",
+            "sentence": "Qui quas sint qui atque modi ex.",
+            "sentences": "Autem laudantium dolorem velit vitae expedita nulla quis. Et in possimus qui. Ex repellendus doloremque ipsa modi non eaque nihil corporis. Distinctio et debitis qui pariatur est qui. Nemo quos blanditiis mollitia aut quasi doloribus quia. Fugit ut sunt quia nulla harum vel porro.",
+            "paragraph": "Distinctio explicabo vero necessitatibus aut aut magnam molestiae blanditiis ratione. Eligendi dolores minus sapiente temporibus natus eos. Nesciunt debitis et officiis. Velit magni a nam qui ut odio praesentium rerum qui. Neque distinctio quisquam illum ut. Cum eum in voluptas est."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "213.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Waelchi - Kihn",
+            "name": "Savings Account 3122",
+            "type": "invoice",
+            "account": "56942472"
+        },
+        {
+            "amount": "82.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ullrich, Upton and Kassulke",
+            "name": "Personal Loan Account 1799",
+            "type": "invoice",
+            "account": "51422711"
+        },
+        {
+            "amount": "398.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dare - Steuber",
+            "name": "Savings Account 2238",
+            "type": "deposit",
+            "account": "41559783"
+        }
+    ]
+}

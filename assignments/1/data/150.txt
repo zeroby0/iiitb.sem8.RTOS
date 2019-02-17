@@ -1,0 +1,72 @@
+{
+    "name": "Miss Kip Jacobi",
+    "username": "Reanna_Blanda",
+    "email": "Malinda_Hills46@gmail.com",
+    "address": {
+        "streetA": "Rosemarie Fall",
+        "streetB": "920 Reynolds Port",
+        "streetC": "4808 Bart Spurs Suite 906",
+        "streetD": "Suite 280",
+        "city": "Tessieside",
+        "state": "Illinois",
+        "country": "British Indian Ocean Territory (Chagos Archipelago)",
+        "zipcode": "34312-3541",
+        "geo": {
+            "lat": "86.2748",
+            "lng": "-138.8967"
+        }
+    },
+    "phone": "038.098.8332 x787",
+    "website": "estefania.net",
+    "company": {
+        "name": "Turner - O'Reilly",
+        "catchPhrase": "Phased tertiary collaboration",
+        "bs": "enterprise disintermediate models"
+    },
+    "posts": [
+        {
+            "words": "in rerum totam",
+            "sentence": "Fugit at sunt voluptatem.",
+            "sentences": "Numquam doloribus ex voluptas. Harum autem ut ipsam eos provident sint. Est nihil porro quae vel unde harum distinctio. Illum quidem est eveniet ducimus quia. Sunt et deleniti.",
+            "paragraph": "Sed deleniti dolores. Voluptas fuga atque. Non vel rerum qui impedit qui alias dolore sunt. Repudiandae et natus eos ut vero. Saepe consectetur eius quos vero atque quo."
+        },
+        {
+            "words": "error nisi et",
+            "sentence": "Voluptatem sint sed et id vero fugiat.",
+            "sentences": "Consequatur harum ad omnis occaecati assumenda sint maiores. Eos aut aut minima voluptas doloribus rerum aut repellat.",
+            "paragraph": "Eum vitae nostrum. Laboriosam officia eum dignissimos. Rerum et modi alias. Aliquam fugiat tenetur libero consequatur tempore. Aut fugiat deleniti deserunt ut velit."
+        },
+        {
+            "words": "omnis quam molestiae",
+            "sentence": "Animi maiores fuga soluta provident dolor totam minus molestiae.",
+            "sentences": "Qui enim voluptatem sequi in et dolorem dolor explicabo. Qui soluta voluptates dolor et dolorem omnis modi rerum. Consequatur consequuntur debitis doloremque voluptates aut facilis.",
+            "paragraph": "Illo dolor rerum dolore fugit sit perferendis. Quidem in rerum vero est quasi veniam quidem suscipit. Officiis quos architecto recusandae eum nam provident. Atque quam animi eveniet veniam ipsum et molestiae architecto molestiae. Dolorum nihil molestiae. Tenetur et et dolore vel consequuntur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "996.24",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sawayn LLC",
+            "name": "Credit Card Account 3735",
+            "type": "invoice",
+            "account": "21442676"
+        },
+        {
+            "amount": "745.74",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Smitham and Sons",
+            "name": "Investment Account 6972",
+            "type": "payment",
+            "account": "15488031"
+        },
+        {
+            "amount": "749.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Murphy - Reynolds",
+            "name": "Savings Account 3570",
+            "type": "invoice",
+            "account": "52680430"
+        }
+    ]
+}

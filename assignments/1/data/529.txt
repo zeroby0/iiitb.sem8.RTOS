@@ -1,0 +1,72 @@
+{
+    "name": "Dr. Frida Wiegand",
+    "username": "Chance43",
+    "email": "Brady11@gmail.com",
+    "address": {
+        "streetA": "Schaden Manor",
+        "streetB": "541 Stephanie Springs",
+        "streetC": "3504 Herman Trail Suite 952",
+        "streetD": "Apt. 358",
+        "city": "East Earline",
+        "state": "Virginia",
+        "country": "Dominican Republic",
+        "zipcode": "40340-0196",
+        "geo": {
+            "lat": "-58.4316",
+            "lng": "33.7744"
+        }
+    },
+    "phone": "731.846.6362 x01131",
+    "website": "waldo.org",
+    "company": {
+        "name": "Kozey - Lesch",
+        "catchPhrase": "Function-based bandwidth-monitored initiative",
+        "bs": "scalable synergize experiences"
+    },
+    "posts": [
+        {
+            "words": "tenetur numquam aut",
+            "sentence": "Necessitatibus nam aliquam voluptatem rerum nam debitis consequatur id natus.",
+            "sentences": "Doloremque cupiditate rerum facilis accusantium accusantium aut fugit id. Voluptates animi eum soluta nihil neque ipsam perferendis delectus.",
+            "paragraph": "Nihil omnis beatae. Aut aspernatur ea. Quas velit enim nesciunt beatae similique odio sed. Vel est et est voluptas dolores totam hic. Sint dolor qui assumenda ex. Sit ea est eum distinctio."
+        },
+        {
+            "words": "mollitia eligendi rerum",
+            "sentence": "Sed facere ut voluptatibus accusantium.",
+            "sentences": "Praesentium autem fugit in quis. Perspiciatis aut sint aut provident qui omnis laborum sit. Deserunt corrupti modi provident labore a id sapiente voluptas quos. Eum neque itaque commodi cupiditate repellendus ab et. Aut nobis reiciendis et consequuntur perferendis qui.",
+            "paragraph": "Est tempora tenetur vel consectetur quis. Temporibus sapiente nemo nulla et enim consectetur aut. Autem quos adipisci incidunt voluptatem accusantium. Amet aut et. Accusamus unde deleniti sunt veritatis sed illum mollitia provident. Nam non iste et omnis."
+        },
+        {
+            "words": "reiciendis voluptas corporis",
+            "sentence": "Dolores voluptas qui qui quia.",
+            "sentences": "Ut ipsum suscipit quidem vitae ea eos quia numquam occaecati. Ratione asperiores dolorum quaerat quia et aut est tempora nihil. Eveniet consequatur vel a tenetur est et ut. Et delectus velit similique.",
+            "paragraph": "Aut consequuntur architecto aut aperiam reiciendis quasi dicta in tempore. Deleniti perspiciatis eos delectus explicabo harum. Ex molestiae quia corrupti. Dolorem non et veniam doloremque aut reiciendis ratione dolorem. Eaque hic dolores voluptatem. Et cum cumque voluptas magnam perspiciatis ut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "918.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Morissette - Lynch",
+            "name": "Savings Account 2634",
+            "type": "deposit",
+            "account": "01163584"
+        },
+        {
+            "amount": "372.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Leuschke Group",
+            "name": "Auto Loan Account 9171",
+            "type": "withdrawal",
+            "account": "50542029"
+        },
+        {
+            "amount": "739.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Labadie and Sons",
+            "name": "Investment Account 9642",
+            "type": "payment",
+            "account": "11419042"
+        }
+    ]
+}

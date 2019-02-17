@@ -1,0 +1,72 @@
+{
+    "name": "Dr. Clark Zboncak",
+    "username": "Lacy.Dare9",
+    "email": "Harmony15@yahoo.com",
+    "address": {
+        "streetA": "Trycia Spurs",
+        "streetB": "254 Heather Shoal",
+        "streetC": "078 Crist Row Suite 194",
+        "streetD": "Apt. 919",
+        "city": "Westleyborough",
+        "state": "Montana",
+        "country": "Estonia",
+        "zipcode": "00968",
+        "geo": {
+            "lat": "44.1307",
+            "lng": "76.7809"
+        }
+    },
+    "phone": "1-222-287-8510",
+    "website": "maida.com",
+    "company": {
+        "name": "DuBuque, Hoppe and Watsica",
+        "catchPhrase": "Universal reciprocal functionalities",
+        "bs": "user-centric synergize e-markets"
+    },
+    "posts": [
+        {
+            "words": "eos dolorem officiis",
+            "sentence": "Quasi quia ad aut hic asperiores.",
+            "sentences": "Ut et et tempora quaerat necessitatibus minus ut nihil. Odio cupiditate iste omnis et aut. Autem molestias molestias magnam inventore suscipit nulla. Debitis nihil eveniet praesentium.",
+            "paragraph": "Adipisci assumenda maxime vitae autem voluptas asperiores quae. Eos voluptatem numquam consequatur possimus ad optio. Ut ipsum vel."
+        },
+        {
+            "words": "soluta magni iure",
+            "sentence": "Voluptas qui consequatur occaecati quisquam consequatur saepe quibusdam.",
+            "sentences": "Quidem odit explicabo expedita. Blanditiis fugit inventore eaque et occaecati est dolore officia. Autem quis consequuntur pariatur sed perspiciatis similique dolor rerum voluptatem. Ullam distinctio unde dolor voluptas consequuntur quod exercitationem animi. Alias necessitatibus reprehenderit quia. Alias maxime nostrum inventore qui.",
+            "paragraph": "Sint praesentium veritatis ab modi modi eum. Expedita dolorem deleniti enim tempore corrupti excepturi aperiam nemo. Nobis sequi doloremque rerum. Qui sint eius voluptas."
+        },
+        {
+            "words": "officia ut dolorem",
+            "sentence": "Voluptatibus voluptatem aut pariatur ullam perspiciatis dolorum velit.",
+            "sentences": "Et sunt provident tenetur in aut. Sit mollitia explicabo ut esse quo reprehenderit sit.",
+            "paragraph": "Deleniti illo consequatur laborum aperiam porro officiis molestiae earum. Voluptatem est temporibus autem non sit itaque est debitis quod. Harum nobis nemo commodi sit culpa ducimus eos."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "407.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Batz LLC",
+            "name": "Investment Account 2381",
+            "type": "payment",
+            "account": "97792990"
+        },
+        {
+            "amount": "922.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nikolaus - Breitenberg",
+            "name": "Home Loan Account 4154",
+            "type": "withdrawal",
+            "account": "65400961"
+        },
+        {
+            "amount": "677.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cole Inc",
+            "name": "Savings Account 3193",
+            "type": "payment",
+            "account": "91825803"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Miss Geraldine Stoltenberg",
+    "username": "Kobe.Gislason81",
+    "email": "Jamarcus97@gmail.com",
+    "address": {
+        "streetA": "Derek View",
+        "streetB": "4654 Harris Cliffs",
+        "streetC": "52141 Mraz Springs Apt. 857",
+        "streetD": "Apt. 445",
+        "city": "East Dustin",
+        "state": "Wyoming",
+        "country": "Brazil",
+        "zipcode": "01652",
+        "geo": {
+            "lat": "-65.8356",
+            "lng": "-135.7348"
+        }
+    },
+    "phone": "530.889.9701 x239",
+    "website": "christa.org",
+    "company": {
+        "name": "Gibson Group",
+        "catchPhrase": "Reactive optimal local area network",
+        "bs": "turn-key unleash e-tailers"
+    },
+    "posts": [
+        {
+            "words": "esse quia et",
+            "sentence": "Sapiente et non doloremque repudiandae.",
+            "sentences": "Nemo ullam ullam eius dolor eius. Ex non ratione temporibus unde magni. Excepturi voluptates doloribus tempore fugit ducimus impedit aut aspernatur numquam. Quia eius culpa iste quasi qui incidunt consectetur voluptatem modi.",
+            "paragraph": "Cumque veniam dolores laborum dolor quaerat similique unde et distinctio. Doloribus fugit possimus et. Repellendus sed minus quia. Quis assumenda animi facilis eius omnis."
+        },
+        {
+            "words": "omnis natus expedita",
+            "sentence": "Autem culpa architecto dolore quam eum et fuga cum rem.",
+            "sentences": "Corporis molestiae rem repudiandae aliquam. Quis cumque facilis dolorum mollitia placeat autem delectus amet et. Vero deleniti totam accusamus est. Ducimus eum nobis. Blanditiis omnis libero maiores ratione ut perspiciatis. Soluta deleniti sapiente iste qui beatae expedita iste.",
+            "paragraph": "A beatae nostrum et omnis quia ipsum eos quam. Commodi repudiandae unde molestiae illum aut. Corporis sint cupiditate ipsum quisquam voluptas nesciunt velit ut ea. Nisi dignissimos autem ut accusantium culpa. Cumque aperiam vel sed iure perferendis nihil sint. Necessitatibus soluta quo fugit."
+        },
+        {
+            "words": "alias qui fugiat",
+            "sentence": "Nisi enim hic libero ut minima et quibusdam ducimus doloribus.",
+            "sentences": "Illum est est in facilis rerum fugiat voluptatem quo. Consequatur cumque exercitationem non rerum ex distinctio ipsa sint dolore. Fuga dignissimos nam temporibus necessitatibus sit. Id autem praesentium molestiae quo eaque. Ratione et deleniti aspernatur dolore tempore voluptas omnis. Harum unde esse voluptas aut harum dolores quidem non quia.",
+            "paragraph": "Omnis inventore praesentium. Dolore optio omnis. Distinctio eius iste omnis sit sed aliquam voluptatem quidem. Inventore odit est id quisquam ducimus voluptatem nam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "344.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kessler, Abernathy and Barton",
+            "name": "Checking Account 9261",
+            "type": "deposit",
+            "account": "36237822"
+        },
+        {
+            "amount": "461.04",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Paucek - Mayert",
+            "name": "Auto Loan Account 9556",
+            "type": "invoice",
+            "account": "05948908"
+        },
+        {
+            "amount": "320.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kiehn - Bruen",
+            "name": "Savings Account 5217",
+            "type": "deposit",
+            "account": "80848182"
+        }
+    ]
+}

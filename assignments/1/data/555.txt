@@ -1,0 +1,72 @@
+{
+    "name": "Melvina Kerluke",
+    "username": "Heath_Daniel",
+    "email": "Mafalda.Williamson52@hotmail.com",
+    "address": {
+        "streetA": "Rodriguez Greens",
+        "streetB": "096 Edd Common",
+        "streetC": "175 Dino Knolls Suite 701",
+        "streetD": "Suite 874",
+        "city": "Connton",
+        "state": "Massachusetts",
+        "country": "Tajikistan",
+        "zipcode": "36193-6122",
+        "geo": {
+            "lat": "-65.4426",
+            "lng": "34.4265"
+        }
+    },
+    "phone": "405.044.0258 x0898",
+    "website": "maida.org",
+    "company": {
+        "name": "Goldner - Erdman",
+        "catchPhrase": "Adaptive systematic complexity",
+        "bs": "best-of-breed reintermediate users"
+    },
+    "posts": [
+        {
+            "words": "quo et illo",
+            "sentence": "Est perspiciatis et eum et.",
+            "sentences": "Vero et eaque. Voluptatibus id qui et adipisci consequatur beatae nulla voluptas. Minus voluptas culpa inventore. Voluptas dolor consectetur fugit ut dolores.",
+            "paragraph": "Sed et non dolor ut molestiae. Eveniet eaque eos voluptatem temporibus aut harum beatae. Nemo consequuntur itaque ut ea voluptatem et laborum. Earum reprehenderit nam dicta voluptate rerum laudantium illo nihil. Quisquam voluptatem ratione. A aperiam fugiat qui et tempora deserunt rerum."
+        },
+        {
+            "words": "alias ipsum eligendi",
+            "sentence": "Autem eos ut sunt aut et et.",
+            "sentences": "Hic iure beatae cumque laudantium aut repudiandae ipsum. Architecto fuga molestias ipsum error accusamus minima. Ut sit ab voluptate a doloremque velit quos nulla. Quam molestiae vitae minus voluptatibus. Quam quia magnam nisi adipisci fugit quia veritatis incidunt ab. Consequuntur earum earum et aut quis.",
+            "paragraph": "Sunt in autem. Possimus sapiente laboriosam illo asperiores. Vitae harum facilis ut dolor. Dolor et ut iure et veritatis excepturi. Maiores exercitationem amet sequi unde fuga voluptas doloribus."
+        },
+        {
+            "words": "deleniti occaecati incidunt",
+            "sentence": "Autem aut rerum modi eveniet.",
+            "sentences": "Voluptatem sunt et id. Animi iure dolores dolore inventore sed voluptatum dolorem consectetur voluptatum.",
+            "paragraph": "Dolore repellat consectetur quasi. Animi veniam autem iusto aliquam eum dolorem et. Repellendus ipsum labore veniam esse. Ipsum eveniet sed ducimus ex quia."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "200.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Deckow - Rohan",
+            "name": "Home Loan Account 2721",
+            "type": "invoice",
+            "account": "87762675"
+        },
+        {
+            "amount": "375.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Langworth - Ortiz",
+            "name": "Money Market Account 9939",
+            "type": "deposit",
+            "account": "86337842"
+        },
+        {
+            "amount": "803.42",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Barton Group",
+            "name": "Money Market Account 3518",
+            "type": "payment",
+            "account": "24510629"
+        }
+    ]
+}

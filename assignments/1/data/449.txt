@@ -1,0 +1,72 @@
+{
+    "name": "Georgiana Veum",
+    "username": "Cali_Nitzsche",
+    "email": "Marge96@gmail.com",
+    "address": {
+        "streetA": "Paucek Hills",
+        "streetB": "51910 Dana Junction",
+        "streetC": "851 Ferry Rue Apt. 320",
+        "streetD": "Apt. 029",
+        "city": "Bartonview",
+        "state": "Rhode Island",
+        "country": "United Arab Emirates",
+        "zipcode": "16150",
+        "geo": {
+            "lat": "78.0150",
+            "lng": "37.1539"
+        }
+    },
+    "phone": "(363) 175-9119 x874",
+    "website": "adrain.org",
+    "company": {
+        "name": "Bergstrom, Kuhlman and Zemlak",
+        "catchPhrase": "Open-architected fault-tolerant groupware",
+        "bs": "virtual brand deliverables"
+    },
+    "posts": [
+        {
+            "words": "sint ut ullam",
+            "sentence": "Quod at iste autem.",
+            "sentences": "Eius exercitationem consequatur quae sed magni aut quis aliquam. Tempore vel dignissimos aut aliquam fugiat repudiandae sint. Error ducimus corrupti animi et quam accusamus. Aut suscipit similique alias quod. Sed et vel. Sapiente et aut ratione voluptas voluptates.",
+            "paragraph": "Numquam omnis qui labore esse in reiciendis. Veritatis minus dolores in. Facere sunt beatae saepe itaque eius recusandae. Id autem doloremque et deleniti placeat."
+        },
+        {
+            "words": "magni occaecati nostrum",
+            "sentence": "Neque et minus et.",
+            "sentences": "Unde magnam et unde id. Similique autem illo cupiditate placeat quam ducimus repellendus. Incidunt quaerat odio blanditiis. Voluptatem porro ipsum dolore magni eum enim. Commodi aut rerum perspiciatis ut sapiente corporis dolorem.",
+            "paragraph": "Omnis autem tempora error quae adipisci. Praesentium provident dolorem. Animi voluptas omnis aliquid."
+        },
+        {
+            "words": "voluptatem eos quia",
+            "sentence": "Et doloribus est quos distinctio iste sit.",
+            "sentences": "Iure harum occaecati eligendi necessitatibus inventore eius. Non quo voluptatem incidunt quia repellendus dolor saepe voluptatibus. Impedit atque sapiente qui hic aliquid sed nesciunt. Cumque quos laudantium ut exercitationem placeat modi dolorem et dolores. Alias alias iure reiciendis accusamus repellendus dolorum doloremque. Sit minima molestias qui.",
+            "paragraph": "Numquam fuga aliquam repellat qui cumque impedit cum et. Et deserunt nemo neque et amet dolorum fugiat. Aperiam quas id adipisci. Ducimus repudiandae voluptatem blanditiis tenetur ducimus quam aliquid nostrum totam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "106.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jast - Smith",
+            "name": "Checking Account 5986",
+            "type": "invoice",
+            "account": "83982646"
+        },
+        {
+            "amount": "337.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Brekke and Sons",
+            "name": "Savings Account 1580",
+            "type": "withdrawal",
+            "account": "70505357"
+        },
+        {
+            "amount": "869.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Corwin Inc",
+            "name": "Auto Loan Account 9383",
+            "type": "withdrawal",
+            "account": "21110967"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Ursula Wehner",
+    "username": "Marlee13",
+    "email": "Jevon26@gmail.com",
+    "address": {
+        "streetA": "Koss Way",
+        "streetB": "733 Legros Unions",
+        "streetC": "57092 Fernando Extension Suite 213",
+        "streetD": "Apt. 555",
+        "city": "Treverborough",
+        "state": "Idaho",
+        "country": "Nicaragua",
+        "zipcode": "32354",
+        "geo": {
+            "lat": "64.9689",
+            "lng": "165.1390"
+        }
+    },
+    "phone": "(983) 578-9749 x468",
+    "website": "ransom.org",
+    "company": {
+        "name": "Pfeffer Group",
+        "catchPhrase": "Compatible methodical intranet",
+        "bs": "dot-com e-enable technologies"
+    },
+    "posts": [
+        {
+            "words": "eum facere ullam",
+            "sentence": "Sint ullam voluptas.",
+            "sentences": "Minus maxime eos veniam in aut saepe nesciunt. Ex incidunt aut libero et dolorem nostrum quibusdam est blanditiis.",
+            "paragraph": "Facilis quis optio saepe tenetur quaerat dolor fugit inventore. Tenetur ullam ipsa. Velit consequatur libero ducimus culpa aut eius non corporis. Ipsum quo non. Explicabo similique quibusdam delectus cumque."
+        },
+        {
+            "words": "delectus laudantium consequuntur",
+            "sentence": "Pariatur sed tempore fugiat atque earum odio ex alias.",
+            "sentences": "Quam voluptatem dolorum id. Quis fugiat cum veritatis id numquam sint quia vel. Dolores nobis officiis eveniet occaecati atque est. Dolores harum in debitis reprehenderit.",
+            "paragraph": "Non maxime ab totam unde. Rerum ut officia dolorum. Sint eos itaque voluptatem. Id et quo aut nisi ab sint. Et architecto eum eum et nulla fugiat nobis. Numquam et qui aut adipisci sit voluptatem magni magni molestiae."
+        },
+        {
+            "words": "est vitae ut",
+            "sentence": "Eligendi magni aut vitae molestias.",
+            "sentences": "Nostrum veniam molestias sapiente voluptate aperiam enim. Quod consequatur doloribus dolores. Exercitationem qui exercitationem dignissimos sed quos rerum. Non et velit tenetur. Ducimus ut mollitia. Eum dolorem consequuntur porro quod eaque nemo rerum iure libero.",
+            "paragraph": "Iure reiciendis aut aliquid quisquam. Nihil maiores qui pariatur magni culpa in ut et dolores. Et et voluptate molestiae ut consectetur quos qui corrupti. Velit dicta magnam dolor quis sit eaque at. Quas et rerum consectetur occaecati laborum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "244.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Brown and Sons",
+            "name": "Investment Account 4595",
+            "type": "withdrawal",
+            "account": "11390719"
+        },
+        {
+            "amount": "283.24",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Brown Group",
+            "name": "Investment Account 6363",
+            "type": "withdrawal",
+            "account": "23031493"
+        },
+        {
+            "amount": "968.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stanton, Schowalter and Roberts",
+            "name": "Checking Account 7106",
+            "type": "withdrawal",
+            "account": "37459553"
+        }
+    ]
+}

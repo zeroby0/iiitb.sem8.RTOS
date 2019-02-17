@@ -1,0 +1,72 @@
+{
+    "name": "Connor Rosenbaum",
+    "username": "Lourdes54",
+    "email": "Maurine32@hotmail.com",
+    "address": {
+        "streetA": "Lenny Pike",
+        "streetB": "511 Schmeler Village",
+        "streetC": "198 Willms Estate Apt. 967",
+        "streetD": "Apt. 210",
+        "city": "Lacyport",
+        "state": "California",
+        "country": "Myanmar",
+        "zipcode": "89069-1398",
+        "geo": {
+            "lat": "72.6046",
+            "lng": "-45.0437"
+        }
+    },
+    "phone": "(552) 065-2979",
+    "website": "marilie.org",
+    "company": {
+        "name": "Rodriguez, Steuber and Shanahan",
+        "catchPhrase": "Monitored fault-tolerant infrastructure",
+        "bs": "best-of-breed visualize systems"
+    },
+    "posts": [
+        {
+            "words": "tempora fugiat commodi",
+            "sentence": "Ab doloremque consectetur est exercitationem accusantium ut in accusamus repellat.",
+            "sentences": "Eos ipsum non debitis ut. Nostrum sit temporibus quidem eos velit id.",
+            "paragraph": "Ipsa cumque labore suscipit consectetur doloribus quia. Velit consequatur aut cupiditate nihil error quis quis nihil laborum. Quis porro recusandae ea eveniet modi et tempora modi cupiditate."
+        },
+        {
+            "words": "dignissimos quia doloribus",
+            "sentence": "Perferendis est quis.",
+            "sentences": "Modi animi tenetur eum earum dolore voluptatem aut nihil. Atque quis similique magni alias eveniet quasi non molestias. Illum dolores laudantium et. Sit in omnis sint saepe maiores nobis ad aut dolores. Magnam debitis praesentium iste earum neque error hic alias quia.",
+            "paragraph": "Velit incidunt voluptas nihil inventore ratione enim. Sapiente qui dignissimos soluta dolore ea. Consequatur dicta cupiditate sapiente."
+        },
+        {
+            "words": "porro dignissimos ipsum",
+            "sentence": "Ipsa exercitationem officia aliquid numquam nostrum enim vero tenetur.",
+            "sentences": "Autem nulla ad aspernatur. In fuga voluptas aut nesciunt ab non. Provident eum est. Itaque vitae iure praesentium autem optio ea.",
+            "paragraph": "Molestiae voluptatibus ullam expedita. Voluptatem blanditiis voluptatibus aut nihil at sapiente architecto error ratione. Sit error iure modi dignissimos omnis est nisi quia. Ducimus consectetur atque cupiditate quia illum. Illum sed est voluptas excepturi ut cum libero voluptatibus. Suscipit rem est explicabo non et accusantium repellat ex et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "489.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lockman, Von and Torp",
+            "name": "Credit Card Account 1736",
+            "type": "invoice",
+            "account": "63448166"
+        },
+        {
+            "amount": "924.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schimmel - McDermott",
+            "name": "Investment Account 6901",
+            "type": "withdrawal",
+            "account": "48656182"
+        },
+        {
+            "amount": "77.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kozey - Toy",
+            "name": "Checking Account 5130",
+            "type": "deposit",
+            "account": "57169660"
+        }
+    ]
+}

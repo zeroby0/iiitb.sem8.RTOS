@@ -1,0 +1,72 @@
+{
+    "name": "Torrance Boehm",
+    "username": "Evelyn_Feeney",
+    "email": "Citlalli.Funk@hotmail.com",
+    "address": {
+        "streetA": "Jeanette Fields",
+        "streetB": "031 Padberg Divide",
+        "streetC": "886 Richard Station Apt. 243",
+        "streetD": "Suite 189",
+        "city": "Simeonville",
+        "state": "Utah",
+        "country": "Slovakia (Slovak Republic)",
+        "zipcode": "93571",
+        "geo": {
+            "lat": "-49.2960",
+            "lng": "122.2430"
+        }
+    },
+    "phone": "808-788-1574 x0750",
+    "website": "kip.com",
+    "company": {
+        "name": "Padberg Group",
+        "catchPhrase": "Triple-buffered intermediate contingency",
+        "bs": "enterprise engineer relationships"
+    },
+    "posts": [
+        {
+            "words": "molestiae voluptatem dolorem",
+            "sentence": "Debitis rerum deleniti odit.",
+            "sentences": "Quo delectus ea. Vero voluptatem voluptatibus. Adipisci est optio est doloremque et deserunt recusandae consectetur. Eos quasi dolores. Ut quis quidem officiis aperiam numquam. Quia at cumque accusamus cupiditate in.",
+            "paragraph": "Est omnis et at ut vero. Nihil earum debitis non fugiat incidunt. Earum debitis magnam. Rerum nesciunt a asperiores. Sunt in qui illum aliquid ut aut et eveniet."
+        },
+        {
+            "words": "aut debitis aut",
+            "sentence": "Rerum adipisci similique iste autem dolore corporis.",
+            "sentences": "Illum quia quam atque qui nisi cum. Sed totam eos enim aliquid iusto illum. Quos explicabo occaecati harum. Dolore consequatur laborum alias quo omnis ab. Rerum quia voluptatem ab voluptatum officia architecto aut.",
+            "paragraph": "Nisi alias a nulla doloremque laudantium. Rerum necessitatibus autem. Sint culpa perferendis enim. Soluta ut soluta aperiam dolore. Voluptatem consequatur dolores nihil. Voluptatem aut dignissimos vitae sit quos facilis repellat dolores."
+        },
+        {
+            "words": "omnis explicabo enim",
+            "sentence": "Incidunt voluptatum iusto ut tempora iure consequuntur nam.",
+            "sentences": "Libero quia maxime esse aut dolore fugiat et accusamus iure. Perspiciatis iure facilis. Eaque occaecati quidem magnam dignissimos impedit commodi excepturi molestiae incidunt. Sit qui aut tempore. Nihil quo nihil sed eveniet dolor. Ex velit ut facilis autem voluptatem molestias.",
+            "paragraph": "Sit nulla qui quaerat commodi. Qui maiores a dolorem quo voluptas eveniet natus ab et. Aliquid aliquid excepturi ad voluptate ut aut vel eum. Et veniam doloremque. Dolor est possimus consectetur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "600.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Homenick LLC",
+            "name": "Personal Loan Account 2679",
+            "type": "deposit",
+            "account": "48852104"
+        },
+        {
+            "amount": "612.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaden - Gerlach",
+            "name": "Home Loan Account 4589",
+            "type": "payment",
+            "account": "83898839"
+        },
+        {
+            "amount": "189.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Witting, Jones and Schoen",
+            "name": "Home Loan Account 6222",
+            "type": "invoice",
+            "account": "16205086"
+        }
+    ]
+}

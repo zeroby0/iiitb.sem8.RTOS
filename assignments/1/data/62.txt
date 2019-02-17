@@ -1,0 +1,72 @@
+{
+    "name": "Micaela Jacobs",
+    "username": "Madison55",
+    "email": "Alexandre62@hotmail.com",
+    "address": {
+        "streetA": "Arden Shoal",
+        "streetB": "9533 Jewell Streets",
+        "streetC": "10203 Liliane Circle Suite 926",
+        "streetD": "Apt. 802",
+        "city": "Waelchiborough",
+        "state": "North Dakota",
+        "country": "Mauritania",
+        "zipcode": "20861-9527",
+        "geo": {
+            "lat": "16.8938",
+            "lng": "70.7637"
+        }
+    },
+    "phone": "1-431-474-0051 x572",
+    "website": "shanny.biz",
+    "company": {
+        "name": "Rowe - Flatley",
+        "catchPhrase": "Adaptive eco-centric archive",
+        "bs": "revolutionary incubate deliverables"
+    },
+    "posts": [
+        {
+            "words": "nihil perferendis qui",
+            "sentence": "Veritatis perferendis quas voluptas adipisci vero eveniet qui.",
+            "sentences": "Velit quod quis suscipit. Ducimus iure esse voluptatem laborum ea et ea totam quo. Illum voluptatem ipsum voluptatem deserunt.",
+            "paragraph": "Quibusdam ipsa voluptas ipsum nobis provident eligendi omnis ipsam pariatur. Consequatur nulla ratione nulla. Dolores rem porro corrupti omnis optio eius cumque tempora quo."
+        },
+        {
+            "words": "unde ab laborum",
+            "sentence": "Voluptates totam ipsum quis modi velit iusto blanditiis sunt necessitatibus.",
+            "sentences": "Explicabo ipsum ullam voluptatem illo earum soluta. Nam est laboriosam. Neque ut doloribus libero consequatur.",
+            "paragraph": "Unde praesentium id pariatur. Pariatur sit reiciendis aut qui facere tempore a quia et. Est sint placeat est quibusdam eligendi corporis ut excepturi perferendis."
+        },
+        {
+            "words": "repellendus sint vel",
+            "sentence": "Nisi et molestiae reprehenderit doloribus molestiae occaecati in porro quam.",
+            "sentences": "Quas eos quia rem harum doloribus voluptatem. Ad nemo velit voluptatibus dolores. Molestiae et sit expedita. Nisi nesciunt distinctio dolore accusamus atque sequi tempore dolores. Et id quis magnam fugiat et qui maiores vel. Id doloremque vel.",
+            "paragraph": "Temporibus minima et quas repudiandae perferendis consequatur asperiores voluptas minus. Quibusdam voluptas commodi quo officiis nostrum ut. Debitis est consequatur odio. Officia id est doloremque suscipit tenetur maxime in consectetur consequuntur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "342.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beahan and Sons",
+            "name": "Investment Account 7623",
+            "type": "payment",
+            "account": "17954997"
+        },
+        {
+            "amount": "275.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fadel, Rodriguez and Bartell",
+            "name": "Checking Account 4694",
+            "type": "deposit",
+            "account": "35111340"
+        },
+        {
+            "amount": "500.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pouros, Luettgen and Harvey",
+            "name": "Auto Loan Account 5725",
+            "type": "withdrawal",
+            "account": "65373454"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Mrs. Ivory Ziemann",
+    "username": "Lacey_Upton19",
+    "email": "Daryl_Pacocha@hotmail.com",
+    "address": {
+        "streetA": "Ofelia Ridge",
+        "streetB": "204 Hershel Station",
+        "streetC": "451 Turcotte Union Suite 312",
+        "streetD": "Apt. 747",
+        "city": "Gorczanyton",
+        "state": "Georgia",
+        "country": "Senegal",
+        "zipcode": "78608-6837",
+        "geo": {
+            "lat": "25.2275",
+            "lng": "27.6455"
+        }
+    },
+    "phone": "751.405.2084",
+    "website": "neva.org",
+    "company": {
+        "name": "Yundt - Douglas",
+        "catchPhrase": "Balanced composite challenge",
+        "bs": "e-business reintermediate applications"
+    },
+    "posts": [
+        {
+            "words": "autem deleniti ea",
+            "sentence": "Maiores voluptas sed voluptas laboriosam aut nesciunt.",
+            "sentences": "Natus voluptatum debitis. Possimus deserunt odio est officia et commodi. Accusantium qui nulla. Ut voluptatem et distinctio. Distinctio est exercitationem veritatis consectetur. Voluptatem hic aut numquam cupiditate officia totam sequi quae occaecati.",
+            "paragraph": "Cupiditate numquam voluptates magnam repudiandae sunt et dolor velit minima. Pariatur et perspiciatis non enim voluptates qui. Vitae cum voluptatem rerum sunt labore dolorem officiis dolores omnis. Laboriosam quisquam et et nesciunt ratione quod ipsa. Consequatur alias impedit pariatur quia iusto tenetur officiis molestiae distinctio."
+        },
+        {
+            "words": "est magni cum",
+            "sentence": "Vel rem id quia sunt.",
+            "sentences": "Delectus necessitatibus deserunt non. Veritatis nostrum dolor consequatur tempore hic dolorem earum doloremque. Occaecati aut voluptas ullam est alias eligendi voluptas consequatur. Dignissimos in maiores.",
+            "paragraph": "Accusamus deleniti iusto. Quia fugit molestiae nam autem sed vel debitis. Eius est minima error. Eum occaecati veritatis dignissimos. Voluptatem velit cumque a perferendis ab vero recusandae."
+        },
+        {
+            "words": "quod dolores eum",
+            "sentence": "Commodi voluptas laborum officiis.",
+            "sentences": "Eius eum sed reprehenderit aspernatur in repellat quia aut animi. Repellat ut facere. Fugit consequatur mollitia. Qui illum provident molestias earum sint ex ratione.",
+            "paragraph": "Sequi cupiditate amet voluptatem quia. Sapiente accusantium asperiores consequatur expedita adipisci quae similique. Nisi sapiente voluptatem incidunt aut. Quaerat architecto nemo eos. Sed velit cupiditate. Autem non maiores eos maiores."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "775.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hackett - Pollich",
+            "name": "Checking Account 2706",
+            "type": "deposit",
+            "account": "71962351"
+        },
+        {
+            "amount": "868.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Moen Inc",
+            "name": "Personal Loan Account 6677",
+            "type": "invoice",
+            "account": "00345074"
+        },
+        {
+            "amount": "539.01",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Emard - Berge",
+            "name": "Savings Account 5198",
+            "type": "invoice",
+            "account": "79745419"
+        }
+    ]
+}

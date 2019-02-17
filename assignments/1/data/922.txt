@@ -1,0 +1,72 @@
+{
+    "name": "Rhea Turcotte",
+    "username": "Aimee68",
+    "email": "Amos94@gmail.com",
+    "address": {
+        "streetA": "Kovacek Points",
+        "streetB": "656 Steuber Branch",
+        "streetC": "70944 Trevor Alley Suite 883",
+        "streetD": "Apt. 639",
+        "city": "Adelinefurt",
+        "state": "Iowa",
+        "country": "San Marino",
+        "zipcode": "68243",
+        "geo": {
+            "lat": "60.0410",
+            "lng": "-144.4489"
+        }
+    },
+    "phone": "024.453.5171 x911",
+    "website": "jackeline.info",
+    "company": {
+        "name": "Sporer - O'Kon",
+        "catchPhrase": "Extended local contingency",
+        "bs": "efficient extend initiatives"
+    },
+    "posts": [
+        {
+            "words": "dignissimos soluta dolor",
+            "sentence": "Et quas eos doloremque maiores sint dolorem.",
+            "sentences": "Molestiae consequatur voluptatem natus aut doloribus. Sit voluptate laudantium consectetur laudantium earum quidem cupiditate sit deserunt. Maiores et in molestiae corrupti qui aut eaque. Non qui fugiat occaecati sint magnam dolor ut alias. Aut consequatur animi dolore officia quam repellat et voluptatem. Exercitationem at maiores at natus reiciendis eos voluptates et.",
+            "paragraph": "Veniam voluptates architecto in placeat soluta molestiae officiis. Veniam eligendi libero esse rerum. Quaerat dignissimos aut praesentium et sunt voluptates deserunt iusto. Maiores animi sit sequi temporibus recusandae in culpa."
+        },
+        {
+            "words": "nihil amet perspiciatis",
+            "sentence": "Assumenda error est.",
+            "sentences": "Necessitatibus aut recusandae iusto et aspernatur excepturi in dolores molestiae. Pariatur quidem autem eos qui. Omnis nesciunt quia praesentium rem inventore est. Architecto voluptatem exercitationem.",
+            "paragraph": "Enim iusto nostrum totam. Pariatur reprehenderit voluptas. Inventore reprehenderit eos nisi sint a. Qui sint commodi molestias et est. Consectetur fugit illum est voluptatem nobis."
+        },
+        {
+            "words": "explicabo quia harum",
+            "sentence": "Et incidunt rerum voluptatem illum consequatur.",
+            "sentences": "Deserunt voluptatem eligendi non molestiae perferendis itaque enim. Sit numquam dignissimos. Eius eius id et eos. Est soluta delectus. Et dolorem cumque maiores ut. Officia earum assumenda debitis expedita unde non facilis.",
+            "paragraph": "Enim nisi dignissimos tempora quaerat eos minima qui est. Blanditiis aperiam illum eos quaerat vel illum tempore hic esse. Impedit quas laudantium officiis quod expedita et veritatis corrupti. Eius beatae ullam suscipit est."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "14.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gulgowski, Emmerich and Gaylord",
+            "name": "Savings Account 6726",
+            "type": "withdrawal",
+            "account": "56532354"
+        },
+        {
+            "amount": "837.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schinner LLC",
+            "name": "Credit Card Account 2357",
+            "type": "deposit",
+            "account": "70661280"
+        },
+        {
+            "amount": "145.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lockman and Sons",
+            "name": "Checking Account 8576",
+            "type": "payment",
+            "account": "73888417"
+        }
+    ]
+}

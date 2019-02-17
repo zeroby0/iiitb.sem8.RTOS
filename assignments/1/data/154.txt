@@ -1,0 +1,72 @@
+{
+    "name": "Sabrina Dach",
+    "username": "Retha_MacGyver",
+    "email": "Mossie.Watsica@yahoo.com",
+    "address": {
+        "streetA": "Ellis Loaf",
+        "streetB": "717 Destiney Ville",
+        "streetC": "97569 Hackett Extension Suite 217",
+        "streetD": "Apt. 010",
+        "city": "Boscoside",
+        "state": "Oregon",
+        "country": "Pitcairn Islands",
+        "zipcode": "83232-6313",
+        "geo": {
+            "lat": "85.2012",
+            "lng": "-118.0440"
+        }
+    },
+    "phone": "1-568-275-1728 x1981",
+    "website": "donnie.com",
+    "company": {
+        "name": "Thompson LLC",
+        "catchPhrase": "Total 4th generation instruction set",
+        "bs": "sexy streamline web-readiness"
+    },
+    "posts": [
+        {
+            "words": "id qui tempora",
+            "sentence": "Natus est aliquid vel cumque.",
+            "sentences": "Eos et velit ipsa omnis odit. Accusamus pariatur accusamus id dolores voluptate non in. Voluptatem eos ipsa eius tempore omnis eos. Non quaerat vitae natus impedit est. Ut possimus voluptatem minima sed accusamus deleniti.",
+            "paragraph": "Quod ullam est error accusantium. Quis alias mollitia deleniti sint. Voluptate velit molestiae voluptas. Nostrum nihil deserunt non quae. Distinctio quasi accusamus."
+        },
+        {
+            "words": "nemo exercitationem harum",
+            "sentence": "Ipsum suscipit architecto sunt molestias.",
+            "sentences": "Voluptatum sit nesciunt ad hic modi cupiditate corrupti. Sequi dolore excepturi neque debitis eligendi quasi harum consectetur cumque.",
+            "paragraph": "Est aut qui nesciunt provident dolor provident soluta et. Ratione exercitationem sit. Qui reiciendis reprehenderit aut necessitatibus molestiae. Sint consectetur numquam."
+        },
+        {
+            "words": "eos animi quaerat",
+            "sentence": "Commodi magnam praesentium eum.",
+            "sentences": "Dicta doloribus corporis facilis similique ut. Omnis laudantium explicabo alias ea reprehenderit architecto debitis laboriosam earum. Quo ad est atque.",
+            "paragraph": "Suscipit hic praesentium. Dicta quas aut. A animi atque quae ipsam autem. Consequatur harum molestiae molestiae et sed ipsam nobis. Minima alias ipsam. Facilis quos modi necessitatibus voluptatum consequuntur similique consequatur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "744.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Emard, Ruecker and Larson",
+            "name": "Personal Loan Account 3711",
+            "type": "payment",
+            "account": "66437646"
+        },
+        {
+            "amount": "273.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Yost, Jakubowski and Bergnaum",
+            "name": "Personal Loan Account 4823",
+            "type": "invoice",
+            "account": "94072356"
+        },
+        {
+            "amount": "705.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Runolfsdottir, Crona and Kirlin",
+            "name": "Personal Loan Account 3740",
+            "type": "invoice",
+            "account": "41347217"
+        }
+    ]
+}

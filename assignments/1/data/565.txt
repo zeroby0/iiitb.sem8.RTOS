@@ -1,0 +1,72 @@
+{
+    "name": "Rylee Carter",
+    "username": "Paul.Strosin17",
+    "email": "Nelson_Labadie29@gmail.com",
+    "address": {
+        "streetA": "McDermott Union",
+        "streetB": "93137 Luis Dale",
+        "streetC": "101 O'Conner Lane Suite 383",
+        "streetD": "Apt. 112",
+        "city": "Batzville",
+        "state": "Tennessee",
+        "country": "Nauru",
+        "zipcode": "65964",
+        "geo": {
+            "lat": "3.5610",
+            "lng": "-152.0979"
+        }
+    },
+    "phone": "416.007.6878",
+    "website": "christa.biz",
+    "company": {
+        "name": "Robel Group",
+        "catchPhrase": "Automated system-worthy architecture",
+        "bs": "seamless grow infrastructures"
+    },
+    "posts": [
+        {
+            "words": "sapiente voluptatibus tempore",
+            "sentence": "Fugiat voluptates est hic ut repudiandae exercitationem et reprehenderit.",
+            "sentences": "Ducimus non sit soluta impedit dolores adipisci officia. Eveniet rerum tempora quos suscipit et impedit impedit natus. Laborum nostrum nisi laboriosam nihil nam illum sed a. Veritatis iusto natus esse dolorem ipsa rerum rerum suscipit sunt.",
+            "paragraph": "Fugit laboriosam dolores reiciendis dolor qui. Voluptate architecto adipisci odit rem nihil est vitae. Quae autem suscipit laboriosam id sunt qui. Qui soluta non voluptas et ut minus omnis quas iusto. Blanditiis totam saepe."
+        },
+        {
+            "words": "neque nam inventore",
+            "sentence": "Et non velit vel harum sit quo ratione.",
+            "sentences": "Repellendus pariatur omnis sapiente illo accusamus id aliquid non. Qui est consequatur quidem. Quod laudantium architecto maxime in eius excepturi voluptatibus veniam quia. Eius ad blanditiis quia. Beatae dolorem quam laboriosam magnam mollitia temporibus incidunt.",
+            "paragraph": "Atque accusantium aut accusamus occaecati ipsum enim. Nisi laboriosam voluptatem perferendis sed eaque placeat aut atque. Explicabo ab ut aut non est voluptas error aut iure. Reiciendis voluptatem dicta. Amet voluptas dolorum reprehenderit quia. Ex et optio ut aliquam qui minus fugit dolorem omnis."
+        },
+        {
+            "words": "cum aut eum",
+            "sentence": "Et dignissimos error libero et.",
+            "sentences": "Eaque dolor dolores similique. Asperiores et est consectetur in.",
+            "paragraph": "Earum eius tempora voluptatem repudiandae. Optio illo et sunt earum accusantium veritatis deserunt quia. Natus rerum qui consequatur a aliquid modi ut quae. Odit perspiciatis libero laboriosam officia est delectus sed numquam at. Quidem similique sed. Aliquid error id animi maxime eaque expedita debitis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "805.29",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Little - Runolfsdottir",
+            "name": "Credit Card Account 1048",
+            "type": "payment",
+            "account": "27247146"
+        },
+        {
+            "amount": "87.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reichert - Grimes",
+            "name": "Investment Account 2614",
+            "type": "withdrawal",
+            "account": "31690957"
+        },
+        {
+            "amount": "927.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Greenholt LLC",
+            "name": "Investment Account 4853",
+            "type": "withdrawal",
+            "account": "31187221"
+        }
+    ]
+}

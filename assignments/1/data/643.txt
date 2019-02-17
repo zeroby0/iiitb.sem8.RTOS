@@ -1,0 +1,72 @@
+{
+    "name": "Kendra Corkery",
+    "username": "Beaulah_Emmerich23",
+    "email": "Kim2@hotmail.com",
+    "address": {
+        "streetA": "Leffler Shore",
+        "streetB": "630 Breanne Route",
+        "streetC": "8127 Ortiz River Suite 482",
+        "streetD": "Apt. 205",
+        "city": "DuBuqueberg",
+        "state": "Missouri",
+        "country": "Argentina",
+        "zipcode": "41148",
+        "geo": {
+            "lat": "-17.8858",
+            "lng": "-128.8791"
+        }
+    },
+    "phone": "(288) 843-0045 x37683",
+    "website": "alexys.info",
+    "company": {
+        "name": "Cruickshank - Purdy",
+        "catchPhrase": "Focused reciprocal software",
+        "bs": "holistic transform eyeballs"
+    },
+    "posts": [
+        {
+            "words": "aut quia qui",
+            "sentence": "Consequatur sit beatae.",
+            "sentences": "Consequatur animi iste quis suscipit minima. Provident id deleniti. Sunt doloribus ut. Officia adipisci adipisci quae.",
+            "paragraph": "Enim neque eveniet voluptatum explicabo. Impedit qui animi soluta qui ullam. Fugit veniam tenetur architecto nihil qui molestias."
+        },
+        {
+            "words": "possimus ducimus eius",
+            "sentence": "Eos et deserunt reprehenderit voluptatem iusto ut optio.",
+            "sentences": "Cupiditate ut magnam occaecati aut perspiciatis ex earum. Quos fugiat blanditiis et nemo voluptatem. Aut quos nihil porro. Et atque et iure dolores fugiat natus. Accusantium corporis et et.",
+            "paragraph": "Quo voluptas perspiciatis in unde iste inventore voluptas. Corporis perferendis ut et id maiores temporibus earum eius. Neque sed pariatur. Aspernatur sit harum sunt aut. Facilis recusandae occaecati ab iure recusandae quis dolor. Nulla quas optio est iste unde voluptatem."
+        },
+        {
+            "words": "impedit sint et",
+            "sentence": "Ipsa et commodi assumenda.",
+            "sentences": "Ut praesentium deserunt expedita. Quisquam saepe ea est dolores fugit.",
+            "paragraph": "Rerum sed dolorum fuga maiores vel. Hic neque facere sit voluptas voluptatum. Enim enim quis perspiciatis qui ut cupiditate quibusdam aliquid est. Consequatur quidem suscipit ducimus et deserunt enim. Voluptatum earum sequi at illum ab iste voluptatem. Velit sed dolore aut quo voluptate qui."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "212.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cremin, Bruen and McGlynn",
+            "name": "Money Market Account 5152",
+            "type": "deposit",
+            "account": "22689341"
+        },
+        {
+            "amount": "202.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nicolas Group",
+            "name": "Savings Account 0390",
+            "type": "invoice",
+            "account": "73217992"
+        },
+        {
+            "amount": "14.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Zboncak LLC",
+            "name": "Checking Account 5757",
+            "type": "invoice",
+            "account": "51254524"
+        }
+    ]
+}

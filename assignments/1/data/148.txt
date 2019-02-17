@@ -1,0 +1,72 @@
+{
+    "name": "Ashleigh Rutherford",
+    "username": "Giovanni.Stamm85",
+    "email": "Kylie.Wintheiser16@yahoo.com",
+    "address": {
+        "streetA": "Jones Harbors",
+        "streetB": "869 Lowe Springs",
+        "streetC": "50201 Maria Summit Apt. 552",
+        "streetD": "Apt. 625",
+        "city": "Keelingmouth",
+        "state": "North Carolina",
+        "country": "Montserrat",
+        "zipcode": "38372-6062",
+        "geo": {
+            "lat": "32.0496",
+            "lng": "-134.4073"
+        }
+    },
+    "phone": "780-648-6818",
+    "website": "lambert.com",
+    "company": {
+        "name": "Greenfelder - Schmitt",
+        "catchPhrase": "Focused global internet solution",
+        "bs": "out-of-the-box architect supply-chains"
+    },
+    "posts": [
+        {
+            "words": "odio consectetur quod",
+            "sentence": "Quo itaque aut a.",
+            "sentences": "Illo non consequatur sint iure exercitationem ut porro. Dolorem officiis libero et corrupti dolore consequuntur et adipisci impedit. Ea ipsam sint eos vel est totam commodi soluta. Porro modi maiores eos voluptatum in. Blanditiis perspiciatis consequuntur possimus consequuntur quibusdam amet voluptate est numquam. Enim sed dolor.",
+            "paragraph": "Perspiciatis consequuntur error sint molestias mollitia. Fugiat nihil omnis. Et nemo placeat. Est et consequuntur voluptatum voluptatum sint animi ut. Consectetur voluptate tenetur adipisci."
+        },
+        {
+            "words": "assumenda quisquam sunt",
+            "sentence": "Eligendi quia id.",
+            "sentences": "Doloremque tempora unde vel voluptatem exercitationem. Et sint pariatur. Est aut id ullam culpa magnam voluptatem ullam sit ut.",
+            "paragraph": "Dolore aut rem. Aperiam omnis occaecati voluptas inventore facere dolore delectus ea. Dolorum harum velit facilis error facilis sint cumque. Minima quisquam illum quam sint velit."
+        },
+        {
+            "words": "id dolorum voluptatem",
+            "sentence": "Distinctio deserunt magni ab eum.",
+            "sentences": "Et a illo. Expedita et ut minus est praesentium voluptatem nesciunt repudiandae. Sequi nisi voluptas consectetur similique fugit.",
+            "paragraph": "Sint laudantium reprehenderit. Consequatur harum unde nemo debitis. Ducimus ut et deleniti dolores unde perferendis et. Consequatur inventore neque mollitia. Aut voluptate assumenda ducimus nam et non debitis et eaque. Dolore blanditiis dolor facilis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "602.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kris, Tremblay and Labadie",
+            "name": "Auto Loan Account 9122",
+            "type": "invoice",
+            "account": "60050553"
+        },
+        {
+            "amount": "759.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Greenfelder - Littel",
+            "name": "Auto Loan Account 3094",
+            "type": "withdrawal",
+            "account": "74415411"
+        },
+        {
+            "amount": "789.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Romaguera - Tillman",
+            "name": "Investment Account 9128",
+            "type": "withdrawal",
+            "account": "65353369"
+        }
+    ]
+}

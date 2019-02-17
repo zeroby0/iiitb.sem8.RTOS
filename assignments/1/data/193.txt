@@ -1,0 +1,72 @@
+{
+    "name": "Amber Thompson",
+    "username": "Jeramie_Harber",
+    "email": "Tanya91@hotmail.com",
+    "address": {
+        "streetA": "Jerrell Walk",
+        "streetB": "883 Pacocha Fords",
+        "streetC": "434 Darrick View Apt. 772",
+        "streetD": "Suite 323",
+        "city": "Port Assuntaview",
+        "state": "New Mexico",
+        "country": "Liechtenstein",
+        "zipcode": "41163",
+        "geo": {
+            "lat": "-4.1032",
+            "lng": "-53.8379"
+        }
+    },
+    "phone": "1-401-185-0882",
+    "website": "assunta.info",
+    "company": {
+        "name": "Torp - Flatley",
+        "catchPhrase": "Programmable bottom-line projection",
+        "bs": "magnetic strategize metrics"
+    },
+    "posts": [
+        {
+            "words": "quia sed saepe",
+            "sentence": "Velit ut nihil omnis praesentium aspernatur deleniti voluptatem et.",
+            "sentences": "Dignissimos porro error et quis vitae itaque ullam sint ad. Dignissimos est error.",
+            "paragraph": "Maiores in sequi vel minus beatae. Aperiam rerum non tempora accusantium. Pariatur natus doloribus."
+        },
+        {
+            "words": "expedita non sit",
+            "sentence": "Nobis et eum ducimus vero eveniet veniam aliquid.",
+            "sentences": "Facilis laboriosam iste perferendis aliquam illum officiis qui harum illum. Quo sequi perferendis aperiam sunt impedit iste qui. Numquam ut dolorem ex. Iure est expedita.",
+            "paragraph": "Accusantium cumque quod aliquid rerum atque error nesciunt sit. Praesentium fuga dolores enim maxime voluptatibus. Doloremque ab vel autem ut."
+        },
+        {
+            "words": "minus deleniti sint",
+            "sentence": "Et tenetur sed quo.",
+            "sentences": "Ut ad omnis quia repellat. Voluptatem ut voluptate harum voluptas voluptatem veritatis. Vel recusandae magni quo beatae. Maiores omnis voluptatem reiciendis vitae natus.",
+            "paragraph": "Magnam doloremque tempora commodi. Neque et sapiente minima tenetur odio iure. Perspiciatis quaerat est quibusdam. Esse voluptatum officiis qui. Quia sed tenetur a ratione illum quae quas. Rerum veritatis praesentium ex unde nobis non consequuntur ex."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "875.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Armstrong, Klein and Botsford",
+            "name": "Investment Account 4698",
+            "type": "deposit",
+            "account": "49178700"
+        },
+        {
+            "amount": "301.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Treutel - Gleason",
+            "name": "Auto Loan Account 1172",
+            "type": "payment",
+            "account": "96407448"
+        },
+        {
+            "amount": "645.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Volkman LLC",
+            "name": "Credit Card Account 7231",
+            "type": "invoice",
+            "account": "04426292"
+        }
+    ]
+}

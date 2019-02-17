@@ -1,0 +1,72 @@
+{
+    "name": "Jackie Turcotte",
+    "username": "Adonis_Grant23",
+    "email": "Will_Turner@gmail.com",
+    "address": {
+        "streetA": "Mercedes Underpass",
+        "streetB": "6265 Noemi Light",
+        "streetC": "9360 Conroy Square Apt. 263",
+        "streetD": "Apt. 176",
+        "city": "East Cheyenneton",
+        "state": "South Dakota",
+        "country": "Cuba",
+        "zipcode": "42892",
+        "geo": {
+            "lat": "86.6507",
+            "lng": "45.0977"
+        }
+    },
+    "phone": "(395) 017-2809 x244",
+    "website": "etha.org",
+    "company": {
+        "name": "Rolfson and Sons",
+        "catchPhrase": "Realigned disintermediate middleware",
+        "bs": "enterprise revolutionize systems"
+    },
+    "posts": [
+        {
+            "words": "doloremque doloremque et",
+            "sentence": "Non veniam id et autem.",
+            "sentences": "Est quasi officia enim eius magnam. Delectus consequuntur cupiditate hic excepturi.",
+            "paragraph": "Perspiciatis cumque optio optio beatae asperiores autem voluptatem quia voluptate. Deserunt quia eos sint velit. Ad quis debitis doloribus quia ipsum eum."
+        },
+        {
+            "words": "non consectetur aspernatur",
+            "sentence": "Et aliquam minima qui sit eos.",
+            "sentences": "Aliquid molestiae ut aut tempora est omnis quis corporis. Aperiam aut sit accusantium officia totam dicta voluptatum. Est numquam ab voluptatibus inventore adipisci nihil. Fuga commodi est dolor asperiores earum. Inventore aut modi ut aspernatur odio reiciendis illo.",
+            "paragraph": "Et animi aliquid quasi est. Ducimus autem incidunt qui nam quia eveniet. Ratione architecto et fugit dolorem."
+        },
+        {
+            "words": "voluptas et accusamus",
+            "sentence": "Saepe adipisci perferendis ut natus nobis et molestias.",
+            "sentences": "Laboriosam fuga cumque doloribus. Tempore dolorem et omnis explicabo quidem nihil.",
+            "paragraph": "Ducimus voluptatem culpa consequuntur sint laudantium ut libero. Eaque voluptas provident. Eaque qui laudantium autem rerum. Voluptas veritatis quaerat mollitia laudantium molestiae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "142.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wisozk LLC",
+            "name": "Savings Account 1877",
+            "type": "payment",
+            "account": "46946819"
+        },
+        {
+            "amount": "421.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Farrell Inc",
+            "name": "Personal Loan Account 8420",
+            "type": "deposit",
+            "account": "91354607"
+        },
+        {
+            "amount": "409.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tillman Group",
+            "name": "Savings Account 8997",
+            "type": "deposit",
+            "account": "81629124"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Sheldon Farrell II",
+    "username": "Harry.Tremblay51",
+    "email": "Felix25@gmail.com",
+    "address": {
+        "streetA": "Keebler Crossing",
+        "streetB": "201 Hamill Neck",
+        "streetC": "942 Hauck Track Apt. 878",
+        "streetD": "Suite 376",
+        "city": "Hermanhaven",
+        "state": "Maryland",
+        "country": "Guinea",
+        "zipcode": "16810",
+        "geo": {
+            "lat": "85.1902",
+            "lng": "82.1926"
+        }
+    },
+    "phone": "550-506-0098",
+    "website": "liam.com",
+    "company": {
+        "name": "Marvin - Corkery",
+        "catchPhrase": "Quality-focused high-level orchestration",
+        "bs": "impactful harness schemas"
+    },
+    "posts": [
+        {
+            "words": "sapiente et et",
+            "sentence": "Quis perspiciatis nisi.",
+            "sentences": "Et quae aut voluptates est sapiente eum. Odio aliquid placeat perferendis numquam numquam rerum. Accusamus nemo animi. Et molestiae sint quisquam voluptatibus corrupti non consequuntur. Eaque debitis dolorem ut rem harum non voluptatum.",
+            "paragraph": "Iure libero voluptate ut iure doloribus eius autem molestiae. Quidem quia repellat mollitia tempore sapiente et. Velit modi voluptatem incidunt ut et. Et omnis velit ut autem laborum. Id et maxime voluptas eius molestiae rerum quos."
+        },
+        {
+            "words": "quae repellat magni",
+            "sentence": "Ea aut eius nam animi dolores et.",
+            "sentences": "Ipsum fugiat praesentium nostrum aspernatur adipisci non autem esse ut. Aut rerum rerum enim voluptatem accusamus sit suscipit reprehenderit nulla. Et ut deleniti maxime. Non aut nostrum sit.",
+            "paragraph": "In perspiciatis sint. Possimus vero repellendus rerum aut facere asperiores et architecto. Qui ipsum aut enim quos necessitatibus aut doloremque quis molestiae. Labore est fugit minima."
+        },
+        {
+            "words": "id ut enim",
+            "sentence": "Quibusdam aliquid architecto unde cupiditate.",
+            "sentences": "Beatae dolores fugit ullam explicabo. Rerum reprehenderit laboriosam qui ab amet libero iure incidunt reprehenderit. Ea odit voluptatum beatae voluptates animi inventore quisquam nemo.",
+            "paragraph": "Ipsam voluptate vero molestias esse fugit sint illum similique sit. Et quisquam aut itaque cumque natus voluptatem eius et maiores. Delectus dolore praesentium id rerum necessitatibus ut sit libero. Modi eos qui fuga quis quam quisquam. Sint tenetur eum consequuntur aperiam a officiis. Sunt distinctio quibusdam sequi quia quia accusantium velit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "674.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hodkiewicz - Lindgren",
+            "name": "Investment Account 7387",
+            "type": "invoice",
+            "account": "42630300"
+        },
+        {
+            "amount": "618.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Klein, Cummings and Lebsack",
+            "name": "Home Loan Account 6655",
+            "type": "deposit",
+            "account": "48001093"
+        },
+        {
+            "amount": "889.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "VonRueden Inc",
+            "name": "Money Market Account 9048",
+            "type": "payment",
+            "account": "05877634"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Meredith Collier",
+    "username": "Leora_Fahey",
+    "email": "Berta68@yahoo.com",
+    "address": {
+        "streetA": "Loyal Track",
+        "streetB": "916 Keshawn Highway",
+        "streetC": "33479 Hagenes Unions Apt. 929",
+        "streetD": "Suite 146",
+        "city": "West Eve",
+        "state": "Nebraska",
+        "country": "Saint Kitts and Nevis",
+        "zipcode": "37003-5178",
+        "geo": {
+            "lat": "-48.9507",
+            "lng": "-113.4417"
+        }
+    },
+    "phone": "(979) 386-0925 x0335",
+    "website": "sim.com",
+    "company": {
+        "name": "Von LLC",
+        "catchPhrase": "Programmable impactful time-frame",
+        "bs": "enterprise matrix niches"
+    },
+    "posts": [
+        {
+            "words": "consequatur odit voluptas",
+            "sentence": "Itaque sint commodi.",
+            "sentences": "Qui impedit voluptatem sint. Praesentium sit rerum.",
+            "paragraph": "Ullam labore odio optio perferendis. Libero assumenda vel. At nisi ratione eaque. Et eaque molestiae velit sequi."
+        },
+        {
+            "words": "explicabo et tempore",
+            "sentence": "Non hic quas est.",
+            "sentences": "Nihil ad animi assumenda ratione fuga autem beatae libero. Odit et quia non ab voluptas hic nulla. Dolores fuga dolorem quaerat iure vero ipsum ipsam est. Omnis qui ducimus laboriosam.",
+            "paragraph": "Quae natus consequuntur deserunt sit. Ea officia et sit dicta molestiae. Omnis consequuntur error et et id. Quod laborum debitis est blanditiis voluptas. Illo quis occaecati."
+        },
+        {
+            "words": "sunt beatae adipisci",
+            "sentence": "Officia totam ratione nihil sit eius.",
+            "sentences": "In optio quo recusandae totam et. Hic similique eum placeat deserunt consectetur. Similique quia culpa et pariatur occaecati. Animi vitae officia consequuntur quibusdam possimus sint doloremque quibusdam.",
+            "paragraph": "Doloremque est quas. Voluptatibus quia quia enim quos consequatur vel rem. Et culpa consequatur nostrum in autem. Consequuntur nesciunt quos nihil fuga alias. Accusantium asperiores illum natus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "6.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Macejkovic - Abshire",
+            "name": "Checking Account 1854",
+            "type": "payment",
+            "account": "82286213"
+        },
+        {
+            "amount": "985.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schinner LLC",
+            "name": "Home Loan Account 2762",
+            "type": "deposit",
+            "account": "86158066"
+        },
+        {
+            "amount": "577.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Legros and Sons",
+            "name": "Investment Account 9967",
+            "type": "deposit",
+            "account": "19797707"
+        }
+    ]
+}

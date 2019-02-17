@@ -1,0 +1,72 @@
+{
+    "name": "Delmer Reilly",
+    "username": "Nolan_Spinka47",
+    "email": "Cornell56@yahoo.com",
+    "address": {
+        "streetA": "Walsh Mountain",
+        "streetB": "710 Feil Wall",
+        "streetC": "101 Maud Summit Suite 354",
+        "streetD": "Suite 709",
+        "city": "Lake Sophiaton",
+        "state": "Idaho",
+        "country": "Mauritania",
+        "zipcode": "71814-0677",
+        "geo": {
+            "lat": "-44.2667",
+            "lng": "159.1505"
+        }
+    },
+    "phone": "1-215-581-1881",
+    "website": "wyman.name",
+    "company": {
+        "name": "Herzog - Kuhlman",
+        "catchPhrase": "Fully-configurable disintermediate pricing structure",
+        "bs": "plug-and-play target users"
+    },
+    "posts": [
+        {
+            "words": "ut autem mollitia",
+            "sentence": "Ea magni sapiente qui est ab eius dolorum.",
+            "sentences": "Nobis nisi est tempora architecto est est qui. Suscipit debitis et ut facilis consequatur illum neque. Quae nemo at magnam. Qui pariatur rerum vel tenetur corporis. Qui voluptates doloribus libero sed reiciendis doloribus. Occaecati dolor sapiente.",
+            "paragraph": "Hic fuga corrupti earum temporibus sapiente. Commodi nostrum cum similique cupiditate nihil esse. Eos libero dicta saepe. Tempora quae perspiciatis voluptatem et. Magni nostrum officiis ducimus eveniet quia commodi eos quam et. Non omnis adipisci fuga error ipsam illo natus."
+        },
+        {
+            "words": "ullam et repellat",
+            "sentence": "Provident placeat aperiam nihil autem sit debitis est quia sed.",
+            "sentences": "Non soluta autem exercitationem ea modi et. Earum exercitationem quas et illo id fugiat. Nobis sit qui.",
+            "paragraph": "Perspiciatis commodi nam modi. Doloremque aut cupiditate voluptas dolor fugit. Voluptates voluptatibus occaecati expedita explicabo hic omnis et non. At incidunt vitae ea quam aut quidem nesciunt harum illum."
+        },
+        {
+            "words": "eos et qui",
+            "sentence": "Asperiores vel exercitationem sed vel.",
+            "sentences": "Debitis est neque quibusdam aspernatur voluptatem qui consequatur ratione fuga. Est sed aut sit enim est enim ipsam voluptatum. Impedit porro aperiam velit incidunt dolore sed aut non. Similique nihil qui accusantium dicta assumenda molestiae tempore sint sit. Quos quo culpa et mollitia rerum. Tempora iure non.",
+            "paragraph": "Sint molestiae officia doloribus dolor incidunt ad quasi. Quidem aspernatur rerum error natus beatae nihil. Aut cumque fuga et rerum cum aliquid non dolorum sit. Error quo rerum eum veniam facilis deserunt voluptatem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "985.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lueilwitz, Schumm and Jacobson",
+            "name": "Auto Loan Account 9748",
+            "type": "deposit",
+            "account": "59864632"
+        },
+        {
+            "amount": "699.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rowe - Schaden",
+            "name": "Investment Account 3872",
+            "type": "payment",
+            "account": "09840528"
+        },
+        {
+            "amount": "802.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Homenick - Brakus",
+            "name": "Savings Account 0204",
+            "type": "invoice",
+            "account": "55363162"
+        }
+    ]
+}

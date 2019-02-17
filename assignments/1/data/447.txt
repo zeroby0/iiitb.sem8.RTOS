@@ -1,0 +1,72 @@
+{
+    "name": "Johnnie Deckow",
+    "username": "Zachary38",
+    "email": "Leonor_McLaughlin@yahoo.com",
+    "address": {
+        "streetA": "Katrina Mountains",
+        "streetB": "3804 Aglae Streets",
+        "streetC": "2895 Cordie Skyway Apt. 826",
+        "streetD": "Suite 313",
+        "city": "East Cassie",
+        "state": "Delaware",
+        "country": "Nauru",
+        "zipcode": "29364-5749",
+        "geo": {
+            "lat": "59.3057",
+            "lng": "59.1073"
+        }
+    },
+    "phone": "322.187.3808 x917",
+    "website": "maymie.name",
+    "company": {
+        "name": "Leuschke Group",
+        "catchPhrase": "Reactive explicit model",
+        "bs": "extensible drive bandwidth"
+    },
+    "posts": [
+        {
+            "words": "et quia similique",
+            "sentence": "Blanditiis autem aut aperiam debitis esse qui.",
+            "sentences": "Aliquid quos ipsum odit minima maiores impedit error dolorem tempora. Vel officia et cupiditate quas. Quia eos exercitationem veniam voluptatem.",
+            "paragraph": "Ut dolorem et repudiandae ut laudantium dolor. Sit laudantium consequatur consequuntur ut accusantium tempore. Harum et eos voluptas reiciendis odit veritatis. Reprehenderit quia dolorum eos magni qui rerum. Aperiam laudantium at quam qui. Eligendi dolorem illo est reprehenderit itaque debitis voluptates eius in."
+        },
+        {
+            "words": "est incidunt dolorem",
+            "sentence": "Et facilis rem rem possimus quidem qui consequatur dolores.",
+            "sentences": "Distinctio fugit quia laudantium enim veniam alias voluptatum culpa architecto. Eos fugiat eligendi debitis.",
+            "paragraph": "Quaerat sed vero reprehenderit eligendi. Iste tempore ab aliquam et. Et et et ipsa culpa facere maxime assumenda atque. Ut quos impedit quos qui impedit."
+        },
+        {
+            "words": "dolor sunt assumenda",
+            "sentence": "Fugiat totam odit fugiat.",
+            "sentences": "Unde excepturi dolor eaque et exercitationem qui aut. Possimus delectus dolore alias hic est. Amet inventore iusto consequatur odio beatae in atque similique labore. Velit ut velit porro consectetur distinctio. Quo omnis accusantium ducimus qui autem impedit.",
+            "paragraph": "A aliquid esse hic dolorem harum. Repellendus quia ea. Eos veniam sequi esse recusandae iusto corporis placeat aut sed. Facilis dolorem et iusto ipsa occaecati et. Possimus corrupti quibusdam natus voluptatem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "847.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Huels - Strosin",
+            "name": "Money Market Account 6143",
+            "type": "invoice",
+            "account": "94838991"
+        },
+        {
+            "amount": "406.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Upton - Luettgen",
+            "name": "Investment Account 9978",
+            "type": "deposit",
+            "account": "67087881"
+        },
+        {
+            "amount": "190.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rutherford - Lubowitz",
+            "name": "Checking Account 5052",
+            "type": "deposit",
+            "account": "51533107"
+        }
+    ]
+}

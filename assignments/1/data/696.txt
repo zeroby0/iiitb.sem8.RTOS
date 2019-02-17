@@ -1,0 +1,72 @@
+{
+    "name": "Grayce Price",
+    "username": "Esther1",
+    "email": "Raphael_Mertz94@gmail.com",
+    "address": {
+        "streetA": "Welch Estate",
+        "streetB": "2220 Corrine Mountains",
+        "streetC": "196 Windler Springs Suite 939",
+        "streetD": "Suite 692",
+        "city": "West Eli",
+        "state": "Louisiana",
+        "country": "Mexico",
+        "zipcode": "30475-7167",
+        "geo": {
+            "lat": "19.6102",
+            "lng": "-87.2891"
+        }
+    },
+    "phone": "1-916-354-3270 x45482",
+    "website": "cristina.name",
+    "company": {
+        "name": "Weissnat, Ratke and Kemmer",
+        "catchPhrase": "Vision-oriented neutral local area network",
+        "bs": "scalable disintermediate partnerships"
+    },
+    "posts": [
+        {
+            "words": "iure culpa et",
+            "sentence": "Vero in ut dicta est soluta officia rerum quis.",
+            "sentences": "Totam ex neque quia architecto repellat harum consequatur id. Suscipit autem ut nihil quos excepturi velit.",
+            "paragraph": "Vero eum consequuntur nostrum error molestiae non veniam qui consequatur. Fugit veniam rerum qui. Quas tenetur non ea voluptate culpa ad et fugit."
+        },
+        {
+            "words": "ab dolor et",
+            "sentence": "Quo in vel.",
+            "sentences": "Voluptatibus quisquam ex ducimus et explicabo officia quae placeat harum. Blanditiis non dolorem eius dolores vero. Voluptas et ut sed modi maiores pariatur inventore.",
+            "paragraph": "Veniam sed sed dolorem omnis error. Cupiditate voluptas laborum enim sit suscipit rerum quidem ipsam rerum. Neque perferendis ab impedit et cupiditate esse. Ut deleniti dolorem nobis minus. Et eum vel. Quia molestiae earum nesciunt ratione."
+        },
+        {
+            "words": "optio illum nihil",
+            "sentence": "Aut quidem consequuntur quo consequatur.",
+            "sentences": "Laboriosam ut culpa ipsam aut architecto voluptate. Nesciunt corrupti magnam culpa neque neque. Nemo porro doloremque consequuntur debitis quisquam laudantium reprehenderit. Accusantium aliquid cum beatae praesentium.",
+            "paragraph": "Est iusto alias. Sint nam provident. Vero perspiciatis voluptates minima sit beatae est explicabo harum et. Facilis quia in cum eligendi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "475.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stark, Ward and Volkman",
+            "name": "Savings Account 4372",
+            "type": "withdrawal",
+            "account": "35880006"
+        },
+        {
+            "amount": "345.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Johnson, Hackett and Medhurst",
+            "name": "Savings Account 3258",
+            "type": "payment",
+            "account": "77172927"
+        },
+        {
+            "amount": "254.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Moen and Sons",
+            "name": "Personal Loan Account 3962",
+            "type": "deposit",
+            "account": "49160727"
+        }
+    ]
+}

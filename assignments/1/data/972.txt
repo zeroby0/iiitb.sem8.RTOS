@@ -1,0 +1,72 @@
+{
+    "name": "Mr. Alba Crist",
+    "username": "Bryana54",
+    "email": "Barney_Willms@yahoo.com",
+    "address": {
+        "streetA": "Stark Ports",
+        "streetB": "887 Maximus Circles",
+        "streetC": "60943 Ryan Radial Suite 931",
+        "streetD": "Apt. 394",
+        "city": "Morarmouth",
+        "state": "New Jersey",
+        "country": "Antarctica (the territory South of 60 deg S)",
+        "zipcode": "37878-6655",
+        "geo": {
+            "lat": "-46.9401",
+            "lng": "-149.6438"
+        }
+    },
+    "phone": "427-681-7781",
+    "website": "ericka.name",
+    "company": {
+        "name": "Mosciski - Wolf",
+        "catchPhrase": "Vision-oriented hybrid website",
+        "bs": "viral cultivate interfaces"
+    },
+    "posts": [
+        {
+            "words": "iure deserunt maxime",
+            "sentence": "Saepe dolorem qui amet.",
+            "sentences": "Dolore non sed est provident omnis sed. Fugiat est dolor veritatis repellendus quidem labore nulla iusto. Ratione quam fuga tenetur officiis qui quis fugit. Voluptas laborum et.",
+            "paragraph": "Et adipisci ullam. Qui fugiat eos velit at. Rerum a nostrum consequatur odit et cupiditate est est alias."
+        },
+        {
+            "words": "molestias quaerat ut",
+            "sentence": "Vitae aut laudantium neque ut ut cupiditate.",
+            "sentences": "Et ratione eveniet rem blanditiis. Occaecati expedita quod soluta dicta. Ut quia autem temporibus deserunt. Quidem dolorum cupiditate occaecati odio. Voluptas tempore omnis voluptatem. Dolorem est facere accusantium.",
+            "paragraph": "Quidem id numquam et minus et est numquam nemo nesciunt. Error dolorem sed natus cumque quis quia minus. Dolorem voluptate quia explicabo incidunt tempora quia sunt et. Est pariatur nihil. Ea repudiandae voluptas placeat quidem magnam. Ea modi et sit asperiores dolores exercitationem rerum fugiat."
+        },
+        {
+            "words": "quis eos quia",
+            "sentence": "Qui nihil et omnis ut suscipit.",
+            "sentences": "Ut possimus ut aperiam dolorum adipisci architecto. Cum et sunt eligendi repellat aut. At sint aut recusandae. Nobis vitae non quidem animi.",
+            "paragraph": "Voluptatum corrupti laudantium est sint ut nobis ipsum. Iusto mollitia et vel consequuntur. Quia quas facere odit sequi sequi. Dolore velit corporis voluptatem. Enim maiores qui odio dolor eum ut consequuntur natus quae. Qui assumenda impedit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "795.56",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wintheiser and Sons",
+            "name": "Home Loan Account 9838",
+            "type": "withdrawal",
+            "account": "70046870"
+        },
+        {
+            "amount": "149.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McCullough, Murphy and Bogisich",
+            "name": "Money Market Account 2484",
+            "type": "withdrawal",
+            "account": "17534819"
+        },
+        {
+            "amount": "574.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dickens, Larson and Roob",
+            "name": "Home Loan Account 3543",
+            "type": "invoice",
+            "account": "72822796"
+        }
+    ]
+}

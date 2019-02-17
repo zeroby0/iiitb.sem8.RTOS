@@ -1,0 +1,72 @@
+{
+    "name": "Rowena Denesik",
+    "username": "Reed.Schmitt57",
+    "email": "Brionna.Bergnaum97@gmail.com",
+    "address": {
+        "streetA": "Penelope Walk",
+        "streetB": "44440 Koepp Mill",
+        "streetC": "844 Nolan Lakes Suite 262",
+        "streetD": "Suite 829",
+        "city": "West Maeve",
+        "state": "South Dakota",
+        "country": "Costa Rica",
+        "zipcode": "02511",
+        "geo": {
+            "lat": "-4.7976",
+            "lng": "-135.6776"
+        }
+    },
+    "phone": "718-944-4704 x740",
+    "website": "hugh.name",
+    "company": {
+        "name": "Ullrich, Sanford and Bernhard",
+        "catchPhrase": "Universal composite service-desk",
+        "bs": "next-generation iterate paradigms"
+    },
+    "posts": [
+        {
+            "words": "sunt et maiores",
+            "sentence": "Incidunt accusantium provident voluptatem eligendi voluptas omnis sunt illum.",
+            "sentences": "Voluptatem consequatur esse qui. Eligendi mollitia deleniti et nihil omnis.",
+            "paragraph": "Eaque non et quos qui fuga voluptas dolores. Ea non placeat et enim accusamus. Laborum facilis id voluptatem ad ut voluptatem eum. Sunt quia esse eius. Eius quos architecto amet accusamus quia nobis."
+        },
+        {
+            "words": "possimus dicta quis",
+            "sentence": "Eos eveniet delectus.",
+            "sentences": "Voluptatem dolorem et adipisci harum est non quia. Aut fugiat libero tempore nostrum. Facere possimus reprehenderit est. Fuga et soluta est dolorem. Veritatis at qui sit eveniet et consectetur.",
+            "paragraph": "Hic sunt et non ad ipsam. Ullam sint expedita repellat ea enim quia exercitationem aut autem. Accusantium ducimus sit repellendus vel sed. Dicta consectetur exercitationem nemo vel enim sit voluptatem ut. Nihil perspiciatis facilis quidem placeat."
+        },
+        {
+            "words": "est sunt delectus",
+            "sentence": "Et sint eligendi qui inventore est.",
+            "sentences": "Esse aut et incidunt qui veritatis aperiam facere vero qui. Quibusdam et harum aspernatur officia qui non ab. Sed ut saepe et inventore est error. Quisquam qui fugiat sed consequatur. Tenetur aut non dolorem officia esse. Repudiandae nam dolores eligendi sunt tempore praesentium expedita consequuntur.",
+            "paragraph": "At id inventore qui non ea numquam. Officiis aut qui ex et veniam voluptatem tenetur unde est. Nisi voluptate et ad eius cum aut laborum. Velit sunt eum atque quasi cum ut qui quidem qui. Odio perspiciatis consequatur ea pariatur placeat culpa. Nobis voluptatum sapiente ut voluptas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "558.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ledner - Schmeler",
+            "name": "Money Market Account 1663",
+            "type": "withdrawal",
+            "account": "45687575"
+        },
+        {
+            "amount": "89.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Parker, Heaney and Friesen",
+            "name": "Auto Loan Account 0308",
+            "type": "payment",
+            "account": "15572989"
+        },
+        {
+            "amount": "113.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cummings, Romaguera and Gerhold",
+            "name": "Personal Loan Account 3012",
+            "type": "invoice",
+            "account": "64028683"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Lucious Murazik",
+    "username": "Lelah.Schneider",
+    "email": "Carlie.Mosciski25@yahoo.com",
+    "address": {
+        "streetA": "Goodwin Causeway",
+        "streetB": "88907 Virgil Lodge",
+        "streetC": "95419 Lind Point Suite 230",
+        "streetD": "Apt. 269",
+        "city": "East Fernando",
+        "state": "Illinois",
+        "country": "Canada",
+        "zipcode": "04100",
+        "geo": {
+            "lat": "-69.4272",
+            "lng": "-42.4578"
+        }
+    },
+    "phone": "(433) 169-3171",
+    "website": "marjorie.biz",
+    "company": {
+        "name": "Padberg, Hirthe and Dooley",
+        "catchPhrase": "Networked scalable ability",
+        "bs": "world-class architect technologies"
+    },
+    "posts": [
+        {
+            "words": "suscipit quam officia",
+            "sentence": "Alias tenetur nam qui consequuntur voluptas quam.",
+            "sentences": "Animi non sunt explicabo velit omnis temporibus asperiores doloremque. Unde provident id quod ipsa fugiat qui minima voluptatem.",
+            "paragraph": "Illum qui est quam et ut. Aperiam officiis ex architecto et odio. Quas voluptas amet."
+        },
+        {
+            "words": "cum dolores quia",
+            "sentence": "Sed non et ipsum.",
+            "sentences": "Illo qui molestiae cumque debitis fugit et laborum voluptatem est. Beatae corrupti ut corporis libero laboriosam harum provident et.",
+            "paragraph": "Consequatur hic voluptatem qui aut sint sit dicta ut excepturi. Soluta qui cupiditate. Rem id magni. Dolorem maiores cum qui. Dolorem quaerat accusantium sequi et rerum voluptatem alias. Est consequatur nam repudiandae voluptatem est."
+        },
+        {
+            "words": "cumque mollitia quisquam",
+            "sentence": "Atque quam ex dignissimos beatae.",
+            "sentences": "Aut aut eveniet qui iusto nam velit iure aut nobis. Qui impedit praesentium saepe cum dolor aliquid blanditiis. Voluptate id vero nihil fuga explicabo magni et incidunt molestiae. Blanditiis quo quas quia libero nam. Harum perspiciatis quo eos natus ut in hic rerum eveniet.",
+            "paragraph": "Quia ea quam corrupti deleniti dolores sint itaque quasi. Eos perferendis fugiat quia debitis molestiae fugit asperiores dolorum. Beatae facere sed rerum modi velit distinctio omnis est. Quisquam ut totam facilis qui aperiam fuga cum eveniet."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "438.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kreiger, Schoen and Witting",
+            "name": "Credit Card Account 3306",
+            "type": "withdrawal",
+            "account": "63236767"
+        },
+        {
+            "amount": "289.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koch Group",
+            "name": "Auto Loan Account 3646",
+            "type": "withdrawal",
+            "account": "13441610"
+        },
+        {
+            "amount": "401.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Armstrong, Hauck and Hirthe",
+            "name": "Savings Account 1263",
+            "type": "invoice",
+            "account": "72859119"
+        }
+    ]
+}

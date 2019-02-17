@@ -1,0 +1,72 @@
+{
+    "name": "Cesar Hickle",
+    "username": "Piper59",
+    "email": "Ila33@gmail.com",
+    "address": {
+        "streetA": "Hagenes Court",
+        "streetB": "09435 Steuber Greens",
+        "streetC": "3318 Cronin Valleys Apt. 878",
+        "streetD": "Suite 245",
+        "city": "Binshaven",
+        "state": "Alaska",
+        "country": "Tajikistan",
+        "zipcode": "46033",
+        "geo": {
+            "lat": "27.4242",
+            "lng": "-92.2473"
+        }
+    },
+    "phone": "184.288.7182 x647",
+    "website": "mohammed.net",
+    "company": {
+        "name": "Adams - Keebler",
+        "catchPhrase": "Down-sized even-keeled focus group",
+        "bs": "integrated transform ROI"
+    },
+    "posts": [
+        {
+            "words": "aut et suscipit",
+            "sentence": "In necessitatibus reiciendis ut rerum vel corporis.",
+            "sentences": "Molestias necessitatibus sit laudantium et quod. Sit voluptas saepe architecto maxime sit praesentium pariatur. Sit nobis sint dolorem quae. Quibusdam deleniti beatae aut. Inventore facilis tenetur voluptatum soluta numquam pariatur dolor. Voluptate eius saepe.",
+            "paragraph": "Quisquam iste vero velit dolorum. Fugiat optio numquam qui laudantium nostrum quibusdam illum. Ex saepe fuga et."
+        },
+        {
+            "words": "neque quas quibusdam",
+            "sentence": "Et eum fugit.",
+            "sentences": "Rem suscipit nostrum quam vero. Cupiditate quis quisquam culpa odit. Non ab eveniet quia doloribus eveniet inventore rerum tempore reiciendis. Cupiditate sed sit et quod. Aperiam voluptate earum quia laudantium omnis necessitatibus aut tempora.",
+            "paragraph": "Aut quo rem debitis eligendi voluptatem aspernatur. Quos aliquam ipsam praesentium itaque est eum. Voluptatibus in dolores dolorem dolor minus. Et dolor adipisci est soluta soluta est non et. Et sed eos repudiandae in molestias exercitationem animi repudiandae."
+        },
+        {
+            "words": "eius natus dolorum",
+            "sentence": "Quo beatae sunt enim saepe non necessitatibus.",
+            "sentences": "Occaecati architecto molestiae eum inventore est quia. Maiores impedit enim quos. Consectetur quisquam ducimus dolore totam. Est labore qui eligendi est aliquam aliquam tempora aut est. Atque nam aspernatur veniam ipsam fuga est autem laudantium. Quisquam error dolores qui dolore.",
+            "paragraph": "Voluptatibus neque occaecati consequatur. Ut omnis sequi temporibus rerum nihil numquam quidem. Et ut voluptas tenetur delectus. Exercitationem impedit dolor sed dolores impedit atque laborum suscipit et. Voluptatem dolor tempora odit temporibus et nulla enim velit qui. Quo et iste deserunt et omnis magni deleniti id ipsam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "806.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Krajcik - Blick",
+            "name": "Auto Loan Account 9922",
+            "type": "withdrawal",
+            "account": "00264165"
+        },
+        {
+            "amount": "232.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Adams, Smitham and Conn",
+            "name": "Checking Account 4226",
+            "type": "payment",
+            "account": "86289090"
+        },
+        {
+            "amount": "39.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Parisian LLC",
+            "name": "Investment Account 2810",
+            "type": "withdrawal",
+            "account": "07210358"
+        }
+    ]
+}

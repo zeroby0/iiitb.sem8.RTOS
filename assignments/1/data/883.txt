@@ -1,0 +1,72 @@
+{
+    "name": "Mr. Elenora Casper",
+    "username": "Cedrick44",
+    "email": "Shayne_Nikolaus7@gmail.com",
+    "address": {
+        "streetA": "Buckridge Field",
+        "streetB": "78100 Barton Row",
+        "streetC": "040 Polly Mill Apt. 049",
+        "streetD": "Suite 405",
+        "city": "North Urielfurt",
+        "state": "New York",
+        "country": "Moldova",
+        "zipcode": "06546-4628",
+        "geo": {
+            "lat": "66.1218",
+            "lng": "-111.1698"
+        }
+    },
+    "phone": "1-154-903-7360 x940",
+    "website": "morgan.org",
+    "company": {
+        "name": "Kassulke, Bernhard and Deckow",
+        "catchPhrase": "Digitized cohesive framework",
+        "bs": "back-end incentivize web services"
+    },
+    "posts": [
+        {
+            "words": "possimus qui pariatur",
+            "sentence": "Necessitatibus omnis cumque corporis non suscipit voluptatibus eveniet.",
+            "sentences": "Corporis distinctio et omnis saepe est dolores accusantium ullam facilis. Ut perspiciatis natus nihil. Itaque deserunt officiis. Harum nam nulla consectetur omnis id.",
+            "paragraph": "Exercitationem rerum nobis cum. Facilis libero odio quidem voluptatem sapiente quia maxime dolor enim. Voluptatem earum ea. Qui eligendi rem sunt eos impedit quae recusandae. Accusantium magni sequi non voluptatem sed. Velit ut illo quis sit amet omnis ut ducimus voluptatem."
+        },
+        {
+            "words": "impedit maxime eum",
+            "sentence": "Debitis quia quo accusantium cumque.",
+            "sentences": "Aut dolorum vitae. Amet illo aspernatur voluptatem consequuntur in ducimus vel.",
+            "paragraph": "Fugiat neque asperiores nihil consequatur sunt adipisci sapiente. Et cumque accusamus illum. Laudantium nostrum accusamus fugit. Sit in dolor est. Omnis similique suscipit et eveniet accusantium."
+        },
+        {
+            "words": "at unde nemo",
+            "sentence": "Incidunt et ad voluptas facere consequatur in quae occaecati.",
+            "sentences": "Hic ipsam necessitatibus aperiam dolor pariatur ut molestiae. Commodi dolorem sequi numquam amet non nihil quo.",
+            "paragraph": "Eligendi quisquam hic ut. Quis animi esse eum id perferendis aut aut illum. Maxime porro eum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "544.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ortiz, Hickle and Heidenreich",
+            "name": "Money Market Account 5801",
+            "type": "payment",
+            "account": "06276590"
+        },
+        {
+            "amount": "781.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Metz LLC",
+            "name": "Auto Loan Account 5945",
+            "type": "invoice",
+            "account": "21954816"
+        },
+        {
+            "amount": "184.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Terry and Sons",
+            "name": "Personal Loan Account 9534",
+            "type": "invoice",
+            "account": "95450514"
+        }
+    ]
+}

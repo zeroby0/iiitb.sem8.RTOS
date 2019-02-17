@@ -1,0 +1,72 @@
+{
+    "name": "Zechariah Moen",
+    "username": "Emely.Lakin72",
+    "email": "Edmond.Hagenes@hotmail.com",
+    "address": {
+        "streetA": "Yundt Green",
+        "streetB": "300 Trenton Throughway",
+        "streetC": "391 Angeline Stream Apt. 637",
+        "streetD": "Suite 255",
+        "city": "Port Aaliyahchester",
+        "state": "New York",
+        "country": "Kuwait",
+        "zipcode": "28789-8407",
+        "geo": {
+            "lat": "-48.4505",
+            "lng": "-54.2087"
+        }
+    },
+    "phone": "819-198-4615 x720",
+    "website": "louvenia.org",
+    "company": {
+        "name": "Strosin - Predovic",
+        "catchPhrase": "Synchronised exuding complexity",
+        "bs": "intuitive scale e-services"
+    },
+    "posts": [
+        {
+            "words": "quia est itaque",
+            "sentence": "Nemo eius eum eum ut qui eum et.",
+            "sentences": "Ipsam iure omnis est neque. Reprehenderit delectus eius excepturi consectetur deserunt qui sed laudantium.",
+            "paragraph": "Omnis dolorem excepturi impedit quae et temporibus rerum est rerum. Totam nemo labore quo quia unde dolores. A earum aut saepe libero nobis quod. Id voluptatem voluptas eligendi dignissimos magni culpa libero pariatur. Assumenda temporibus inventore officiis."
+        },
+        {
+            "words": "qui rerum possimus",
+            "sentence": "Laboriosam cumque natus voluptate qui vel aliquam praesentium non.",
+            "sentences": "Natus tempora sit. Illo fugiat totam natus vero aut. Eum consequuntur nihil maxime vitae consequatur. Blanditiis et ratione sequi dolorum placeat alias numquam commodi minus. Ipsum iusto vero eligendi. Vel vel autem atque officia repellat voluptatem ipsam porro.",
+            "paragraph": "Tenetur quia cum non porro. Repellat quo facilis sequi repellat nemo est porro sint. Dolorem rerum id."
+        },
+        {
+            "words": "sed sit tempora",
+            "sentence": "Laudantium vel quibusdam minus.",
+            "sentences": "Soluta in omnis architecto aut harum. Sit consequuntur eos aut. Non illum repellendus. Eveniet labore voluptas ut dolore molestiae omnis. Facere totam saepe ratione ab ipsa qui neque est.",
+            "paragraph": "Magni aut ut aliquid. Totam modi quos architecto amet quos magnam. Quam quidem non quo odio id et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "662.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Adams, Lesch and Hayes",
+            "name": "Auto Loan Account 9579",
+            "type": "withdrawal",
+            "account": "91441766"
+        },
+        {
+            "amount": "92.50",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bergstrom - Fritsch",
+            "name": "Auto Loan Account 6961",
+            "type": "payment",
+            "account": "56025477"
+        },
+        {
+            "amount": "174.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Heller, Crooks and Vandervort",
+            "name": "Home Loan Account 0837",
+            "type": "deposit",
+            "account": "39545764"
+        }
+    ]
+}

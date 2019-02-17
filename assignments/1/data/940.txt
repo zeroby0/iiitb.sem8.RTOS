@@ -1,0 +1,72 @@
+{
+    "name": "Briana Yost",
+    "username": "Noemy.Smith30",
+    "email": "Muriel_Barton@hotmail.com",
+    "address": {
+        "streetA": "Turcotte Cliff",
+        "streetB": "51416 Bettye Mission",
+        "streetC": "671 Kiehn Hollow Suite 095",
+        "streetD": "Suite 749",
+        "city": "Pfannerstillland",
+        "state": "Washington",
+        "country": "Madagascar",
+        "zipcode": "91203-1737",
+        "geo": {
+            "lat": "-72.1659",
+            "lng": "29.6838"
+        }
+    },
+    "phone": "878-475-7348 x7996",
+    "website": "noelia.biz",
+    "company": {
+        "name": "McLaughlin, Bergnaum and Johnson",
+        "catchPhrase": "Managed well-modulated core",
+        "bs": "innovative deliver web-readiness"
+    },
+    "posts": [
+        {
+            "words": "et quam et",
+            "sentence": "Doloremque et minima recusandae adipisci eveniet rerum.",
+            "sentences": "Libero eius corporis odit voluptas ut aut molestiae ut. Voluptas aspernatur dolores ab. Ullam eligendi dolor nihil ipsa omnis sed eum suscipit dolores. Est beatae voluptatum. Quod corrupti tenetur veritatis est ad voluptatem. Amet itaque quibusdam.",
+            "paragraph": "Quia dolor ea quos est quidem. Libero facere nostrum voluptatibus quibusdam repellendus quaerat voluptatem. Omnis et ad. Veniam at architecto est. Architecto officia voluptatem rem delectus fuga natus. Voluptatem est ipsum quaerat."
+        },
+        {
+            "words": "iure est vel",
+            "sentence": "Repudiandae consequatur dolore ipsam nisi hic ullam dolores ut eos.",
+            "sentences": "Ea corrupti adipisci fugiat voluptas sit deserunt rerum et. Tempore necessitatibus cupiditate id eos dolorem ipsam fugit. Autem tempora accusantium perferendis et quisquam. Vel odio non inventore quibusdam praesentium consequatur dolore excepturi quod. Totam ipsam asperiores voluptas in recusandae. Impedit voluptatibus sunt id dolores.",
+            "paragraph": "Dolorum nihil occaecati et. Eos distinctio ut nemo facere. Beatae quod magnam fugit enim nulla quaerat. Rem repellendus veritatis sint enim totam numquam tempora eum."
+        },
+        {
+            "words": "nobis quia ea",
+            "sentence": "Perferendis illum nobis aut consequatur aut pariatur illo incidunt.",
+            "sentences": "Veniam nisi aperiam alias eos placeat velit voluptatem cumque atque. Labore et est nihil et laboriosam odit ab rerum velit. Soluta cum quo esse est ut. Asperiores ex est quo. Doloribus ex officiis sint culpa ipsam id. Doloremque fugit quisquam ut tempore voluptas dolorem deserunt quia omnis.",
+            "paragraph": "Sapiente eos nihil aut in nihil. Sunt aliquid voluptatibus accusantium occaecati veniam soluta. Eligendi sit aut quis quos. Voluptate et vitae asperiores. Officiis officiis fuga quibusdam placeat. Qui tempora iste omnis voluptatem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "446.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Conner, Terry and Stoltenberg",
+            "name": "Personal Loan Account 0467",
+            "type": "withdrawal",
+            "account": "69487795"
+        },
+        {
+            "amount": "893.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Christiansen - Wisozk",
+            "name": "Auto Loan Account 8531",
+            "type": "payment",
+            "account": "09669891"
+        },
+        {
+            "amount": "398.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Walter and Sons",
+            "name": "Auto Loan Account 4794",
+            "type": "withdrawal",
+            "account": "55426374"
+        }
+    ]
+}

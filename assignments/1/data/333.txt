@@ -1,0 +1,72 @@
+{
+    "name": "Andres Brown",
+    "username": "Ara42",
+    "email": "Horace.Dickens18@yahoo.com",
+    "address": {
+        "streetA": "Ward Plain",
+        "streetB": "158 Willms Divide",
+        "streetC": "97406 Veda Overpass Suite 256",
+        "streetD": "Suite 120",
+        "city": "East Jaiden",
+        "state": "Maryland",
+        "country": "Vietnam",
+        "zipcode": "92756-4245",
+        "geo": {
+            "lat": "-63.1155",
+            "lng": "-170.4558"
+        }
+    },
+    "phone": "647.366.3368",
+    "website": "mikayla.name",
+    "company": {
+        "name": "Monahan and Sons",
+        "catchPhrase": "Synergistic maximized structure",
+        "bs": "user-centric disintermediate eyeballs"
+    },
+    "posts": [
+        {
+            "words": "laudantium incidunt in",
+            "sentence": "Laboriosam ea occaecati corporis.",
+            "sentences": "Nulla doloremque aliquam et sequi occaecati et provident. Sint quia fuga deleniti eos consequatur quibusdam molestiae architecto ut. Id doloremque libero cumque sit reprehenderit officia. Et dolorum itaque maiores ex corrupti atque rerum magni. Adipisci omnis nostrum explicabo laudantium eligendi quia. Eveniet et autem facilis sed.",
+            "paragraph": "Aperiam quis eveniet at ut doloribus et dolores. Et sint a molestiae assumenda et eveniet vel aut ipsam. Sunt et illo porro est beatae alias mollitia ut."
+        },
+        {
+            "words": "deleniti itaque rem",
+            "sentence": "Consequatur assumenda amet dicta explicabo blanditiis eveniet aliquid soluta.",
+            "sentences": "Aut ut voluptas eius corrupti sunt dolorem quas aut aut. Facere voluptas perspiciatis illo velit iusto molestiae eius mollitia fuga. Incidunt alias asperiores aut temporibus qui non a commodi fuga. Harum dignissimos dignissimos soluta in.",
+            "paragraph": "Saepe error inventore fugit nisi autem necessitatibus officiis. Rerum illo sequi ullam corrupti. Enim quisquam cumque nobis unde. Eum minima ratione omnis qui possimus aut odio sed. Ullam et eum molestias dolor dolores maxime vel mollitia suscipit."
+        },
+        {
+            "words": "tempora minus omnis",
+            "sentence": "Maxime repudiandae pariatur officia libero fugit deleniti.",
+            "sentences": "Est dolores officia aut reprehenderit vero. Deserunt explicabo ipsum optio aliquid impedit et totam. Itaque aut temporibus accusamus iure nam. Aspernatur nam omnis sed.",
+            "paragraph": "Aut nisi consequatur fugiat neque asperiores. Natus officiis dolor at occaecati quo consectetur quae illum. Atque laboriosam natus sequi quia quae ut. Adipisci ipsam inventore. Est sunt culpa perferendis velit rem repudiandae sapiente. Rerum soluta molestiae autem nulla."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "986.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wilkinson LLC",
+            "name": "Savings Account 2623",
+            "type": "payment",
+            "account": "32730110"
+        },
+        {
+            "amount": "344.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hyatt, Stanton and Beer",
+            "name": "Savings Account 2042",
+            "type": "invoice",
+            "account": "01838873"
+        },
+        {
+            "amount": "687.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beer Inc",
+            "name": "Credit Card Account 9463",
+            "type": "payment",
+            "account": "17512455"
+        }
+    ]
+}

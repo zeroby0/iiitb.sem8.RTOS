@@ -1,0 +1,72 @@
+{
+    "name": "Madaline Hane Sr.",
+    "username": "Michale_Bergstrom",
+    "email": "Arianna.Armstrong85@gmail.com",
+    "address": {
+        "streetA": "Bartoletti Villages",
+        "streetB": "3201 Kub Grove",
+        "streetC": "983 Wolff Heights Suite 563",
+        "streetD": "Suite 522",
+        "city": "Larkinstad",
+        "state": "Connecticut",
+        "country": "Botswana",
+        "zipcode": "66028",
+        "geo": {
+            "lat": "-42.3521",
+            "lng": "-79.8866"
+        }
+    },
+    "phone": "694.336.5744",
+    "website": "zula.info",
+    "company": {
+        "name": "Barrows - Runolfsdottir",
+        "catchPhrase": "Organic systematic project",
+        "bs": "e-business visualize models"
+    },
+    "posts": [
+        {
+            "words": "iste quasi quia",
+            "sentence": "Dicta et quia aut vitae similique rerum saepe laudantium non.",
+            "sentences": "Eaque porro ullam sit. Quia optio nulla quaerat facere eum et est ad. Accusamus atque ea ex id qui asperiores eaque natus adipisci. Facere maxime reiciendis magnam maiores illum qui aut et. Laborum pariatur ipsa occaecati rerum molestias nam.",
+            "paragraph": "Enim autem aut blanditiis. Impedit autem dolorum sint temporibus accusamus est voluptatem est perspiciatis. Iure eum corrupti labore atque nihil. Dolore laudantium beatae fugit voluptatem enim. Ut voluptatem debitis nam mollitia et aspernatur ea qui nesciunt."
+        },
+        {
+            "words": "enim sit est",
+            "sentence": "Saepe tenetur excepturi ea ea facilis quo repellendus error.",
+            "sentences": "Delectus quis sunt similique in sit omnis hic ut aliquam. Voluptatem et dolores cumque et.",
+            "paragraph": "Voluptas quis et odit. Corporis totam est corrupti. Magni rerum aut aut soluta corporis architecto. Voluptatem quasi officiis quo eos amet. Ab qui voluptatibus atque iusto odit deserunt itaque et. Qui quis ab sint omnis."
+        },
+        {
+            "words": "in at enim",
+            "sentence": "Rerum possimus nam qui error illum sed.",
+            "sentences": "Ut unde assumenda totam culpa sapiente aut magnam. Porro earum est. Consequuntur voluptas quam vero earum quia repellendus. Nisi iusto autem atque ea et quibusdam ducimus minus veritatis.",
+            "paragraph": "Dolorem consectetur quibusdam aliquid ea. Asperiores aut iure ut et. Est autem quod vel quod tempora qui ex dolorem harum. Aperiam perspiciatis inventore soluta molestias rerum qui animi sed. Amet temporibus deleniti."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "413.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Brakus, Nikolaus and Mertz",
+            "name": "Home Loan Account 6204",
+            "type": "withdrawal",
+            "account": "43710126"
+        },
+        {
+            "amount": "296.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kulas, Frami and Eichmann",
+            "name": "Savings Account 9124",
+            "type": "withdrawal",
+            "account": "43766447"
+        },
+        {
+            "amount": "255.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hartmann - Krajcik",
+            "name": "Checking Account 8836",
+            "type": "withdrawal",
+            "account": "55007253"
+        }
+    ]
+}

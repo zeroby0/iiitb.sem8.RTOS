@@ -1,0 +1,72 @@
+{
+    "name": "Cayla Rempel",
+    "username": "Filomena.Sawayn21",
+    "email": "Luciano_Brakus2@hotmail.com",
+    "address": {
+        "streetA": "Marco Forges",
+        "streetB": "98748 Santiago Skyway",
+        "streetC": "22827 Weston Mall Suite 571",
+        "streetD": "Suite 531",
+        "city": "South Destineyville",
+        "state": "Michigan",
+        "country": "Reunion",
+        "zipcode": "90251",
+        "geo": {
+            "lat": "-61.6081",
+            "lng": "-175.6816"
+        }
+    },
+    "phone": "323-455-7276",
+    "website": "jordi.com",
+    "company": {
+        "name": "Rolfson and Sons",
+        "catchPhrase": "Fundamental 24/7 hardware",
+        "bs": "user-centric transform users"
+    },
+    "posts": [
+        {
+            "words": "dolor provident libero",
+            "sentence": "Laborum dolores et qui incidunt voluptate et consequuntur deserunt magni.",
+            "sentences": "Aut ratione similique laboriosam. Repudiandae rerum provident minus in fugit id. Nobis suscipit possimus mollitia quo esse repellat sint. Eum eos sapiente in et consequatur. Est et cupiditate consequatur laborum illo sit accusantium. Nisi soluta perferendis totam consectetur aut exercitationem inventore aliquid.",
+            "paragraph": "Debitis rerum expedita. Enim neque culpa consequatur culpa corporis ab aut veritatis natus. Sunt cum omnis quibusdam molestias repellat ullam molestiae temporibus non. Qui ut iusto odio at ducimus illum. Temporibus qui est."
+        },
+        {
+            "words": "sint quasi provident",
+            "sentence": "Ad in molestias ab.",
+            "sentences": "Laudantium praesentium ex qui culpa vitae sunt dolorem. Sunt placeat temporibus fugiat est dolorem expedita. Voluptatem quibusdam provident aut laudantium sunt cupiditate et suscipit.",
+            "paragraph": "Voluptate atque nostrum enim numquam totam provident. Et quia laborum repellat dolorum enim molestiae voluptatem. Aspernatur harum dicta voluptatem."
+        },
+        {
+            "words": "veniam rerum architecto",
+            "sentence": "Ea nihil inventore.",
+            "sentences": "Ullam inventore corporis dignissimos fuga iusto. Nam occaecati enim sint sunt qui vero odio voluptatibus tenetur.",
+            "paragraph": "Accusamus facilis velit iure. Totam nihil ipsum ex qui error quia odio voluptatibus. Autem nihil voluptatem quia eos est a tempora. Aspernatur velit ipsa consequatur ratione vero quibusdam blanditiis est architecto. Voluptatem enim dolore sint."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "874.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hoeger and Sons",
+            "name": "Money Market Account 2845",
+            "type": "invoice",
+            "account": "42965277"
+        },
+        {
+            "amount": "403.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Little - Koch",
+            "name": "Home Loan Account 1690",
+            "type": "withdrawal",
+            "account": "54415786"
+        },
+        {
+            "amount": "706.54",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hermann LLC",
+            "name": "Checking Account 5348",
+            "type": "invoice",
+            "account": "93649122"
+        }
+    ]
+}

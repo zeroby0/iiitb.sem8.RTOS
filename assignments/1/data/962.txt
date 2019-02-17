@@ -1,0 +1,72 @@
+{
+    "name": "Caleigh Halvorson",
+    "username": "Virginia_McCullough",
+    "email": "Nya_Nicolas@yahoo.com",
+    "address": {
+        "streetA": "Stanton Cliffs",
+        "streetB": "26370 Considine Summit",
+        "streetC": "819 Bernice Grove Apt. 002",
+        "streetD": "Apt. 782",
+        "city": "Kerlukeburgh",
+        "state": "Virginia",
+        "country": "Saint Helena",
+        "zipcode": "98546",
+        "geo": {
+            "lat": "49.1309",
+            "lng": "-81.8781"
+        }
+    },
+    "phone": "188-829-0223",
+    "website": "tillman.net",
+    "company": {
+        "name": "Mueller and Sons",
+        "catchPhrase": "Quality-focused upward-trending function",
+        "bs": "bricks-and-clicks syndicate interfaces"
+    },
+    "posts": [
+        {
+            "words": "qui sapiente laborum",
+            "sentence": "Et est quibusdam.",
+            "sentences": "Omnis qui et cumque omnis. Distinctio quidem nihil voluptas sed autem quas. Voluptates est corrupti sunt eveniet.",
+            "paragraph": "Est sunt natus veritatis dolore qui. Error ut placeat temporibus sit blanditiis molestias. Fugiat nobis quidem doloremque blanditiis qui aspernatur iste et veniam."
+        },
+        {
+            "words": "fugiat autem laudantium",
+            "sentence": "Consequatur possimus voluptatem sed excepturi sed.",
+            "sentences": "Ut consequatur possimus quos expedita enim ad sapiente perspiciatis. Fugiat illum iste corporis aut architecto. Et nam molestias accusantium qui. Eaque omnis rerum et sit rerum rerum. In omnis eaque libero quasi dolor modi rem a maxime.",
+            "paragraph": "Natus dolore sed. Omnis sed non natus nesciunt ut consequatur sequi. Perspiciatis ipsum placeat ullam tempora. Facere possimus illum nam. Molestiae inventore ea occaecati qui ullam non."
+        },
+        {
+            "words": "at est molestiae",
+            "sentence": "Qui qui molestiae quibusdam temporibus quisquam quia fuga rerum nostrum.",
+            "sentences": "At dolorem et dignissimos eos. Molestiae quibusdam asperiores labore maxime.",
+            "paragraph": "Et dolor eveniet consequuntur modi qui sunt eius harum. Tempora nostrum architecto illum incidunt. Qui blanditiis ut placeat."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "934.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McGlynn - Strosin",
+            "name": "Personal Loan Account 3124",
+            "type": "invoice",
+            "account": "45145476"
+        },
+        {
+            "amount": "825.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schuster - Kihn",
+            "name": "Checking Account 6385",
+            "type": "withdrawal",
+            "account": "93202169"
+        },
+        {
+            "amount": "934.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reynolds, Hodkiewicz and Keeling",
+            "name": "Home Loan Account 8029",
+            "type": "payment",
+            "account": "97006572"
+        }
+    ]
+}

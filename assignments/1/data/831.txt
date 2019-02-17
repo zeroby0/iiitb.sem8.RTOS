@@ -1,0 +1,72 @@
+{
+    "name": "Flavie Jacobs DVM",
+    "username": "Nicklaus61",
+    "email": "Marley.Monahan78@gmail.com",
+    "address": {
+        "streetA": "Hammes Brooks",
+        "streetB": "388 Nelda Burg",
+        "streetC": "1705 Kenneth Points Suite 045",
+        "streetD": "Suite 427",
+        "city": "Dudleychester",
+        "state": "Massachusetts",
+        "country": "Norway",
+        "zipcode": "23369",
+        "geo": {
+            "lat": "38.1791",
+            "lng": "-155.7455"
+        }
+    },
+    "phone": "1-456-589-5901 x2574",
+    "website": "jerald.org",
+    "company": {
+        "name": "Hegmann, Schowalter and Morar",
+        "catchPhrase": "Seamless bottom-line support",
+        "bs": "collaborative architect solutions"
+    },
+    "posts": [
+        {
+            "words": "dolore accusamus a",
+            "sentence": "Dolore dolorem neque iusto assumenda fugit aut.",
+            "sentences": "Veniam aut facilis. Doloremque a eos maxime atque omnis eligendi est sed. Rerum dolore eum non. Quia minus perferendis suscipit. Aut eum animi dolor quibusdam aut.",
+            "paragraph": "Quo in maiores tempore dignissimos alias. Molestiae voluptates alias ut. Quisquam amet natus rerum."
+        },
+        {
+            "words": "facere ex officia",
+            "sentence": "Aperiam ipsam voluptatibus consequatur eum aut reprehenderit.",
+            "sentences": "Animi excepturi earum. Sed quidem doloribus quo laudantium vel molestiae. Accusantium adipisci iure. Hic ex est assumenda repudiandae molestias ea. Qui animi omnis aut sed ea ullam at ipsum natus.",
+            "paragraph": "Error repudiandae consequatur quaerat dolores atque omnis quos ut. Id quis eius quaerat molestiae et voluptate. Maiores natus sed sunt voluptatem."
+        },
+        {
+            "words": "dolore eaque aut",
+            "sentence": "Ipsa et quo reiciendis eaque dicta architecto.",
+            "sentences": "Rem quas saepe occaecati facilis provident. Voluptatem quibusdam exercitationem omnis. Velit cum expedita magni. Et et et voluptas veritatis id quis molestias voluptatem.",
+            "paragraph": "Non ut excepturi aperiam aut dolor tenetur velit quia ea. Sit repellendus molestiae dolores id. Perferendis fugiat ut omnis ut praesentium tenetur non aut cum. Et magni vel ut omnis tempora repellendus soluta et. Velit sapiente ea et quo nihil ut aliquam voluptates odit. Nemo voluptatem consectetur et adipisci eum est veniam harum nisi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "626.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bergstrom, Schuster and Tromp",
+            "name": "Checking Account 3197",
+            "type": "deposit",
+            "account": "51361038"
+        },
+        {
+            "amount": "355.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Haag - Aufderhar",
+            "name": "Credit Card Account 3181",
+            "type": "deposit",
+            "account": "02115004"
+        },
+        {
+            "amount": "310.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Franecki Group",
+            "name": "Savings Account 7750",
+            "type": "invoice",
+            "account": "72368837"
+        }
+    ]
+}

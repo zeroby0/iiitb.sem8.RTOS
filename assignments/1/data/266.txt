@@ -1,0 +1,72 @@
+{
+    "name": "Frieda Baumbach DDS",
+    "username": "Adeline.Bergnaum",
+    "email": "Jackie13@hotmail.com",
+    "address": {
+        "streetA": "Carrie Meadows",
+        "streetB": "7041 Sawayn Lakes",
+        "streetC": "213 John Greens Apt. 655",
+        "streetD": "Apt. 819",
+        "city": "South Lindsey",
+        "state": "Arkansas",
+        "country": "United States Minor Outlying Islands",
+        "zipcode": "90214",
+        "geo": {
+            "lat": "-69.1689",
+            "lng": "69.3551"
+        }
+    },
+    "phone": "1-289-568-8652 x5368",
+    "website": "coty.net",
+    "company": {
+        "name": "Hoeger - McKenzie",
+        "catchPhrase": "Re-contextualized upward-trending encryption",
+        "bs": "leading-edge facilitate communities"
+    },
+    "posts": [
+        {
+            "words": "earum explicabo velit",
+            "sentence": "Et voluptas ad enim.",
+            "sentences": "Quidem sapiente cupiditate quia deserunt ducimus a velit cum. Debitis repellat tenetur deserunt cumque quia. Et ut quaerat fugiat possimus eos dicta quisquam.",
+            "paragraph": "Et voluptatem architecto perferendis est dolor ipsa. Culpa architecto blanditiis dignissimos praesentium ratione in. Asperiores expedita fuga sint."
+        },
+        {
+            "words": "qui soluta porro",
+            "sentence": "A ex omnis fugiat non error molestiae asperiores.",
+            "sentences": "Tempore et dolorum unde voluptatem. Sapiente aut odio odit totam iste natus natus atque officia.",
+            "paragraph": "Culpa saepe recusandae. Quidem ab rerum. Aperiam in labore quos sed nobis. Veritatis cumque corrupti rerum vel quod. Voluptatem doloremque dolorem et et qui voluptatem quo maxime reprehenderit. Magni ducimus quisquam ut vel ut enim dolorem."
+        },
+        {
+            "words": "ab aliquam sint",
+            "sentence": "Reiciendis rerum voluptatibus ut dolores.",
+            "sentences": "Sed tenetur vitae et reiciendis nobis et sit. Molestiae dolore odio placeat culpa natus. Illum qui rem et perspiciatis veniam nihil distinctio. Dolorum distinctio dolore.",
+            "paragraph": "Eius nulla in quod voluptatibus. Voluptatum quod eos non perferendis autem ullam magni fuga. Eius aut nulla aut amet officia impedit nulla. Inventore consequatur assumenda. Aut quis et quibusdam vel soluta. Occaecati a aut labore voluptatem repellendus qui."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "629.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Adams Inc",
+            "name": "Savings Account 2026",
+            "type": "invoice",
+            "account": "26835341"
+        },
+        {
+            "amount": "370.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lehner - Ankunding",
+            "name": "Home Loan Account 6102",
+            "type": "deposit",
+            "account": "45734500"
+        },
+        {
+            "amount": "348.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Borer Inc",
+            "name": "Savings Account 4852",
+            "type": "payment",
+            "account": "06328083"
+        }
+    ]
+}

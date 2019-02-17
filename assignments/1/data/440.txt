@@ -1,0 +1,72 @@
+{
+    "name": "Ari Trantow",
+    "username": "Orlando.Rolfson22",
+    "email": "Rubie.Abshire@gmail.com",
+    "address": {
+        "streetA": "Robbie Club",
+        "streetB": "85900 Sawayn Points",
+        "streetC": "66299 Delfina Prairie Suite 165",
+        "streetD": "Apt. 238",
+        "city": "Lake Billieport",
+        "state": "Georgia",
+        "country": "Malawi",
+        "zipcode": "28172",
+        "geo": {
+            "lat": "-7.5461",
+            "lng": "-22.6404"
+        }
+    },
+    "phone": "(889) 618-2866 x1328",
+    "website": "gabrielle.org",
+    "company": {
+        "name": "Cronin Group",
+        "catchPhrase": "Right-sized user-facing analyzer",
+        "bs": "killer grow vortals"
+    },
+    "posts": [
+        {
+            "words": "aspernatur eos non",
+            "sentence": "Et repellendus et at.",
+            "sentences": "Molestiae nam animi. Molestiae ea reprehenderit ducimus eum necessitatibus doloribus dignissimos. Adipisci ratione labore sint aliquid perferendis. Et dicta debitis. Laudantium ea nulla et laboriosam blanditiis.",
+            "paragraph": "Est et dolores placeat autem a qui. Inventore consequatur et amet praesentium accusantium cum voluptas. Ex earum quibusdam recusandae nulla rerum. Deserunt adipisci sunt qui eos magni fugiat nobis. Totam dignissimos eos."
+        },
+        {
+            "words": "error accusantium aspernatur",
+            "sentence": "Deserunt esse officia.",
+            "sentences": "Est natus veniam. Nihil nemo molestiae voluptas cupiditate. Aut est consectetur blanditiis. Nesciunt ut molestiae voluptatem officiis cumque qui qui sint deserunt. Et quis aut quam.",
+            "paragraph": "Atque dolor rerum id et rerum sunt. Nihil possimus illum error nostrum aut distinctio. Aut amet autem quia veniam."
+        },
+        {
+            "words": "accusantium at aliquam",
+            "sentence": "Fugiat hic et ducimus eveniet quia excepturi ut.",
+            "sentences": "Est cumque veniam accusamus aut. Id sit quod iste voluptatem placeat deleniti.",
+            "paragraph": "Sapiente sed sapiente aut qui sit qui distinctio quia. Fuga minus quam non. Qui consequatur tempore occaecati dolorum at nostrum quibusdam et quo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "883.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tillman and Sons",
+            "name": "Auto Loan Account 4817",
+            "type": "withdrawal",
+            "account": "69829014"
+        },
+        {
+            "amount": "225.51",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Boyer, Conroy and Prosacco",
+            "name": "Checking Account 8248",
+            "type": "withdrawal",
+            "account": "52302182"
+        },
+        {
+            "amount": "637.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rowe, King and Abshire",
+            "name": "Credit Card Account 3366",
+            "type": "payment",
+            "account": "21910235"
+        }
+    ]
+}

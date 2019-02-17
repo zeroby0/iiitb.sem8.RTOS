@@ -1,0 +1,72 @@
+{
+    "name": "Wilma Bailey",
+    "username": "Lauren53",
+    "email": "Lon_Schaefer34@gmail.com",
+    "address": {
+        "streetA": "Harber Road",
+        "streetB": "56537 Schmidt Plains",
+        "streetC": "121 Hayden Tunnel Suite 127",
+        "streetD": "Apt. 418",
+        "city": "Klockomouth",
+        "state": "Ohio",
+        "country": "Tuvalu",
+        "zipcode": "73377-4355",
+        "geo": {
+            "lat": "-52.1067",
+            "lng": "-139.8295"
+        }
+    },
+    "phone": "(393) 544-1465",
+    "website": "kayli.org",
+    "company": {
+        "name": "Ward - Leannon",
+        "catchPhrase": "Customer-focused multimedia open architecture",
+        "bs": "cutting-edge e-enable niches"
+    },
+    "posts": [
+        {
+            "words": "soluta autem sunt",
+            "sentence": "Similique veritatis cupiditate ducimus et est at voluptatum enim praesentium.",
+            "sentences": "Enim sit id reiciendis totam voluptas aut similique ducimus aliquam. Aliquam sequi temporibus odit consequatur. Natus velit quos ad. Qui sequi quaerat nihil.",
+            "paragraph": "Et asperiores tenetur optio velit fugit aliquid placeat. Accusamus ipsa qui est ad omnis quidem magnam. Ut est eos tempora quis quia alias non consequatur."
+        },
+        {
+            "words": "vel labore quia",
+            "sentence": "Corporis accusantium est dicta quaerat.",
+            "sentences": "Fuga suscipit earum quia eos iure temporibus. Laboriosam dicta molestias. Ut veritatis deleniti ducimus odio quo. Voluptatem minus aut. Eos aut dolorum non nihil. Fuga eius voluptatibus voluptatem aut amet consequatur.",
+            "paragraph": "Animi qui quibusdam et placeat aut dolor adipisci aut iste. Eos libero deleniti et hic fugiat consectetur et. Labore est mollitia et harum amet at. Voluptatem reprehenderit numquam ab enim ea laudantium."
+        },
+        {
+            "words": "cumque reprehenderit nesciunt",
+            "sentence": "Qui suscipit nobis sequi quo.",
+            "sentences": "Dolores aut est accusantium hic. Labore iusto consequatur ut ipsa eaque soluta et delectus a. Et ea reiciendis minima rerum rerum qui qui velit consequatur. Quis voluptatem id iusto cum. Qui voluptas minus. Modi temporibus et est pariatur minima provident natus consectetur sed.",
+            "paragraph": "Eos et omnis. Suscipit maiores vel dolorem voluptatem et. Omnis magnam voluptatem consectetur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "709.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cole, Aufderhar and Wiegand",
+            "name": "Investment Account 7706",
+            "type": "payment",
+            "account": "45094657"
+        },
+        {
+            "amount": "21.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Corwin - Howell",
+            "name": "Savings Account 6046",
+            "type": "payment",
+            "account": "01538081"
+        },
+        {
+            "amount": "850.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Goldner, Abshire and Buckridge",
+            "name": "Investment Account 0958",
+            "type": "invoice",
+            "account": "88287912"
+        }
+    ]
+}

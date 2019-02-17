@@ -1,0 +1,72 @@
+{
+    "name": "Geraldine Mosciski",
+    "username": "Marguerite_Brakus19",
+    "email": "Humberto_Mertz@gmail.com",
+    "address": {
+        "streetA": "Bogan Prairie",
+        "streetB": "50748 Gaylord Stravenue",
+        "streetC": "5491 Prosacco Station Suite 358",
+        "streetD": "Apt. 869",
+        "city": "New Vivianechester",
+        "state": "Missouri",
+        "country": "Cameroon",
+        "zipcode": "30642",
+        "geo": {
+            "lat": "77.4184",
+            "lng": "-93.8336"
+        }
+    },
+    "phone": "017-754-3438",
+    "website": "favian.name",
+    "company": {
+        "name": "Balistreri Inc",
+        "catchPhrase": "Stand-alone client-driven Graphical User Interface",
+        "bs": "collaborative productize e-markets"
+    },
+    "posts": [
+        {
+            "words": "dolores repellendus deserunt",
+            "sentence": "Eligendi minima sapiente dicta.",
+            "sentences": "Adipisci culpa est deleniti rerum corrupti voluptatem aut nam sequi. Consequatur perferendis quia aut consectetur et repellat. Tenetur distinctio ducimus. Ea quam aut possimus. Eum quaerat similique accusantium. Quae voluptatem quas aut est sint omnis.",
+            "paragraph": "Numquam labore et officia possimus in non. Asperiores dolorum molestiae veritatis delectus fugit error. Et soluta vel. At odit quas voluptate sit ut sed dicta. Amet impedit sed. Sed minima explicabo."
+        },
+        {
+            "words": "aperiam magnam ad",
+            "sentence": "Iusto cumque ullam doloribus.",
+            "sentences": "Dolorum repellendus ipsum esse quo ea voluptatibus repellendus omnis provident. Consequuntur ex eos eligendi. Similique consequatur impedit beatae accusamus labore blanditiis et reiciendis. Dolorum dolores quis.",
+            "paragraph": "Rerum commodi sapiente optio nam eos molestias magnam id. Esse labore tenetur et animi qui dolores rerum odit. Expedita voluptatem consequatur et. Et hic et esse. Omnis consequuntur ratione omnis eos. Officia tempora excepturi temporibus eaque."
+        },
+        {
+            "words": "cupiditate voluptas non",
+            "sentence": "Consequatur eaque autem cum ut.",
+            "sentences": "Ratione ratione aut vero in voluptas adipisci ad. Nostrum aut quam architecto ratione corrupti provident. Ex voluptates est voluptatibus voluptas.",
+            "paragraph": "Et corrupti porro ea soluta voluptas iste soluta accusamus. Veritatis qui sunt enim enim vitae minus hic sequi aut. Illum distinctio reiciendis deleniti. Et nam molestiae dolorum aspernatur et maxime molestiae illo nisi. Qui consectetur eligendi ut veniam tenetur ipsum dolor beatae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "559.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Smitham Group",
+            "name": "Credit Card Account 1791",
+            "type": "payment",
+            "account": "42449853"
+        },
+        {
+            "amount": "76.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Marquardt, Streich and McLaughlin",
+            "name": "Auto Loan Account 8137",
+            "type": "invoice",
+            "account": "77825258"
+        },
+        {
+            "amount": "136.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stoltenberg, O'Connell and Schinner",
+            "name": "Savings Account 5798",
+            "type": "payment",
+            "account": "20763835"
+        }
+    ]
+}

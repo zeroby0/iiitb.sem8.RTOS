@@ -1,0 +1,72 @@
+{
+    "name": "Luigi Jaskolski",
+    "username": "Deangelo.Gerlach42",
+    "email": "Conner.Torp@yahoo.com",
+    "address": {
+        "streetA": "Ernesto Cliffs",
+        "streetB": "392 Bechtelar Radial",
+        "streetC": "01216 Abshire Rapids Suite 098",
+        "streetD": "Apt. 001",
+        "city": "Marcport",
+        "state": "Ohio",
+        "country": "Oman",
+        "zipcode": "38880-1204",
+        "geo": {
+            "lat": "-88.2480",
+            "lng": "-58.6184"
+        }
+    },
+    "phone": "1-055-399-0037",
+    "website": "terrill.org",
+    "company": {
+        "name": "Gleason - Gibson",
+        "catchPhrase": "Exclusive attitude-oriented data-warehouse",
+        "bs": "open-source harness e-business"
+    },
+    "posts": [
+        {
+            "words": "quis et ex",
+            "sentence": "Pariatur minima sequi dolorum debitis.",
+            "sentences": "Voluptatem hic provident. Nesciunt facere deserunt error numquam modi consequuntur dicta molestiae.",
+            "paragraph": "Libero nisi suscipit. Quia id non officia magnam sit iusto reprehenderit. Soluta pariatur ducimus ut ut illum. Esse inventore autem odit dignissimos sit dicta esse."
+        },
+        {
+            "words": "quia in adipisci",
+            "sentence": "Deleniti non voluptatem maiores eum sit.",
+            "sentences": "Itaque cupiditate ut ex ut et eligendi. Rem dolorum odio voluptatibus soluta sint. Rerum in possimus excepturi occaecati quasi nam eos accusantium. Occaecati voluptas cum labore eos consequatur rerum sit.",
+            "paragraph": "Exercitationem ex dolorem eos facere. Eius possimus natus. Vero autem recusandae odio in soluta nihil. Unde et aliquam vel et omnis quo et qui."
+        },
+        {
+            "words": "odit est et",
+            "sentence": "Vel provident voluptates provident modi velit autem dicta nesciunt eum.",
+            "sentences": "Ea ea exercitationem eveniet assumenda qui et. Dolorum delectus quaerat hic qui quasi totam nesciunt. Recusandae eum odio laboriosam voluptatem itaque maxime.",
+            "paragraph": "Et non sunt occaecati ea. Ea vel illum totam occaecati nemo officia necessitatibus assumenda. Ut iste animi ea repellendus nisi omnis. Eum occaecati rerum eum ut quidem aut dolores."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "477.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Champlin Group",
+            "name": "Checking Account 8375",
+            "type": "payment",
+            "account": "55035568"
+        },
+        {
+            "amount": "655.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Shanahan and Sons",
+            "name": "Money Market Account 1364",
+            "type": "payment",
+            "account": "36696026"
+        },
+        {
+            "amount": "715.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rowe - Rolfson",
+            "name": "Personal Loan Account 3647",
+            "type": "withdrawal",
+            "account": "96332331"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Milford Wiza",
+    "username": "Litzy_Bailey",
+    "email": "Susana.Fisher@gmail.com",
+    "address": {
+        "streetA": "Watsica Trail",
+        "streetB": "7279 Tremblay Branch",
+        "streetC": "78471 Devonte Creek Apt. 850",
+        "streetD": "Apt. 855",
+        "city": "North Eloisahaven",
+        "state": "Kansas",
+        "country": "Colombia",
+        "zipcode": "12957-2728",
+        "geo": {
+            "lat": "33.9412",
+            "lng": "-172.3467"
+        }
+    },
+    "phone": "755-171-8017 x9800",
+    "website": "alf.org",
+    "company": {
+        "name": "Gutmann, Corkery and King",
+        "catchPhrase": "Multi-layered optimal info-mediaries",
+        "bs": "frictionless synergize ROI"
+    },
+    "posts": [
+        {
+            "words": "qui perferendis sit",
+            "sentence": "Qui consequatur aut magni.",
+            "sentences": "Magni dolorum sunt ullam rerum. Id vel ut deleniti asperiores dolor voluptatem. Voluptatem quas ducimus sapiente veritatis tempore cum. Corrupti unde est ducimus velit fugiat. Officiis assumenda ipsa molestiae est molestiae laboriosam. Dolorum deleniti quibusdam iure.",
+            "paragraph": "Beatae minus ducimus consequatur laboriosam molestiae. Et provident sed culpa provident sunt nihil minima earum ipsa. Pariatur et in doloremque libero ut ad. Impedit aut aspernatur culpa mollitia et saepe."
+        },
+        {
+            "words": "dolorem odio et",
+            "sentence": "Non nemo perferendis assumenda dolorem ad.",
+            "sentences": "Dolorem quia enim vero impedit ullam quia ut mollitia voluptas. Voluptatem molestiae repellendus harum aut blanditiis hic fugiat aut dolorem. Dicta maiores est. Dolor voluptatibus sit maiores fugiat et fuga. Sint asperiores aliquam possimus. Dignissimos in quis repellat et quibusdam quas et omnis iste.",
+            "paragraph": "Natus aut error accusantium quos. Praesentium sint dignissimos in rerum. Velit ducimus sed amet autem. Et modi id corrupti voluptatem nulla eum vel labore qui."
+        },
+        {
+            "words": "eum iusto id",
+            "sentence": "Odit consectetur nesciunt non impedit cupiditate.",
+            "sentences": "Vel exercitationem nulla ad. Molestias vero harum accusamus. Quis dolores sit necessitatibus eveniet ratione rerum et quos. Dolor a et. Minus consequuntur quasi. Corporis maiores ab eius velit harum tempore.",
+            "paragraph": "Impedit sed sit reprehenderit minus adipisci architecto temporibus eos. Voluptatem est dolorem et. Corporis consequuntur eum officia ratione deleniti accusamus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "185.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dickens LLC",
+            "name": "Money Market Account 6131",
+            "type": "withdrawal",
+            "account": "28192486"
+        },
+        {
+            "amount": "640.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Powlowski and Sons",
+            "name": "Investment Account 2917",
+            "type": "deposit",
+            "account": "58187914"
+        },
+        {
+            "amount": "666.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Turcotte, VonRueden and Macejkovic",
+            "name": "Personal Loan Account 9339",
+            "type": "payment",
+            "account": "37416427"
+        }
+    ]
+}

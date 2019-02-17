@@ -1,0 +1,72 @@
+{
+    "name": "Letitia Trantow",
+    "username": "Kayden.Eichmann40",
+    "email": "Mireya45@gmail.com",
+    "address": {
+        "streetA": "Leuschke Run",
+        "streetB": "2209 Clementine Forges",
+        "streetC": "1810 Silas Grove Apt. 505",
+        "streetD": "Suite 788",
+        "city": "Kulasburgh",
+        "state": "Wyoming",
+        "country": "Falkland Islands (Malvinas)",
+        "zipcode": "20922",
+        "geo": {
+            "lat": "-53.4840",
+            "lng": "165.8416"
+        }
+    },
+    "phone": "957-104-6979 x03069",
+    "website": "octavia.org",
+    "company": {
+        "name": "Kub, Bechtelar and Effertz",
+        "catchPhrase": "Total coherent capacity",
+        "bs": "seamless reintermediate experiences"
+    },
+    "posts": [
+        {
+            "words": "illo aut distinctio",
+            "sentence": "Recusandae odit id et qui.",
+            "sentences": "Ducimus reprehenderit enim quisquam. Vitae dolor provident sit omnis dignissimos debitis nemo exercitationem beatae. Et possimus ipsam assumenda consequuntur cupiditate fugit corporis enim. Qui natus et quod sequi quas non iste sapiente. Rerum necessitatibus dolor voluptatum atque maiores quidem.",
+            "paragraph": "Nemo consequuntur unde quasi et omnis excepturi. Porro maxime est velit quis quia aspernatur et porro quidem. Ad quidem occaecati natus qui. Officia neque rerum culpa dolore veniam. Quia doloribus inventore dolorem. Dolorem laudantium laboriosam."
+        },
+        {
+            "words": "beatae fuga repellendus",
+            "sentence": "Fugiat recusandae nihil.",
+            "sentences": "Repudiandae culpa hic ea sed nam sit enim. Dignissimos qui sequi odio recusandae nam. Non accusantium voluptas culpa consectetur ipsum voluptates. Quis et omnis odio sequi provident. Provident asperiores illo aut sint aliquid libero et laudantium.",
+            "paragraph": "Nostrum dolorum dignissimos quo quam est enim sunt. Nobis reprehenderit laborum quo aliquid aut. Optio praesentium enim. Eum debitis occaecati sunt minus inventore temporibus magni qui. Placeat ullam error quo qui hic. Quia amet sit nesciunt ratione sed accusantium."
+        },
+        {
+            "words": "qui rerum beatae",
+            "sentence": "Ea optio libero dolorem quam.",
+            "sentences": "Aperiam sequi pariatur amet sint ut qui porro aut veritatis. Velit quod quod nihil consequatur autem id et et voluptates. Repellat rem maiores. Voluptas consequatur quis aperiam corporis modi nobis delectus. Iure atque consequatur magni incidunt magni est iste recusandae non.",
+            "paragraph": "Sunt vero architecto quia qui voluptate omnis eos accusamus eos. Eum quis nisi repellendus laboriosam doloremque quasi reiciendis explicabo. Voluptas consectetur eligendi nihil dolore culpa numquam. Sint recusandae eaque laboriosam totam beatae. Vitae maiores placeat possimus qui eum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "119.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Osinski - Stracke",
+            "name": "Personal Loan Account 6616",
+            "type": "invoice",
+            "account": "65025790"
+        },
+        {
+            "amount": "867.33",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Runte, Blick and Kutch",
+            "name": "Checking Account 3418",
+            "type": "invoice",
+            "account": "85675425"
+        },
+        {
+            "amount": "419.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jones Group",
+            "name": "Checking Account 1934",
+            "type": "withdrawal",
+            "account": "85115794"
+        }
+    ]
+}

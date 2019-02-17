@@ -1,0 +1,72 @@
+{
+    "name": "Johnson Wiza",
+    "username": "Gaylord_Kulas20",
+    "email": "Stephanie.Quitzon31@gmail.com",
+    "address": {
+        "streetA": "Bartell Wall",
+        "streetB": "2574 Von Oval",
+        "streetC": "3048 Gaylord Mountain Suite 531",
+        "streetD": "Apt. 898",
+        "city": "Port Alfonzo",
+        "state": "Wisconsin",
+        "country": "Uzbekistan",
+        "zipcode": "47920-0036",
+        "geo": {
+            "lat": "57.7858",
+            "lng": "-171.8924"
+        }
+    },
+    "phone": "495-461-3956",
+    "website": "daryl.org",
+    "company": {
+        "name": "Funk, Jerde and Cole",
+        "catchPhrase": "Adaptive well-modulated function",
+        "bs": "B2B integrate portals"
+    },
+    "posts": [
+        {
+            "words": "est corrupti corrupti",
+            "sentence": "Quia ut provident aliquam enim.",
+            "sentences": "Enim quaerat et ut blanditiis ipsa vel incidunt est. Non vitae optio dignissimos velit dolorem. Voluptas distinctio sed explicabo velit sint repellendus est non earum.",
+            "paragraph": "Tenetur eos eaque tenetur quis. Repellendus sint aliquid. Sit cum et qui magni modi."
+        },
+        {
+            "words": "corporis necessitatibus animi",
+            "sentence": "Et dolorem minus consectetur et est earum quo dicta.",
+            "sentences": "Molestias fugit aut vel quaerat sed hic in quia iure. Cupiditate libero veniam suscipit et natus.",
+            "paragraph": "Doloremque numquam magnam odit quam quas. Ut autem a. Magnam sapiente exercitationem qui explicabo voluptatibus rerum asperiores et velit. Aliquid qui nisi est atque eveniet necessitatibus facilis ut. Ratione doloremque maiores."
+        },
+        {
+            "words": "voluptas error nihil",
+            "sentence": "Voluptas molestiae culpa veritatis esse molestiae sequi voluptas molestias.",
+            "sentences": "Adipisci aut odit magnam libero sed. Provident accusantium necessitatibus dolore. Voluptatum non enim accusamus velit nemo tempora recusandae nobis consectetur. Non ut et et quidem id dolorem porro qui excepturi. Ipsa id nemo qui atque dolores culpa.",
+            "paragraph": "Delectus ut harum molestias excepturi architecto modi. Illo consequatur fugit natus eos non sunt maxime. Ut quo doloribus quis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "933.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gerlach - Fahey",
+            "name": "Auto Loan Account 7523",
+            "type": "deposit",
+            "account": "13454063"
+        },
+        {
+            "amount": "222.34",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reinger - Padberg",
+            "name": "Money Market Account 4522",
+            "type": "payment",
+            "account": "46221463"
+        },
+        {
+            "amount": "879.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pagac Inc",
+            "name": "Savings Account 4433",
+            "type": "deposit",
+            "account": "00591631"
+        }
+    ]
+}

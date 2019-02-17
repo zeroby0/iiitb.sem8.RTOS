@@ -1,0 +1,72 @@
+{
+    "name": "Pat Wolff I",
+    "username": "Deven60",
+    "email": "Dejah.Mraz3@hotmail.com",
+    "address": {
+        "streetA": "Viva Union",
+        "streetB": "01994 Judy Flat",
+        "streetC": "66877 Monahan Overpass Apt. 360",
+        "streetD": "Apt. 254",
+        "city": "West Virgie",
+        "state": "Ohio",
+        "country": "Zimbabwe",
+        "zipcode": "06814-1536",
+        "geo": {
+            "lat": "-28.3865",
+            "lng": "28.0210"
+        }
+    },
+    "phone": "(977) 450-5421",
+    "website": "autumn.com",
+    "company": {
+        "name": "Beatty - Waelchi",
+        "catchPhrase": "Robust regional installation",
+        "bs": "cross-media unleash bandwidth"
+    },
+    "posts": [
+        {
+            "words": "suscipit eos repellat",
+            "sentence": "Ducimus et aliquid.",
+            "sentences": "Ut delectus veritatis quia ut doloribus odit non. Adipisci temporibus qui repellat distinctio dolores. Earum sed praesentium dolores inventore eius vel totam aliquam. Magnam occaecati quidem vel dolore. In temporibus architecto omnis.",
+            "paragraph": "Non libero est dolorem magnam rem sit ea dolore. Sint tempora hic mollitia eum et enim quia optio. Nulla voluptas perspiciatis magni id deserunt ut labore. Facere veniam et molestias deserunt dolorum est. Alias voluptas quia velit minus. Minima magnam non totam."
+        },
+        {
+            "words": "repudiandae quaerat et",
+            "sentence": "Aut et voluptate velit provident ipsa repellat aut.",
+            "sentences": "Aliquid quaerat voluptas occaecati ea maxime quia. Temporibus vitae ab rem. Recusandae ut voluptatem tempore. Repellat est deleniti necessitatibus nulla eveniet quas fugit.",
+            "paragraph": "Tempora voluptatem dolores et quo. Qui minus est sunt. Modi enim qui qui est sequi sunt dolore autem molestiae."
+        },
+        {
+            "words": "saepe enim sit",
+            "sentence": "Sint doloribus veniam eum in doloribus aliquid in rerum provident.",
+            "sentences": "Voluptas cumque veritatis quis illum repellat repellat id. Eaque cumque corrupti amet rerum debitis consequatur sit id voluptates. Omnis cupiditate non ut laborum possimus asperiores sunt. Sed rem modi dolorem autem. Nesciunt sit omnis aperiam voluptates. Sit magni illo non vero.",
+            "paragraph": "Et aut nam necessitatibus. Repudiandae ducimus magnam. Cupiditate voluptatem sit consequuntur rerum corporis aliquam nemo. Vero minima hic ut suscipit. Iure qui sequi fugiat ipsa ab."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "936.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Grant - Conroy",
+            "name": "Money Market Account 7832",
+            "type": "invoice",
+            "account": "25766694"
+        },
+        {
+            "amount": "840.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jerde and Sons",
+            "name": "Checking Account 3467",
+            "type": "invoice",
+            "account": "05814910"
+        },
+        {
+            "amount": "88.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Roob - Leannon",
+            "name": "Checking Account 9063",
+            "type": "withdrawal",
+            "account": "97478032"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Eula Rogahn",
+    "username": "Hester7",
+    "email": "Sonya_Erdman96@yahoo.com",
+    "address": {
+        "streetA": "Morissette Extensions",
+        "streetB": "0569 Cronin Row",
+        "streetC": "0924 Anabelle Mills Apt. 907",
+        "streetD": "Apt. 325",
+        "city": "Murazikton",
+        "state": "Wisconsin",
+        "country": "Kiribati",
+        "zipcode": "90482-4968",
+        "geo": {
+            "lat": "19.2321",
+            "lng": "-125.5530"
+        }
+    },
+    "phone": "465.318.7223",
+    "website": "mae.info",
+    "company": {
+        "name": "Zieme, Barton and Hansen",
+        "catchPhrase": "Compatible demand-driven flexibility",
+        "bs": "distributed engage models"
+    },
+    "posts": [
+        {
+            "words": "dolor asperiores voluptas",
+            "sentence": "Dolorem nobis aut quibusdam culpa.",
+            "sentences": "Beatae eaque incidunt. Beatae similique omnis nisi pariatur magni facere repellendus aut. Consectetur sunt tenetur nam sed explicabo aut. Neque ducimus iste odio porro ut placeat iusto. Molestiae culpa ea sed repudiandae et optio cumque. Illo sint ut voluptatem libero.",
+            "paragraph": "Porro odit sequi incidunt laudantium alias cum exercitationem qui laboriosam. Facilis blanditiis possimus sequi adipisci officiis veritatis quo. Est facilis unde quia quia placeat id ex dignissimos. Quia voluptatem beatae qui deserunt aspernatur hic unde quos cum. Et rerum exercitationem velit voluptatibus quo non. Tempora dolores illo rem facilis enim rem vel."
+        },
+        {
+            "words": "soluta earum aut",
+            "sentence": "Nisi recusandae corporis similique.",
+            "sentences": "Officia voluptates ducimus ut fuga quia sint ut possimus. Similique et et commodi rerum nihil expedita beatae. Quia laborum incidunt cumque ratione corrupti impedit. Ea a ut quidem modi maiores minima ea voluptas eaque. Similique natus laborum deleniti ipsa vel.",
+            "paragraph": "Dignissimos autem id repudiandae est ullam omnis quibusdam. Ipsa nobis consectetur officiis. Velit voluptates earum est tempora sunt earum hic."
+        },
+        {
+            "words": "quia sequi consectetur",
+            "sentence": "Minus nulla vel.",
+            "sentences": "Voluptas tempore nulla consectetur aspernatur voluptatem. Quas molestiae odit dolores omnis est architecto officia debitis itaque. Sapiente enim voluptas dolores vitae et natus ullam. Facere qui ut quibusdam dolores. Distinctio architecto odit sit. Esse laudantium labore non accusantium voluptatem vitae.",
+            "paragraph": "Non suscipit officiis ut labore consequatur ut libero. Dolor voluptatum autem vel voluptates. Incidunt architecto et illum sed velit. Nobis neque consequatur et non labore alias aut explicabo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "753.33",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Aufderhar - Hauck",
+            "name": "Credit Card Account 6304",
+            "type": "invoice",
+            "account": "34641846"
+        },
+        {
+            "amount": "157.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Becker, Ortiz and Feil",
+            "name": "Home Loan Account 6687",
+            "type": "deposit",
+            "account": "79513389"
+        },
+        {
+            "amount": "332.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rath and Sons",
+            "name": "Home Loan Account 6666",
+            "type": "deposit",
+            "account": "74378017"
+        }
+    ]
+}

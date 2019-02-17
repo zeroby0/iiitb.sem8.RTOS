@@ -1,0 +1,72 @@
+{
+    "name": "Laury Gaylord",
+    "username": "Jessica_Barrows48",
+    "email": "Jonathan.Kiehn@hotmail.com",
+    "address": {
+        "streetA": "Randall Row",
+        "streetB": "927 Frami Lodge",
+        "streetC": "617 Kathryne Dam Suite 042",
+        "streetD": "Apt. 498",
+        "city": "Lake Ivyfurt",
+        "state": "Washington",
+        "country": "Burkina Faso",
+        "zipcode": "09341-7668",
+        "geo": {
+            "lat": "-25.6559",
+            "lng": "126.6307"
+        }
+    },
+    "phone": "1-785-299-7328 x8750",
+    "website": "brennan.biz",
+    "company": {
+        "name": "Rowe - Howe",
+        "catchPhrase": "Grass-roots intermediate circuit",
+        "bs": "web-enabled recontextualize e-tailers"
+    },
+    "posts": [
+        {
+            "words": "sit sunt possimus",
+            "sentence": "Incidunt qui nisi voluptatum odit ratione.",
+            "sentences": "Explicabo consectetur ipsum dolores. Ad ab aut. Ut id voluptas et minus voluptatem. Voluptate vero fuga molestiae et praesentium esse et aut doloremque.",
+            "paragraph": "Et natus consequatur et. Eveniet consequuntur ea sint autem corporis doloribus. Voluptate illum et. Sit et voluptatum eos et quis tempora. Fugit et quo fuga est laboriosam voluptas et nostrum qui. Quam voluptatem iure."
+        },
+        {
+            "words": "est et consequatur",
+            "sentence": "Nostrum unde sit.",
+            "sentences": "Aut veniam eaque adipisci illum temporibus a ducimus velit. Aut rerum reiciendis omnis qui pariatur ex soluta quos quos.",
+            "paragraph": "Aliquam pariatur mollitia laudantium porro nihil. Error labore at non tempora atque rem aut rerum. Ipsam qui minima."
+        },
+        {
+            "words": "dolore autem iure",
+            "sentence": "Aut assumenda non quos possimus sunt aperiam.",
+            "sentences": "Fugit iusto incidunt mollitia placeat. Incidunt voluptas maiores.",
+            "paragraph": "Voluptatem voluptatem nulla facilis enim alias repellat ea. Perspiciatis omnis alias ea sed quis nihil maxime qui. Amet rem quo ducimus consequuntur eos molestiae reiciendis incidunt nemo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "904.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Herman - Nitzsche",
+            "name": "Money Market Account 4666",
+            "type": "deposit",
+            "account": "23519912"
+        },
+        {
+            "amount": "53.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Doyle Group",
+            "name": "Savings Account 7024",
+            "type": "payment",
+            "account": "38389245"
+        },
+        {
+            "amount": "475.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Harvey - Dicki",
+            "name": "Investment Account 0992",
+            "type": "withdrawal",
+            "account": "36678504"
+        }
+    ]
+}

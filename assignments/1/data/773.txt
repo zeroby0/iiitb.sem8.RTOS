@@ -1,0 +1,72 @@
+{
+    "name": "Ewald Waters",
+    "username": "Hans41",
+    "email": "Virgil.Carroll@hotmail.com",
+    "address": {
+        "streetA": "O'Connell Road",
+        "streetB": "7591 Goldner Ville",
+        "streetC": "2029 Conrad Tunnel Apt. 291",
+        "streetD": "Suite 908",
+        "city": "Port Reese",
+        "state": "Delaware",
+        "country": "Norfolk Island",
+        "zipcode": "51789",
+        "geo": {
+            "lat": "40.7938",
+            "lng": "-78.0358"
+        }
+    },
+    "phone": "759.826.4884 x36234",
+    "website": "chad.net",
+    "company": {
+        "name": "Rowe - Volkman",
+        "catchPhrase": "Enhanced impactful portal",
+        "bs": "next-generation mesh web services"
+    },
+    "posts": [
+        {
+            "words": "iste repellendus quas",
+            "sentence": "Odit explicabo excepturi quam ut dolor voluptates temporibus ad eligendi.",
+            "sentences": "Est sint modi quia eligendi hic reprehenderit deleniti modi a. Velit eum tempore nam aliquid et nihil voluptas.",
+            "paragraph": "Quam nam sequi a quod labore quia expedita. Sint quibusdam quisquam. Quod eveniet ut."
+        },
+        {
+            "words": "architecto vel repudiandae",
+            "sentence": "Necessitatibus voluptatem quia laboriosam aliquam voluptatibus quasi mollitia et veritatis.",
+            "sentences": "Voluptatum maiores quia quod possimus tenetur similique ut cupiditate autem. Aut est suscipit consequatur a incidunt sed sed molestias. Mollitia et modi non nobis temporibus expedita ad vero.",
+            "paragraph": "Omnis ullam et voluptatem deleniti. Labore sapiente voluptas nobis suscipit harum earum. Fugit velit iste deleniti nihil error architecto illo tempore sint. Sit nobis sit ex recusandae qui."
+        },
+        {
+            "words": "corrupti recusandae sed",
+            "sentence": "Velit et porro perspiciatis deserunt aliquam est.",
+            "sentences": "Ipsam ratione aut culpa velit praesentium. Ex modi nostrum ducimus facere error ut. Est delectus voluptatem fugiat velit saepe exercitationem repellendus. Quae quis esse sunt officia. Autem aut rerum quo quidem. Ut eum commodi ipsam sit dolorem itaque aliquam quo quibusdam.",
+            "paragraph": "Eligendi nemo non. Et accusamus nemo dolorum et ipsa voluptatem. Cupiditate maxime illum quae omnis aut doloremque repellendus tenetur. Deserunt et sed aut. Omnis atque error maiores excepturi sint odio placeat. Quo dolores eum corporis omnis corrupti."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "589.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Greenfelder Group",
+            "name": "Auto Loan Account 8974",
+            "type": "withdrawal",
+            "account": "41724748"
+        },
+        {
+            "amount": "474.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Frami - Herzog",
+            "name": "Personal Loan Account 0884",
+            "type": "withdrawal",
+            "account": "07866420"
+        },
+        {
+            "amount": "249.33",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schiller, Murray and Klein",
+            "name": "Checking Account 1958",
+            "type": "payment",
+            "account": "57838485"
+        }
+    ]
+}

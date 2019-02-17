@@ -1,0 +1,72 @@
+{
+    "name": "Kenna Botsford MD",
+    "username": "Gilberto_Abernathy",
+    "email": "Reyna43@yahoo.com",
+    "address": {
+        "streetA": "Thiel Cliff",
+        "streetB": "34732 Dawn Viaduct",
+        "streetC": "725 Zemlak Port Suite 546",
+        "streetD": "Suite 130",
+        "city": "Creminshire",
+        "state": "North Dakota",
+        "country": "Australia",
+        "zipcode": "61800",
+        "geo": {
+            "lat": "3.0837",
+            "lng": "68.5604"
+        }
+    },
+    "phone": "210-047-5873 x69867",
+    "website": "furman.com",
+    "company": {
+        "name": "Howell Inc",
+        "catchPhrase": "Synergistic clear-thinking standardization",
+        "bs": "turn-key maximize synergies"
+    },
+    "posts": [
+        {
+            "words": "ad tenetur aspernatur",
+            "sentence": "Vel pariatur eligendi sint et et.",
+            "sentences": "Consequatur iste et recusandae ad. Illum quisquam vel. Sapiente tempora iusto et rem eos aut ducimus voluptas. Et qui omnis. Delectus veritatis similique eius suscipit voluptates neque repudiandae. Voluptates aliquam quo dolores.",
+            "paragraph": "Similique repellat dolor. Autem quod recusandae sit deserunt ipsa qui. Dolorem incidunt veniam praesentium est sit natus sit dolor quaerat. Rerum cumque eos qui quos ullam quisquam odit quas. Laudantium nam consequuntur."
+        },
+        {
+            "words": "mollitia quaerat similique",
+            "sentence": "Necessitatibus dolor cupiditate illo nulla eaque nihil.",
+            "sentences": "Rem delectus at ea ut aut. Tempora rem id ut unde saepe nihil. Dolor sunt sint omnis repellat quibusdam.",
+            "paragraph": "Hic et repellat dicta temporibus fuga occaecati. Nihil vitae quos id sunt id earum. Quia rerum ut dicta ducimus. Incidunt vero earum est esse quia iusto sint porro. Ab est qui ea. Officia vel at incidunt distinctio voluptas."
+        },
+        {
+            "words": "vero harum ratione",
+            "sentence": "Voluptas sint quod ut harum.",
+            "sentences": "Iusto laboriosam non consectetur nihil ducimus amet. Perferendis vitae voluptate totam fugit et. Aliquam aut numquam maxime et provident est dolores quam eligendi.",
+            "paragraph": "Quo nobis veritatis dolorum corrupti sint quis mollitia soluta. Eveniet nemo eos illo itaque quo quia. At eveniet omnis et praesentium ducimus. Consequatur exercitationem a reprehenderit sed. Consequatur voluptatem accusamus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "873.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lebsack Inc",
+            "name": "Savings Account 8180",
+            "type": "withdrawal",
+            "account": "14839249"
+        },
+        {
+            "amount": "924.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Welch and Sons",
+            "name": "Money Market Account 7210",
+            "type": "withdrawal",
+            "account": "26957277"
+        },
+        {
+            "amount": "16.66",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Balistreri and Sons",
+            "name": "Auto Loan Account 2046",
+            "type": "invoice",
+            "account": "20402368"
+        }
+    ]
+}

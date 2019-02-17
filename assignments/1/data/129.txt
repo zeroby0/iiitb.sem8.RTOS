@@ -1,0 +1,72 @@
+{
+    "name": "Karli Connelly",
+    "username": "Sven.Crona85",
+    "email": "Karlee7@gmail.com",
+    "address": {
+        "streetA": "Champlin Walk",
+        "streetB": "66790 Trevion Mountains",
+        "streetC": "78310 Nicolas Walks Suite 434",
+        "streetD": "Suite 721",
+        "city": "Emeryland",
+        "state": "Massachusetts",
+        "country": "Fiji",
+        "zipcode": "06743",
+        "geo": {
+            "lat": "26.9935",
+            "lng": "-178.3338"
+        }
+    },
+    "phone": "1-801-952-1537 x66487",
+    "website": "gwendolyn.name",
+    "company": {
+        "name": "Lindgren - Pollich",
+        "catchPhrase": "Total bandwidth-monitored info-mediaries",
+        "bs": "front-end aggregate e-markets"
+    },
+    "posts": [
+        {
+            "words": "molestiae molestiae eaque",
+            "sentence": "Et autem eos illum dolorem labore perferendis animi quas.",
+            "sentences": "Rerum vero asperiores quis reiciendis eum. Incidunt quibusdam sed at nesciunt.",
+            "paragraph": "Vel nulla possimus sit et et et. Culpa non eveniet nostrum est. Debitis et a. Impedit et sit."
+        },
+        {
+            "words": "neque voluptatum quo",
+            "sentence": "Perferendis repudiandae quos et eum hic vel error corrupti soluta.",
+            "sentences": "Aperiam repellendus iste exercitationem dignissimos aut fuga laboriosam eligendi. Maxime et non corrupti fugit dignissimos ad ratione sit.",
+            "paragraph": "Odio omnis neque aut labore. Voluptatibus corrupti id sequi occaecati. Et voluptas iusto. Consequatur deleniti quae ut soluta magni dolorem nulla reiciendis."
+        },
+        {
+            "words": "ut sunt perferendis",
+            "sentence": "Quasi id natus veniam.",
+            "sentences": "Consequatur cum officiis suscipit consequatur quo suscipit consequatur eligendi. Iure ut nostrum quia nam omnis excepturi explicabo illo iste. Architecto dolorem architecto possimus. Laboriosam inventore quibusdam asperiores deserunt soluta omnis. Quasi odio vero.",
+            "paragraph": "Earum in ipsa enim dolorem perspiciatis voluptas similique occaecati. Sapiente corrupti atque rerum nisi. Sit aliquam et illum. Quisquam enim aut. Dolorum vitae natus est in iste ipsa consequatur sed. Voluptatem eum ducimus odio."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "281.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Balistreri - Sawayn",
+            "name": "Home Loan Account 4185",
+            "type": "deposit",
+            "account": "51082178"
+        },
+        {
+            "amount": "934.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Volkman LLC",
+            "name": "Home Loan Account 8160",
+            "type": "invoice",
+            "account": "31193890"
+        },
+        {
+            "amount": "884.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kreiger Group",
+            "name": "Savings Account 8370",
+            "type": "deposit",
+            "account": "28334439"
+        }
+    ]
+}

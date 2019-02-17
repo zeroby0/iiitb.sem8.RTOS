@@ -1,0 +1,72 @@
+{
+    "name": "Alvena Satterfield",
+    "username": "Nova_Bruen",
+    "email": "Fiona_Murazik99@hotmail.com",
+    "address": {
+        "streetA": "Ward Mall",
+        "streetB": "10691 Garrison Summit",
+        "streetC": "84204 Doyle Ways Suite 347",
+        "streetD": "Apt. 752",
+        "city": "Colleenside",
+        "state": "Ohio",
+        "country": "Gambia",
+        "zipcode": "24523-7797",
+        "geo": {
+            "lat": "14.3339",
+            "lng": "-84.2504"
+        }
+    },
+    "phone": "(008) 595-8208 x862",
+    "website": "effie.com",
+    "company": {
+        "name": "West, Rosenbaum and Legros",
+        "catchPhrase": "Adaptive grid-enabled adapter",
+        "bs": "viral implement functionalities"
+    },
+    "posts": [
+        {
+            "words": "consequatur similique dolores",
+            "sentence": "Modi facere dolor ea itaque nesciunt perspiciatis.",
+            "sentences": "Et maxime voluptatem. Quibusdam est provident.",
+            "paragraph": "Id molestiae iure temporibus sed. Quam minima veniam vel ut perferendis cumque totam. Omnis esse aspernatur necessitatibus dolor."
+        },
+        {
+            "words": "consectetur consequatur et",
+            "sentence": "Odit similique accusantium facere quibusdam.",
+            "sentences": "Esse repellat illum. Exercitationem ab modi unde et quisquam voluptas temporibus. Non voluptatem reiciendis repellat quaerat vitae et accusantium aut quasi. Laudantium et deleniti dolorem quibusdam enim aut nesciunt sit velit.",
+            "paragraph": "Distinctio tenetur saepe. Consequatur animi rem deleniti. Earum veritatis labore. Voluptatibus perspiciatis possimus et vel laborum ratione. Dolores ipsum ratione molestiae excepturi dolorum aut qui sit beatae. Adipisci voluptatem et."
+        },
+        {
+            "words": "officia qui quasi",
+            "sentence": "Soluta neque non aut vitae inventore.",
+            "sentences": "Voluptatem quisquam nisi qui natus. Quod reiciendis adipisci occaecati labore aut.",
+            "paragraph": "Dolores et pariatur magni iste ut veniam. Repudiandae doloremque molestias sequi ea ut aspernatur est modi laudantium. Praesentium voluptas enim corporis eos qui consequatur accusamus. Nesciunt rem sit incidunt autem maxime illum culpa molestiae et. Totam et ad. Dolores consequuntur et hic enim voluptas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "380.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Steuber, Hintz and Runte",
+            "name": "Credit Card Account 0582",
+            "type": "invoice",
+            "account": "98860317"
+        },
+        {
+            "amount": "988.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gusikowski, Witting and Macejkovic",
+            "name": "Home Loan Account 6231",
+            "type": "invoice",
+            "account": "69886669"
+        },
+        {
+            "amount": "107.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lubowitz Group",
+            "name": "Savings Account 5652",
+            "type": "deposit",
+            "account": "98433744"
+        }
+    ]
+}

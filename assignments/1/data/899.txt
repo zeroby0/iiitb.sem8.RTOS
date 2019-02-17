@@ -1,0 +1,72 @@
+{
+    "name": "Alexie Christiansen",
+    "username": "Cale.Wunsch",
+    "email": "Lela_Howe57@gmail.com",
+    "address": {
+        "streetA": "Troy Square",
+        "streetB": "0570 Ritchie Lodge",
+        "streetC": "94560 Lou Port Apt. 549",
+        "streetD": "Apt. 571",
+        "city": "Isaacburgh",
+        "state": "West Virginia",
+        "country": "Palestinian Territory",
+        "zipcode": "09539",
+        "geo": {
+            "lat": "-25.3131",
+            "lng": "77.1667"
+        }
+    },
+    "phone": "1-969-864-9927 x449",
+    "website": "grady.com",
+    "company": {
+        "name": "Powlowski - Fisher",
+        "catchPhrase": "Configurable context-sensitive software",
+        "bs": "cutting-edge enable channels"
+    },
+    "posts": [
+        {
+            "words": "consequatur fugit quod",
+            "sentence": "Non assumenda aliquid autem sit sunt aperiam hic soluta.",
+            "sentences": "Consequatur tempora incidunt aliquid occaecati culpa praesentium necessitatibus beatae cum. Consectetur sunt laborum dignissimos error quia. Et dolorem odit aut mollitia omnis. Sequi nesciunt eum delectus est fugiat ea ad.",
+            "paragraph": "Sit molestias quam. Ipsum maxime voluptas recusandae omnis voluptatem voluptas ut voluptatum. Suscipit et earum in reprehenderit quibusdam deleniti aut non."
+        },
+        {
+            "words": "reiciendis dolorem fugiat",
+            "sentence": "Ut dolorem et rem et et dicta tempora cum.",
+            "sentences": "Asperiores assumenda veritatis nam aut aut quia. Vitae numquam sint. Alias ex laudantium dignissimos voluptas aliquid. Architecto repellendus qui et repellat nostrum culpa ut cupiditate aspernatur.",
+            "paragraph": "Non provident consequatur animi. Tenetur et alias ea consequatur esse. Esse dolorem animi ut sint et ex perspiciatis. Maiores expedita voluptas nisi dolores consequuntur quia non cum."
+        },
+        {
+            "words": "pariatur adipisci aperiam",
+            "sentence": "Suscipit consequatur et fuga et eum.",
+            "sentences": "Quae voluptatibus dolor tempora delectus et ducimus omnis iure cum. Inventore est provident iure sed omnis enim quia ipsam. Architecto ipsam debitis iusto porro vitae sit tenetur atque. At enim explicabo.",
+            "paragraph": "Voluptas eum iusto sapiente in ipsa magni sed. Cum eum iste laudantium est hic. Et laboriosam quisquam. Aut blanditiis placeat est. Sit earum delectus ducimus in a voluptatem inventore dolorem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "375.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Runolfsson, Padberg and Lindgren",
+            "name": "Checking Account 8085",
+            "type": "deposit",
+            "account": "61758355"
+        },
+        {
+            "amount": "893.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dooley, Crist and Stehr",
+            "name": "Credit Card Account 3568",
+            "type": "withdrawal",
+            "account": "18025665"
+        },
+        {
+            "amount": "249.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Morissette - Murphy",
+            "name": "Personal Loan Account 9834",
+            "type": "deposit",
+            "account": "93086278"
+        }
+    ]
+}

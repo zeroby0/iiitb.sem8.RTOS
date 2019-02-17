@@ -1,0 +1,72 @@
+{
+    "name": "Rafael Schmitt",
+    "username": "Keagan.Runte",
+    "email": "Lelah.Dach40@yahoo.com",
+    "address": {
+        "streetA": "Roberto Ferry",
+        "streetB": "4154 Trevor Turnpike",
+        "streetC": "75890 Yost Street Apt. 694",
+        "streetD": "Apt. 556",
+        "city": "South Loymouth",
+        "state": "Kentucky",
+        "country": "Latvia",
+        "zipcode": "31691",
+        "geo": {
+            "lat": "6.4364",
+            "lng": "38.8241"
+        }
+    },
+    "phone": "718.431.8301 x842",
+    "website": "modesta.info",
+    "company": {
+        "name": "King - Wuckert",
+        "catchPhrase": "Proactive disintermediate circuit",
+        "bs": "compelling seize relationships"
+    },
+    "posts": [
+        {
+            "words": "ut omnis illum",
+            "sentence": "Maxime assumenda autem.",
+            "sentences": "Numquam qui quod praesentium explicabo necessitatibus quos ratione ut. Sit itaque officiis quia exercitationem est quaerat. Porro tenetur perspiciatis nam et est. Beatae debitis voluptatem dolor sunt quis. Impedit omnis vel. Est eius et voluptatibus voluptas quasi nam fugiat maiores totam.",
+            "paragraph": "Nulla sit quaerat modi tempore. Quia possimus rerum ut. Facere velit sit et quisquam. Eos repudiandae voluptas nemo qui a quia."
+        },
+        {
+            "words": "debitis culpa dicta",
+            "sentence": "Expedita sit et error et quia et explicabo.",
+            "sentences": "Nemo dolorem aut. Dolor ad fuga veniam vel. Eligendi qui amet eveniet. Suscipit adipisci voluptatem officiis quasi qui doloribus vel. Nam eum dolorum sunt. Neque occaecati voluptas qui.",
+            "paragraph": "Dicta et temporibus officiis. Porro sunt asperiores sunt soluta qui velit debitis modi eos. Ut et est cumque."
+        },
+        {
+            "words": "rem commodi magnam",
+            "sentence": "Exercitationem deleniti aut alias et reprehenderit id.",
+            "sentences": "Accusantium doloremque vel. Qui aut maxime repudiandae cupiditate vitae rem. Praesentium est doloribus in. Quam eveniet possimus eius.",
+            "paragraph": "Voluptas blanditiis veniam similique eum. Cum dolores voluptatem libero repudiandae ullam. Neque aut corporis natus. Culpa atque aliquam quia. Vero praesentium delectus autem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "256.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Heller Inc",
+            "name": "Auto Loan Account 1105",
+            "type": "invoice",
+            "account": "53373350"
+        },
+        {
+            "amount": "405.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "West and Sons",
+            "name": "Money Market Account 4971",
+            "type": "deposit",
+            "account": "10645735"
+        },
+        {
+            "amount": "112.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dach, Mosciski and Howe",
+            "name": "Money Market Account 5522",
+            "type": "deposit",
+            "account": "20939686"
+        }
+    ]
+}

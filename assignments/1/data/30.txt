@@ -1,0 +1,72 @@
+{
+    "name": "Sharon Bradtke",
+    "username": "Patsy.Reichert",
+    "email": "Olin.Gislason@yahoo.com",
+    "address": {
+        "streetA": "Wuckert Way",
+        "streetB": "6421 Hane Station",
+        "streetC": "0992 Jeromy Well Apt. 296",
+        "streetD": "Apt. 144",
+        "city": "Weissnatburgh",
+        "state": "Massachusetts",
+        "country": "Benin",
+        "zipcode": "81849-3632",
+        "geo": {
+            "lat": "87.1801",
+            "lng": "95.1433"
+        }
+    },
+    "phone": "(927) 386-5074 x32415",
+    "website": "albina.org",
+    "company": {
+        "name": "Kuphal, Schuster and Boyer",
+        "catchPhrase": "Front-line demand-driven archive",
+        "bs": "robust enhance models"
+    },
+    "posts": [
+        {
+            "words": "molestiae recusandae voluptatibus",
+            "sentence": "Nihil id quos quas dolorum vitae alias esse voluptas animi.",
+            "sentences": "Ducimus veritatis officiis et blanditiis magnam aut ut nesciunt soluta. Porro laboriosam sequi voluptatum ipsum necessitatibus est quaerat excepturi sequi. Architecto natus est dolores aut. Soluta necessitatibus eius unde rerum dolorem. Ut veniam ratione error.",
+            "paragraph": "Ut magni repellat autem. Ab sed consequatur et et rerum. Enim est corrupti quo debitis odit porro nesciunt ullam. Veniam perferendis possimus temporibus modi amet perferendis. Occaecati ratione fuga laboriosam iure illo commodi asperiores. Ex aut recusandae dolor dolores doloribus."
+        },
+        {
+            "words": "voluptas occaecati id",
+            "sentence": "Ut est et ea eum non aliquam.",
+            "sentences": "Unde numquam omnis. Consectetur beatae earum eum quia eum velit temporibus. Iusto libero soluta. Aut modi porro temporibus dolore aspernatur enim.",
+            "paragraph": "Voluptate et voluptas aut occaecati. Fuga cupiditate voluptates modi consequatur enim excepturi maxime quia. Sunt vero deserunt atque modi. Et neque sed sint dolorum corrupti consequatur similique consequatur et. Voluptatem facere eius. Praesentium deleniti soluta aut aspernatur est velit dicta dolorem."
+        },
+        {
+            "words": "quia illum et",
+            "sentence": "Doloremque minima quia qui enim ab cupiditate omnis explicabo.",
+            "sentences": "Eos et corporis numquam enim impedit magni voluptas. Rem eos dicta consectetur consequatur sit nihil eos tempora. Ipsa dolor iusto repellat numquam et unde est. Vel similique molestiae quaerat voluptatem sit.",
+            "paragraph": "Impedit voluptas qui molestiae. Iste sint quae vitae maiores quibusdam dolorem eveniet harum. Ut magni error voluptatem aut exercitationem eos. Voluptatem labore magni exercitationem ratione dolorem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "966.72",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ernser, Berge and Fadel",
+            "name": "Savings Account 4921",
+            "type": "payment",
+            "account": "78494027"
+        },
+        {
+            "amount": "220.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Homenick, Deckow and Collins",
+            "name": "Auto Loan Account 0023",
+            "type": "payment",
+            "account": "01956936"
+        },
+        {
+            "amount": "346.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Deckow Inc",
+            "name": "Savings Account 0288",
+            "type": "payment",
+            "account": "20183727"
+        }
+    ]
+}

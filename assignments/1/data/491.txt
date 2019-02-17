@@ -1,0 +1,72 @@
+{
+    "name": "Jordy Schuppe",
+    "username": "Layne.Hirthe",
+    "email": "Dereck13@gmail.com",
+    "address": {
+        "streetA": "Orie Passage",
+        "streetB": "2680 Bednar Mills",
+        "streetC": "982 Linda Valleys Suite 457",
+        "streetD": "Apt. 943",
+        "city": "New Mohamedton",
+        "state": "Mississippi",
+        "country": "Malawi",
+        "zipcode": "11035",
+        "geo": {
+            "lat": "7.8587",
+            "lng": "94.0640"
+        }
+    },
+    "phone": "678.526.9582",
+    "website": "jana.biz",
+    "company": {
+        "name": "Kozey Inc",
+        "catchPhrase": "Managed incremental structure",
+        "bs": "efficient expedite channels"
+    },
+    "posts": [
+        {
+            "words": "nobis et doloribus",
+            "sentence": "Voluptas beatae qui est rerum rerum numquam facilis.",
+            "sentences": "Consequuntur doloribus aut non ullam aperiam. Sequi voluptatem et dignissimos.",
+            "paragraph": "Sit autem dolore. Illum et voluptas et. Id error et."
+        },
+        {
+            "words": "ut recusandae inventore",
+            "sentence": "Facilis quia vel alias aut corrupti nemo architecto eligendi natus.",
+            "sentences": "Exercitationem ut molestias id. Voluptas eveniet aut dolorem explicabo reprehenderit rerum. Eos ab aut magni atque dignissimos eos omnis dolorum. Repellendus repellendus commodi excepturi distinctio.",
+            "paragraph": "Earum magnam molestiae necessitatibus est omnis nihil. Corrupti beatae ratione non incidunt. Necessitatibus ea odit impedit sequi exercitationem temporibus sit dolores. Doloribus occaecati voluptatem."
+        },
+        {
+            "words": "sed illum ut",
+            "sentence": "Officia tempora distinctio qui delectus quam commodi minus cum fuga.",
+            "sentences": "Ex consequatur rerum perferendis vel sequi harum ipsa sapiente asperiores. Ad voluptatem id laborum.",
+            "paragraph": "Aspernatur qui voluptates ipsum ut quod quasi vero. Ut quasi neque adipisci incidunt perspiciatis quia quos in. Est ipsum consequuntur. Nihil eum ducimus et. Odit animi aperiam aliquid voluptatem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "830.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Romaguera, Kohler and Kulas",
+            "name": "Home Loan Account 2858",
+            "type": "withdrawal",
+            "account": "22205988"
+        },
+        {
+            "amount": "283.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schroeder LLC",
+            "name": "Home Loan Account 1825",
+            "type": "payment",
+            "account": "41827406"
+        },
+        {
+            "amount": "148.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Skiles - Kirlin",
+            "name": "Credit Card Account 3329",
+            "type": "deposit",
+            "account": "21153342"
+        }
+    ]
+}

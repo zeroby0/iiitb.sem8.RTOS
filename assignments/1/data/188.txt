@@ -1,0 +1,72 @@
+{
+    "name": "Miracle Kovacek",
+    "username": "Ebba.Gislason",
+    "email": "Herta.Nitzsche@gmail.com",
+    "address": {
+        "streetA": "Jaylen Village",
+        "streetB": "310 Daren Mall",
+        "streetC": "0728 Diamond Extensions Suite 163",
+        "streetD": "Suite 012",
+        "city": "Dickinsonmouth",
+        "state": "Tennessee",
+        "country": "Romania",
+        "zipcode": "31873",
+        "geo": {
+            "lat": "-86.2264",
+            "lng": "-33.4530"
+        }
+    },
+    "phone": "(102) 829-6853 x8832",
+    "website": "alvina.biz",
+    "company": {
+        "name": "Jaskolski - Mraz",
+        "catchPhrase": "Cross-group tertiary utilisation",
+        "bs": "out-of-the-box revolutionize niches"
+    },
+    "posts": [
+        {
+            "words": "qui repellat qui",
+            "sentence": "Facere voluptatem officia quaerat totam et incidunt molestias quisquam quia.",
+            "sentences": "Nemo perferendis aut similique unde omnis fugit accusantium. Ut deleniti debitis laborum assumenda qui perspiciatis ea rem. Aut fugiat eos quis dicta rerum in et. Ducimus explicabo perferendis molestiae impedit aliquam velit et tempore velit. Soluta vitae dolorum.",
+            "paragraph": "Omnis quasi necessitatibus deserunt et laboriosam sit. Id accusamus voluptates deserunt alias dolores in et corporis. Aperiam odit provident. Corrupti vitae dolor blanditiis. Vitae eligendi quam magnam nulla veritatis fuga. Velit harum eos voluptatem adipisci nemo temporibus repellat dolorem quam."
+        },
+        {
+            "words": "rerum rerum aut",
+            "sentence": "Eum nobis molestiae fugit dolores qui.",
+            "sentences": "Autem ipsa necessitatibus est est nihil. Et saepe a quae tenetur. Voluptas earum aperiam tenetur modi. Voluptas error ipsam quidem voluptatem ad atque omnis voluptates. Expedita impedit laboriosam sed adipisci facere et fuga est.",
+            "paragraph": "Voluptate non voluptatem et. Amet excepturi error eum. Doloribus ducimus voluptas natus voluptate ut. Ut qui consequatur qui velit. Libero molestiae quibusdam quis. Est alias aperiam veniam qui expedita officia ut corporis."
+        },
+        {
+            "words": "quas eos iusto",
+            "sentence": "Explicabo saepe aut non sunt omnis deserunt explicabo adipisci.",
+            "sentences": "Quod omnis odit magnam. Repellendus tempore illo corrupti eaque voluptatibus.",
+            "paragraph": "Atque numquam blanditiis. Repudiandae tempore nemo facilis voluptas. Ratione quisquam magni quo repudiandae commodi molestiae consequuntur. Ut libero optio rerum eum iure. Ea voluptatem dicta deserunt nulla dolor minus vel. Sed fugiat dolores non quis expedita dolorem consequatur saepe."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "189.33",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rodriguez - Runte",
+            "name": "Investment Account 6757",
+            "type": "withdrawal",
+            "account": "40153598"
+        },
+        {
+            "amount": "892.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Champlin Inc",
+            "name": "Personal Loan Account 0369",
+            "type": "payment",
+            "account": "45362577"
+        },
+        {
+            "amount": "160.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rowe - O'Reilly",
+            "name": "Money Market Account 8811",
+            "type": "payment",
+            "account": "79233580"
+        }
+    ]
+}

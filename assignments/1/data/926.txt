@@ -1,0 +1,72 @@
+{
+    "name": "Miss Stanton Bahringer",
+    "username": "Keven.Muller34",
+    "email": "Marlon73@yahoo.com",
+    "address": {
+        "streetA": "Freida Grove",
+        "streetB": "376 Zachariah Lock",
+        "streetC": "034 Morar Road Suite 107",
+        "streetD": "Apt. 656",
+        "city": "South Halliehaven",
+        "state": "Connecticut",
+        "country": "Kenya",
+        "zipcode": "55618",
+        "geo": {
+            "lat": "25.2534",
+            "lng": "34.0511"
+        }
+    },
+    "phone": "(862) 990-3449",
+    "website": "isabel.com",
+    "company": {
+        "name": "Goyette, Metz and Friesen",
+        "catchPhrase": "Phased dynamic task-force",
+        "bs": "impactful morph experiences"
+    },
+    "posts": [
+        {
+            "words": "natus et aut",
+            "sentence": "Sit architecto vel corrupti error dolorum et animi quis officia.",
+            "sentences": "Est sequi quidem aut omnis quae. Et asperiores voluptas ea voluptas temporibus nemo iste provident. Qui iusto necessitatibus voluptatem et aut expedita et. Aut corporis et quos laboriosam saepe. Et aut aperiam ut est ut inventore.",
+            "paragraph": "Sit nesciunt veniam dolore eligendi rerum exercitationem ea adipisci et. Sed vitae velit vel dolore ut libero voluptates nostrum ab. Ex tempore voluptates dolorem commodi. Numquam neque quo et optio id itaque alias illo libero. Natus voluptate sunt. Aut magni consequatur."
+        },
+        {
+            "words": "adipisci voluptas minima",
+            "sentence": "Ea quas expedita sunt.",
+            "sentences": "Consequatur corporis cumque et et exercitationem et voluptas. Est adipisci voluptatibus qui consectetur quo in et tenetur facere. Suscipit doloribus deleniti error quia. Molestiae officiis animi qui unde tempore cupiditate eius cumque necessitatibus.",
+            "paragraph": "Molestias provident sit ut non veniam voluptas corporis nostrum. Velit exercitationem consequuntur magnam vel omnis est quis autem. Dolorum placeat optio velit modi veniam tempora dignissimos. Nisi et dolores."
+        },
+        {
+            "words": "minus sunt necessitatibus",
+            "sentence": "Rerum natus cum et ipsa.",
+            "sentences": "Consequuntur delectus dolor minima enim explicabo placeat dolores repellendus. Natus eos ab dolor ut aut. Assumenda dolorem sed eum voluptatem magnam exercitationem quia quo reprehenderit. Quis quas voluptatibus natus consequuntur alias quisquam quo aperiam quos. Dolore consectetur harum voluptatem veniam.",
+            "paragraph": "Consequatur a blanditiis perspiciatis nisi. Ut consectetur tenetur nihil voluptas praesentium quisquam nobis. Eaque perspiciatis non qui id occaecati deleniti molestiae distinctio. Magnam beatae ea sed veniam vero doloribus repudiandae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "169.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ratke Group",
+            "name": "Checking Account 2826",
+            "type": "invoice",
+            "account": "36536133"
+        },
+        {
+            "amount": "687.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lubowitz - Spencer",
+            "name": "Checking Account 2215",
+            "type": "deposit",
+            "account": "75947125"
+        },
+        {
+            "amount": "276.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Runte LLC",
+            "name": "Personal Loan Account 5005",
+            "type": "withdrawal",
+            "account": "60165597"
+        }
+    ]
+}

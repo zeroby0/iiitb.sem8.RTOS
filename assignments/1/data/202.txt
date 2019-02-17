@@ -1,0 +1,72 @@
+{
+    "name": "Mr. Fannie Stokes",
+    "username": "Carleton.Bartoletti",
+    "email": "Cyrus65@yahoo.com",
+    "address": {
+        "streetA": "Boehm Fork",
+        "streetB": "191 Daugherty Fords",
+        "streetC": "8228 Jadyn Square Suite 237",
+        "streetD": "Suite 029",
+        "city": "Bergeport",
+        "state": "Ohio",
+        "country": "France",
+        "zipcode": "88230-0796",
+        "geo": {
+            "lat": "76.5881",
+            "lng": "-87.7012"
+        }
+    },
+    "phone": "794-326-0446 x2710",
+    "website": "esteban.info",
+    "company": {
+        "name": "Zulauf - Gleason",
+        "catchPhrase": "User-centric disintermediate pricing structure",
+        "bs": "strategic incentivize web services"
+    },
+    "posts": [
+        {
+            "words": "vitae laboriosam nesciunt",
+            "sentence": "Est esse consequatur corrupti.",
+            "sentences": "Ea qui fuga accusamus temporibus quis aperiam. A harum et error in earum.",
+            "paragraph": "Unde aliquam incidunt sint nisi voluptatem necessitatibus earum. Labore rerum aliquam voluptatem. Ut fugiat totam odio nemo et."
+        },
+        {
+            "words": "commodi est occaecati",
+            "sentence": "Ut ut autem dolorem aperiam dolore illo aut.",
+            "sentences": "Minus vel est quo doloremque. Eos laboriosam nemo rerum exercitationem sit eaque repellendus. Doloribus voluptatem et enim quae non quisquam culpa. Est commodi doloremque. Enim sit ut maxime modi perspiciatis voluptas quia laboriosam est. Esse quam esse.",
+            "paragraph": "Omnis vitae qui suscipit aut est. Voluptas perferendis ea pariatur optio. Ullam voluptate rem. In perspiciatis tenetur minus voluptatum. Qui laboriosam et rerum."
+        },
+        {
+            "words": "rerum atque non",
+            "sentence": "Consequatur ea doloremque est quam veniam laudantium quia.",
+            "sentences": "Non eligendi eos reprehenderit ut laboriosam ipsam qui. Magni aliquam qui iste et velit officia. Doloribus explicabo reiciendis et temporibus. Non sed id ipsa.",
+            "paragraph": "Repellendus omnis incidunt dicta omnis ducimus. Odio rerum temporibus ut et corrupti. Molestiae optio nihil magni."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "16.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Funk - Gerhold",
+            "name": "Credit Card Account 4275",
+            "type": "withdrawal",
+            "account": "01980941"
+        },
+        {
+            "amount": "425.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bernier Group",
+            "name": "Personal Loan Account 4450",
+            "type": "deposit",
+            "account": "39607367"
+        },
+        {
+            "amount": "322.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cummings LLC",
+            "name": "Money Market Account 1401",
+            "type": "deposit",
+            "account": "38053888"
+        }
+    ]
+}

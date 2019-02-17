@@ -1,0 +1,72 @@
+{
+    "name": "D'angelo Hansen",
+    "username": "Ines_Rohan10",
+    "email": "Jasen21@yahoo.com",
+    "address": {
+        "streetA": "Bins Forks",
+        "streetB": "113 Nelda Village",
+        "streetC": "51987 Camylle Crescent Apt. 121",
+        "streetD": "Suite 754",
+        "city": "Willisberg",
+        "state": "Connecticut",
+        "country": "Senegal",
+        "zipcode": "86695-4201",
+        "geo": {
+            "lat": "-84.4824",
+            "lng": "106.0812"
+        }
+    },
+    "phone": "752-718-5275",
+    "website": "ramiro.info",
+    "company": {
+        "name": "Hamill - Ledner",
+        "catchPhrase": "Open-architected fresh-thinking success",
+        "bs": "sexy whiteboard interfaces"
+    },
+    "posts": [
+        {
+            "words": "dolores voluptates explicabo",
+            "sentence": "Et velit et.",
+            "sentences": "In debitis at totam quae. Eligendi a ut ducimus omnis et quidem labore. Cum perferendis ut non. Saepe voluptas hic optio excepturi voluptatum.",
+            "paragraph": "Facilis repellendus unde maiores. Omnis necessitatibus quia omnis quas quia ducimus quas occaecati. Ut ab alias."
+        },
+        {
+            "words": "dignissimos quam culpa",
+            "sentence": "Quae id sunt optio vel corrupti ea.",
+            "sentences": "Et optio labore modi. Quia sunt libero laborum cum explicabo consequatur eaque. Aperiam exercitationem vero cupiditate. Delectus iste tempore eos odit cumque sint. Aut commodi quos quaerat quis at et. Perspiciatis molestiae dolor aspernatur quisquam laborum assumenda enim vero.",
+            "paragraph": "Voluptatem ut nulla. Molestias recusandae quia. Eos quis labore ea perspiciatis vel. Magnam neque minima voluptatem soluta tempore animi voluptatem."
+        },
+        {
+            "words": "iusto nihil nulla",
+            "sentence": "Magnam tenetur nam provident enim dolor laudantium unde aut.",
+            "sentences": "Eaque sed quas rerum ut quas. Occaecati facere quia et dignissimos ab dolorem qui. Vero consequatur aut error. Temporibus laudantium quae iure alias debitis quae. Voluptas quasi ipsa nemo.",
+            "paragraph": "Nobis quis in quia pariatur amet molestiae natus. Quae eum incidunt dolorum beatae occaecati dolor sed veniam incidunt. Nulla autem reprehenderit enim quas. Nam est et nam exercitationem eum voluptas debitis neque. Ipsam omnis magni et animi culpa quis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "518.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lemke, Schmidt and Leuschke",
+            "name": "Credit Card Account 4723",
+            "type": "invoice",
+            "account": "79632037"
+        },
+        {
+            "amount": "747.31",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Little and Sons",
+            "name": "Auto Loan Account 0201",
+            "type": "deposit",
+            "account": "88668090"
+        },
+        {
+            "amount": "565.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Zieme Group",
+            "name": "Checking Account 4817",
+            "type": "payment",
+            "account": "85252160"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Bertram Orn",
+    "username": "Karli_Zieme",
+    "email": "Alia_Herman@gmail.com",
+    "address": {
+        "streetA": "Buckridge Viaduct",
+        "streetB": "43638 Barton Ford",
+        "streetC": "826 Columbus Squares Apt. 272",
+        "streetD": "Apt. 220",
+        "city": "Earleneview",
+        "state": "Wyoming",
+        "country": "Uzbekistan",
+        "zipcode": "89681-1920",
+        "geo": {
+            "lat": "-40.3757",
+            "lng": "2.6868"
+        }
+    },
+    "phone": "1-647-402-1520",
+    "website": "astrid.com",
+    "company": {
+        "name": "Gerlach, Kautzer and Cartwright",
+        "catchPhrase": "Synergistic empowering support",
+        "bs": "enterprise revolutionize e-commerce"
+    },
+    "posts": [
+        {
+            "words": "quia autem ut",
+            "sentence": "Libero et id omnis dolorum sit nam qui aut omnis.",
+            "sentences": "Est provident vel sunt eum et beatae. Officiis quis dolorum fugiat quibusdam harum. Rerum dolor expedita dolores molestiae vero. Sed quis quod fugit repudiandae illum officia optio vitae.",
+            "paragraph": "Inventore natus animi non ut. Iusto labore aut in. Aperiam et esse incidunt consequatur. Ea earum qui. Eum quia laudantium et inventore voluptas consectetur voluptatibus odit."
+        },
+        {
+            "words": "harum eveniet veniam",
+            "sentence": "Ut quos dicta voluptatem aspernatur quibusdam at.",
+            "sentences": "Labore id magni. Totam officia ut magni. Accusamus ipsum quo sapiente. Labore et commodi non qui minima sunt eveniet a. Possimus et culpa reprehenderit nesciunt delectus. Odio quia dolor sint architecto eligendi dolores consequuntur dolorem.",
+            "paragraph": "Quia odio atque. Est excepturi officiis molestias eos. Est assumenda exercitationem autem rem illum modi quaerat ad. Amet provident quaerat. Non a sit molestiae delectus. Consequatur et enim."
+        },
+        {
+            "words": "blanditiis reiciendis autem",
+            "sentence": "Quia sit porro voluptatem pariatur vel recusandae modi qui.",
+            "sentences": "Quo et blanditiis. At vero et. Unde quia repudiandae explicabo ad aut. Aut non eligendi rem quas est facilis voluptatum.",
+            "paragraph": "Est aut nihil assumenda qui sapiente. Molestiae quo exercitationem. Vero sed eius."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "665.65",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hudson Inc",
+            "name": "Home Loan Account 7813",
+            "type": "withdrawal",
+            "account": "05637350"
+        },
+        {
+            "amount": "1.72",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Herman LLC",
+            "name": "Savings Account 9228",
+            "type": "invoice",
+            "account": "44950527"
+        },
+        {
+            "amount": "419.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ondricka, Klocko and Wilkinson",
+            "name": "Credit Card Account 3791",
+            "type": "payment",
+            "account": "18591328"
+        }
+    ]
+}

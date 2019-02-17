@@ -1,0 +1,72 @@
+{
+    "name": "Frida Quigley",
+    "username": "Jessica_Graham",
+    "email": "Mara_Wehner@hotmail.com",
+    "address": {
+        "streetA": "Schaden Mill",
+        "streetB": "36288 Homenick Highway",
+        "streetC": "76683 Margarita Plaza Suite 110",
+        "streetD": "Suite 949",
+        "city": "Port Ursulafurt",
+        "state": "Utah",
+        "country": "Angola",
+        "zipcode": "94791-9690",
+        "geo": {
+            "lat": "85.3212",
+            "lng": "61.9430"
+        }
+    },
+    "phone": "681-248-9099",
+    "website": "carmel.com",
+    "company": {
+        "name": "Yost, Nicolas and Hintz",
+        "catchPhrase": "Visionary zero administration implementation",
+        "bs": "e-business strategize e-services"
+    },
+    "posts": [
+        {
+            "words": "omnis doloribus eum",
+            "sentence": "Deleniti officiis culpa ad ipsam amet.",
+            "sentences": "Illum fugiat quia occaecati odit. Molestiae velit ex voluptatem facere ratione incidunt. Beatae velit voluptatum excepturi quo asperiores et voluptatum voluptatibus fugit.",
+            "paragraph": "Unde vero animi corrupti voluptatem aspernatur dolorem. Enim ut tempore accusamus et et voluptatem quis et. Delectus sit vero. Temporibus esse sit dolore accusamus. Qui ex fugit."
+        },
+        {
+            "words": "voluptatibus et ex",
+            "sentence": "Explicabo aliquid velit consectetur ut non ad alias saepe harum.",
+            "sentences": "Nihil enim voluptatibus nemo et ipsam doloribus quasi. Omnis quo quia nihil reprehenderit. Error consequuntur ut sint error unde et repellat alias.",
+            "paragraph": "Omnis et qui unde non provident. Blanditiis nulla labore id numquam. Aut sint sapiente illo quas omnis corporis exercitationem voluptatem. Aliquam animi ducimus. Et ut et unde quidem non ipsum eum."
+        },
+        {
+            "words": "dolorem qui eos",
+            "sentence": "Velit animi odit voluptatem id explicabo rerum et voluptatem amet.",
+            "sentences": "Omnis dicta totam voluptas consequuntur omnis et vel officiis eos. Tempora voluptate eum expedita magni at sed. Quasi totam autem.",
+            "paragraph": "A iure deserunt qui voluptatum. Autem aliquam commodi vel dignissimos mollitia doloribus aut. Reprehenderit animi tenetur quae. Dolorem eos quo sit. Corrupti hic suscipit aut est repellendus recusandae consequatur. Consequatur tempore consequatur eaque ratione."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "226.58",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Carter and Sons",
+            "name": "Savings Account 9585",
+            "type": "invoice",
+            "account": "79290371"
+        },
+        {
+            "amount": "381.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bartell, Zboncak and Yost",
+            "name": "Investment Account 2526",
+            "type": "payment",
+            "account": "96151348"
+        },
+        {
+            "amount": "44.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beer, Blick and Leffler",
+            "name": "Checking Account 3325",
+            "type": "deposit",
+            "account": "44862956"
+        }
+    ]
+}

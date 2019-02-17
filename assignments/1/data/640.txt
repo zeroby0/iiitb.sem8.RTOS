@@ -1,0 +1,72 @@
+{
+    "name": "Pearline Romaguera",
+    "username": "Claudie97",
+    "email": "Vergie_Russel@gmail.com",
+    "address": {
+        "streetA": "Walsh Parkway",
+        "streetB": "9970 Kuhlman Inlet",
+        "streetC": "706 Aufderhar Bypass Suite 656",
+        "streetD": "Apt. 496",
+        "city": "South Omarimouth",
+        "state": "Indiana",
+        "country": "Cyprus",
+        "zipcode": "69655",
+        "geo": {
+            "lat": "-58.6338",
+            "lng": "85.2115"
+        }
+    },
+    "phone": "1-658-732-6652",
+    "website": "tanya.name",
+    "company": {
+        "name": "Hodkiewicz - Spinka",
+        "catchPhrase": "Vision-oriented next generation database",
+        "bs": "synergistic exploit e-tailers"
+    },
+    "posts": [
+        {
+            "words": "ut inventore labore",
+            "sentence": "Autem est assumenda vel quam delectus tempore repellat.",
+            "sentences": "Nihil praesentium reiciendis. In at consectetur in. Voluptates tempora distinctio.",
+            "paragraph": "Earum in qui inventore cumque inventore. Non quasi id accusantium eum. Quaerat sed occaecati et aliquam omnis labore ipsum. Enim aut ullam reprehenderit asperiores laborum eius quisquam a iusto. Voluptas rerum odio sapiente impedit porro sed consequatur."
+        },
+        {
+            "words": "vitae cum aut",
+            "sentence": "Sed error voluptates blanditiis quas quisquam qui.",
+            "sentences": "Sunt est voluptatibus voluptates dolore fuga eveniet. Molestiae voluptas voluptatem eum voluptatem aut exercitationem adipisci eum. Voluptatum quis beatae velit reprehenderit facilis est sequi excepturi nam. Quisquam repellendus ipsa et voluptas architecto suscipit impedit.",
+            "paragraph": "Qui repellendus harum consequatur. Non eos iste quibusdam aut accusantium a veritatis. Quidem maxime neque. Culpa necessitatibus repellat consequatur est aspernatur quia id. Aliquid est in aliquam dolorem error. Ut commodi dolorum non temporibus quia voluptatem."
+        },
+        {
+            "words": "dolorem deleniti expedita",
+            "sentence": "Rerum aliquam sit est et quo vero error magni possimus.",
+            "sentences": "Maxime ea ut dicta tenetur autem alias consequatur. Et saepe omnis error atque deleniti similique enim expedita et. Quae ex rerum incidunt quaerat commodi in nihil qui.",
+            "paragraph": "Aspernatur nulla sed eum numquam ipsa enim quis. Maiores ullam qui architecto consequatur quasi consequatur reprehenderit sit. Nisi dolores ut nobis. Officiis ut rerum voluptatem nemo laborum magni aut voluptatem. Et voluptatibus est error est distinctio consequatur illo alias laudantium. Facere nihil sed dolorem aliquid consequatur quas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "482.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Balistreri, Cole and Willms",
+            "name": "Home Loan Account 7397",
+            "type": "payment",
+            "account": "07101567"
+        },
+        {
+            "amount": "962.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hettinger - Gottlieb",
+            "name": "Home Loan Account 7993",
+            "type": "payment",
+            "account": "04842849"
+        },
+        {
+            "amount": "76.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wilkinson Group",
+            "name": "Home Loan Account 8466",
+            "type": "payment",
+            "account": "31096603"
+        }
+    ]
+}

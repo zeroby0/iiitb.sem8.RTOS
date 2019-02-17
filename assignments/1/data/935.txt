@@ -1,0 +1,72 @@
+{
+    "name": "Keyon Bashirian",
+    "username": "Ardith97",
+    "email": "Ella.Bailey@yahoo.com",
+    "address": {
+        "streetA": "Tremblay Circles",
+        "streetB": "812 Bartoletti Expressway",
+        "streetC": "064 Otis Freeway Suite 984",
+        "streetD": "Suite 414",
+        "city": "Cassinbury",
+        "state": "Idaho",
+        "country": "Guadeloupe",
+        "zipcode": "67106",
+        "geo": {
+            "lat": "-10.1345",
+            "lng": "-93.9352"
+        }
+    },
+    "phone": "(699) 363-2317 x4907",
+    "website": "barry.biz",
+    "company": {
+        "name": "Abernathy, Corwin and Pfannerstill",
+        "catchPhrase": "Organic composite function",
+        "bs": "interactive generate experiences"
+    },
+    "posts": [
+        {
+            "words": "odit necessitatibus est",
+            "sentence": "Nulla odit ipsa aliquam aut delectus.",
+            "sentences": "Consequatur quisquam a architecto. Non placeat aut illo sint aut earum recusandae veritatis. Aut veritatis aliquid dignissimos et voluptates deleniti rem. Esse explicabo rerum ratione corporis eum dicta. Accusantium cupiditate pariatur ea error non quo impedit libero.",
+            "paragraph": "Quo repellendus ut culpa adipisci minima dolorem nihil. Voluptatem cum ut ea ipsa nobis facilis assumenda natus. Sit dolorum repudiandae. Sunt quia corporis. Harum iusto incidunt."
+        },
+        {
+            "words": "ullam aliquam reprehenderit",
+            "sentence": "Ullam mollitia ut ad eos corporis deserunt rerum officia.",
+            "sentences": "Magnam reiciendis delectus nesciunt. Labore nihil enim quod aliquam animi. Aliquam non amet id asperiores delectus ab numquam perspiciatis et. Asperiores excepturi est minus tempore expedita nesciunt aut.",
+            "paragraph": "Impedit molestiae laudantium. Voluptates aspernatur itaque. Ratione optio quibusdam. Quos magni aliquid iste velit qui beatae. Aliquam maiores enim dolor doloremque fugiat quasi ex."
+        },
+        {
+            "words": "autem vel et",
+            "sentence": "Reiciendis velit et quo et iusto expedita ipsa labore tempora.",
+            "sentences": "Et voluptatem aspernatur ducimus aliquam occaecati. Debitis temporibus ipsam voluptas est dolorem ex consequatur corrupti.",
+            "paragraph": "Aut ut dolorum magnam. Sed libero consequatur ut vel. Totam iste aut modi ducimus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "609.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Yost LLC",
+            "name": "Personal Loan Account 7656",
+            "type": "invoice",
+            "account": "05581240"
+        },
+        {
+            "amount": "89.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McLaughlin LLC",
+            "name": "Checking Account 5338",
+            "type": "withdrawal",
+            "account": "56964878"
+        },
+        {
+            "amount": "464.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Quigley - Hoppe",
+            "name": "Checking Account 7902",
+            "type": "withdrawal",
+            "account": "28648714"
+        }
+    ]
+}

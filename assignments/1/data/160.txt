@@ -1,0 +1,72 @@
+{
+    "name": "Sally Marquardt",
+    "username": "Fredrick_Kilback",
+    "email": "Erna17@hotmail.com",
+    "address": {
+        "streetA": "Georgiana Bridge",
+        "streetB": "76519 Bailey Forges",
+        "streetC": "05856 Cruz Spur Apt. 252",
+        "streetD": "Suite 007",
+        "city": "Dorthyfort",
+        "state": "Tennessee",
+        "country": "United Arab Emirates",
+        "zipcode": "01293",
+        "geo": {
+            "lat": "24.6984",
+            "lng": "-82.4650"
+        }
+    },
+    "phone": "1-359-620-7432 x1435",
+    "website": "citlalli.info",
+    "company": {
+        "name": "Cormier - Breitenberg",
+        "catchPhrase": "Cloned upward-trending capability",
+        "bs": "frictionless facilitate eyeballs"
+    },
+    "posts": [
+        {
+            "words": "excepturi corrupti debitis",
+            "sentence": "Nulla quia excepturi occaecati expedita reprehenderit illum id dolores vel.",
+            "sentences": "Rerum qui provident tempore distinctio voluptatem modi quia. Unde quidem aut neque quia. Eum et sit eum qui natus quas esse voluptates. Molestiae aliquid enim.",
+            "paragraph": "Pariatur enim ex nobis quia labore reiciendis. Laboriosam rem eius. Nam magnam accusamus fuga et accusamus placeat voluptatem. Est voluptatum ipsum veritatis officia sed aut."
+        },
+        {
+            "words": "qui consequatur neque",
+            "sentence": "Qui excepturi voluptatem consequatur perspiciatis.",
+            "sentences": "Odit officia reprehenderit voluptatem aut omnis odit. Delectus omnis ratione nihil ducimus. Et excepturi et cum ipsam rerum. Sed aut quibusdam amet veritatis ut voluptates ut rem ipsum. Esse aliquam sunt.",
+            "paragraph": "Temporibus ducimus sint quae maiores libero. Totam eaque non qui vel nihil quod qui quia maiores. Eum aut sequi sed quaerat aut."
+        },
+        {
+            "words": "quis cumque recusandae",
+            "sentence": "Maiores porro quae.",
+            "sentences": "Et architecto itaque quidem laboriosam harum sit. Eligendi modi aut quos amet mollitia ut. Laborum id omnis sed consequatur vero in nostrum occaecati eum. Et voluptas quae. Est error quia id.",
+            "paragraph": "Quae est dolore aut. Natus est dolorem. Totam ipsam nemo repellat sed."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "719.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rath, Raynor and Homenick",
+            "name": "Money Market Account 2125",
+            "type": "withdrawal",
+            "account": "58318616"
+        },
+        {
+            "amount": "226.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sauer, Farrell and Fisher",
+            "name": "Savings Account 7335",
+            "type": "invoice",
+            "account": "87667128"
+        },
+        {
+            "amount": "799.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rau Inc",
+            "name": "Home Loan Account 3013",
+            "type": "deposit",
+            "account": "22758320"
+        }
+    ]
+}

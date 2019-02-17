@@ -1,0 +1,72 @@
+{
+    "name": "Lisandro Conn",
+    "username": "Kristin.Lowe",
+    "email": "Marcelina_Rolfson4@hotmail.com",
+    "address": {
+        "streetA": "Legros Flats",
+        "streetB": "46091 Legros Track",
+        "streetC": "0404 Heathcote Ports Suite 703",
+        "streetD": "Apt. 191",
+        "city": "West Bernardo",
+        "state": "Arkansas",
+        "country": "Nigeria",
+        "zipcode": "71943",
+        "geo": {
+            "lat": "-78.3734",
+            "lng": "62.1354"
+        }
+    },
+    "phone": "1-390-135-5125",
+    "website": "justice.biz",
+    "company": {
+        "name": "Lang Inc",
+        "catchPhrase": "Organized 24 hour complexity",
+        "bs": "next-generation reinvent e-business"
+    },
+    "posts": [
+        {
+            "words": "atque dolores occaecati",
+            "sentence": "Ipsam aut incidunt sed est esse.",
+            "sentences": "Modi eaque et distinctio ut provident. Aut voluptatem vitae. Sit adipisci nihil dolorum qui corrupti eum neque rerum.",
+            "paragraph": "Deserunt aut esse sed incidunt. Rerum incidunt est dolores ut sunt consectetur. Totam amet iure atque in vitae aut. Recusandae rerum est quo deleniti perferendis non nobis. Eaque ipsa quaerat."
+        },
+        {
+            "words": "eveniet quas odit",
+            "sentence": "Nemo est quidem modi.",
+            "sentences": "Ducimus qui architecto dignissimos velit. Rem voluptatem mollitia repellat quidem aliquam officiis repudiandae sint. Maiores occaecati molestiae velit nostrum necessitatibus. Voluptatem nihil facere dolores ab est sit delectus eaque dolor. Sunt consequatur consequatur omnis. Voluptate dolores vel dolor.",
+            "paragraph": "Est culpa quas. Voluptatem inventore tempore a eius et. Maxime expedita in fugit officia optio est placeat hic laudantium. Quae blanditiis ipsum quidem ipsam dolores ea doloribus. Eos officia aut."
+        },
+        {
+            "words": "aut omnis illum",
+            "sentence": "Occaecati doloremque fugiat quaerat alias et.",
+            "sentences": "Laborum est rerum dolor quis culpa. Itaque est ratione dolores eaque ducimus. Perspiciatis ex quidem aut aperiam velit neque.",
+            "paragraph": "Recusandae laudantium nam ipsum ad aut. Nihil ipsam delectus accusamus nesciunt possimus et dolores tempore. Culpa nihil repellat odio."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "761.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McGlynn, Grant and Glover",
+            "name": "Personal Loan Account 0925",
+            "type": "invoice",
+            "account": "30761086"
+        },
+        {
+            "amount": "211.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Reilly LLC",
+            "name": "Personal Loan Account 0992",
+            "type": "deposit",
+            "account": "66592803"
+        },
+        {
+            "amount": "987.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hettinger - Hills",
+            "name": "Personal Loan Account 9352",
+            "type": "invoice",
+            "account": "35260573"
+        }
+    ]
+}

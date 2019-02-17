@@ -1,0 +1,72 @@
+{
+    "name": "Ardella Hammes",
+    "username": "Aimee64",
+    "email": "Danny.Thiel77@yahoo.com",
+    "address": {
+        "streetA": "Gusikowski Dam",
+        "streetB": "2870 Brendan Mission",
+        "streetC": "1172 Jean Radial Apt. 178",
+        "streetD": "Suite 839",
+        "city": "Aleentown",
+        "state": "North Carolina",
+        "country": "United Kingdom",
+        "zipcode": "70084",
+        "geo": {
+            "lat": "78.6802",
+            "lng": "178.8360"
+        }
+    },
+    "phone": "(692) 093-1580 x6341",
+    "website": "baron.com",
+    "company": {
+        "name": "Sipes, Larkin and Will",
+        "catchPhrase": "Distributed zero administration framework",
+        "bs": "efficient maximize networks"
+    },
+    "posts": [
+        {
+            "words": "ducimus dolores labore",
+            "sentence": "Libero qui quo voluptate non illum quidem est dolor.",
+            "sentences": "Iste ullam sint ea possimus et expedita praesentium voluptas enim. Architecto commodi blanditiis.",
+            "paragraph": "Eum saepe veniam omnis. Est dolores sed illo sed quas ipsam voluptatum. Nemo dignissimos et odio odio sed aperiam non eveniet. Odio officia aut similique expedita."
+        },
+        {
+            "words": "reiciendis sint et",
+            "sentence": "Enim cumque voluptatum.",
+            "sentences": "Possimus maiores laudantium non deserunt modi facilis ut exercitationem. Consequuntur ea aut qui et ipsam voluptatibus laudantium harum.",
+            "paragraph": "Natus dignissimos id iusto quia id cumque natus. Necessitatibus ullam inventore et modi non. Inventore accusantium sed officia aut natus voluptates atque. Neque nemo mollitia. Aliquid dolores ea cum veniam ut quo assumenda minus unde. Ab consequuntur consectetur."
+        },
+        {
+            "words": "ut quos delectus",
+            "sentence": "Animi voluptate doloremque sit tempore voluptas officiis consequuntur unde consequatur.",
+            "sentences": "Saepe incidunt recusandae quia. Cupiditate aut eaque enim molestiae cupiditate sunt fugit quae.",
+            "paragraph": "Et optio facere provident. Possimus possimus non nulla amet corrupti. Rem officia vero."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "541.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hahn, Schneider and Friesen",
+            "name": "Credit Card Account 6361",
+            "type": "payment",
+            "account": "79566757"
+        },
+        {
+            "amount": "642.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sporer LLC",
+            "name": "Personal Loan Account 1602",
+            "type": "withdrawal",
+            "account": "77372488"
+        },
+        {
+            "amount": "880.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ziemann - Hettinger",
+            "name": "Investment Account 3713",
+            "type": "payment",
+            "account": "89374364"
+        }
+    ]
+}

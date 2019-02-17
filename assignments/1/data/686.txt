@@ -1,0 +1,72 @@
+{
+    "name": "Audra Jast",
+    "username": "Simone67",
+    "email": "Violet69@yahoo.com",
+    "address": {
+        "streetA": "Coy Lodge",
+        "streetB": "1445 Louvenia Lane",
+        "streetC": "10253 Murphy Village Suite 293",
+        "streetD": "Apt. 609",
+        "city": "South Adahland",
+        "state": "Minnesota",
+        "country": "Ecuador",
+        "zipcode": "40448-4853",
+        "geo": {
+            "lat": "8.7689",
+            "lng": "51.2109"
+        }
+    },
+    "phone": "255-574-9198 x09475",
+    "website": "americo.name",
+    "company": {
+        "name": "Hartmann - Simonis",
+        "catchPhrase": "Adaptive object-oriented task-force",
+        "bs": "seamless e-enable supply-chains"
+    },
+    "posts": [
+        {
+            "words": "et commodi facere",
+            "sentence": "Facilis beatae ullam repellat quis.",
+            "sentences": "Ducimus voluptatem eligendi deserunt facilis nulla qui esse. Et unde provident nobis iusto ipsum voluptates.",
+            "paragraph": "Nostrum iure omnis ut vel. Esse quod quos expedita. Voluptatem ut et."
+        },
+        {
+            "words": "possimus in sed",
+            "sentence": "Neque doloremque laudantium id.",
+            "sentences": "Rem ut beatae qui et aut a. Totam debitis est exercitationem neque sequi quia omnis odit molestiae. Itaque est quaerat repudiandae sed eum exercitationem corrupti. Tempore eum et vitae quia et consectetur ipsum. Voluptas vel id illum blanditiis facilis autem voluptatem quasi quo.",
+            "paragraph": "Voluptatem quaerat officia molestiae et voluptates quae debitis eveniet odit. Quia dignissimos laborum. Labore quos illo magnam doloremque velit sequi repellat inventore. Eaque non sapiente alias harum asperiores accusantium. Dolores et modi. Beatae distinctio dicta dolor ullam ex reiciendis facere mollitia occaecati."
+        },
+        {
+            "words": "consequatur nemo est",
+            "sentence": "Accusamus ut commodi.",
+            "sentences": "Earum nemo recusandae id itaque ut reiciendis sunt necessitatibus. Optio quisquam aut eligendi ut et dolores cumque accusantium. Quibusdam quia vitae alias. Cumque fugiat praesentium et quis. Cupiditate sit est deserunt doloremque qui eligendi accusantium blanditiis neque. At non voluptates sapiente porro a.",
+            "paragraph": "Optio sapiente voluptates voluptatem molestiae adipisci illum est. Ducimus rerum dicta sed. Recusandae cupiditate ullam quasi deserunt iusto fuga aut fugiat sapiente. Soluta omnis delectus non reprehenderit ab ducimus rem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "231.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hilpert, Fritsch and McKenzie",
+            "name": "Money Market Account 8491",
+            "type": "invoice",
+            "account": "20780360"
+        },
+        {
+            "amount": "3.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmeler LLC",
+            "name": "Home Loan Account 1373",
+            "type": "deposit",
+            "account": "24721995"
+        },
+        {
+            "amount": "765.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Leannon - Boyle",
+            "name": "Investment Account 5370",
+            "type": "withdrawal",
+            "account": "22271839"
+        }
+    ]
+}

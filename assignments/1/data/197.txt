@@ -1,0 +1,72 @@
+{
+    "name": "Rod D'Amore",
+    "username": "Lura_Russel",
+    "email": "Graciela_Beier95@yahoo.com",
+    "address": {
+        "streetA": "Laurine Orchard",
+        "streetB": "8710 Meta Shoal",
+        "streetC": "898 Chelsea Mission Apt. 270",
+        "streetD": "Apt. 017",
+        "city": "Eichmannbury",
+        "state": "Mississippi",
+        "country": "Mauritius",
+        "zipcode": "55346",
+        "geo": {
+            "lat": "57.8294",
+            "lng": "18.5915"
+        }
+    },
+    "phone": "(210) 317-9711",
+    "website": "elody.net",
+    "company": {
+        "name": "Tromp LLC",
+        "catchPhrase": "Up-sized coherent function",
+        "bs": "robust brand applications"
+    },
+    "posts": [
+        {
+            "words": "sit ut reiciendis",
+            "sentence": "A ut tempore quam et facere.",
+            "sentences": "Facere illum qui repudiandae animi laborum dolor illum est. Pariatur et est. Explicabo qui vitae ut quisquam perspiciatis et veniam sit. Veritatis dolorem qui soluta impedit. Aut quas ipsum optio ipsa aut omnis. Omnis tempora ducimus illo velit.",
+            "paragraph": "Qui laborum beatae velit. Quia veritatis aperiam cumque eos. Sit quia ut quia ut et beatae placeat et. Assumenda aperiam ut officiis repellat aspernatur eligendi iusto. Quia dolorem et ab sed qui ab et tempore."
+        },
+        {
+            "words": "consectetur quia sint",
+            "sentence": "Deleniti unde rerum.",
+            "sentences": "Quaerat quam aut atque. Similique et corporis enim perspiciatis delectus cumque. Nisi dicta ipsam atque rem minus vitae ea tempora maiores. Atque laboriosam aliquid perspiciatis non facere dolorem consequatur qui. Fugit repudiandae est maiores dolorem iusto quos at deleniti.",
+            "paragraph": "Eos vel aliquid ducimus. Illum assumenda velit suscipit quod perspiciatis provident deserunt. Et vitae iusto ipsam. Adipisci non sed id. Praesentium voluptate ad autem nisi totam dolores nisi."
+        },
+        {
+            "words": "non animi similique",
+            "sentence": "Et debitis at voluptatem quia.",
+            "sentences": "Voluptate ut est animi tempora excepturi deleniti nulla. Sint et sunt voluptas reprehenderit aut itaque. Qui quia culpa est eius et ut molestiae velit praesentium. Eum ex exercitationem commodi enim soluta maxime beatae. Quos rerum accusamus est aut aut.",
+            "paragraph": "Autem est aspernatur qui quidem aut nihil reiciendis. Sequi praesentium inventore voluptates eum deserunt. Delectus molestiae id aspernatur in repellat explicabo distinctio voluptatem hic. Nostrum sapiente eligendi vel cumque corporis unde. Reprehenderit odit quo consequatur voluptatem perferendis molestiae quia. Voluptatem reprehenderit illo aut dolorem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "186.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Blanda - Beier",
+            "name": "Auto Loan Account 2269",
+            "type": "deposit",
+            "account": "42382696"
+        },
+        {
+            "amount": "559.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Crona, Beer and Gerlach",
+            "name": "Money Market Account 8006",
+            "type": "withdrawal",
+            "account": "98644772"
+        },
+        {
+            "amount": "734.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Doyle, Harvey and Legros",
+            "name": "Savings Account 1228",
+            "type": "invoice",
+            "account": "83483461"
+        }
+    ]
+}

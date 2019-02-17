@@ -1,0 +1,72 @@
+{
+    "name": "Krista Quigley",
+    "username": "Bert.Rodriguez",
+    "email": "Caroline61@hotmail.com",
+    "address": {
+        "streetA": "Monty Mountains",
+        "streetB": "2921 Robel Coves",
+        "streetC": "4085 Kreiger Fields Suite 019",
+        "streetD": "Suite 369",
+        "city": "Lake Veronica",
+        "state": "Vermont",
+        "country": "Serbia",
+        "zipcode": "80317-7151",
+        "geo": {
+            "lat": "67.3453",
+            "lng": "131.1030"
+        }
+    },
+    "phone": "1-341-217-0515",
+    "website": "thelma.biz",
+    "company": {
+        "name": "Sauer - Gleason",
+        "catchPhrase": "Progressive secondary productivity",
+        "bs": "back-end revolutionize synergies"
+    },
+    "posts": [
+        {
+            "words": "nulla et amet",
+            "sentence": "Aut quia quasi consequatur sed tempora odit perspiciatis doloremque alias.",
+            "sentences": "Architecto est voluptatum culpa cumque omnis est accusamus aut. Rerum unde officiis esse deserunt praesentium maxime eum et ipsum. Placeat atque dicta. Aliquid deleniti alias atque aut officia et necessitatibus.",
+            "paragraph": "Est quasi molestiae quod. Rerum dolorem iusto ipsam voluptas molestiae est fugiat tempore. Ab ex eveniet aut voluptas molestiae provident. Expedita quia atque nisi ex voluptate doloribus culpa est. Cum qui nesciunt dolorem eum laboriosam tenetur. Vero exercitationem unde aliquid sed quia nisi."
+        },
+        {
+            "words": "eos cumque sequi",
+            "sentence": "Aliquid est odio deserunt nulla est.",
+            "sentences": "Nostrum occaecati odio aut deserunt. Dignissimos fuga dolore aut alias. Sunt ipsa eum deserunt nam blanditiis. Fugiat inventore est est repellat sed at. Aliquid quis soluta porro et aut.",
+            "paragraph": "Aut sapiente ut distinctio et dolor quisquam ea alias vitae. Quam itaque eum magni dolor et illum quo voluptas pariatur. Dicta non sed odit. Quo aliquam ut ut ratione. Cum quis debitis. Voluptas quam perspiciatis."
+        },
+        {
+            "words": "quisquam nesciunt ipsam",
+            "sentence": "Sit perferendis dolores voluptas ut nisi.",
+            "sentences": "Unde sed et voluptatem. Consequuntur earum sint animi qui placeat harum. Debitis est ipsa rerum sed facilis est molestias saepe.",
+            "paragraph": "Totam est sed sunt quasi maiores ex occaecati praesentium et. Ea in a molestias mollitia excepturi eos et ut et. Blanditiis sit maiores veritatis alias ea occaecati. Doloremque fuga ad. Doloremque magnam aspernatur odit nam et. Ipsa vero rerum dolorum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "794.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reinger LLC",
+            "name": "Money Market Account 7013",
+            "type": "withdrawal",
+            "account": "71486923"
+        },
+        {
+            "amount": "355.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Zieme - Lowe",
+            "name": "Checking Account 4233",
+            "type": "deposit",
+            "account": "35810425"
+        },
+        {
+            "amount": "678.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lebsack, Orn and Raynor",
+            "name": "Auto Loan Account 5267",
+            "type": "withdrawal",
+            "account": "95161164"
+        }
+    ]
+}

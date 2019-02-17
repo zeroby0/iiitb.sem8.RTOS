@@ -1,0 +1,72 @@
+{
+    "name": "Norris Mueller",
+    "username": "Wilfredo_Zieme",
+    "email": "Una.Mayer@gmail.com",
+    "address": {
+        "streetA": "Sabryna Underpass",
+        "streetB": "18445 Frederic Court",
+        "streetC": "5953 Gerhold Views Suite 753",
+        "streetD": "Apt. 692",
+        "city": "Port Tyreekstad",
+        "state": "Rhode Island",
+        "country": "Poland",
+        "zipcode": "45010-6490",
+        "geo": {
+            "lat": "71.2481",
+            "lng": "62.9308"
+        }
+    },
+    "phone": "685.941.7790",
+    "website": "pierce.org",
+    "company": {
+        "name": "Schinner, Raynor and Heaney",
+        "catchPhrase": "Versatile full-range firmware",
+        "bs": "cross-media integrate communities"
+    },
+    "posts": [
+        {
+            "words": "voluptatem occaecati odio",
+            "sentence": "Ratione architecto at voluptates.",
+            "sentences": "Fugiat deserunt quos excepturi assumenda. Dicta consectetur dolore. Esse dolorem officia et ex. Sunt rem deserunt nulla sunt nesciunt eveniet earum dolor rerum. Voluptatum esse cupiditate aut. Esse molestiae voluptates sed qui nobis exercitationem.",
+            "paragraph": "Est et repellat fuga enim sit recusandae aliquam. Architecto sit facilis. Nostrum et quia autem recusandae sint et commodi impedit rerum. Quia voluptatem ad. Adipisci blanditiis labore ut laboriosam eum eum ut velit."
+        },
+        {
+            "words": "exercitationem unde necessitatibus",
+            "sentence": "Dolore error est quae recusandae sed neque pariatur totam.",
+            "sentences": "Ab ad dolor libero incidunt facere aut. Velit qui distinctio omnis et. In rem est aperiam libero ut accusamus ut adipisci sint. Nemo corporis non impedit quis incidunt. Itaque sit ipsam error.",
+            "paragraph": "Ipsum officiis totam praesentium enim dignissimos voluptas quia. In qui fugiat magnam. Natus et temporibus et dolores voluptas. Dolorem itaque voluptas est illum omnis et. Amet quis aut alias temporibus iste eligendi consequuntur porro. Fuga eius quae placeat sint ut repudiandae saepe."
+        },
+        {
+            "words": "distinctio ut reprehenderit",
+            "sentence": "Quam qui nihil consequatur nesciunt omnis voluptatem explicabo sed.",
+            "sentences": "Temporibus modi ratione qui consequatur voluptatibus. Ea ullam a qui est mollitia eaque. Illo aut odit autem. Voluptas occaecati qui quo ratione et. Autem numquam maiores maiores pariatur culpa dolorem autem sed.",
+            "paragraph": "Saepe dolorem iusto ab omnis aut quae. Quaerat architecto et molestias animi repudiandae est maxime ea. Nihil illo ipsa temporibus et iste beatae dolores dolorem quia. Nostrum molestiae debitis incidunt nemo praesentium aut ratione. Numquam est praesentium est vero voluptate tempore aut amet."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "232.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schinner and Sons",
+            "name": "Investment Account 2003",
+            "type": "payment",
+            "account": "52986339"
+        },
+        {
+            "amount": "582.50",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cummings - Smith",
+            "name": "Auto Loan Account 1831",
+            "type": "deposit",
+            "account": "12585488"
+        },
+        {
+            "amount": "519.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Grimes, Ebert and Ondricka",
+            "name": "Auto Loan Account 4156",
+            "type": "withdrawal",
+            "account": "71196279"
+        }
+    ]
+}

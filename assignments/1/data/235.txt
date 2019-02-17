@@ -1,0 +1,72 @@
+{
+    "name": "Eldon Grimes",
+    "username": "Letha24",
+    "email": "Dejuan98@yahoo.com",
+    "address": {
+        "streetA": "Von Lakes",
+        "streetB": "99923 Howell Pines",
+        "streetC": "098 Vaughn Square Suite 549",
+        "streetD": "Suite 756",
+        "city": "Kreigerborough",
+        "state": "Alaska",
+        "country": "Swaziland",
+        "zipcode": "24040-9555",
+        "geo": {
+            "lat": "30.7296",
+            "lng": "31.4416"
+        }
+    },
+    "phone": "683.532.4934 x519",
+    "website": "brandon.net",
+    "company": {
+        "name": "Krajcik, Auer and Rath",
+        "catchPhrase": "Synergistic solution-oriented forecast",
+        "bs": "impactful integrate e-services"
+    },
+    "posts": [
+        {
+            "words": "odit maxime deleniti",
+            "sentence": "Voluptas et ducimus consectetur necessitatibus.",
+            "sentences": "Voluptas ea totam aliquid sed sint dolorum excepturi voluptate tempora. Est libero hic vel et deleniti.",
+            "paragraph": "Eligendi eos quis voluptatem saepe quis est. Ut facilis consequatur dolorem ut. Aspernatur vel voluptatem a labore quidem. Dicta itaque explicabo ipsum error."
+        },
+        {
+            "words": "pariatur ipsa ab",
+            "sentence": "Sequi in magni doloribus consequatur ullam.",
+            "sentences": "Et quas iure ut voluptas deleniti beatae. Hic sint voluptatem quia distinctio. Corrupti qui natus. Odio error deserunt quae ipsam. Labore quos perspiciatis dolorem quisquam sed est excepturi.",
+            "paragraph": "Quia error sit. A modi incidunt ut explicabo. Voluptatem corrupti dolor sit autem aut facilis occaecati. Dolor quas non totam. Ex explicabo blanditiis illum. Similique nam suscipit tempora."
+        },
+        {
+            "words": "accusantium pariatur molestiae",
+            "sentence": "Enim dolorum numquam asperiores.",
+            "sentences": "Magnam quod consequatur voluptatem ab. Dolores culpa recusandae. Maiores sint perspiciatis minima laboriosam dicta excepturi cumque dolores quod.",
+            "paragraph": "Quia consequatur omnis est. Iste beatae adipisci repellendus minima. Autem maxime ea quibusdam. A et maiores vitae est. A id voluptatum aut quis. Eaque earum sint voluptate."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "0.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Veum, Hagenes and Green",
+            "name": "Auto Loan Account 9632",
+            "type": "withdrawal",
+            "account": "72788145"
+        },
+        {
+            "amount": "840.42",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kshlerin, Brakus and Smitham",
+            "name": "Credit Card Account 2083",
+            "type": "invoice",
+            "account": "73772130"
+        },
+        {
+            "amount": "173.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wilkinson - Lang",
+            "name": "Auto Loan Account 6530",
+            "type": "withdrawal",
+            "account": "42765944"
+        }
+    ]
+}

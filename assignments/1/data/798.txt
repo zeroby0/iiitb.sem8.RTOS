@@ -1,0 +1,72 @@
+{
+    "name": "Taya Cassin",
+    "username": "Kiera_Rogahn91",
+    "email": "Joshua.Gutmann@yahoo.com",
+    "address": {
+        "streetA": "Levi Avenue",
+        "streetB": "7644 Stoltenberg Green",
+        "streetC": "3420 Tristian Tunnel Apt. 676",
+        "streetD": "Apt. 805",
+        "city": "South Vickiemouth",
+        "state": "Vermont",
+        "country": "Iraq",
+        "zipcode": "51322",
+        "geo": {
+            "lat": "-48.8918",
+            "lng": "29.3165"
+        }
+    },
+    "phone": "734.093.5451",
+    "website": "avis.net",
+    "company": {
+        "name": "Goldner - Abbott",
+        "catchPhrase": "Public-key dedicated ability",
+        "bs": "bricks-and-clicks reintermediate niches"
+    },
+    "posts": [
+        {
+            "words": "accusantium nisi ipsum",
+            "sentence": "Dignissimos enim mollitia id ea et deserunt reiciendis fugit.",
+            "sentences": "Qui ut optio perferendis iure omnis voluptatem voluptate. Sit facere reprehenderit exercitationem ab dignissimos. Eum eos aspernatur iure. Sunt quia quia omnis consectetur. Atque quaerat reprehenderit ratione. Facere a sunt blanditiis iste rerum.",
+            "paragraph": "Qui repellat optio quis. Commodi veniam fuga non dolore odit. Et omnis laborum consequuntur itaque. Ut et cupiditate ipsa aut fugit odit qui."
+        },
+        {
+            "words": "rerum iusto et",
+            "sentence": "Vel quasi consectetur ipsa eaque vitae tempora consectetur quas nemo.",
+            "sentences": "Dolor rerum est qui enim deleniti expedita delectus similique omnis. Hic impedit quasi corporis consequatur. Rerum incidunt hic asperiores ea voluptatibus adipisci quia repudiandae. Enim odio vitae adipisci temporibus. A similique at perspiciatis sed porro odit aut non. Officia sed laudantium occaecati modi perferendis dolorem omnis aut.",
+            "paragraph": "Debitis voluptatem neque asperiores et qui in ut iste explicabo. Enim earum aut voluptatibus in dolorem ut. Voluptatem rem aspernatur sapiente voluptatem et perspiciatis aliquid odio consequatur."
+        },
+        {
+            "words": "soluta excepturi sint",
+            "sentence": "Nam illo voluptates sit ducimus fuga inventore minima.",
+            "sentences": "Animi omnis provident omnis non corporis veritatis. Hic sed voluptate alias architecto.",
+            "paragraph": "Recusandae eveniet reprehenderit vero numquam dolorum magni. Et repudiandae esse eveniet sit ipsum tenetur autem est. Laborum distinctio est dolor dicta reiciendis. Ipsum non alias ipsam cumque asperiores at. Eos et tenetur occaecati sunt inventore mollitia laborum fugiat aut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "239.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bashirian - Torphy",
+            "name": "Auto Loan Account 1648",
+            "type": "payment",
+            "account": "35633753"
+        },
+        {
+            "amount": "237.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Huels and Sons",
+            "name": "Home Loan Account 6722",
+            "type": "withdrawal",
+            "account": "66815522"
+        },
+        {
+            "amount": "165.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sauer - Denesik",
+            "name": "Money Market Account 9705",
+            "type": "deposit",
+            "account": "89869239"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Bernie Hayes",
+    "username": "Noah.Spinka",
+    "email": "Kari_Herman28@yahoo.com",
+    "address": {
+        "streetA": "Swift Fords",
+        "streetB": "102 Metz Pass",
+        "streetC": "14147 Pagac Highway Suite 541",
+        "streetD": "Suite 322",
+        "city": "Purdymouth",
+        "state": "Alaska",
+        "country": "Iran",
+        "zipcode": "54892-5985",
+        "geo": {
+            "lat": "-16.8309",
+            "lng": "-28.1530"
+        }
+    },
+    "phone": "021.710.2377 x9990",
+    "website": "carlos.com",
+    "company": {
+        "name": "McCullough - Carter",
+        "catchPhrase": "Diverse human-resource knowledge user",
+        "bs": "synergistic facilitate content"
+    },
+    "posts": [
+        {
+            "words": "itaque enim ut",
+            "sentence": "Molestiae molestiae tempore.",
+            "sentences": "Quae nostrum ipsum mollitia dolores praesentium quibusdam consequatur. Non aspernatur numquam numquam quia quod nulla ipsa nobis incidunt.",
+            "paragraph": "Delectus corporis minus. Veniam incidunt optio quae impedit minima eum blanditiis quo. Ullam vero iure voluptate sed fuga rerum. Aut repellendus ipsum similique dicta."
+        },
+        {
+            "words": "fugit accusamus dolorem",
+            "sentence": "Maxime provident molestiae voluptas omnis cumque ea sint.",
+            "sentences": "Harum eaque magni esse quam ipsum. In ut sed.",
+            "paragraph": "Velit est quis dolores porro fugit et iste natus. Consequuntur non eum qui repudiandae autem. Pariatur corrupti illo aliquam iure possimus est fugiat molestiae."
+        },
+        {
+            "words": "quo placeat repellendus",
+            "sentence": "Nostrum omnis ipsam dolor a repudiandae eveniet rerum eos.",
+            "sentences": "Sapiente laudantium voluptatem dolore fugiat quidem vel numquam. Dolorem dolorem quo aspernatur distinctio ipsa ut voluptatem explicabo officia.",
+            "paragraph": "Perspiciatis nulla non quos. Ut blanditiis distinctio nulla quo non dolorem qui at consequatur. Et sapiente cupiditate delectus aperiam rerum magnam fugit. Atque ipsum iste suscipit eaque tempore dolorem blanditiis quasi. Quia tempora rerum qui magnam similique totam aut. Velit nihil laudantium consequatur tempore soluta dolorum et placeat."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "521.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Huel, Mante and Gleichner",
+            "name": "Checking Account 8183",
+            "type": "invoice",
+            "account": "92103957"
+        },
+        {
+            "amount": "202.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nienow Inc",
+            "name": "Personal Loan Account 4378",
+            "type": "withdrawal",
+            "account": "00173102"
+        },
+        {
+            "amount": "176.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kutch, Morar and Runolfsdottir",
+            "name": "Money Market Account 0111",
+            "type": "payment",
+            "account": "49008495"
+        }
+    ]
+}

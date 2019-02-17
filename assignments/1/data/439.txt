@@ -1,0 +1,72 @@
+{
+    "name": "Emile Keeling",
+    "username": "Cynthia_Collins",
+    "email": "Friedrich57@gmail.com",
+    "address": {
+        "streetA": "Rosalind Rest",
+        "streetB": "8925 Ken Avenue",
+        "streetC": "11114 Mackenzie Mountains Apt. 076",
+        "streetD": "Apt. 847",
+        "city": "Mozelleberg",
+        "state": "Idaho",
+        "country": "Saint Pierre and Miquelon",
+        "zipcode": "49331",
+        "geo": {
+            "lat": "-76.4814",
+            "lng": "-7.0588"
+        }
+    },
+    "phone": "(861) 319-0069 x78090",
+    "website": "fernando.net",
+    "company": {
+        "name": "Kris and Sons",
+        "catchPhrase": "Fully-configurable zero tolerance circuit",
+        "bs": "bricks-and-clicks brand functionalities"
+    },
+    "posts": [
+        {
+            "words": "non optio saepe",
+            "sentence": "Dolores nihil aut omnis quos pariatur vel laborum.",
+            "sentences": "Id nisi magni dolorem dignissimos voluptate est voluptates. Possimus maiores ea perspiciatis. Autem accusamus excepturi vitae est ea voluptatem. Quo cumque cupiditate eveniet laboriosam eius libero dolor. Corrupti minus maiores sint.",
+            "paragraph": "Molestiae nesciunt nesciunt. Sed molestiae quis perferendis explicabo. Eum ipsam iure iste ut voluptas."
+        },
+        {
+            "words": "necessitatibus suscipit dolores",
+            "sentence": "Doloribus excepturi quo voluptatem fugit.",
+            "sentences": "Neque cum dolores quaerat ut hic soluta ex. Voluptas veniam et aut hic rerum itaque itaque optio aliquam. Animi minus explicabo labore rerum architecto ea aut consequatur qui. Numquam culpa maxime est aut possimus. Libero ut et quisquam in.",
+            "paragraph": "Aliquam non quasi quas recusandae. Libero dolor fugit qui. Optio velit sapiente. Nemo vitae dolorem."
+        },
+        {
+            "words": "praesentium fuga praesentium",
+            "sentence": "Laborum incidunt soluta id repellendus.",
+            "sentences": "Eius optio et. Qui et ut enim eaque omnis tenetur ad ducimus sequi.",
+            "paragraph": "Ut in et voluptatem ratione commodi. Rem impedit qui maiores voluptatem. Illo quos esse quia ipsam consequatur. Consequatur quos aut hic vitae distinctio inventore sint provident ex."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "547.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Padberg - Douglas",
+            "name": "Credit Card Account 1218",
+            "type": "withdrawal",
+            "account": "96245942"
+        },
+        {
+            "amount": "60.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lebsack, Marvin and Jenkins",
+            "name": "Investment Account 1478",
+            "type": "deposit",
+            "account": "61474989"
+        },
+        {
+            "amount": "875.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Howell Inc",
+            "name": "Savings Account 3945",
+            "type": "invoice",
+            "account": "50329199"
+        }
+    ]
+}

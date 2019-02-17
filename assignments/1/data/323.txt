@@ -1,0 +1,72 @@
+{
+    "name": "Denis Schamberger",
+    "username": "Charley_Gibson90",
+    "email": "Cesar89@gmail.com",
+    "address": {
+        "streetA": "Arnaldo Wells",
+        "streetB": "3881 Davis Plains",
+        "streetC": "916 O'Keefe Curve Suite 344",
+        "streetD": "Suite 447",
+        "city": "Evangelinechester",
+        "state": "Iowa",
+        "country": "Estonia",
+        "zipcode": "49638-6905",
+        "geo": {
+            "lat": "74.6762",
+            "lng": "146.0750"
+        }
+    },
+    "phone": "1-110-440-3839 x4055",
+    "website": "jaquan.com",
+    "company": {
+        "name": "Hayes - Kohler",
+        "catchPhrase": "Compatible impactful middleware",
+        "bs": "wireless exploit solutions"
+    },
+    "posts": [
+        {
+            "words": "eaque quos harum",
+            "sentence": "Omnis cumque eos facilis possimus vel quasi magni temporibus harum.",
+            "sentences": "Nobis excepturi quia eum culpa tempora dolores voluptatem ut qui. Rem architecto qui corrupti similique culpa culpa. Odio perferendis sapiente tempora aspernatur porro dolor aut itaque consectetur. Expedita id sapiente delectus at.",
+            "paragraph": "Aut consequatur rerum quod excepturi odit dolor voluptates est id. Error quo voluptatibus rerum fuga et harum molestiae magni cupiditate. Ea nostrum tempore architecto eaque. Autem aliquid odio. Autem et voluptates vel consequatur corrupti ullam. Et accusamus eligendi libero."
+        },
+        {
+            "words": "deleniti quia omnis",
+            "sentence": "Quia aspernatur aliquam ut a.",
+            "sentences": "Porro molestiae quam harum aut. Tempore quo eligendi sapiente nihil blanditiis alias molestias non ipsam. Corporis ipsam incidunt vitae nobis molestiae quaerat commodi commodi.",
+            "paragraph": "Consequatur magnam enim doloremque itaque quod. Autem voluptatem possimus molestiae. Provident sit esse voluptas eligendi a repudiandae impedit repellendus."
+        },
+        {
+            "words": "praesentium voluptatem aspernatur",
+            "sentence": "Voluptas nihil in saepe explicabo.",
+            "sentences": "Et facere deserunt et excepturi consequatur placeat est. Qui aut pariatur. Sapiente doloremque facilis numquam quo sapiente. Natus in exercitationem occaecati veniam.",
+            "paragraph": "Temporibus omnis nihil sed sed quam impedit natus minus laboriosam. Ut assumenda vel dignissimos qui officiis voluptatem. Aspernatur est tenetur doloribus repudiandae. Veniam non impedit vel deserunt et eum. Aut expedita quis. Amet tempore laboriosam ut in porro minima velit in minus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "638.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fahey - Harvey",
+            "name": "Checking Account 3297",
+            "type": "deposit",
+            "account": "08262224"
+        },
+        {
+            "amount": "342.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Douglas - Grimes",
+            "name": "Personal Loan Account 3749",
+            "type": "invoice",
+            "account": "19109036"
+        },
+        {
+            "amount": "259.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kihn, Corwin and Bashirian",
+            "name": "Investment Account 8851",
+            "type": "invoice",
+            "account": "26744084"
+        }
+    ]
+}

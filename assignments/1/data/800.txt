@@ -1,0 +1,72 @@
+{
+    "name": "Golda Robel",
+    "username": "Tomas.Kessler",
+    "email": "Edythe.Swaniawski@hotmail.com",
+    "address": {
+        "streetA": "Lula Ports",
+        "streetB": "462 Auer Creek",
+        "streetC": "9379 Tillman Hill Suite 332",
+        "streetD": "Suite 419",
+        "city": "West Carytown",
+        "state": "Delaware",
+        "country": "Northern Mariana Islands",
+        "zipcode": "30410-2326",
+        "geo": {
+            "lat": "22.8474",
+            "lng": "-122.2338"
+        }
+    },
+    "phone": "(549) 005-7638",
+    "website": "rico.net",
+    "company": {
+        "name": "Wilderman, Rodriguez and Leannon",
+        "catchPhrase": "Pre-emptive high-level emulation",
+        "bs": "killer enable models"
+    },
+    "posts": [
+        {
+            "words": "exercitationem reprehenderit repellendus",
+            "sentence": "Velit natus soluta reprehenderit.",
+            "sentences": "Quo laboriosam ipsum ducimus hic molestias rerum. Ipsum consectetur ipsum. Sit et accusantium labore. Natus rerum ad nihil saepe qui minus nostrum excepturi. Dolore et sit sit est sint sed rerum aut recusandae. Porro voluptas quia nisi.",
+            "paragraph": "Dolor iusto maiores dolores autem illum rem tempore ea iusto. Deleniti aliquam non error dolor eaque vel perferendis maxime modi. Eaque quo ea eaque. Voluptatibus non eos provident a. Cupiditate veritatis quis reprehenderit quos velit harum quia totam blanditiis. Et non quis voluptatem natus ut odit."
+        },
+        {
+            "words": "vel expedita cum",
+            "sentence": "Eligendi odit molestias eos assumenda non possimus.",
+            "sentences": "Ea repellat qui voluptas et modi voluptatem. Tempora perferendis quibusdam tempora ut perferendis exercitationem recusandae qui qui. Quo quo voluptatem est distinctio.",
+            "paragraph": "Repudiandae aut soluta eligendi iure pariatur et eaque dolorum consequatur. Labore aliquid id dolor est quia reiciendis dignissimos. Assumenda aspernatur quasi delectus quaerat impedit ratione."
+        },
+        {
+            "words": "sint eaque praesentium",
+            "sentence": "Qui maxime et saepe dicta mollitia est qui.",
+            "sentences": "Soluta rerum ut voluptas quisquam quos necessitatibus corrupti. Beatae saepe fuga dolorem qui inventore numquam corporis consequatur perferendis. Eveniet cum et voluptas qui et enim pariatur nesciunt. Iste fugit officiis totam sunt totam.",
+            "paragraph": "Quas qui fugit esse doloribus eius occaecati autem voluptas. Hic magni ratione explicabo. Ipsa minus eaque eligendi dolores sapiente iure delectus adipisci eius. Praesentium quo nostrum nemo quibusdam quam commodi nobis aspernatur. Provident ea aliquid reprehenderit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "802.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beer - Hamill",
+            "name": "Money Market Account 2852",
+            "type": "deposit",
+            "account": "85948158"
+        },
+        {
+            "amount": "904.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rodriguez - Cruickshank",
+            "name": "Savings Account 0498",
+            "type": "withdrawal",
+            "account": "12295328"
+        },
+        {
+            "amount": "179.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gusikowski - Wyman",
+            "name": "Personal Loan Account 9910",
+            "type": "deposit",
+            "account": "20979123"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Jonatan West",
+    "username": "Jeramie.Yost12",
+    "email": "Katrine_Kozey49@hotmail.com",
+    "address": {
+        "streetA": "Bernie Drive",
+        "streetB": "1819 Eulalia Mountains",
+        "streetC": "6726 Pacocha Brooks Suite 990",
+        "streetD": "Apt. 961",
+        "city": "Beierland",
+        "state": "South Dakota",
+        "country": "Nigeria",
+        "zipcode": "62921-8359",
+        "geo": {
+            "lat": "48.5364",
+            "lng": "85.2946"
+        }
+    },
+    "phone": "688.605.2963",
+    "website": "meagan.com",
+    "company": {
+        "name": "Russel LLC",
+        "catchPhrase": "Grass-roots eco-centric interface",
+        "bs": "front-end synergize niches"
+    },
+    "posts": [
+        {
+            "words": "corrupti velit corrupti",
+            "sentence": "Voluptas inventore porro rerum reprehenderit rem.",
+            "sentences": "Dolores repudiandae non fuga omnis eos ut nihil recusandae corrupti. Dolor consectetur fuga. Nisi sed molestiae commodi quasi rerum eaque accusamus. Porro error repellat iste ab eveniet dolore sapiente.",
+            "paragraph": "Quae aut rem vitae perspiciatis mollitia accusantium rem dolor vel. Voluptatem necessitatibus ut molestiae neque doloribus consectetur consectetur architecto. Tempore eum cupiditate ut. Eos et odit omnis maiores est sed. Est nesciunt libero mollitia."
+        },
+        {
+            "words": "quaerat et animi",
+            "sentence": "Culpa vero porro vero voluptatem.",
+            "sentences": "Expedita sit et quo esse illum exercitationem doloremque consequatur. Fuga omnis dignissimos voluptatum ad.",
+            "paragraph": "Et voluptates quas distinctio. Molestias voluptatem adipisci aut. Sint sapiente iusto."
+        },
+        {
+            "words": "aperiam aut numquam",
+            "sentence": "Consequatur pariatur tempore repudiandae assumenda qui dolores tempora ab assumenda.",
+            "sentences": "Beatae dolor et facere sapiente ipsum quia. Accusantium delectus debitis vitae neque commodi est recusandae.",
+            "paragraph": "Rerum sed inventore sint rerum cupiditate. Et natus accusantium exercitationem. Molestiae ab eum est. Tempora minus ut. Eum minus rerum eum quas quia tempore perspiciatis. Aut debitis qui tempore sed."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "287.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Parisian LLC",
+            "name": "Credit Card Account 3309",
+            "type": "deposit",
+            "account": "65510008"
+        },
+        {
+            "amount": "226.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rau - Mayer",
+            "name": "Credit Card Account 7757",
+            "type": "invoice",
+            "account": "07259703"
+        },
+        {
+            "amount": "914.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tromp - Brekke",
+            "name": "Credit Card Account 0982",
+            "type": "invoice",
+            "account": "98285455"
+        }
+    ]
+}

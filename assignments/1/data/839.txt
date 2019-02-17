@@ -1,0 +1,72 @@
+{
+    "name": "Evert Littel",
+    "username": "Erwin_Dach",
+    "email": "Rowland.Jaskolski73@yahoo.com",
+    "address": {
+        "streetA": "Rahul Ridges",
+        "streetB": "155 Kiehn Drive",
+        "streetC": "14193 Sauer Ford Suite 248",
+        "streetD": "Suite 842",
+        "city": "Gulgowskiview",
+        "state": "Oklahoma",
+        "country": "Dominica",
+        "zipcode": "87562",
+        "geo": {
+            "lat": "4.8817",
+            "lng": "-126.1862"
+        }
+    },
+    "phone": "899.943.3638 x59234",
+    "website": "regan.org",
+    "company": {
+        "name": "Gleichner - Howell",
+        "catchPhrase": "Networked 6th generation product",
+        "bs": "extensible enhance methodologies"
+    },
+    "posts": [
+        {
+            "words": "omnis rem sint",
+            "sentence": "Beatae quae at.",
+            "sentences": "Illum fugit corporis temporibus magni consequatur. Excepturi dolorum reprehenderit dolor. Voluptatem culpa temporibus aspernatur minus commodi quibusdam sit molestiae omnis. Earum alias impedit harum animi voluptate vero asperiores. Et alias molestiae voluptas non ratione alias officia voluptas. Rerum sunt beatae.",
+            "paragraph": "Odit ex sunt. Ipsam voluptatem quam vel consequuntur et deleniti quo et. Nisi praesentium ut. A ea voluptatem vitae dolorem ullam dicta in accusamus. Quia voluptatem sed fugiat quam atque hic deserunt incidunt. Ratione quam omnis corrupti."
+        },
+        {
+            "words": "quo aut eum",
+            "sentence": "Molestias rerum quo quos rerum tempora.",
+            "sentences": "Fugiat perspiciatis voluptatum fugiat illum rerum laborum et. Placeat ducimus quasi. Quo dolore accusantium. Dolorem aut rerum. Eveniet sit omnis cum praesentium sed sint necessitatibus.",
+            "paragraph": "In nobis reiciendis. Consequatur quos qui ab maxime consequatur ullam quibusdam voluptas. Dicta doloribus rerum voluptas aut minima atque quod atque. Magnam in cumque quisquam ipsa maxime reiciendis molestiae ut rem."
+        },
+        {
+            "words": "vero illum vero",
+            "sentence": "Earum est dolores ad facere quod voluptates.",
+            "sentences": "Mollitia aperiam numquam error consequatur consequatur eos voluptate. Molestiae omnis in aliquam delectus.",
+            "paragraph": "Ea incidunt sint id inventore sit eum laboriosam reiciendis. Repellendus amet voluptatem laboriosam consequuntur nihil ut. Vitae voluptas et quis quibusdam vel qui ipsam. Exercitationem ipsum et quis amet non non alias. Debitis sunt et distinctio laudantium deleniti magni exercitationem. Odit consequatur delectus ea quam quia."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "555.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stokes - Hilll",
+            "name": "Checking Account 2784",
+            "type": "invoice",
+            "account": "19474801"
+        },
+        {
+            "amount": "228.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Roberts LLC",
+            "name": "Personal Loan Account 4350",
+            "type": "payment",
+            "account": "71890583"
+        },
+        {
+            "amount": "518.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kunze, Dietrich and Leannon",
+            "name": "Savings Account 6439",
+            "type": "invoice",
+            "account": "30198328"
+        }
+    ]
+}

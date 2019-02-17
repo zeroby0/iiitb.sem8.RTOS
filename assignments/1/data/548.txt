@@ -1,0 +1,72 @@
+{
+    "name": "Dixie Eichmann DDS",
+    "username": "Genesis.Zemlak",
+    "email": "Sincere52@yahoo.com",
+    "address": {
+        "streetA": "Kamren Mountains",
+        "streetB": "9096 Carmela Point",
+        "streetC": "141 Charley Cliffs Apt. 341",
+        "streetD": "Apt. 577",
+        "city": "North Georgianna",
+        "state": "New Hampshire",
+        "country": "Saint Helena",
+        "zipcode": "63901",
+        "geo": {
+            "lat": "-44.4807",
+            "lng": "7.4748"
+        }
+    },
+    "phone": "1-841-451-3729",
+    "website": "josefina.biz",
+    "company": {
+        "name": "Hauck - Sanford",
+        "catchPhrase": "Multi-layered asynchronous local area network",
+        "bs": "plug-and-play brand systems"
+    },
+    "posts": [
+        {
+            "words": "qui in non",
+            "sentence": "Quia aut ipsam nemo laudantium omnis.",
+            "sentences": "Consequuntur enim aut. Et reiciendis et dolores animi dolores error.",
+            "paragraph": "Ipsum autem maiores omnis. Eum voluptate esse fugiat consequuntur quia omnis incidunt possimus. Beatae officia natus aut iure nihil eum quibusdam dolorem in. Molestiae quia quia quam est."
+        },
+        {
+            "words": "ex quae nostrum",
+            "sentence": "Mollitia explicabo dolorum consequatur non fugiat voluptatem eum dolorum reiciendis.",
+            "sentences": "At architecto unde ullam possimus saepe debitis. Esse odit dolores sed et cumque voluptas iste blanditiis eveniet.",
+            "paragraph": "Nemo optio ipsa odio exercitationem saepe ex. Aut vel perspiciatis molestiae itaque autem. Quis distinctio labore libero eius debitis. Et veniam laborum est non atque delectus."
+        },
+        {
+            "words": "amet corporis non",
+            "sentence": "Et error ab nam dolores.",
+            "sentences": "Autem et ad labore et porro dolor eos. Ut aut provident. Tempora corrupti ipsa et impedit consequatur.",
+            "paragraph": "Commodi qui veniam et. Esse exercitationem dolorem aut hic. Perspiciatis aut laudantium reiciendis deserunt. Et sunt consequuntur nihil."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "641.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Denesik - Luettgen",
+            "name": "Credit Card Account 9303",
+            "type": "withdrawal",
+            "account": "60677412"
+        },
+        {
+            "amount": "237.01",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Flatley, Huels and Harber",
+            "name": "Credit Card Account 1135",
+            "type": "payment",
+            "account": "56103120"
+        },
+        {
+            "amount": "297.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kshlerin Inc",
+            "name": "Credit Card Account 0462",
+            "type": "payment",
+            "account": "89831229"
+        }
+    ]
+}

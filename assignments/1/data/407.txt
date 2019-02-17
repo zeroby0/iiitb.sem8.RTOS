@@ -1,0 +1,72 @@
+{
+    "name": "Dr. Antone Abshire",
+    "username": "Kali16",
+    "email": "Michael60@gmail.com",
+    "address": {
+        "streetA": "Swift Dam",
+        "streetB": "8586 Freeda Garden",
+        "streetC": "6832 Baumbach Wells Suite 558",
+        "streetD": "Suite 728",
+        "city": "North Vicentashire",
+        "state": "Kentucky",
+        "country": "Chad",
+        "zipcode": "43159",
+        "geo": {
+            "lat": "73.3222",
+            "lng": "-150.5131"
+        }
+    },
+    "phone": "716.319.4401 x05947",
+    "website": "kamryn.info",
+    "company": {
+        "name": "Jacobson, Bartoletti and Schmeler",
+        "catchPhrase": "Triple-buffered mission-critical knowledge base",
+        "bs": "out-of-the-box reinvent channels"
+    },
+    "posts": [
+        {
+            "words": "ut illo facilis",
+            "sentence": "Accusantium velit at dolorem expedita qui commodi exercitationem et et.",
+            "sentences": "Dolor animi vitae facere vel asperiores sit. Commodi atque quae quas non qui consequatur. Molestiae ad nulla nam nulla voluptas vel numquam explicabo dolorum. Iste placeat ut nulla molestiae consequatur libero. Cupiditate ipsum quaerat et voluptate explicabo et voluptas.",
+            "paragraph": "Occaecati perferendis fugit facere rerum. Alias tempore voluptatibus sit. Aperiam voluptatem hic exercitationem voluptatem voluptas. Rem autem voluptas vel quis dolorem. Voluptates nulla quis nemo quia dolorem."
+        },
+        {
+            "words": "numquam rem eveniet",
+            "sentence": "Et et quisquam doloremque amet non eos et ullam.",
+            "sentences": "Laborum in et consequatur vero. Omnis delectus ex rem nobis modi atque. Et est aut suscipit eaque ipsum molestiae delectus recusandae nemo.",
+            "paragraph": "Iusto natus corporis eos nihil est voluptatem. Dolores corrupti ut dolorem alias optio eligendi. Qui omnis nihil vero ut ex quae voluptatem."
+        },
+        {
+            "words": "et nihil ut",
+            "sentence": "Vel distinctio ut sit laboriosam qui veniam velit et non.",
+            "sentences": "Ipsa aliquid sint sit dolorem voluptas aut error nostrum velit. Quia ab ea. Omnis quaerat voluptates velit qui cupiditate. Rerum nesciunt ut sunt harum aliquid exercitationem provident. Necessitatibus et ut.",
+            "paragraph": "Ut blanditiis expedita rerum. Modi ad cupiditate aspernatur laboriosam eveniet eum nesciunt voluptas minima. Quia eaque eum molestiae non nemo veritatis mollitia error officia. Corporis ut placeat et iure quidem. Blanditiis aliquid doloremque cum in voluptatum. Fugit ipsam earum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "129.86",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Durgan, Lind and Weimann",
+            "name": "Savings Account 1951",
+            "type": "payment",
+            "account": "52627215"
+        },
+        {
+            "amount": "718.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cruickshank, Collier and Becker",
+            "name": "Auto Loan Account 9992",
+            "type": "deposit",
+            "account": "83654588"
+        },
+        {
+            "amount": "104.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Klocko - Kohler",
+            "name": "Checking Account 4570",
+            "type": "payment",
+            "account": "13570135"
+        }
+    ]
+}

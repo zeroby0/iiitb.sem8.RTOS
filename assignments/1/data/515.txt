@@ -1,0 +1,72 @@
+{
+    "name": "Carter Hodkiewicz",
+    "username": "Erika71",
+    "email": "Electa_Koss@yahoo.com",
+    "address": {
+        "streetA": "Lois Gateway",
+        "streetB": "72426 Howe Extension",
+        "streetC": "30890 Diana Haven Suite 995",
+        "streetD": "Apt. 444",
+        "city": "West Skye",
+        "state": "Colorado",
+        "country": "Botswana",
+        "zipcode": "56678",
+        "geo": {
+            "lat": "-49.9466",
+            "lng": "-72.7400"
+        }
+    },
+    "phone": "1-339-061-0773",
+    "website": "reese.org",
+    "company": {
+        "name": "Sawayn - Stiedemann",
+        "catchPhrase": "Versatile dynamic functionalities",
+        "bs": "turn-key scale platforms"
+    },
+    "posts": [
+        {
+            "words": "autem voluptatem sed",
+            "sentence": "Voluptatem officiis ex dicta.",
+            "sentences": "Et ut occaecati nemo accusantium et beatae amet dolor. Dolor quod aliquam praesentium blanditiis. Nemo nemo consequuntur porro praesentium ea beatae dolores sed. Velit et et omnis voluptatibus veniam quaerat ab corporis.",
+            "paragraph": "Ipsum repellendus quia. Iusto minima facere saepe qui quaerat non. Facere sequi ad quo deleniti omnis amet. Veniam saepe eos aliquam aut deleniti magni ut animi."
+        },
+        {
+            "words": "repellendus iste consequatur",
+            "sentence": "Aut esse aperiam officia iusto in facilis adipisci optio modi.",
+            "sentences": "Excepturi et culpa. Qui voluptas autem reprehenderit sapiente. Tenetur non est odit iusto ut ipsum optio sed. Amet architecto voluptatem ut rem deleniti.",
+            "paragraph": "Aut facere maxime numquam quo quod voluptatem reprehenderit reprehenderit. A aut saepe id praesentium nisi enim. Quisquam quis sequi culpa similique quod ipsa et recusandae porro. Eius sunt numquam ex."
+        },
+        {
+            "words": "dolore explicabo sunt",
+            "sentence": "Quo quisquam sequi neque accusamus non.",
+            "sentences": "Non dolorem aut voluptates autem saepe fuga cum accusamus totam. Perspiciatis sunt ut optio assumenda voluptas voluptas sint.",
+            "paragraph": "Minus officia laborum ut dolor sit ipsum voluptate odit. Vitae reprehenderit ratione iste laborum est. Error id sit totam. Adipisci id et et natus odio nulla quae repellat odit. Occaecati voluptatem qui. Magnam illum consequatur laboriosam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "996.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hansen - Gerlach",
+            "name": "Money Market Account 7085",
+            "type": "withdrawal",
+            "account": "13441739"
+        },
+        {
+            "amount": "229.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kshlerin LLC",
+            "name": "Home Loan Account 3197",
+            "type": "payment",
+            "account": "18305001"
+        },
+        {
+            "amount": "964.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cruickshank Group",
+            "name": "Savings Account 4911",
+            "type": "withdrawal",
+            "account": "10427347"
+        }
+    ]
+}

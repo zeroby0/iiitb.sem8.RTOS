@@ -1,0 +1,72 @@
+{
+    "name": "Susan West",
+    "username": "Cleveland.Herzog",
+    "email": "Kayley9@gmail.com",
+    "address": {
+        "streetA": "Elouise Fields",
+        "streetB": "2177 Gaetano Mews",
+        "streetC": "008 Brandy Spur Apt. 513",
+        "streetD": "Suite 963",
+        "city": "Lizzieview",
+        "state": "North Carolina",
+        "country": "Tanzania",
+        "zipcode": "84414",
+        "geo": {
+            "lat": "42.7504",
+            "lng": "117.3910"
+        }
+    },
+    "phone": "186.185.1881 x3221",
+    "website": "felicity.org",
+    "company": {
+        "name": "Boyer, Miller and Gleichner",
+        "catchPhrase": "Stand-alone cohesive Graphical User Interface",
+        "bs": "next-generation transition deliverables"
+    },
+    "posts": [
+        {
+            "words": "suscipit odio facilis",
+            "sentence": "Aperiam ab exercitationem et tempore magnam.",
+            "sentences": "Voluptatibus necessitatibus asperiores doloremque ex in ut dolores fugit. Rerum blanditiis veniam iure esse animi. Magnam ut perferendis corporis incidunt quae vel ut veritatis voluptas. Reiciendis eaque tempora quia ad ea.",
+            "paragraph": "Similique impedit tenetur amet tempora repudiandae quo earum et et. Fugiat quo placeat consequatur animi pariatur ex soluta quas repellat. Velit qui aut. Et deleniti deserunt maiores eum."
+        },
+        {
+            "words": "quibusdam eos qui",
+            "sentence": "Dolores placeat voluptas aut.",
+            "sentences": "Omnis deleniti quaerat delectus quia occaecati expedita atque harum eaque. Dignissimos et voluptatem hic. Saepe dolor quis corrupti et qui aperiam tenetur quisquam corrupti. Reiciendis libero asperiores et illum quo vitae. Aspernatur odio delectus sunt nihil.",
+            "paragraph": "Cum velit quod repellendus voluptates autem autem. Debitis harum earum et voluptatibus beatae excepturi sint. Magni sint unde rerum autem. Dolorem aliquam explicabo sed quaerat consequuntur. Nam saepe pariatur non. Autem eaque tempora non laborum cumque enim libero qui officia."
+        },
+        {
+            "words": "nostrum aut temporibus",
+            "sentence": "Non repellendus officiis earum adipisci omnis non et.",
+            "sentences": "Omnis tenetur non sint expedita. Sit blanditiis dolorem sed assumenda quia quia et ut ullam. Sequi nobis labore et quaerat fugiat et laborum eum. Eius debitis nemo tempora ipsa. Eum harum modi tempore quasi odit possimus. Excepturi omnis quisquam ut ipsam praesentium voluptate quasi.",
+            "paragraph": "Nam ut odit magni. Neque in et excepturi repellendus dolorum eligendi vel. Soluta nulla repellendus assumenda dolor in minus delectus. Quo distinctio rem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "413.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Harvey, Emard and Bartoletti",
+            "name": "Personal Loan Account 5803",
+            "type": "deposit",
+            "account": "68711682"
+        },
+        {
+            "amount": "647.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Yost, Bartell and Maggio",
+            "name": "Checking Account 7401",
+            "type": "deposit",
+            "account": "07515706"
+        },
+        {
+            "amount": "786.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kunde, Lang and Goodwin",
+            "name": "Home Loan Account 5617",
+            "type": "withdrawal",
+            "account": "02604075"
+        }
+    ]
+}

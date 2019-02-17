@@ -1,0 +1,72 @@
+{
+    "name": "Jewell Doyle",
+    "username": "Ben.Ward44",
+    "email": "Veronica.Lehner@gmail.com",
+    "address": {
+        "streetA": "Camille Flats",
+        "streetB": "25720 Jakubowski Turnpike",
+        "streetC": "02653 Adele Junctions Apt. 725",
+        "streetD": "Apt. 463",
+        "city": "East Ashafurt",
+        "state": "Oklahoma",
+        "country": "Iran",
+        "zipcode": "39801-8504",
+        "geo": {
+            "lat": "29.1694",
+            "lng": "108.5257"
+        }
+    },
+    "phone": "341-453-6297",
+    "website": "abby.org",
+    "company": {
+        "name": "Wilkinson - Kulas",
+        "catchPhrase": "Proactive dynamic benchmark",
+        "bs": "extensible unleash infrastructures"
+    },
+    "posts": [
+        {
+            "words": "eligendi sit ut",
+            "sentence": "Illo voluptas ducimus est labore rem fugiat optio enim.",
+            "sentences": "Labore sed qui ut esse qui. Suscipit nisi aut ad dolores dolore et et. Dolor non sint velit animi eveniet inventore.",
+            "paragraph": "Omnis incidunt quibusdam provident sequi aut molestiae. Ut est aliquid aut ipsa deserunt quidem occaecati et. Accusamus aut incidunt voluptas et numquam quaerat nemo suscipit atque. Sit voluptas ut iste dolores error dolores molestiae esse. Tempore id eum totam."
+        },
+        {
+            "words": "aut harum laboriosam",
+            "sentence": "Qui eius omnis.",
+            "sentences": "Rem voluptas officia. Error vitae tempora pariatur. Nobis aut enim minima praesentium. Odit et quod qui rem nesciunt illo aut nobis vitae.",
+            "paragraph": "Autem et ipsa aut inventore veritatis. Recusandae eum aperiam quo eos quidem. Atque ipsam doloremque maxime numquam mollitia inventore ipsum quis quos. Et nisi accusantium eligendi enim id eligendi incidunt ipsa. Omnis tenetur quas quos amet et minus et sed. Sit vero omnis libero deserunt cupiditate."
+        },
+        {
+            "words": "commodi ut hic",
+            "sentence": "Quae qui nisi ea quia fuga quaerat sit.",
+            "sentences": "Aut ut eaque minima repudiandae consequatur et. Est est quis. Facilis voluptate illum minima dolores dicta cupiditate corrupti veritatis. Vitae minima repellat quam. Dolorem nam quam voluptatibus dolor eligendi illo nihil quibusdam illo. Quos odit sunt magni quas.",
+            "paragraph": "Dolor mollitia tenetur qui qui quis omnis voluptas quibusdam nisi. Quas minima quaerat eligendi. Impedit tenetur quae voluptas. Repellendus soluta aperiam non voluptatum autem culpa illo rem dignissimos. Inventore voluptas voluptates. Veniam quos qui harum sunt veritatis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "281.93",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jenkins, Zemlak and Douglas",
+            "name": "Checking Account 0529",
+            "type": "invoice",
+            "account": "23069613"
+        },
+        {
+            "amount": "801.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koepp, Effertz and Connelly",
+            "name": "Savings Account 1113",
+            "type": "payment",
+            "account": "97040418"
+        },
+        {
+            "amount": "697.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Runte, Cruickshank and Howell",
+            "name": "Home Loan Account 6186",
+            "type": "deposit",
+            "account": "20563717"
+        }
+    ]
+}

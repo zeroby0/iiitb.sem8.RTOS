@@ -1,0 +1,72 @@
+{
+    "name": "Neha Gutkowski",
+    "username": "Royal.Walker76",
+    "email": "Ellie.Schultz95@gmail.com",
+    "address": {
+        "streetA": "Jerad Haven",
+        "streetB": "01152 DuBuque Squares",
+        "streetC": "0861 Blanca Bridge Apt. 421",
+        "streetD": "Apt. 347",
+        "city": "Coleburgh",
+        "state": "Louisiana",
+        "country": "Greenland",
+        "zipcode": "37239",
+        "geo": {
+            "lat": "-23.5990",
+            "lng": "61.4516"
+        }
+    },
+    "phone": "1-467-339-0800 x893",
+    "website": "thelma.org",
+    "company": {
+        "name": "Kemmer, Bailey and Emmerich",
+        "catchPhrase": "Synchronised bandwidth-monitored pricing structure",
+        "bs": "distributed scale e-markets"
+    },
+    "posts": [
+        {
+            "words": "neque quis odio",
+            "sentence": "Expedita ut ea.",
+            "sentences": "Suscipit sed quisquam. Omnis voluptates nihil ut eveniet nostrum. Nam reprehenderit sunt earum dolor aperiam excepturi et pariatur quis.",
+            "paragraph": "Ipsam saepe iure veniam dolores nulla saepe non. Omnis est sed qui repellat nobis cum id alias. Voluptatem atque eum est officiis aliquam. Est neque ex quam facilis."
+        },
+        {
+            "words": "rerum aut est",
+            "sentence": "Cumque et molestias quaerat ea nulla sint dolorem necessitatibus.",
+            "sentences": "Accusantium officia eveniet deserunt perferendis reprehenderit aut occaecati. Animi error veniam saepe odit magnam. Dolorum aut voluptatem officia necessitatibus. Est recusandae nemo non eius. Reiciendis illo dolorum. Assumenda corrupti cumque laboriosam ad hic minima dicta nobis sunt.",
+            "paragraph": "Perferendis officiis consequuntur doloribus qui ut cumque ad. Quis officiis perspiciatis blanditiis nulla alias nostrum accusantium consectetur. Modi itaque facilis nemo sequi sequi autem. In mollitia quis blanditiis quam tempore suscipit sint minus et. Ex non delectus ut incidunt et nam sed ut debitis."
+        },
+        {
+            "words": "vel laboriosam iste",
+            "sentence": "Libero et nesciunt.",
+            "sentences": "Culpa optio qui deserunt rerum sit et. Nobis similique voluptas aspernatur unde consequatur distinctio deserunt illum nemo. Soluta nam laborum modi animi et voluptate. Et qui et veritatis autem dolorum. Assumenda est voluptatem aliquam voluptatum atque autem dolores.",
+            "paragraph": "Dicta officiis et aut nisi et. Neque fugiat facilis facere eligendi. Illo suscipit itaque voluptas libero soluta sunt enim. Molestias et alias qui sapiente quia. Ipsam neque ut eum repudiandae et quis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "981.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Haley, McCullough and Corwin",
+            "name": "Money Market Account 5111",
+            "type": "withdrawal",
+            "account": "63214616"
+        },
+        {
+            "amount": "667.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Grady Group",
+            "name": "Personal Loan Account 2265",
+            "type": "payment",
+            "account": "92760394"
+        },
+        {
+            "amount": "528.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Denesik, Waelchi and Beahan",
+            "name": "Checking Account 5148",
+            "type": "invoice",
+            "account": "43382435"
+        }
+    ]
+}

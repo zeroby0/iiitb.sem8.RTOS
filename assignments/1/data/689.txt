@@ -1,0 +1,72 @@
+{
+    "name": "Dr. Wendell Borer",
+    "username": "Emma68",
+    "email": "Vernon67@gmail.com",
+    "address": {
+        "streetA": "Flavio Inlet",
+        "streetB": "0809 Kling Way",
+        "streetC": "13123 Mann Expressway Apt. 861",
+        "streetD": "Apt. 375",
+        "city": "Hesselbury",
+        "state": "Missouri",
+        "country": "Indonesia",
+        "zipcode": "45602-0670",
+        "geo": {
+            "lat": "73.7246",
+            "lng": "-32.8475"
+        }
+    },
+    "phone": "313.833.5998",
+    "website": "delores.com",
+    "company": {
+        "name": "Ryan Group",
+        "catchPhrase": "Programmable needs-based benchmark",
+        "bs": "holistic deliver web-readiness"
+    },
+    "posts": [
+        {
+            "words": "at quidem tenetur",
+            "sentence": "Facilis quia rerum consequatur.",
+            "sentences": "Corrupti quo possimus sit laudantium corporis aperiam commodi et corporis. Voluptate rerum vitae iste.",
+            "paragraph": "Qui sequi est. Accusantium alias quas voluptatem. Recusandae deserunt velit tempora omnis quae perferendis delectus eligendi. Atque voluptatem ut a eveniet et eaque earum rerum. Ut eius tempore voluptatem non aperiam non."
+        },
+        {
+            "words": "a est consequuntur",
+            "sentence": "Dolor provident et assumenda tempore dolorem.",
+            "sentences": "Ut est voluptatem ipsum consequatur magni. Commodi quia sit velit quis quia iure modi voluptatum incidunt. Velit ullam quia quas quis sed quasi quis fugiat pariatur. Sit dicta explicabo alias magni. Nihil nisi deserunt corrupti optio ut incidunt. Vel facere veniam.",
+            "paragraph": "Ullam perspiciatis doloremque aut iure hic ea. Reiciendis facilis reiciendis cumque rem. Cum qui fuga modi repellat distinctio ad occaecati aut. Non temporibus tenetur autem hic aliquam vel qui. Nihil reprehenderit aut et aliquid fugiat aliquam."
+        },
+        {
+            "words": "voluptas sint ut",
+            "sentence": "Corrupti dolor expedita aut.",
+            "sentences": "Repudiandae et debitis consequatur minima vero sint aut possimus nesciunt. Vero magnam qui quis natus. Molestias aut quod dolore qui. Quasi iure alias sed corporis non. Fugiat sed corporis odit qui rerum qui aut.",
+            "paragraph": "Numquam est excepturi perspiciatis voluptates aut cum quaerat pariatur. Qui occaecati quasi. Voluptas officia ipsam est sint quisquam nesciunt veritatis adipisci dignissimos. Est perspiciatis eum ea et ut temporibus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "829.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McCullough Inc",
+            "name": "Savings Account 7782",
+            "type": "withdrawal",
+            "account": "39538444"
+        },
+        {
+            "amount": "711.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "King - Olson",
+            "name": "Credit Card Account 7970",
+            "type": "payment",
+            "account": "79285315"
+        },
+        {
+            "amount": "468.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Murphy - Wolff",
+            "name": "Checking Account 7027",
+            "type": "invoice",
+            "account": "39728276"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Else Mayer",
+    "username": "Eloisa.Gleason",
+    "email": "Luis.Schmitt@yahoo.com",
+    "address": {
+        "streetA": "Santos Crossing",
+        "streetB": "81567 Edmund Mews",
+        "streetC": "13911 Schuster Mountains Apt. 720",
+        "streetD": "Suite 805",
+        "city": "Botsfordhaven",
+        "state": "Virginia",
+        "country": "Faroe Islands",
+        "zipcode": "80098",
+        "geo": {
+            "lat": "-18.2889",
+            "lng": "155.5635"
+        }
+    },
+    "phone": "131.744.3194",
+    "website": "joelle.org",
+    "company": {
+        "name": "Kilback LLC",
+        "catchPhrase": "Synergized tertiary function",
+        "bs": "end-to-end iterate solutions"
+    },
+    "posts": [
+        {
+            "words": "sed fugiat ad",
+            "sentence": "Mollitia delectus enim saepe amet eius dolore non quidem.",
+            "sentences": "Enim et sunt quas nihil quasi atque animi sint. Ut quos blanditiis quos velit facere nisi nemo. Aliquid sint veniam praesentium dolorem expedita aut et. Vero eveniet facilis veniam nam ea voluptas asperiores et.",
+            "paragraph": "Voluptate rerum et fuga a dolores magnam. Autem est doloremque itaque ipsam quidem consequatur. Occaecati et nemo quisquam culpa aspernatur sint. Ullam blanditiis ipsa saepe accusantium eum quia dolores modi veniam."
+        },
+        {
+            "words": "qui earum molestiae",
+            "sentence": "Voluptatem voluptatibus natus adipisci repellat aperiam dolor dolores et.",
+            "sentences": "Minus repudiandae quibusdam et odit. Sunt et quibusdam quae eligendi vitae quod voluptatem. Consequatur dolore tenetur est quia officia est rem illum.",
+            "paragraph": "Consequuntur impedit neque quis voluptas est necessitatibus. Quo sint dolores. Maxime atque odit consequuntur consequuntur dolor aut laborum rerum."
+        },
+        {
+            "words": "velit id velit",
+            "sentence": "Nostrum officiis est impedit sint quae molestiae adipisci.",
+            "sentences": "Atque culpa dignissimos dolore est eum qui. Laboriosam corrupti autem eius incidunt aut expedita. Consequatur ut autem non.",
+            "paragraph": "Impedit autem voluptatem occaecati ea temporibus et doloribus. Quam labore ex voluptatum nobis qui ut. In cumque nihil sequi aliquid est. Similique autem deserunt distinctio cum harum libero distinctio. Dolor nulla nesciunt accusantium ipsum necessitatibus similique qui impedit iusto."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "685.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Abbott Group",
+            "name": "Investment Account 5814",
+            "type": "deposit",
+            "account": "68295925"
+        },
+        {
+            "amount": "872.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Klein and Sons",
+            "name": "Personal Loan Account 9868",
+            "type": "withdrawal",
+            "account": "70197598"
+        },
+        {
+            "amount": "231.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Steuber - Wunsch",
+            "name": "Money Market Account 5000",
+            "type": "deposit",
+            "account": "69769345"
+        }
+    ]
+}

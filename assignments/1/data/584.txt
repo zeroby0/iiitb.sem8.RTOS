@@ -1,0 +1,72 @@
+{
+    "name": "Hailie Weissnat",
+    "username": "River12",
+    "email": "Rico38@hotmail.com",
+    "address": {
+        "streetA": "Alva Mill",
+        "streetB": "4223 Jed Springs",
+        "streetC": "173 Orn Inlet Apt. 184",
+        "streetD": "Suite 694",
+        "city": "Roscoebury",
+        "state": "Vermont",
+        "country": "Thailand",
+        "zipcode": "66487-6042",
+        "geo": {
+            "lat": "-84.5379",
+            "lng": "118.9308"
+        }
+    },
+    "phone": "(073) 418-7478 x514",
+    "website": "elliot.com",
+    "company": {
+        "name": "Willms, Shields and Murazik",
+        "catchPhrase": "Total composite approach",
+        "bs": "out-of-the-box redefine partnerships"
+    },
+    "posts": [
+        {
+            "words": "necessitatibus est magnam",
+            "sentence": "Aut dolorem animi pariatur vero consectetur.",
+            "sentences": "Cupiditate accusamus ad. Et nobis sint magni. Asperiores libero pariatur quia.",
+            "paragraph": "Et eos ut molestiae ex ut harum aliquid fuga voluptates. Eos asperiores et aliquam voluptatibus minima. Earum id cumque facilis non necessitatibus. Nam occaecati et mollitia non eaque facilis."
+        },
+        {
+            "words": "repudiandae odio consectetur",
+            "sentence": "Error sint et adipisci.",
+            "sentences": "Nihil ducimus et qui ea eius molestiae eos repellat non. Laboriosam quia qui reiciendis culpa et. Sed deserunt soluta.",
+            "paragraph": "Eveniet voluptatibus aliquam harum et quas laborum aliquid accusamus voluptas. Omnis voluptatibus qui fugit et. Sit sunt consequatur qui iure autem voluptatem a ipsam. Autem harum est."
+        },
+        {
+            "words": "ut sed odit",
+            "sentence": "Neque nobis in esse beatae et id velit voluptate voluptatibus.",
+            "sentences": "Molestias iure recusandae maiores eos quisquam numquam ratione. Minima adipisci ipsum nisi eveniet ut officiis corrupti. Dolores commodi vel excepturi ut eum. Est culpa id sed eos non libero tempora. Cupiditate consequatur et. Officiis vero ipsam porro voluptatum libero.",
+            "paragraph": "Molestias ut aut eos. Et illum repellat. Suscipit aut molestias dolores qui."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "882.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schoen - Emard",
+            "name": "Auto Loan Account 1870",
+            "type": "payment",
+            "account": "39661904"
+        },
+        {
+            "amount": "257.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Carroll, Stroman and Rolfson",
+            "name": "Savings Account 5398",
+            "type": "payment",
+            "account": "59959833"
+        },
+        {
+            "amount": "365.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuhlman - Hickle",
+            "name": "Investment Account 0452",
+            "type": "withdrawal",
+            "account": "03342805"
+        }
+    ]
+}

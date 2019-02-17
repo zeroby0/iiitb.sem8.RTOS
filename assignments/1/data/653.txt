@@ -1,0 +1,72 @@
+{
+    "name": "Enos Homenick Jr.",
+    "username": "Cade_Cartwright",
+    "email": "Minerva28@hotmail.com",
+    "address": {
+        "streetA": "Meagan Knolls",
+        "streetB": "2120 Abernathy Stream",
+        "streetC": "5870 Reichert Union Suite 073",
+        "streetD": "Suite 935",
+        "city": "Schambergershire",
+        "state": "California",
+        "country": "Vietnam",
+        "zipcode": "44966-1855",
+        "geo": {
+            "lat": "88.8637",
+            "lng": "-23.9359"
+        }
+    },
+    "phone": "1-317-517-7707",
+    "website": "ezra.com",
+    "company": {
+        "name": "Gutmann, Balistreri and Farrell",
+        "catchPhrase": "Profound global focus group",
+        "bs": "viral generate e-commerce"
+    },
+    "posts": [
+        {
+            "words": "deserunt qui voluptatem",
+            "sentence": "Et ex accusantium dolor tempore.",
+            "sentences": "Dolor sint voluptas. Assumenda nostrum nemo cumque eum saepe et repellendus qui reprehenderit. Porro unde minus consequatur voluptas in vel unde. Odio et deleniti quod omnis consequuntur sint suscipit tempora. Animi laborum doloribus a eos. Delectus a et et maiores aut quam officia voluptate molestias.",
+            "paragraph": "Sed libero quas amet dolores enim. Doloribus fuga doloribus cum voluptates est. Temporibus et non. Dignissimos rerum qui cupiditate nostrum veniam."
+        },
+        {
+            "words": "nemo vel sit",
+            "sentence": "Fugit molestias illum ut laborum qui at.",
+            "sentences": "Ipsa deserunt totam id. Neque nostrum et ut reprehenderit vel tempora recusandae et.",
+            "paragraph": "Asperiores fugiat pariatur qui voluptas incidunt mollitia. Rerum ea aut aut omnis maxime. Nisi qui consequuntur consequatur est quia repellendus. Magnam excepturi eum quidem porro corrupti sapiente et. Ut blanditiis consectetur in qui occaecati ut ad neque cupiditate."
+        },
+        {
+            "words": "aut dolor adipisci",
+            "sentence": "Quia omnis consequuntur sunt facilis quaerat rerum saepe fuga excepturi.",
+            "sentences": "Voluptatem et assumenda quis beatae ratione corrupti voluptates quod. Aut commodi molestiae est atque. Totam porro qui aut sint sunt facilis explicabo eligendi omnis. Possimus sed porro fugit nihil asperiores quasi consequatur facilis et.",
+            "paragraph": "Autem quo reiciendis. Iste temporibus ea. Commodi eos est quisquam. Repudiandae minima provident quod voluptas dolores doloribus. Voluptatibus explicabo iusto odit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "876.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Skiles Inc",
+            "name": "Credit Card Account 8320",
+            "type": "invoice",
+            "account": "28519237"
+        },
+        {
+            "amount": "580.93",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Waelchi Group",
+            "name": "Investment Account 8705",
+            "type": "deposit",
+            "account": "51382271"
+        },
+        {
+            "amount": "498.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmitt, Larson and Legros",
+            "name": "Home Loan Account 4232",
+            "type": "invoice",
+            "account": "32107198"
+        }
+    ]
+}

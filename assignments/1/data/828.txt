@@ -1,0 +1,72 @@
+{
+    "name": "Blanca Cole II",
+    "username": "Madaline.Abernathy",
+    "email": "Isabel.Klocko90@gmail.com",
+    "address": {
+        "streetA": "Viva Flat",
+        "streetB": "18318 Kaleigh Rue",
+        "streetC": "41920 Nella Springs Suite 649",
+        "streetD": "Suite 069",
+        "city": "Hammesburgh",
+        "state": "Virginia",
+        "country": "Italy",
+        "zipcode": "82267-5531",
+        "geo": {
+            "lat": "-65.7276",
+            "lng": "100.8870"
+        }
+    },
+    "phone": "(621) 917-0060 x0987",
+    "website": "elnora.org",
+    "company": {
+        "name": "Kreiger - Towne",
+        "catchPhrase": "Cloned 6th generation paradigm",
+        "bs": "proactive harness e-tailers"
+    },
+    "posts": [
+        {
+            "words": "excepturi illum qui",
+            "sentence": "Recusandae voluptatem nobis quis earum.",
+            "sentences": "Omnis non nihil aspernatur et enim officiis sint nostrum. Dolore enim expedita. Quo nihil expedita incidunt illo sed. Veritatis voluptatem enim ut cupiditate repellat praesentium.",
+            "paragraph": "Aliquid aut minus voluptas. Dolores ratione minima dolore neque. Dolores excepturi impedit ex. Voluptas aut accusantium. Nam autem velit nobis. Enim alias sit iste aperiam qui adipisci labore et id."
+        },
+        {
+            "words": "omnis accusantium hic",
+            "sentence": "Facilis odit minus consequuntur tempore dolor ut omnis.",
+            "sentences": "In totam qui necessitatibus. Et aliquid sit similique perspiciatis quisquam eum odio ad sit. Porro alias a consequatur corrupti cum asperiores deserunt in. Molestiae laboriosam sit ad.",
+            "paragraph": "Aut reprehenderit odit ratione nihil fugiat tenetur sunt fuga quaerat. Non cumque nisi culpa et eum quis. Atque officia nihil quidem rerum molestiae aliquid tempora. Ratione id iusto. Saepe ipsum ut. Quos labore nisi debitis facilis reprehenderit."
+        },
+        {
+            "words": "enim qui eos",
+            "sentence": "Labore ratione laboriosam quas.",
+            "sentences": "Quo enim qui nobis ipsum aperiam et. Iusto qui beatae laboriosam.",
+            "paragraph": "Illum soluta earum aut. Sequi a dolores et voluptas dolores odit neque iure blanditiis. Quis aut esse dolorem voluptatibus perspiciatis animi incidunt."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "779.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hegmann LLC",
+            "name": "Money Market Account 1240",
+            "type": "withdrawal",
+            "account": "60339906"
+        },
+        {
+            "amount": "84.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kub Inc",
+            "name": "Home Loan Account 0513",
+            "type": "deposit",
+            "account": "24462243"
+        },
+        {
+            "amount": "853.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuhic, Nienow and Ziemann",
+            "name": "Money Market Account 9845",
+            "type": "invoice",
+            "account": "95443233"
+        }
+    ]
+}

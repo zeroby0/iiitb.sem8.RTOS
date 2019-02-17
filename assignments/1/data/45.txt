@@ -1,0 +1,72 @@
+{
+    "name": "Geovany Zemlak",
+    "username": "Moriah_Romaguera47",
+    "email": "Elissa_Morar78@hotmail.com",
+    "address": {
+        "streetA": "Lue Hill",
+        "streetB": "767 Hamill Valley",
+        "streetC": "58257 Lennie Station Apt. 014",
+        "streetD": "Apt. 099",
+        "city": "North Greenport",
+        "state": "Idaho",
+        "country": "French Polynesia",
+        "zipcode": "65620-0868",
+        "geo": {
+            "lat": "86.2398",
+            "lng": "40.8705"
+        }
+    },
+    "phone": "387.876.7197 x27956",
+    "website": "beverly.biz",
+    "company": {
+        "name": "Hahn - Krajcik",
+        "catchPhrase": "Integrated systemic projection",
+        "bs": "magnetic engage experiences"
+    },
+    "posts": [
+        {
+            "words": "qui qui necessitatibus",
+            "sentence": "Aut ipsum quos nesciunt.",
+            "sentences": "Necessitatibus placeat et dolorem magnam perferendis reprehenderit accusamus. Deserunt reprehenderit tempora error quibusdam sequi iusto. Vel dolor et eos temporibus non. Omnis rerum ratione hic repellendus tempore eos eveniet omnis. Dolor et quia.",
+            "paragraph": "Autem mollitia est sunt dolor ea ut accusamus earum nostrum. Perferendis debitis rerum aut. Facere similique explicabo minus neque maiores doloribus. Ullam suscipit et quis autem. Magni non sit repudiandae aperiam quod mollitia nihil doloremque magnam."
+        },
+        {
+            "words": "qui ullam debitis",
+            "sentence": "Et enim culpa culpa itaque.",
+            "sentences": "Similique veritatis illo voluptatem quidem fugit ex praesentium aspernatur. Porro quisquam dolorem labore esse aut consequuntur placeat dolorum accusamus. Aspernatur facilis itaque. Beatae reprehenderit beatae quia laudantium delectus et delectus.",
+            "paragraph": "Accusamus temporibus eos. Reprehenderit delectus iure culpa numquam iure et enim ipsum quam. Impedit dolor excepturi natus. Alias soluta architecto molestias necessitatibus iusto enim et accusamus. Autem ab quia repellat. Et doloribus consequatur iure est sint quod."
+        },
+        {
+            "words": "repellat commodi illum",
+            "sentence": "Tempora cum odio temporibus blanditiis impedit consectetur dolore totam.",
+            "sentences": "Aut omnis deleniti omnis nisi inventore reiciendis sunt velit nobis. Fugit fuga unde ipsam. Qui nihil ut numquam voluptatem.",
+            "paragraph": "Excepturi autem repellendus necessitatibus dolores aut suscipit dolorum mollitia. Magni assumenda quasi est doloremque quibusdam minima ducimus odio autem. Consequatur deleniti nam facilis rerum et illum qui velit. Quo et ut consectetur nemo aut consequatur quia vel voluptatem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "658.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Howell, Schaden and Stark",
+            "name": "Checking Account 7273",
+            "type": "invoice",
+            "account": "63814241"
+        },
+        {
+            "amount": "984.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Harber - Kessler",
+            "name": "Credit Card Account 5261",
+            "type": "deposit",
+            "account": "65142419"
+        },
+        {
+            "amount": "886.51",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stanton Inc",
+            "name": "Money Market Account 6330",
+            "type": "deposit",
+            "account": "53548036"
+        }
+    ]
+}

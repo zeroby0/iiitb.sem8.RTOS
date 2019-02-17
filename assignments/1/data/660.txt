@@ -1,0 +1,72 @@
+{
+    "name": "Irma Carroll",
+    "username": "Lowell.Langworth25",
+    "email": "Lexus22@hotmail.com",
+    "address": {
+        "streetA": "Purdy Ville",
+        "streetB": "18558 Kevon Island",
+        "streetC": "2962 Ankunding Islands Suite 703",
+        "streetD": "Suite 207",
+        "city": "Davistown",
+        "state": "Michigan",
+        "country": "South Africa",
+        "zipcode": "99414",
+        "geo": {
+            "lat": "-43.8033",
+            "lng": "-10.2912"
+        }
+    },
+    "phone": "336.100.7157 x1302",
+    "website": "cody.org",
+    "company": {
+        "name": "Conn and Sons",
+        "catchPhrase": "Grass-roots content-based instruction set",
+        "bs": "one-to-one visualize solutions"
+    },
+    "posts": [
+        {
+            "words": "quod sed repellat",
+            "sentence": "Eos dolorem voluptatem commodi perferendis quos.",
+            "sentences": "Aut ad odit dolorem nihil qui necessitatibus fugit corrupti qui. Temporibus doloremque ut. Consequatur aut omnis quia. Eum est est nobis dolorem. Placeat voluptatem quisquam delectus voluptas aut vel sequi.",
+            "paragraph": "Magnam est assumenda velit omnis cumque. Dignissimos quaerat natus aut enim rerum assumenda eum. Quia et porro. Ut nisi quia facere perferendis repudiandae veritatis blanditiis. Ipsam deserunt sunt commodi exercitationem incidunt fugiat ut ad."
+        },
+        {
+            "words": "aliquam nesciunt est",
+            "sentence": "Quia assumenda saepe assumenda quos.",
+            "sentences": "Possimus velit itaque. Earum totam possimus sed eos mollitia. Ut at sit doloribus. Eveniet consequatur in et atque optio. Sed amet eos expedita expedita.",
+            "paragraph": "Iste pariatur quis incidunt iure illum autem. Voluptatibus quisquam sed cum et dolore pariatur qui. Quasi perferendis sapiente iure est omnis. Deserunt cupiditate ipsam. Voluptas culpa totam aliquid ut est hic vero est."
+        },
+        {
+            "words": "praesentium quibusdam qui",
+            "sentence": "Consequuntur est in inventore.",
+            "sentences": "Voluptates voluptatum quia et dolore aut illo quibusdam porro. Aliquam distinctio nostrum omnis ipsam eum nobis consequatur fugiat. Molestiae soluta commodi enim sequi modi rerum voluptas asperiores ad. Voluptatum nihil corrupti aut rerum placeat iusto voluptatem repudiandae eum. Sit pariatur officia sit facere voluptas explicabo in nam.",
+            "paragraph": "Et veniam tempora eos ut ut. Praesentium adipisci non voluptatem tenetur et fuga. Sit vel soluta corrupti quasi quidem dolorum ut autem eum. Non cum nihil recusandae. Numquam ut qui hic sunt tenetur velit et doloremque."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "294.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Eichmann - Beahan",
+            "name": "Checking Account 8336",
+            "type": "withdrawal",
+            "account": "98969713"
+        },
+        {
+            "amount": "92.56",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Turner - Predovic",
+            "name": "Savings Account 4475",
+            "type": "invoice",
+            "account": "55876011"
+        },
+        {
+            "amount": "825.34",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cormier Inc",
+            "name": "Investment Account 3619",
+            "type": "withdrawal",
+            "account": "85507143"
+        }
+    ]
+}

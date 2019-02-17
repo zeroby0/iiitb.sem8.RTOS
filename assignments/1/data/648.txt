@@ -1,0 +1,72 @@
+{
+    "name": "Keaton Bruen",
+    "username": "Noemi_Cole70",
+    "email": "Zechariah.Runolfsdottir@hotmail.com",
+    "address": {
+        "streetA": "Ephraim Spurs",
+        "streetB": "3446 Lily Coves",
+        "streetC": "35977 Jenkins Pike Apt. 723",
+        "streetD": "Apt. 644",
+        "city": "West Jaeden",
+        "state": "Connecticut",
+        "country": "Fiji",
+        "zipcode": "97793",
+        "geo": {
+            "lat": "61.8372",
+            "lng": "-91.7352"
+        }
+    },
+    "phone": "1-726-591-6492 x77085",
+    "website": "josianne.com",
+    "company": {
+        "name": "Jacobs Inc",
+        "catchPhrase": "Progressive next generation hardware",
+        "bs": "seamless target architectures"
+    },
+    "posts": [
+        {
+            "words": "distinctio qui nobis",
+            "sentence": "Qui ut dolores qui accusamus nihil quasi odit.",
+            "sentences": "Consequatur rerum totam omnis ut ut sint vel incidunt. Vitae aut ut nesciunt officiis dolor non eos occaecati asperiores. Aliquid quo ut quos.",
+            "paragraph": "Enim dolorem vel sunt recusandae alias debitis. Consectetur eligendi veritatis ea et. Architecto maxime omnis qui architecto rerum. At qui voluptates distinctio assumenda. Sed laborum vero eos beatae. Aspernatur sit sint minus esse et officia delectus repellendus nemo."
+        },
+        {
+            "words": "asperiores perspiciatis neque",
+            "sentence": "Ut dignissimos nemo nam qui consequatur.",
+            "sentences": "Ipsam in eaque et ipsam illo velit sit ad repellat. Dolorem occaecati occaecati distinctio sequi quae.",
+            "paragraph": "Fugiat distinctio et iusto tempora libero. Facilis optio accusamus incidunt et natus exercitationem. Repellendus mollitia doloremque saepe voluptatem. Cumque eum odit. Repellendus rem quia soluta repellendus quod atque et omnis molestiae. Eos est odio ipsa excepturi recusandae sint."
+        },
+        {
+            "words": "quae molestiae aliquam",
+            "sentence": "Impedit architecto et minima voluptatum.",
+            "sentences": "Sit quibusdam fugit mollitia fugiat et aut ut tempore facilis. Suscipit sit nesciunt iste doloremque. Enim dolore dolorem veniam qui sed. Sit dolores consequatur quaerat qui cupiditate labore.",
+            "paragraph": "Perferendis aut natus quas totam. Consequatur consectetur similique amet amet saepe adipisci. Quo animi non deleniti itaque quae quis. Et et repellat eos velit mollitia ut veniam. Consequatur quia hic quam veniam repellat. Voluptatem aliquid asperiores consequatur dolor iure."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "387.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kutch, Gutmann and Flatley",
+            "name": "Checking Account 2780",
+            "type": "invoice",
+            "account": "04872947"
+        },
+        {
+            "amount": "209.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaefer - Marvin",
+            "name": "Savings Account 0062",
+            "type": "invoice",
+            "account": "94096217"
+        },
+        {
+            "amount": "961.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mohr - Keeling",
+            "name": "Money Market Account 7108",
+            "type": "invoice",
+            "account": "95931475"
+        }
+    ]
+}

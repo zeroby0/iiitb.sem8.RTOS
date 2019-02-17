@@ -1,0 +1,72 @@
+{
+    "name": "Alyce Rice",
+    "username": "Jeremie13",
+    "email": "Clifford29@yahoo.com",
+    "address": {
+        "streetA": "Enrico Hills",
+        "streetB": "999 Bethany Summit",
+        "streetC": "4461 Marcelle Fords Suite 934",
+        "streetD": "Apt. 664",
+        "city": "Kilbackfort",
+        "state": "Oklahoma",
+        "country": "Fiji",
+        "zipcode": "42832-8519",
+        "geo": {
+            "lat": "66.0479",
+            "lng": "-132.6345"
+        }
+    },
+    "phone": "648-856-3980 x387",
+    "website": "paolo.net",
+    "company": {
+        "name": "Grant, Shanahan and Gerlach",
+        "catchPhrase": "Open-architected neutral leverage",
+        "bs": "bleeding-edge enable content"
+    },
+    "posts": [
+        {
+            "words": "labore quibusdam sequi",
+            "sentence": "Qui et eum doloremque velit atque fuga et id et.",
+            "sentences": "Reiciendis distinctio nihil et voluptatum molestiae et consequuntur facere. At dolorum eveniet pariatur exercitationem illum minus quasi numquam sunt. Ut reiciendis sit rerum enim. Magni aut placeat totam libero voluptates est placeat vel.",
+            "paragraph": "Perspiciatis debitis enim cum ullam. Enim quibusdam sed error. Dolores quo ut expedita qui iure temporibus illo suscipit. Quos labore est cum dolore ullam est eos."
+        },
+        {
+            "words": "occaecati aut et",
+            "sentence": "Quis assumenda rem consequatur quam doloremque nemo placeat placeat est.",
+            "sentences": "Commodi qui culpa inventore est dolores aut. Optio error perferendis sequi voluptate in ipsam. Aperiam maiores molestiae blanditiis quod sed reprehenderit ratione. Eligendi voluptatum ducimus mollitia exercitationem.",
+            "paragraph": "Veniam deleniti quo quia dolores in quos saepe. Ex consequatur quaerat quia expedita vero voluptatem. Unde velit est consequatur voluptatem id. Quo aspernatur odio deleniti aut."
+        },
+        {
+            "words": "et quia minima",
+            "sentence": "In rerum quia doloremque soluta unde et sint eligendi rerum.",
+            "sentences": "Corporis odit accusantium ea aspernatur maxime reprehenderit. Qui quisquam non provident odio eveniet consequatur vel neque.",
+            "paragraph": "Corrupti perspiciatis consequatur consequatur incidunt sapiente et. Voluptas excepturi perferendis non aliquid mollitia architecto. Adipisci consequuntur ex aut. Nam voluptas nesciunt est necessitatibus temporibus sunt minus nemo. Eos ea debitis sed voluptas quo nihil. Et et ducimus ea placeat nesciunt quibusdam vero."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "392.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hirthe and Sons",
+            "name": "Investment Account 7850",
+            "type": "withdrawal",
+            "account": "47216519"
+        },
+        {
+            "amount": "200.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Walsh, Skiles and Christiansen",
+            "name": "Checking Account 2916",
+            "type": "deposit",
+            "account": "06964857"
+        },
+        {
+            "amount": "447.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mohr - Muller",
+            "name": "Credit Card Account 6685",
+            "type": "withdrawal",
+            "account": "08395880"
+        }
+    ]
+}

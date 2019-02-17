@@ -1,0 +1,72 @@
+{
+    "name": "Reanna Conn III",
+    "username": "Dean25",
+    "email": "Chase.Heathcote53@gmail.com",
+    "address": {
+        "streetA": "Kayla Stravenue",
+        "streetB": "8598 Antonietta Key",
+        "streetC": "52491 Robb Plains Apt. 200",
+        "streetD": "Apt. 140",
+        "city": "North Wymanside",
+        "state": "Arkansas",
+        "country": "French Guiana",
+        "zipcode": "86222",
+        "geo": {
+            "lat": "-8.1547",
+            "lng": "-16.2160"
+        }
+    },
+    "phone": "1-784-148-1609",
+    "website": "isaiah.name",
+    "company": {
+        "name": "Bogan, Sawayn and Johns",
+        "catchPhrase": "Synchronised web-enabled monitoring",
+        "bs": "world-class seize portals"
+    },
+    "posts": [
+        {
+            "words": "consequatur voluptas fugiat",
+            "sentence": "Quas eum dicta.",
+            "sentences": "Quos voluptas sit deleniti omnis. Magnam quisquam consectetur. Ut pariatur velit et rem inventore voluptatem.",
+            "paragraph": "Eos ad quia exercitationem doloremque doloribus. Delectus id necessitatibus harum debitis fugit minus maxime. Expedita ut et velit accusamus rem."
+        },
+        {
+            "words": "et modi ipsum",
+            "sentence": "Earum et voluptas dolores assumenda consequatur neque ea itaque.",
+            "sentences": "Nulla in ipsum ut voluptatibus veritatis commodi quia est. Tempore maxime et ut temporibus molestiae quia. Blanditiis pariatur quia et vel totam enim. Quasi praesentium nostrum omnis. Porro deleniti temporibus quae ipsam et pariatur accusantium labore cupiditate. Consequatur voluptas assumenda facere omnis ab voluptatem impedit.",
+            "paragraph": "Quia iure labore id repellat itaque blanditiis dolor nulla totam. Id iusto maiores repellat nam aut occaecati. Et necessitatibus neque natus omnis laborum. Voluptas corrupti numquam voluptas inventore temporibus illum soluta praesentium sint."
+        },
+        {
+            "words": "molestias assumenda et",
+            "sentence": "Voluptatem rerum alias ut ea velit quo rerum nemo sequi.",
+            "sentences": "Ducimus explicabo in. Temporibus iure eos dolorem perferendis rerum fugiat ut reprehenderit eius. Aspernatur et ullam deleniti veniam magnam.",
+            "paragraph": "Laudantium culpa cum. Et dignissimos et. Numquam ut beatae neque temporibus corrupti qui consequuntur dolorum doloribus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "105.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Breitenberg - Mueller",
+            "name": "Personal Loan Account 9365",
+            "type": "withdrawal",
+            "account": "77678010"
+        },
+        {
+            "amount": "692.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hansen Group",
+            "name": "Personal Loan Account 4446",
+            "type": "withdrawal",
+            "account": "85169318"
+        },
+        {
+            "amount": "277.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koch - Senger",
+            "name": "Home Loan Account 0650",
+            "type": "invoice",
+            "account": "23799928"
+        }
+    ]
+}

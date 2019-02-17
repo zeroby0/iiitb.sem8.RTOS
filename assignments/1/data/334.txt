@@ -1,0 +1,72 @@
+{
+    "name": "Julian Jones",
+    "username": "Stanley_Beatty75",
+    "email": "Ayla_Fahey32@gmail.com",
+    "address": {
+        "streetA": "Frederique Rest",
+        "streetB": "68582 Runolfsson Stream",
+        "streetC": "774 Brandyn Parks Suite 919",
+        "streetD": "Apt. 136",
+        "city": "North Ezequielburgh",
+        "state": "Minnesota",
+        "country": "Barbados",
+        "zipcode": "73815",
+        "geo": {
+            "lat": "-57.5418",
+            "lng": "-145.6378"
+        }
+    },
+    "phone": "353-937-8399 x32455",
+    "website": "mackenzie.com",
+    "company": {
+        "name": "Daniel - Jacobi",
+        "catchPhrase": "Up-sized explicit throughput",
+        "bs": "integrated cultivate synergies"
+    },
+    "posts": [
+        {
+            "words": "amet velit iste",
+            "sentence": "Et molestias in nihil aut distinctio eum.",
+            "sentences": "Praesentium aut ducimus amet et tempora quis delectus. Laborum est accusantium non consequuntur consequatur et voluptas. Eveniet odit qui atque repudiandae nulla fugit. Incidunt error alias sed nostrum excepturi autem.",
+            "paragraph": "Tempora dolor vel voluptas dolore. Quae aspernatur repudiandae consequatur ut quae. Qui commodi amet fugiat rerum rerum laboriosam delectus."
+        },
+        {
+            "words": "dolores commodi atque",
+            "sentence": "Consequatur suscipit quis.",
+            "sentences": "Nobis odit quia facilis ducimus in possimus quisquam non. Id nesciunt itaque. Nisi sint unde. Assumenda et suscipit pariatur voluptas.",
+            "paragraph": "Hic expedita dolor qui dolores sit occaecati. Est omnis nesciunt corporis earum facilis corrupti iusto. Asperiores molestiae atque sapiente voluptatem. Provident atque reiciendis minima reiciendis. Et eveniet dolorum libero deleniti sit ut."
+        },
+        {
+            "words": "necessitatibus dolores earum",
+            "sentence": "Consectetur aperiam vel et est veritatis aliquam.",
+            "sentences": "Velit ipsam culpa qui ut. Est et vel molestias omnis consequatur. Voluptas nobis provident delectus rerum voluptas praesentium aut explicabo.",
+            "paragraph": "Molestiae molestias ratione delectus. Quo quia sit ea est dignissimos soluta ipsam molestiae eligendi. Animi ea debitis neque eius. Aut autem cum ex quasi sed qui labore nostrum. Maiores qui fugit corrupti velit optio quam nostrum et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "755.51",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pouros Group",
+            "name": "Money Market Account 1678",
+            "type": "withdrawal",
+            "account": "42307215"
+        },
+        {
+            "amount": "960.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Homenick - Wilkinson",
+            "name": "Credit Card Account 1345",
+            "type": "invoice",
+            "account": "23256081"
+        },
+        {
+            "amount": "526.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schoen LLC",
+            "name": "Auto Loan Account 6765",
+            "type": "payment",
+            "account": "29148260"
+        }
+    ]
+}

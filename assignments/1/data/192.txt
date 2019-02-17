@@ -1,0 +1,72 @@
+{
+    "name": "Scarlett Howell",
+    "username": "Carmela_Gutkowski",
+    "email": "Cedrick.Pollich36@yahoo.com",
+    "address": {
+        "streetA": "Arthur Views",
+        "streetB": "46475 Alphonso Canyon",
+        "streetC": "3567 Paul Summit Suite 642",
+        "streetD": "Suite 477",
+        "city": "Jamilfort",
+        "state": "South Carolina",
+        "country": "Armenia",
+        "zipcode": "34795",
+        "geo": {
+            "lat": "-31.0024",
+            "lng": "-13.2280"
+        }
+    },
+    "phone": "864.126.2367 x3966",
+    "website": "ava.org",
+    "company": {
+        "name": "Powlowski - Welch",
+        "catchPhrase": "Organized even-keeled monitoring",
+        "bs": "clicks-and-mortar synergize platforms"
+    },
+    "posts": [
+        {
+            "words": "omnis culpa veritatis",
+            "sentence": "Nulla est perferendis.",
+            "sentences": "Consequatur eius et sequi quia vel magnam iure reiciendis. Non autem dignissimos magnam vel quia rerum velit facere dolor. Accusantium laborum et deserunt magnam culpa accusantium est voluptatem officiis.",
+            "paragraph": "Sed voluptatem autem ipsa placeat adipisci vel. Voluptatem necessitatibus quae ullam. Repellat libero molestiae facere consectetur rerum eligendi odio consequatur ducimus."
+        },
+        {
+            "words": "neque enim suscipit",
+            "sentence": "Qui fuga quos ex laboriosam.",
+            "sentences": "Tenetur velit quibusdam at velit eaque. Placeat blanditiis odit sed repellat velit.",
+            "paragraph": "Eius labore eius maiores sit sit inventore dicta. Aut adipisci ut quidem dolorem quod dicta. Dolor earum in ut tenetur ut consectetur molestiae occaecati veritatis. Totam earum non debitis."
+        },
+        {
+            "words": "praesentium id enim",
+            "sentence": "Quis non voluptatibus id vel eveniet qui.",
+            "sentences": "Consequatur sequi voluptates consequuntur eum sequi et voluptatem voluptatem id. Minus maiores nesciunt. Corrupti at ut labore autem voluptatem repellendus impedit sapiente quibusdam. Ut est earum tempora laudantium maiores. Minima beatae sit. Ex quia id aspernatur repellat soluta consequatur doloribus.",
+            "paragraph": "Nam numquam reiciendis natus eum reprehenderit ut in eos aliquid. Quos rerum praesentium consectetur consequatur. Tempore debitis et dolor modi. Libero eos quia tempore nostrum et. Dicta soluta totam error."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "827.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Marquardt LLC",
+            "name": "Money Market Account 6600",
+            "type": "invoice",
+            "account": "84502686"
+        },
+        {
+            "amount": "298.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rice, Wunsch and Brakus",
+            "name": "Money Market Account 9891",
+            "type": "deposit",
+            "account": "59214063"
+        },
+        {
+            "amount": "802.72",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McDermott - Renner",
+            "name": "Checking Account 9605",
+            "type": "withdrawal",
+            "account": "71256142"
+        }
+    ]
+}

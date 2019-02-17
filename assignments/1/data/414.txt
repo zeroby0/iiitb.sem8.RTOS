@@ -1,0 +1,72 @@
+{
+    "name": "Corene Kozey",
+    "username": "Barbara_Russel29",
+    "email": "Peyton_Wintheiser85@hotmail.com",
+    "address": {
+        "streetA": "Corkery Roads",
+        "streetB": "792 Conrad Lake",
+        "streetC": "8104 King Cape Apt. 435",
+        "streetD": "Suite 236",
+        "city": "Borerchester",
+        "state": "Iowa",
+        "country": "Saint Kitts and Nevis",
+        "zipcode": "30968-1439",
+        "geo": {
+            "lat": "-41.8975",
+            "lng": "86.6722"
+        }
+    },
+    "phone": "444.572.8934 x81803",
+    "website": "frederic.info",
+    "company": {
+        "name": "Lemke Group",
+        "catchPhrase": "Grass-roots exuding moderator",
+        "bs": "back-end redefine relationships"
+    },
+    "posts": [
+        {
+            "words": "et dolor unde",
+            "sentence": "Quaerat laudantium dicta voluptatem harum.",
+            "sentences": "Quis accusantium molestiae. Magnam est quae. Velit voluptatem saepe minima minus voluptas unde eos nesciunt.",
+            "paragraph": "Nihil dicta ratione debitis et repellendus libero. Distinctio doloremque illum quasi in. Enim qui saepe est voluptatum odit est rerum dolor. Dolor atque autem. Qui aspernatur facilis velit nihil suscipit et assumenda repudiandae."
+        },
+        {
+            "words": "itaque ipsa consequuntur",
+            "sentence": "Quis id tempora vitae est ab.",
+            "sentences": "Rerum et ut dolores fuga. Nesciunt eius iste distinctio omnis eius. Repudiandae distinctio est tenetur qui et et voluptatum. Est ullam illum aut non ex maxime neque.",
+            "paragraph": "Est corrupti explicabo qui amet soluta consequatur eligendi impedit. Aut omnis in quaerat a quam vel ut. Nobis magnam ipsa occaecati deleniti eum eveniet impedit sunt omnis."
+        },
+        {
+            "words": "qui natus ut",
+            "sentence": "Minima sit dolorem voluptatem iure quasi.",
+            "sentences": "Sit accusantium sunt provident est rerum quidem et. Qui rem sunt quaerat iusto fugit et. Nihil et asperiores voluptas sit exercitationem. Accusamus aspernatur dolores autem. Et laboriosam perferendis laboriosam tempore. Voluptatem aperiam omnis suscipit minima harum amet non.",
+            "paragraph": "Sunt facere quae dolor aut delectus repellendus. Vel sit et voluptas non nemo iure unde at consequuntur. Facilis minus minima cupiditate nihil natus et labore. Ipsam dolorum rerum voluptatem et numquam omnis occaecati velit eveniet. Ut necessitatibus dolorem voluptatem molestias."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "302.01",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koss Group",
+            "name": "Money Market Account 8372",
+            "type": "withdrawal",
+            "account": "94089611"
+        },
+        {
+            "amount": "835.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beer and Sons",
+            "name": "Money Market Account 2481",
+            "type": "deposit",
+            "account": "92687297"
+        },
+        {
+            "amount": "345.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Toy - Ziemann",
+            "name": "Money Market Account 1364",
+            "type": "withdrawal",
+            "account": "61143714"
+        }
+    ]
+}

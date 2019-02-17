@@ -1,0 +1,72 @@
+{
+    "name": "Miss Nicholas Hessel",
+    "username": "Brooks81",
+    "email": "Nathen_Pollich@hotmail.com",
+    "address": {
+        "streetA": "Stanton Cove",
+        "streetB": "9582 O'Reilly Mill",
+        "streetC": "349 Angie Ports Apt. 546",
+        "streetD": "Apt. 192",
+        "city": "Lake Blakemouth",
+        "state": "Maine",
+        "country": "Denmark",
+        "zipcode": "79376-8053",
+        "geo": {
+            "lat": "-16.5099",
+            "lng": "-162.1849"
+        }
+    },
+    "phone": "(468) 510-6365",
+    "website": "wilhelm.net",
+    "company": {
+        "name": "Wolff, King and Hills",
+        "catchPhrase": "Team-oriented composite encoding",
+        "bs": "bricks-and-clicks mesh initiatives"
+    },
+    "posts": [
+        {
+            "words": "hic quis voluptas",
+            "sentence": "Quia qui est dolore voluptatem et ab perferendis.",
+            "sentences": "In impedit quo sed et deserunt voluptate ut. Et non est iusto et nostrum. Voluptatum dolor error iure sint soluta. Minus officiis vel ex incidunt voluptatibus. Quaerat adipisci molestiae. Quo in eum quia ad sed.",
+            "paragraph": "Et sunt sit numquam. Quia nulla ipsum impedit distinctio consequatur eligendi optio. Ut consequatur commodi voluptas ex dolores. Vitae sapiente nesciunt enim dolorem. Ea ex aut natus dolorem eos. In necessitatibus illum quo."
+        },
+        {
+            "words": "sint sint hic",
+            "sentence": "Dolorem commodi dolor asperiores doloremque.",
+            "sentences": "Dolorum optio similique consequatur ipsa delectus. Veritatis ea quas error molestiae maxime. Nulla dolores sint ea. Magni non illum ut qui eum velit. Perferendis ad ea vitae veritatis exercitationem officia sapiente ut necessitatibus.",
+            "paragraph": "Quasi aliquid ipsum et facere. Rerum sit recusandae deserunt praesentium ut. Saepe in harum qui nisi perferendis ea voluptatem. Adipisci sed vitae ipsa vitae distinctio omnis."
+        },
+        {
+            "words": "cupiditate dolores pariatur",
+            "sentence": "Id aliquid cum et praesentium tempore modi sed.",
+            "sentences": "Aut aperiam rerum recusandae nam et et eos. Animi qui sed expedita tempora. Alias rerum quo explicabo delectus. Laboriosam nam sed quod. Quisquam distinctio libero ea qui aliquam. Architecto ut fugit magnam sit aperiam eius in.",
+            "paragraph": "Placeat exercitationem excepturi ab id ipsum vel. Consequuntur omnis est quibusdam cum labore saepe est. Iste aut et magni nihil nisi beatae sed ea eius."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "555.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Turcotte, Crona and Denesik",
+            "name": "Auto Loan Account 4099",
+            "type": "deposit",
+            "account": "12142948"
+        },
+        {
+            "amount": "886.66",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lebsack - Murphy",
+            "name": "Credit Card Account 9075",
+            "type": "withdrawal",
+            "account": "39604067"
+        },
+        {
+            "amount": "526.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Krajcik Group",
+            "name": "Home Loan Account 5678",
+            "type": "invoice",
+            "account": "62696690"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Jena Schmitt",
+    "username": "Susan_Breitenberg",
+    "email": "Sherwood32@gmail.com",
+    "address": {
+        "streetA": "Schuster Glens",
+        "streetB": "83038 Gussie Villages",
+        "streetC": "113 Hackett Centers Suite 297",
+        "streetD": "Apt. 461",
+        "city": "Bennettberg",
+        "state": "Missouri",
+        "country": "Mali",
+        "zipcode": "84411",
+        "geo": {
+            "lat": "33.7396",
+            "lng": "47.9787"
+        }
+    },
+    "phone": "(967) 177-3142",
+    "website": "sallie.org",
+    "company": {
+        "name": "Koss - Wolff",
+        "catchPhrase": "Reduced executive parallelism",
+        "bs": "value-added reinvent e-commerce"
+    },
+    "posts": [
+        {
+            "words": "tenetur numquam quia",
+            "sentence": "Repellendus dolores et.",
+            "sentences": "Sequi amet praesentium modi quos dolorum error dolore sit. Nihil qui rerum. Amet numquam dicta autem aut. Suscipit voluptatem veritatis nemo ullam laboriosam.",
+            "paragraph": "Qui quo aperiam quibusdam eum harum sit. Molestiae quisquam eius consequuntur non deserunt enim nostrum dolorem est. Id quae ut ut aperiam quis excepturi. Dolor sequi culpa laborum autem expedita sunt suscipit."
+        },
+        {
+            "words": "ipsam quo quisquam",
+            "sentence": "Ipsum expedita tenetur nam repellat modi quaerat ipsam.",
+            "sentences": "Hic distinctio nostrum ea sapiente doloribus quia dolor. Quia molestias vel modi temporibus quam culpa modi quod. Officia dolorem animi beatae quam. Corporis sequi molestias sed et occaecati et ducimus consequatur amet. Earum optio reiciendis non velit tenetur voluptas molestias qui exercitationem. Tempora placeat quis itaque ullam nihil impedit.",
+            "paragraph": "Voluptates exercitationem qui ullam corporis dolor repellat. Similique possimus doloremque officiis officiis modi. Assumenda est temporibus natus est tenetur non magni voluptas non. Et omnis nobis vitae vel minus ut. Dolorem error consectetur nulla nemo quibusdam."
+        },
+        {
+            "words": "qui consectetur possimus",
+            "sentence": "Enim architecto est a iusto.",
+            "sentences": "Sapiente repellat unde ut amet accusamus. Omnis dolores cum. Dolor aut quis aut sunt vero est hic. Natus sequi vel qui mollitia.",
+            "paragraph": "Voluptas totam nam et ipsum aspernatur voluptates temporibus. Vitae quidem reiciendis dolor. Dolorem dignissimos beatae est aut similique et qui. Aliquam assumenda sed sit aut mollitia ratione. Similique dicta praesentium. Voluptatibus culpa sunt."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "371.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hagenes Group",
+            "name": "Auto Loan Account 3807",
+            "type": "payment",
+            "account": "47195937"
+        },
+        {
+            "amount": "413.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wunsch - Farrell",
+            "name": "Home Loan Account 3603",
+            "type": "withdrawal",
+            "account": "49300099"
+        },
+        {
+            "amount": "301.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Donnelly, Hermiston and Haag",
+            "name": "Auto Loan Account 6497",
+            "type": "deposit",
+            "account": "74566718"
+        }
+    ]
+}

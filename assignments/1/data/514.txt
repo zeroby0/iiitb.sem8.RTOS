@@ -1,0 +1,72 @@
+{
+    "name": "Miss Lonie Breitenberg",
+    "username": "Oran.Russel",
+    "email": "Jeff7@gmail.com",
+    "address": {
+        "streetA": "Freeman Underpass",
+        "streetB": "962 Isobel Islands",
+        "streetC": "535 Will Bypass Suite 701",
+        "streetD": "Apt. 614",
+        "city": "Jakubowskihaven",
+        "state": "South Carolina",
+        "country": "Solomon Islands",
+        "zipcode": "79781-8110",
+        "geo": {
+            "lat": "42.8916",
+            "lng": "-69.5883"
+        }
+    },
+    "phone": "(347) 482-9039",
+    "website": "esmeralda.org",
+    "company": {
+        "name": "Flatley - Baumbach",
+        "catchPhrase": "Extended discrete ability",
+        "bs": "turn-key mesh models"
+    },
+    "posts": [
+        {
+            "words": "voluptatem voluptas veniam",
+            "sentence": "Explicabo et ad et et voluptates tempore rerum minus.",
+            "sentences": "Voluptatibus illum aut ea cum eum eaque praesentium. Voluptas molestiae et quidem.",
+            "paragraph": "Voluptas omnis nihil dolore corrupti vel aut. Deleniti consequatur enim reprehenderit molestiae ut velit deleniti nam aut. Nihil aut at consequatur omnis et harum molestiae."
+        },
+        {
+            "words": "asperiores quia qui",
+            "sentence": "Dicta ut est aperiam qui.",
+            "sentences": "Rerum dolores adipisci rerum. Atque aperiam quibusdam.",
+            "paragraph": "Expedita qui quod placeat aliquid. Quo sed repudiandae doloribus. Quo tempore velit quia similique. Beatae quos eligendi amet commodi."
+        },
+        {
+            "words": "dignissimos ex velit",
+            "sentence": "Autem enim id et.",
+            "sentences": "Aut cumque et. Accusamus quisquam veniam. Ab voluptatem eaque assumenda laborum veritatis.",
+            "paragraph": "Et corporis aut hic asperiores. Aliquam voluptate molestias. Sapiente distinctio rerum soluta."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "246.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Heller and Sons",
+            "name": "Personal Loan Account 7937",
+            "type": "withdrawal",
+            "account": "29998742"
+        },
+        {
+            "amount": "130.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gutmann - Schroeder",
+            "name": "Home Loan Account 0371",
+            "type": "payment",
+            "account": "49932075"
+        },
+        {
+            "amount": "175.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mosciski and Sons",
+            "name": "Investment Account 6075",
+            "type": "invoice",
+            "account": "33175903"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Ms. Caroline Deckow",
+    "username": "Dahlia_Reichel66",
+    "email": "Alec.Larkin46@yahoo.com",
+    "address": {
+        "streetA": "Spencer Row",
+        "streetB": "628 Janis Falls",
+        "streetC": "3844 Greenholt Prairie Suite 274",
+        "streetD": "Apt. 784",
+        "city": "Berenicehaven",
+        "state": "Montana",
+        "country": "Poland",
+        "zipcode": "29705",
+        "geo": {
+            "lat": "19.2006",
+            "lng": "-11.1003"
+        }
+    },
+    "phone": "246-851-5363",
+    "website": "joanie.name",
+    "company": {
+        "name": "Hagenes - White",
+        "catchPhrase": "Distributed next generation knowledge base",
+        "bs": "transparent enhance mindshare"
+    },
+    "posts": [
+        {
+            "words": "architecto est rerum",
+            "sentence": "Aut delectus praesentium laboriosam similique et aperiam voluptatem.",
+            "sentences": "Et est voluptatem omnis. In est molestias ratione fugiat. Nam ullam ratione rerum aut. Numquam nam doloremque nesciunt omnis libero iste. Est omnis ut asperiores culpa quis aspernatur numquam.",
+            "paragraph": "Consequatur rerum natus cupiditate recusandae itaque beatae voluptatum id sunt. Dolor error debitis quia eos dolores qui. Sunt voluptate atque fuga ut ut error. At distinctio quas voluptas necessitatibus neque minima temporibus dolor voluptas. Aut cum dolor voluptatem tenetur. Praesentium aut facilis optio est ut rem veniam animi hic."
+        },
+        {
+            "words": "sunt quibusdam commodi",
+            "sentence": "At voluptatem reiciendis.",
+            "sentences": "Omnis commodi ratione nam assumenda voluptas quae architecto consequuntur odit. Corporis non expedita doloribus tenetur. At repellendus quaerat dicta alias qui. Illum est inventore.",
+            "paragraph": "Molestias deleniti at maxime animi et a non explicabo. Et sequi optio porro. Aut odit libero veritatis at minima."
+        },
+        {
+            "words": "alias excepturi nemo",
+            "sentence": "Similique modi neque iste quia est tempore qui.",
+            "sentences": "Odio nihil facilis. Quisquam accusantium qui sint cumque qui est est eius consectetur. Non quia earum doloremque eligendi molestias et at labore. Alias eius omnis accusamus voluptatem laboriosam ipsum similique provident. Occaecati expedita reiciendis ea ipsum.",
+            "paragraph": "Deleniti labore praesentium in placeat. Quas non consequatur labore quaerat exercitationem pariatur non aut. Culpa animi optio voluptate blanditiis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "94.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fahey - Treutel",
+            "name": "Credit Card Account 9225",
+            "type": "withdrawal",
+            "account": "57328533"
+        },
+        {
+            "amount": "479.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jaskolski - Denesik",
+            "name": "Credit Card Account 3636",
+            "type": "withdrawal",
+            "account": "30860222"
+        },
+        {
+            "amount": "200.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ward, Ziemann and Reynolds",
+            "name": "Checking Account 3702",
+            "type": "withdrawal",
+            "account": "40698401"
+        }
+    ]
+}

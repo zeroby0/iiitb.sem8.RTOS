@@ -1,0 +1,72 @@
+{
+    "name": "Ms. Leonor Kunde",
+    "username": "Otho32",
+    "email": "Eli_Witting69@hotmail.com",
+    "address": {
+        "streetA": "Hauck Green",
+        "streetB": "6672 Lora Expressway",
+        "streetC": "5098 Bergnaum Lights Suite 692",
+        "streetD": "Suite 403",
+        "city": "New Giovani",
+        "state": "New York",
+        "country": "Kenya",
+        "zipcode": "04725",
+        "geo": {
+            "lat": "56.5883",
+            "lng": "177.4332"
+        }
+    },
+    "phone": "648-783-8886 x207",
+    "website": "sandy.name",
+    "company": {
+        "name": "Kilback Inc",
+        "catchPhrase": "Adaptive national protocol",
+        "bs": "seamless matrix content"
+    },
+    "posts": [
+        {
+            "words": "iure quia rerum",
+            "sentence": "Dignissimos consequatur molestiae explicabo sunt consequuntur debitis.",
+            "sentences": "Rerum assumenda enim quia reiciendis perferendis enim. Harum ex veritatis cumque. Sit aperiam nesciunt in placeat qui consequatur corporis quibusdam aperiam.",
+            "paragraph": "Eveniet culpa aliquid commodi et itaque iste. Nobis explicabo nostrum voluptates itaque quia. Expedita sit et."
+        },
+        {
+            "words": "exercitationem rerum minima",
+            "sentence": "Et id modi.",
+            "sentences": "Ad sit quaerat illo aperiam. Distinctio aliquid nihil.",
+            "paragraph": "Repudiandae et eos quo quasi unde temporibus placeat qui. Blanditiis odio doloribus omnis. Rem impedit occaecati et nesciunt. Et voluptatem sunt dolorem quia veniam et amet fugiat. Incidunt in aut veritatis illo inventore quo minus impedit. Occaecati delectus quia sed adipisci et porro impedit."
+        },
+        {
+            "words": "consequuntur consequatur rerum",
+            "sentence": "Voluptatum voluptas fuga autem perspiciatis cum maiores qui esse sapiente.",
+            "sentences": "Dolorum eligendi voluptatem vitae eveniet ipsum culpa cum eligendi nesciunt. Corporis cumque dolorem odit aspernatur animi quo in.",
+            "paragraph": "Repudiandae et voluptates. Laborum similique sit sit et ut deserunt ut sit. Commodi qui dolor aut voluptatem laudantium. Non soluta consequatur corrupti harum nemo aut est. Voluptatum doloremque dolorum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "645.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Adams Inc",
+            "name": "Personal Loan Account 8163",
+            "type": "invoice",
+            "account": "16518319"
+        },
+        {
+            "amount": "279.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Borer LLC",
+            "name": "Credit Card Account 7833",
+            "type": "invoice",
+            "account": "61462863"
+        },
+        {
+            "amount": "842.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Marvin - Wyman",
+            "name": "Auto Loan Account 4595",
+            "type": "invoice",
+            "account": "91236524"
+        }
+    ]
+}

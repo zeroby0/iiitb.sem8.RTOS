@@ -1,0 +1,72 @@
+{
+    "name": "Alvena Kunde",
+    "username": "Rylee_Lind",
+    "email": "Ian2@hotmail.com",
+    "address": {
+        "streetA": "Sterling Mount",
+        "streetB": "332 Willms Trail",
+        "streetC": "63623 Altenwerth Crossing Apt. 520",
+        "streetD": "Suite 387",
+        "city": "Lake Cathrineberg",
+        "state": "Alabama",
+        "country": "Dominican Republic",
+        "zipcode": "94637-6562",
+        "geo": {
+            "lat": "-82.8015",
+            "lng": "-142.7996"
+        }
+    },
+    "phone": "235-989-8993 x300",
+    "website": "jermaine.org",
+    "company": {
+        "name": "Fahey Group",
+        "catchPhrase": "Customer-focused attitude-oriented model",
+        "bs": "granular grow markets"
+    },
+    "posts": [
+        {
+            "words": "et tempore officiis",
+            "sentence": "Sed explicabo cupiditate quos earum quo labore sed.",
+            "sentences": "Odio facilis illum modi explicabo enim consequuntur repellat in. Omnis tenetur vel doloremque quos velit. Quisquam pariatur velit voluptatibus labore vel. Adipisci dolorem reprehenderit eaque aut aut accusantium beatae excepturi voluptatem. Numquam ab omnis cum accusamus ea quas voluptas accusantium. Non assumenda aut omnis voluptates quaerat impedit est.",
+            "paragraph": "Et molestias maiores laboriosam et distinctio nobis fugiat veniam facilis. Error facilis autem unde ab tempore totam. Qui occaecati incidunt et ea. Architecto quaerat in reprehenderit rerum. Fugiat non excepturi est. Temporibus soluta facilis impedit et sint nulla et."
+        },
+        {
+            "words": "ipsam saepe maiores",
+            "sentence": "Et quae sed.",
+            "sentences": "Qui mollitia et cumque similique voluptatum ad impedit totam. Qui excepturi dicta quisquam harum impedit qui ipsa quos. Debitis voluptatibus sed dignissimos labore. Quos nam magni quibusdam autem libero inventore. Magnam quae voluptatem omnis beatae ratione quod fugiat doloribus eveniet.",
+            "paragraph": "Nisi nostrum voluptas accusantium repellat et nulla illo ea maxime. Architecto et quia ipsam sunt perspiciatis. Et vel quia at cum aperiam dignissimos sit aut inventore."
+        },
+        {
+            "words": "velit eligendi in",
+            "sentence": "Et maiores eaque officiis.",
+            "sentences": "Voluptate expedita dolores. Corporis architecto quia. Alias architecto dolor quam reprehenderit ab velit optio laboriosam. Quo repellat omnis velit perferendis consequatur ipsam ad. Corporis aut quia nesciunt earum id officia autem.",
+            "paragraph": "A optio blanditiis molestias voluptas debitis reiciendis autem ut. Facere reprehenderit sequi iusto. Aperiam voluptatum inventore. Natus harum omnis cumque dolores. Libero quaerat eligendi est tenetur corrupti rerum dolorum. Deserunt placeat aperiam dolorum architecto debitis quisquam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "915.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pfeffer Inc",
+            "name": "Home Loan Account 0108",
+            "type": "deposit",
+            "account": "26630413"
+        },
+        {
+            "amount": "823.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Grant, Hirthe and Weber",
+            "name": "Money Market Account 9110",
+            "type": "payment",
+            "account": "51570760"
+        },
+        {
+            "amount": "461.97",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Roberts Group",
+            "name": "Credit Card Account 7945",
+            "type": "withdrawal",
+            "account": "51570219"
+        }
+    ]
+}

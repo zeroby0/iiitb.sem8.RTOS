@@ -1,0 +1,72 @@
+{
+    "name": "Maximillia Fritsch",
+    "username": "Makenna_Turner",
+    "email": "Kaley63@gmail.com",
+    "address": {
+        "streetA": "Littel Road",
+        "streetB": "51869 Lina Freeway",
+        "streetC": "901 Dibbert Mews Suite 574",
+        "streetD": "Suite 569",
+        "city": "Littelfurt",
+        "state": "Illinois",
+        "country": "Djibouti",
+        "zipcode": "39926",
+        "geo": {
+            "lat": "17.6287",
+            "lng": "77.0902"
+        }
+    },
+    "phone": "1-471-116-8257",
+    "website": "dortha.name",
+    "company": {
+        "name": "Bayer - Marvin",
+        "catchPhrase": "Centralized heuristic flexibility",
+        "bs": "open-source brand mindshare"
+    },
+    "posts": [
+        {
+            "words": "nesciunt voluptate beatae",
+            "sentence": "Aliquid modi quo repudiandae.",
+            "sentences": "Possimus voluptas blanditiis officiis fugiat ad aut. Ducimus excepturi nobis et vitae rerum fugit. Hic similique dignissimos mollitia dolores qui. Impedit pariatur provident magni autem expedita explicabo.",
+            "paragraph": "Facilis cupiditate tempora quibusdam doloremque enim sit omnis aut. Facilis voluptatibus commodi libero. Ea qui maiores et et voluptas recusandae distinctio est dolores. Culpa voluptas aut libero aut dolor voluptate hic."
+        },
+        {
+            "words": "qui omnis minus",
+            "sentence": "Iusto ut omnis dolore omnis perferendis quasi.",
+            "sentences": "Velit et et facilis aut sit ut. Ut sed aut vel dolorem et eveniet. Eaque corporis nulla dolor et. Odit quia numquam pariatur tenetur repudiandae officiis dicta. Laudantium sint itaque veniam qui tempore amet. Magni aut et accusantium.",
+            "paragraph": "Vitae non ut voluptas ad illo autem rerum adipisci consequatur. Alias quaerat a et earum quod sunt molestias. Est consequuntur libero quia laudantium laborum. Exercitationem voluptatibus alias ut voluptates voluptatum voluptatem in et eaque. Qui praesentium nihil."
+        },
+        {
+            "words": "libero ea exercitationem",
+            "sentence": "Ut minus dolorem animi necessitatibus natus quo.",
+            "sentences": "Quaerat vero eum quas at at optio ullam. Est sed natus excepturi impedit repudiandae tenetur eveniet. Ipsum est et aut minima. Repudiandae distinctio voluptatum velit incidunt inventore. Corporis natus officia magni dolorum nihil voluptates sint sed natus.",
+            "paragraph": "Sit iste voluptas dolores deleniti et et laboriosam. Rerum esse aperiam consequatur quis. Veniam blanditiis autem quia. Atque aut dignissimos vel ex numquam dolorum architecto et dolor. Provident odit sunt vitae qui iste et. Animi et earum reprehenderit nobis at omnis voluptatem consequatur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "86.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lubowitz Inc",
+            "name": "Savings Account 5241",
+            "type": "payment",
+            "account": "47325680"
+        },
+        {
+            "amount": "232.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Hara Group",
+            "name": "Home Loan Account 1596",
+            "type": "withdrawal",
+            "account": "90316750"
+        },
+        {
+            "amount": "324.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Homenick - Schumm",
+            "name": "Home Loan Account 6392",
+            "type": "deposit",
+            "account": "40045366"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Eric Kozey",
+    "username": "Lynn_Cormier79",
+    "email": "Delta61@hotmail.com",
+    "address": {
+        "streetA": "Brown Inlet",
+        "streetB": "53049 Mueller Extensions",
+        "streetC": "62731 Olson Inlet Apt. 223",
+        "streetD": "Apt. 587",
+        "city": "Reidstad",
+        "state": "Hawaii",
+        "country": "Tajikistan",
+        "zipcode": "27145",
+        "geo": {
+            "lat": "35.4839",
+            "lng": "-8.6373"
+        }
+    },
+    "phone": "1-083-852-8511 x753",
+    "website": "laron.biz",
+    "company": {
+        "name": "Klocko - Botsford",
+        "catchPhrase": "Advanced upward-trending workforce",
+        "bs": "enterprise benchmark e-commerce"
+    },
+    "posts": [
+        {
+            "words": "atque ab nihil",
+            "sentence": "Explicabo cum dolorem iusto qui voluptatibus.",
+            "sentences": "Est molestiae officia aut quas fugiat est quia. Dolores harum recusandae quasi recusandae quidem hic id. Autem dolore aliquam. Est sit voluptatem quod voluptatem a ut. Accusamus eos illo consectetur nisi eligendi voluptates sit placeat sequi.",
+            "paragraph": "Rem ducimus necessitatibus fuga et deleniti. Distinctio iusto fugiat illum laborum blanditiis voluptatum ut. Eius labore est velit dolor. Tenetur nostrum dignissimos autem ex aut. Aliquam in voluptas animi omnis."
+        },
+        {
+            "words": "qui at dolorum",
+            "sentence": "Facilis tenetur quia in est.",
+            "sentences": "Facilis voluptatibus repudiandae autem voluptas. Et sit dolore porro nihil sit excepturi perferendis commodi. Quam animi aliquid dolores maxime voluptatem libero id.",
+            "paragraph": "Quasi expedita et expedita et minima non facilis. Rerum quo dolorum est. Nihil quas quia recusandae est natus adipisci."
+        },
+        {
+            "words": "et quas ex",
+            "sentence": "Error saepe consectetur.",
+            "sentences": "Dolor dolores repellat culpa consequatur sit. Commodi non eos ut aut. Ipsum natus laborum provident aut non odit sunt aut. Quam eum est ullam voluptas quos. Voluptatem provident et sed adipisci dicta autem. Laudantium placeat perspiciatis.",
+            "paragraph": "Dolores ipsum maiores ea necessitatibus. Enim et labore deserunt expedita praesentium officia quae consequatur. Doloremque dolores sapiente possimus sunt nulla impedit exercitationem minus dolore. Sunt quo ea. Exercitationem quos neque repellendus ducimus possimus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "629.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Renner Inc",
+            "name": "Credit Card Account 8395",
+            "type": "deposit",
+            "account": "87752342"
+        },
+        {
+            "amount": "65.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Veum Group",
+            "name": "Personal Loan Account 9614",
+            "type": "deposit",
+            "account": "60683199"
+        },
+        {
+            "amount": "417.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wintheiser - Koepp",
+            "name": "Investment Account 3416",
+            "type": "withdrawal",
+            "account": "09903521"
+        }
+    ]
+}

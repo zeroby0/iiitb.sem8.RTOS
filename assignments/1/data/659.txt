@@ -1,0 +1,72 @@
+{
+    "name": "Patience Stehr",
+    "username": "Ashlynn_Hermiston",
+    "email": "Berry_Heller96@gmail.com",
+    "address": {
+        "streetA": "Metz Fall",
+        "streetB": "2633 Samanta Drives",
+        "streetC": "9517 Leannon Tunnel Suite 922",
+        "streetD": "Apt. 464",
+        "city": "Samaraview",
+        "state": "Montana",
+        "country": "Antarctica (the territory South of 60 deg S)",
+        "zipcode": "87215-0324",
+        "geo": {
+            "lat": "-30.1623",
+            "lng": "131.8624"
+        }
+    },
+    "phone": "1-225-229-7359 x3376",
+    "website": "jamil.biz",
+    "company": {
+        "name": "Beatty - Quitzon",
+        "catchPhrase": "Reverse-engineered directional architecture",
+        "bs": "back-end matrix vortals"
+    },
+    "posts": [
+        {
+            "words": "possimus totam velit",
+            "sentence": "Doloremque rem error quisquam ut natus saepe quos.",
+            "sentences": "Eveniet qui dolorem doloremque vitae. Eum aut voluptate dolores ut. Ea dignissimos odit. Quia illo doloribus eveniet quis.",
+            "paragraph": "Vel reiciendis et et itaque et veniam. Quae quo aut. Magnam et est dolores sint est ut. Amet porro quos iste placeat totam rem rerum qui."
+        },
+        {
+            "words": "sunt dolorum corrupti",
+            "sentence": "Nulla ut suscipit.",
+            "sentences": "Alias aliquid ad aut hic quo harum ullam molestiae suscipit. Animi sapiente minus eum sint iure est. Corporis officia voluptates sed est ipsa totam sunt vel.",
+            "paragraph": "Porro blanditiis aut eos odio consectetur aut. Eum sint possimus corrupti provident recusandae ipsum. Expedita asperiores non in tempore tenetur. Consectetur et ullam distinctio quia atque est quo consectetur ab. Sit velit dolores labore ut. Nihil ut est ad."
+        },
+        {
+            "words": "non quo sit",
+            "sentence": "Qui vel corporis minus dolores qui quia enim quae.",
+            "sentences": "Excepturi excepturi sapiente et velit natus aut quisquam dolores. Quam eos dolores praesentium. Beatae quam odit excepturi est voluptatum. Sapiente in officiis porro.",
+            "paragraph": "Quia animi quo. Quod repellendus molestias omnis ducimus ab eius nostrum similique provident. Iste assumenda alias ut eligendi voluptatem vero saepe consequatur veniam. Fugit aut et tenetur corrupti."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "165.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Windler and Sons",
+            "name": "Checking Account 3972",
+            "type": "invoice",
+            "account": "13559327"
+        },
+        {
+            "amount": "431.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McLaughlin, Zemlak and Moen",
+            "name": "Home Loan Account 8544",
+            "type": "deposit",
+            "account": "72344517"
+        },
+        {
+            "amount": "96.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Shanahan - O'Hara",
+            "name": "Credit Card Account 7521",
+            "type": "deposit",
+            "account": "40494882"
+        }
+    ]
+}

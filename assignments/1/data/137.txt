@@ -1,0 +1,72 @@
+{
+    "name": "Agustina Murazik",
+    "username": "Webster19",
+    "email": "Jennifer_Emmerich@hotmail.com",
+    "address": {
+        "streetA": "Rogahn Park",
+        "streetB": "66700 Federico Harbors",
+        "streetC": "94770 Avery Manor Apt. 984",
+        "streetD": "Apt. 742",
+        "city": "Lake Katherinebury",
+        "state": "New Mexico",
+        "country": "Belize",
+        "zipcode": "06875-0637",
+        "geo": {
+            "lat": "-43.8614",
+            "lng": "-23.5794"
+        }
+    },
+    "phone": "512.983.2805",
+    "website": "elliott.biz",
+    "company": {
+        "name": "Nikolaus, Halvorson and Fritsch",
+        "catchPhrase": "Visionary demand-driven analyzer",
+        "bs": "enterprise syndicate technologies"
+    },
+    "posts": [
+        {
+            "words": "eveniet est ratione",
+            "sentence": "Dignissimos et natus tempora dicta dolor numquam.",
+            "sentences": "Quia sint perspiciatis voluptates. Officiis id libero magni consequatur omnis ea ut. Deleniti eos aliquid at rerum sequi. Atque praesentium dignissimos nihil in et voluptatem aliquam corrupti maxime.",
+            "paragraph": "Consequatur consequatur dolores. Sed quam est voluptas neque explicabo molestiae omnis veniam aut. Amet est corrupti at molestiae harum id adipisci impedit. Enim inventore molestiae voluptate voluptas perspiciatis. Dolores vero ducimus deleniti est et."
+        },
+        {
+            "words": "suscipit velit explicabo",
+            "sentence": "Asperiores natus error quod eos qui officiis tempore.",
+            "sentences": "Aut nobis sequi. Deleniti illum rem sed repellat quia dolorem impedit culpa omnis. Quo eum ipsam impedit occaecati odit et corporis repudiandae architecto. Nihil incidunt enim ullam aut laudantium. Molestiae expedita laboriosam rerum hic at id aperiam corrupti.",
+            "paragraph": "Facere nisi dicta qui optio consequatur fugiat architecto voluptas odio. Consequatur fugit dolorum commodi veniam. Asperiores dolorem nobis dolorem et. Et voluptas quod et. Rerum nihil eos odio ab."
+        },
+        {
+            "words": "expedita earum quas",
+            "sentence": "Libero eos atque.",
+            "sentences": "Quo sed minima ex autem inventore omnis nesciunt. Est dicta quis. Vero qui aut voluptates aut. Non a non vel sed ut.",
+            "paragraph": "Minus est enim consequatur sapiente quod molestias qui. Corporis qui assumenda reprehenderit. Quo consequuntur animi exercitationem consequatur magnam. Officiis ducimus adipisci deserunt. Dolor in mollitia et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "845.86",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beahan, Baumbach and Schuppe",
+            "name": "Money Market Account 1548",
+            "type": "deposit",
+            "account": "62274132"
+        },
+        {
+            "amount": "536.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cruickshank - Wiegand",
+            "name": "Auto Loan Account 8494",
+            "type": "deposit",
+            "account": "03519638"
+        },
+        {
+            "amount": "784.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Larson - Schumm",
+            "name": "Checking Account 9684",
+            "type": "withdrawal",
+            "account": "97812408"
+        }
+    ]
+}

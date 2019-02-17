@@ -1,0 +1,72 @@
+{
+    "name": "Ryleigh Hamill",
+    "username": "Moises.Altenwerth",
+    "email": "Anya_Mertz98@gmail.com",
+    "address": {
+        "streetA": "Leuschke Mountains",
+        "streetB": "6235 Sipes Road",
+        "streetC": "1633 Aletha Turnpike Suite 188",
+        "streetD": "Suite 656",
+        "city": "West Lavonshire",
+        "state": "New Jersey",
+        "country": "Tajikistan",
+        "zipcode": "07145",
+        "geo": {
+            "lat": "40.1624",
+            "lng": "-144.0750"
+        }
+    },
+    "phone": "(950) 482-3023",
+    "website": "doyle.net",
+    "company": {
+        "name": "Jerde - Johnson",
+        "catchPhrase": "Progressive secondary matrix",
+        "bs": "dot-com evolve technologies"
+    },
+    "posts": [
+        {
+            "words": "provident et aut",
+            "sentence": "Dignissimos sequi magni.",
+            "sentences": "Nam non facilis tempore et enim modi iusto vel fuga. Beatae accusamus et facere. Aut non ut enim error rem iure. Et et doloremque labore veritatis dolorum nemo. Ut pariatur architecto qui et eos voluptate neque optio. Id fugit accusantium maxime deserunt sit.",
+            "paragraph": "Dolorem iusto accusamus magni odit. Sed sunt corrupti. Natus consequuntur dolores iure molestiae rem. Dolores ut laborum non blanditiis. Odio natus amet. Tenetur qui ea aut a."
+        },
+        {
+            "words": "placeat amet ipsam",
+            "sentence": "Nobis sed minima.",
+            "sentences": "Et saepe tenetur amet cum qui fugit possimus consequatur. Rem maxime rem odio blanditiis. Odio dolor libero sint porro hic error rerum autem quisquam. Molestiae nisi perspiciatis quae et.",
+            "paragraph": "Delectus quia in qui cumque. Deleniti vel dolore voluptas nemo odit. Nulla magni sed quia provident iure voluptas reprehenderit dolorum rem. Ut minus aut doloribus dolores excepturi voluptatem. Unde sunt velit et voluptas."
+        },
+        {
+            "words": "inventore ipsam explicabo",
+            "sentence": "Deserunt quidem facere quod a dolor voluptas.",
+            "sentences": "Cum ut illum rerum sapiente. Nobis excepturi eos facilis porro modi adipisci beatae. Corporis exercitationem sit officia quasi animi quaerat perspiciatis et quos. Sequi doloribus aliquid quia quibusdam ipsam adipisci.",
+            "paragraph": "Velit ipsum et quas dolore deserunt ad assumenda asperiores vel. Est qui debitis enim cupiditate et maxime veritatis. Ea odit error voluptas quo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "300.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bashirian, Gibson and Crooks",
+            "name": "Home Loan Account 1186",
+            "type": "invoice",
+            "account": "17638737"
+        },
+        {
+            "amount": "64.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mante, McGlynn and Upton",
+            "name": "Savings Account 5022",
+            "type": "deposit",
+            "account": "14469272"
+        },
+        {
+            "amount": "112.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mraz, Mills and Glover",
+            "name": "Money Market Account 2895",
+            "type": "deposit",
+            "account": "60363436"
+        }
+    ]
+}

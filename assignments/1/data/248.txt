@@ -1,0 +1,72 @@
+{
+    "name": "Keyshawn Casper V",
+    "username": "Fleta.Torphy",
+    "email": "Linnie_Kub79@gmail.com",
+    "address": {
+        "streetA": "Senger Land",
+        "streetB": "43195 Kovacek Parkways",
+        "streetC": "836 Will Trace Suite 450",
+        "streetD": "Apt. 366",
+        "city": "South Gordonside",
+        "state": "Maryland",
+        "country": "Niger",
+        "zipcode": "31955",
+        "geo": {
+            "lat": "2.6209",
+            "lng": "-51.9385"
+        }
+    },
+    "phone": "396.220.5331 x02238",
+    "website": "shanny.biz",
+    "company": {
+        "name": "Olson Inc",
+        "catchPhrase": "Polarised discrete migration",
+        "bs": "virtual drive solutions"
+    },
+    "posts": [
+        {
+            "words": "eum quibusdam inventore",
+            "sentence": "Necessitatibus nemo iste id.",
+            "sentences": "Explicabo laborum voluptates quia. Officia et quo. Nisi voluptas porro maxime molestias amet perspiciatis consequatur excepturi iusto. Aut repellat qui nemo nostrum quisquam deleniti.",
+            "paragraph": "Quae laboriosam laborum sint id enim. Voluptates aspernatur et odit earum unde. Ipsa autem est autem consequatur."
+        },
+        {
+            "words": "natus vel dolorum",
+            "sentence": "Sed quia et quia.",
+            "sentences": "Voluptas non quidem vitae ab voluptas qui minus consequatur. Vel minus deleniti quo eos veritatis ea corporis omnis illum. Dicta quibusdam delectus eum ab autem expedita maxime autem porro. Quaerat perferendis et voluptas assumenda et. Non nostrum dolor voluptatem. Unde eveniet vel eligendi et laudantium sed atque quia.",
+            "paragraph": "Dolor mollitia est illum consequuntur soluta facilis. Ad minus totam consequatur animi et molestias. Reiciendis sequi sit occaecati. Voluptas est qui. Eligendi alias unde animi perferendis."
+        },
+        {
+            "words": "autem ea sint",
+            "sentence": "Dolorem sit corporis neque nobis qui.",
+            "sentences": "Molestias aut rem esse. Magnam eaque omnis tempora tempore ut amet quisquam consequuntur nam. Nesciunt veniam et.",
+            "paragraph": "Est provident excepturi iure est maxime voluptas recusandae. Perferendis et magnam nisi excepturi eos ut. Perferendis officiis dolorem repudiandae enim facilis ipsam nesciunt repellat. Nemo accusantium iusto quo magni dignissimos laudantium rerum veritatis. Voluptatem eius aperiam delectus quaerat qui cum eligendi iure ad."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "689.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Leffler - Bartell",
+            "name": "Savings Account 2567",
+            "type": "withdrawal",
+            "account": "43494483"
+        },
+        {
+            "amount": "503.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Runte, Zemlak and Wiza",
+            "name": "Checking Account 7781",
+            "type": "deposit",
+            "account": "65296563"
+        },
+        {
+            "amount": "947.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Conner - Brown",
+            "name": "Personal Loan Account 9945",
+            "type": "deposit",
+            "account": "10652188"
+        }
+    ]
+}

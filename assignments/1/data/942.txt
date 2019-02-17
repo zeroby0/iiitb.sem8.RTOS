@@ -1,0 +1,72 @@
+{
+    "name": "Rowena Wisoky",
+    "username": "Tyshawn61",
+    "email": "Abe_Price@yahoo.com",
+    "address": {
+        "streetA": "Stanton Brook",
+        "streetB": "829 Eudora Track",
+        "streetC": "715 Stephania Inlet Suite 025",
+        "streetD": "Suite 419",
+        "city": "Hillarychester",
+        "state": "Vermont",
+        "country": "Burundi",
+        "zipcode": "70101-0661",
+        "geo": {
+            "lat": "-55.3995",
+            "lng": "-170.3272"
+        }
+    },
+    "phone": "600-324-6742",
+    "website": "daren.com",
+    "company": {
+        "name": "Stiedemann, Dach and Thompson",
+        "catchPhrase": "Team-oriented human-resource functionalities",
+        "bs": "ubiquitous revolutionize partnerships"
+    },
+    "posts": [
+        {
+            "words": "nulla animi sapiente",
+            "sentence": "Asperiores rem et alias officia.",
+            "sentences": "Enim reiciendis sed. Nisi architecto porro atque corporis et voluptas debitis eos vitae. Dignissimos vel error quo consequatur. Eum voluptas quod quis aspernatur ipsa aliquam voluptatem. Est vel iure. Totam quasi ex reiciendis inventore provident.",
+            "paragraph": "Eum corrupti veniam accusamus qui commodi totam. Quos quam quos quod numquam iste non culpa doloribus nemo. Tempore necessitatibus quidem ipsa commodi reiciendis. Dolorem alias et. Nihil recusandae consectetur sapiente est tenetur. Rerum sit repudiandae ut architecto odit et error repellat."
+        },
+        {
+            "words": "sed laudantium nisi",
+            "sentence": "Sint consequatur officiis aut sed ipsum nemo ut sed sunt.",
+            "sentences": "Explicabo incidunt non. Suscipit reprehenderit sit ut ducimus iste voluptatem quo labore. Quia debitis numquam. Voluptatem a est rerum sed eos laudantium. Minus quibusdam quo eius facere ut dicta sed libero qui.",
+            "paragraph": "Sequi laudantium dolor cupiditate inventore qui cum exercitationem. Voluptatem ullam aliquid assumenda perspiciatis voluptas placeat optio nobis. Natus temporibus commodi aut eligendi incidunt dignissimos."
+        },
+        {
+            "words": "ad quia architecto",
+            "sentence": "Et reprehenderit aliquid qui.",
+            "sentences": "Aliquid cupiditate illum dolorum unde quo. Ipsa velit sunt ea est et.",
+            "paragraph": "Dolorem rerum aspernatur in et rerum consequuntur quasi omnis libero. Eos fuga dolor maiores ratione quos. Nobis possimus quia totam ut numquam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "529.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gorczany - McClure",
+            "name": "Investment Account 6676",
+            "type": "deposit",
+            "account": "17077142"
+        },
+        {
+            "amount": "390.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wisoky Inc",
+            "name": "Investment Account 2260",
+            "type": "payment",
+            "account": "12322141"
+        },
+        {
+            "amount": "959.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "King LLC",
+            "name": "Money Market Account 5111",
+            "type": "deposit",
+            "account": "97359607"
+        }
+    ]
+}

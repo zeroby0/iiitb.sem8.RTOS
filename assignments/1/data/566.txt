@@ -1,0 +1,72 @@
+{
+    "name": "Adelia Mills",
+    "username": "Yesenia.Torphy",
+    "email": "Gerhard.Schmitt@gmail.com",
+    "address": {
+        "streetA": "Stehr Place",
+        "streetB": "494 Wyman Locks",
+        "streetC": "31698 McKenzie Extension Suite 860",
+        "streetD": "Apt. 566",
+        "city": "Lake Beverly",
+        "state": "Louisiana",
+        "country": "Timor-Leste",
+        "zipcode": "13523-6054",
+        "geo": {
+            "lat": "20.8749",
+            "lng": "-87.6440"
+        }
+    },
+    "phone": "193.721.9206 x683",
+    "website": "hazle.name",
+    "company": {
+        "name": "Thompson LLC",
+        "catchPhrase": "Stand-alone systematic task-force",
+        "bs": "innovative aggregate web-readiness"
+    },
+    "posts": [
+        {
+            "words": "sed adipisci velit",
+            "sentence": "Tempore vitae dolor voluptas ut omnis.",
+            "sentences": "Repudiandae minima corporis nostrum occaecati fugit quaerat architecto. Corporis cum et repellat at incidunt dolorum repellendus. Quisquam quia ut doloribus excepturi illo libero. Dolore animi dolorem in earum sint voluptatem. Porro aspernatur autem possimus labore.",
+            "paragraph": "Tenetur laborum similique repellat. Voluptates eum est illo omnis est ipsum quibusdam reprehenderit omnis. Eius ut et sed."
+        },
+        {
+            "words": "cum quam nam",
+            "sentence": "Error inventore velit qui quo.",
+            "sentences": "Ab asperiores impedit et sed officiis asperiores. Temporibus ut quia in laborum voluptatum maiores totam delectus consequatur. Numquam ut ut optio quibusdam cum voluptatem aspernatur iure voluptas.",
+            "paragraph": "Tempora soluta eum voluptate qui quod et cum vel. Necessitatibus dolores quia quis officia magni commodi omnis repellat blanditiis. Dicta voluptates non debitis."
+        },
+        {
+            "words": "omnis laboriosam sed",
+            "sentence": "Voluptatem nobis quasi.",
+            "sentences": "Consequatur non et illo est quo enim eum. Accusantium sed molestiae et exercitationem quas quia.",
+            "paragraph": "Qui itaque quis voluptates odit ipsa pariatur magnam debitis. Sunt odio eum sapiente et consectetur aut. Aut hic voluptate fuga doloremque molestiae illo impedit et officia. Vero placeat vel blanditiis atque corrupti omnis velit exercitationem consequatur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "7.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rogahn - Waters",
+            "name": "Investment Account 8250",
+            "type": "payment",
+            "account": "84485076"
+        },
+        {
+            "amount": "996.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Abshire, Zemlak and Tremblay",
+            "name": "Money Market Account 6905",
+            "type": "withdrawal",
+            "account": "19722913"
+        },
+        {
+            "amount": "155.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuphal - Hermiston",
+            "name": "Credit Card Account 1426",
+            "type": "deposit",
+            "account": "27337322"
+        }
+    ]
+}

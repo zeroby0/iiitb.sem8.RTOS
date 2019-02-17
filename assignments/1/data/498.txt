@@ -1,0 +1,72 @@
+{
+    "name": "Octavia Adams",
+    "username": "Louvenia_Wolff15",
+    "email": "Grayce_Schowalter28@yahoo.com",
+    "address": {
+        "streetA": "Dickinson Causeway",
+        "streetB": "7570 Bobby Squares",
+        "streetC": "1876 Skiles Ferry Suite 286",
+        "streetD": "Suite 458",
+        "city": "Pasqualeport",
+        "state": "Nebraska",
+        "country": "Chad",
+        "zipcode": "53235-5008",
+        "geo": {
+            "lat": "-58.2263",
+            "lng": "-48.8986"
+        }
+    },
+    "phone": "076.283.5123",
+    "website": "alexandro.biz",
+    "company": {
+        "name": "Ankunding Inc",
+        "catchPhrase": "Phased eco-centric policy",
+        "bs": "compelling whiteboard niches"
+    },
+    "posts": [
+        {
+            "words": "facilis minima nostrum",
+            "sentence": "Beatae ipsa in fuga assumenda itaque qui aspernatur et ipsam.",
+            "sentences": "Ipsum quaerat rerum excepturi doloribus non eos eos. Earum est voluptatem sint possimus. Quasi quae quasi placeat iure et consectetur sint nobis ut. Cum sequi et optio quia quaerat numquam. Omnis magni quod possimus rem et nesciunt laboriosam et. Deleniti porro earum et et amet.",
+            "paragraph": "Dignissimos sed expedita libero reiciendis et velit quo. Ut asperiores perspiciatis aspernatur. Similique autem rem et quam dolorem est id. Reiciendis doloremque ea dignissimos vitae odit sint dolores."
+        },
+        {
+            "words": "quod maiores laudantium",
+            "sentence": "Voluptatem et ullam aperiam necessitatibus molestias nesciunt ut.",
+            "sentences": "Autem saepe sed. Repellendus rem quibusdam. Occaecati minus iure sed qui. Perferendis optio ullam at repudiandae voluptatem at ut. Dolore quis esse. Quae pariatur error et voluptatem eius.",
+            "paragraph": "Temporibus facilis aspernatur voluptas et eum qui blanditiis illum ea. Eveniet quo at aut qui et fugit vel aliquid fugiat. Autem consectetur iure eum suscipit similique ut animi aperiam. Et magnam nesciunt ipsum voluptates aliquid praesentium molestias voluptatem omnis. Eum esse omnis ut ipsa nemo soluta. Facere accusantium vitae et facere incidunt inventore fugit."
+        },
+        {
+            "words": "dolorem distinctio sint",
+            "sentence": "Voluptatem corporis hic.",
+            "sentences": "Deserunt quod est blanditiis laborum sit velit. Totam unde officiis aut odio perspiciatis. Id et ipsum.",
+            "paragraph": "Eligendi ducimus consequatur vel voluptas odit est et voluptate dolores. Blanditiis sunt commodi praesentium dignissimos sequi nobis voluptatem atque voluptas. Ea omnis voluptates neque in nostrum quis repellendus. Aliquam expedita rerum perspiciatis assumenda nihil. Nulla rem et architecto quo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "859.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Breitenberg - Flatley",
+            "name": "Home Loan Account 8212",
+            "type": "withdrawal",
+            "account": "03986567"
+        },
+        {
+            "amount": "574.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Swaniawski - Kovacek",
+            "name": "Checking Account 0496",
+            "type": "deposit",
+            "account": "60271671"
+        },
+        {
+            "amount": "196.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hahn Group",
+            "name": "Checking Account 7778",
+            "type": "withdrawal",
+            "account": "41464402"
+        }
+    ]
+}

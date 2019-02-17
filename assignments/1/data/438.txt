@@ -1,0 +1,72 @@
+{
+    "name": "Harley Howe",
+    "username": "Rosemarie_Glover67",
+    "email": "Jerome85@hotmail.com",
+    "address": {
+        "streetA": "Bernier Grove",
+        "streetB": "2321 Alva Skyway",
+        "streetC": "816 Brooks Rue Apt. 981",
+        "streetD": "Apt. 222",
+        "city": "Karaside",
+        "state": "Delaware",
+        "country": "Lithuania",
+        "zipcode": "04142",
+        "geo": {
+            "lat": "30.3372",
+            "lng": "127.2067"
+        }
+    },
+    "phone": "1-004-829-7529 x258",
+    "website": "bernadine.biz",
+    "company": {
+        "name": "Treutel Group",
+        "catchPhrase": "Organized demand-driven alliance",
+        "bs": "world-class productize methodologies"
+    },
+    "posts": [
+        {
+            "words": "et est odio",
+            "sentence": "Et similique debitis maxime dolor.",
+            "sentences": "Sapiente exercitationem et aut ut. Quia dolor repellat consequatur aliquam ea illo esse aperiam assumenda.",
+            "paragraph": "Ipsa illum quia et. Est magni doloribus occaecati voluptatem. Neque reprehenderit qui nemo qui eius voluptas consequuntur velit in. Necessitatibus iste ullam ratione modi voluptas. Ullam eaque repellat similique voluptas eos et quibusdam qui."
+        },
+        {
+            "words": "nesciunt eius et",
+            "sentence": "Et reiciendis eveniet repudiandae.",
+            "sentences": "Sit fugiat exercitationem eum hic optio. Odit neque eum assumenda quam beatae. Magni ad voluptas numquam at quam. Fugiat delectus hic. Sit adipisci commodi facilis non quasi aut et eius.",
+            "paragraph": "Rerum accusamus recusandae id et delectus veniam est. Consequatur vero atque quibusdam quisquam consequuntur modi voluptatem. Id maxime libero voluptatum sed voluptatibus cumque. Dicta animi qui ullam ut voluptate soluta."
+        },
+        {
+            "words": "dolorem voluptatum sed",
+            "sentence": "Aut eum rerum perspiciatis ut iste aut officiis.",
+            "sentences": "Nam labore sed quod mollitia aliquid natus. Illo quia molestiae officiis quo. Ex alias voluptatem modi error maxime dolor. Quo rerum quas sunt deserunt reiciendis et ducimus nam voluptatem. Aliquam nobis reiciendis. Esse velit quia nobis.",
+            "paragraph": "Mollitia eligendi adipisci sit perferendis quae. Vitae vel dolor aliquid a tenetur iure sed est. Qui quod sint est. Animi totam sunt delectus aperiam minus quam aut iste. Rerum ipsum est cumque. Distinctio libero possimus quae architecto et praesentium."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "397.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kemmer and Sons",
+            "name": "Savings Account 3574",
+            "type": "invoice",
+            "account": "66523127"
+        },
+        {
+            "amount": "669.66",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nienow, Jacobs and Collins",
+            "name": "Credit Card Account 3055",
+            "type": "withdrawal",
+            "account": "28727753"
+        },
+        {
+            "amount": "398.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jenkins and Sons",
+            "name": "Checking Account 4195",
+            "type": "withdrawal",
+            "account": "66425655"
+        }
+    ]
+}

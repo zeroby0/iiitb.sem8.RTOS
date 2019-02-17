@@ -1,0 +1,72 @@
+{
+    "name": "Estella Miller DVM",
+    "username": "Ona_Shields70",
+    "email": "Mckayla_Hauck98@yahoo.com",
+    "address": {
+        "streetA": "Homenick Throughway",
+        "streetB": "355 Kelton Courts",
+        "streetC": "7411 Elton Roads Apt. 511",
+        "streetD": "Apt. 407",
+        "city": "North Sean",
+        "state": "Idaho",
+        "country": "Sweden",
+        "zipcode": "33416",
+        "geo": {
+            "lat": "89.8812",
+            "lng": "-82.5869"
+        }
+    },
+    "phone": "(121) 587-6386",
+    "website": "sim.name",
+    "company": {
+        "name": "Keebler, Quigley and MacGyver",
+        "catchPhrase": "Diverse bifurcated software",
+        "bs": "killer extend relationships"
+    },
+    "posts": [
+        {
+            "words": "ea velit maxime",
+            "sentence": "Excepturi voluptatibus tempore eveniet nihil.",
+            "sentences": "In in repellat nulla. Delectus non nulla sed quae dignissimos et ea. Nihil ea explicabo nulla libero temporibus modi excepturi modi. Dolore quod accusamus voluptatem quo eveniet eum non.",
+            "paragraph": "Delectus harum quo velit eum illum vel cupiditate commodi voluptatem. Sed quae animi in magnam qui sed. Odio nobis quae suscipit blanditiis incidunt et vel voluptates a. Iste officiis et nulla eligendi fuga sit voluptatem."
+        },
+        {
+            "words": "et est aliquid",
+            "sentence": "Beatae eos quia quia ipsum saepe cumque aut.",
+            "sentences": "Optio nisi occaecati autem et odit voluptate voluptas atque. Iusto culpa ab mollitia expedita voluptatum. Tempora est quia ipsam est aperiam placeat dignissimos expedita dicta.",
+            "paragraph": "Ea aut nesciunt sed sint facilis aperiam laborum tempora itaque. Explicabo veniam voluptatem beatae animi. Voluptatem qui et impedit laborum. Quas voluptatem quidem aut incidunt."
+        },
+        {
+            "words": "voluptatem aut explicabo",
+            "sentence": "Amet eius et deserunt quasi perferendis eaque.",
+            "sentences": "Eum voluptate provident voluptatem maiores atque cumque recusandae tempore voluptas. Vero ex quia.",
+            "paragraph": "Sequi rerum quis. Molestias exercitationem eaque aut facilis. Atque placeat sunt unde necessitatibus officiis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "25.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hermiston, Lebsack and Mayer",
+            "name": "Investment Account 2279",
+            "type": "withdrawal",
+            "account": "32349047"
+        },
+        {
+            "amount": "580.93",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Spinka, McCullough and Nicolas",
+            "name": "Home Loan Account 4877",
+            "type": "deposit",
+            "account": "21308698"
+        },
+        {
+            "amount": "982.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fay - Lesch",
+            "name": "Credit Card Account 6046",
+            "type": "invoice",
+            "account": "05001425"
+        }
+    ]
+}

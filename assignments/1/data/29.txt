@@ -1,0 +1,72 @@
+{
+    "name": "Elvera Breitenberg",
+    "username": "Christiana_McDermott",
+    "email": "Georgianna25@hotmail.com",
+    "address": {
+        "streetA": "Stokes Glen",
+        "streetB": "500 Dante Lodge",
+        "streetC": "7462 Jovany Estate Suite 671",
+        "streetD": "Suite 558",
+        "city": "Jordonside",
+        "state": "Rhode Island",
+        "country": "Jordan",
+        "zipcode": "63345-3440",
+        "geo": {
+            "lat": "80.7854",
+            "lng": "-129.0421"
+        }
+    },
+    "phone": "277-731-1053 x797",
+    "website": "devante.com",
+    "company": {
+        "name": "Gutmann LLC",
+        "catchPhrase": "Proactive intermediate artificial intelligence",
+        "bs": "back-end productize communities"
+    },
+    "posts": [
+        {
+            "words": "expedita ab molestiae",
+            "sentence": "Minima quas et enim et.",
+            "sentences": "Earum dolorum reprehenderit saepe optio. Iste rerum aliquam vero omnis fugiat ut enim qui. Voluptatem cupiditate laboriosam. Eum sunt unde nostrum. At expedita est est voluptate voluptas.",
+            "paragraph": "Nemo ipsum quibusdam. Sunt est et earum sit magnam. Fugit nihil quasi qui alias libero. Veritatis deleniti quia odit deserunt rem. Libero eum nesciunt consectetur sint placeat libero. Autem repellendus sed aliquam inventore totam dignissimos et aut voluptatem."
+        },
+        {
+            "words": "rerum animi hic",
+            "sentence": "Sed doloremque sint modi ut non et earum.",
+            "sentences": "Perferendis qui sunt culpa est id quia. Neque dolor molestiae aut quibusdam sint delectus incidunt delectus maiores. Quidem consectetur reiciendis eum earum non esse facilis ab. Nemo aliquam rerum quos repellat iste veniam magnam reiciendis. Est distinctio laborum omnis numquam voluptas perferendis commodi enim. Sed ipsam dolorum illum voluptas a.",
+            "paragraph": "Facere vel asperiores et minima quos. Aut animi est iusto ut nihil repudiandae aliquid earum. Eum earum molestiae dolorem quasi. Omnis perspiciatis rerum aut in adipisci. Nam laboriosam reprehenderit dolores enim quam illo iste et suscipit. Vero magnam voluptas in voluptatem asperiores."
+        },
+        {
+            "words": "quaerat labore amet",
+            "sentence": "Optio sed autem quibusdam neque nam officiis alias.",
+            "sentences": "Quo consequuntur molestias optio minima. Ut et libero rem odit aperiam quam cum quibusdam ipsam. Velit facere dolor quia suscipit.",
+            "paragraph": "Qui voluptatem quia aut natus et minima. Nostrum ipsum maxime ut iusto est sint pariatur voluptas praesentium. Sint aut aliquam est ipsa ut beatae. Nihil minus vitae reiciendis magnam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "470.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobi, Christiansen and Keeling",
+            "name": "Home Loan Account 1725",
+            "type": "deposit",
+            "account": "19758413"
+        },
+        {
+            "amount": "441.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hand - Connelly",
+            "name": "Checking Account 0328",
+            "type": "deposit",
+            "account": "78418194"
+        },
+        {
+            "amount": "767.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jerde and Sons",
+            "name": "Credit Card Account 0655",
+            "type": "withdrawal",
+            "account": "74392595"
+        }
+    ]
+}

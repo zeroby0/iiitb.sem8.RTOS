@@ -1,0 +1,72 @@
+{
+    "name": "Clair Hane",
+    "username": "Judy_Harris24",
+    "email": "Jalyn_Collins4@gmail.com",
+    "address": {
+        "streetA": "Schoen Road",
+        "streetB": "9632 Pfannerstill Prairie",
+        "streetC": "1374 Trantow Plaza Suite 859",
+        "streetD": "Suite 491",
+        "city": "Carmellaville",
+        "state": "Alabama",
+        "country": "Malta",
+        "zipcode": "68627-4450",
+        "geo": {
+            "lat": "-29.5463",
+            "lng": "-108.5462"
+        }
+    },
+    "phone": "098-027-0742 x3489",
+    "website": "lucius.net",
+    "company": {
+        "name": "Schowalter LLC",
+        "catchPhrase": "Switchable real-time data-warehouse",
+        "bs": "wireless whiteboard markets"
+    },
+    "posts": [
+        {
+            "words": "sint et nostrum",
+            "sentence": "Hic sit sunt fugit quae minima tempora voluptatem nobis.",
+            "sentences": "Deleniti culpa velit ut atque vero. Id amet necessitatibus eveniet occaecati voluptate aut illo doloremque ab. Et sit dicta. Labore et voluptas. Aut omnis odit odio rem voluptatibus sapiente ullam.",
+            "paragraph": "Labore et recusandae. Magnam dolores assumenda culpa aliquid qui quia velit quod adipisci. Ea beatae distinctio amet quia pariatur ex sit officia esse. Est veritatis distinctio."
+        },
+        {
+            "words": "nostrum et perspiciatis",
+            "sentence": "Harum sint laborum exercitationem ad numquam modi ipsam itaque omnis.",
+            "sentences": "Inventore eos at autem molestias rerum neque molestiae consequatur. A quidem aliquam officia quod veniam vel id qui officia. Velit corrupti ea.",
+            "paragraph": "Ut ea quam et totam iure mollitia ducimus dolor. At omnis quia at sed dolores magnam amet. Quasi exercitationem voluptates asperiores voluptas quibusdam inventore odio unde in. Quis culpa perspiciatis. Ut sed enim voluptatum rem amet mollitia voluptate enim quae. Nisi molestiae dignissimos nisi rerum labore."
+        },
+        {
+            "words": "architecto modi illum",
+            "sentence": "Ut suscipit quis et quia atque ut mollitia vero.",
+            "sentences": "Temporibus voluptatum et harum. Ullam id et eos sunt velit optio in.",
+            "paragraph": "Porro quos velit odio officiis id ut expedita doloremque. Alias voluptatibus fuga consequatur pariatur. At quis ut rem aut autem vitae magnam molestiae. Necessitatibus fuga perspiciatis velit. Amet eos quas quia magni numquam. Saepe minima itaque nulla occaecati id et consequatur deleniti non."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "595.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fay Inc",
+            "name": "Checking Account 5838",
+            "type": "invoice",
+            "account": "07898142"
+        },
+        {
+            "amount": "189.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Johnson Group",
+            "name": "Personal Loan Account 8446",
+            "type": "invoice",
+            "account": "78728329"
+        },
+        {
+            "amount": "101.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mayert Group",
+            "name": "Personal Loan Account 2711",
+            "type": "invoice",
+            "account": "46853611"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Mrs. Camren Little",
+    "username": "Casper.Lemke",
+    "email": "Sanford_Franecki@hotmail.com",
+    "address": {
+        "streetA": "Keyon Square",
+        "streetB": "4014 Della Keys",
+        "streetC": "647 Gulgowski Meadow Suite 027",
+        "streetD": "Apt. 347",
+        "city": "Veumland",
+        "state": "Arkansas",
+        "country": "Canada",
+        "zipcode": "54435",
+        "geo": {
+            "lat": "58.8968",
+            "lng": "41.8293"
+        }
+    },
+    "phone": "338.195.6062",
+    "website": "greyson.com",
+    "company": {
+        "name": "Nikolaus - Klein",
+        "catchPhrase": "De-engineered asymmetric database",
+        "bs": "web-enabled deploy architectures"
+    },
+    "posts": [
+        {
+            "words": "quisquam commodi eos",
+            "sentence": "Rerum aut accusamus ratione.",
+            "sentences": "Voluptatum doloremque quo. Odio voluptatem fugiat. Dolorem id ut. Vel qui optio. Adipisci ad architecto repellat tempore cumque. Laudantium rerum adipisci.",
+            "paragraph": "Ratione totam quo consequatur aperiam qui magni possimus sequi vel. Corporis blanditiis repellat qui quis commodi ut ut provident. Quos asperiores cum."
+        },
+        {
+            "words": "explicabo et unde",
+            "sentence": "Corrupti dolores voluptate quae autem quas reprehenderit.",
+            "sentences": "Laboriosam minus repudiandae et necessitatibus dolorum. Voluptates porro voluptates perferendis numquam. Quod deleniti dicta veniam suscipit laboriosam est est hic nam. Voluptas molestiae est in et.",
+            "paragraph": "Deleniti quod voluptatem perferendis. Modi eius consequuntur et sint illum eveniet et. Nobis magni itaque molestiae. Nemo praesentium error reiciendis et distinctio culpa fugit reiciendis."
+        },
+        {
+            "words": "consequuntur et vitae",
+            "sentence": "Totam voluptates tempore doloribus enim tenetur.",
+            "sentences": "Excepturi cum accusantium est quia impedit quam. Quis magnam saepe fugiat. In cum nihil ab repellat in.",
+            "paragraph": "Et quod dolores sequi et voluptatem. Reprehenderit ut quia doloribus. Est amet mollitia deleniti animi eum voluptatibus. Rem eos quos laudantium est architecto nam voluptatum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "326.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Morissette - Littel",
+            "name": "Personal Loan Account 3768",
+            "type": "invoice",
+            "account": "12954865"
+        },
+        {
+            "amount": "843.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Feeney - Stracke",
+            "name": "Checking Account 7505",
+            "type": "payment",
+            "account": "58853418"
+        },
+        {
+            "amount": "787.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McGlynn LLC",
+            "name": "Credit Card Account 3474",
+            "type": "deposit",
+            "account": "85102142"
+        }
+    ]
+}

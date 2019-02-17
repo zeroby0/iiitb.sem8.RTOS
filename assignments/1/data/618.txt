@@ -1,0 +1,72 @@
+{
+    "name": "Mathias Jacobi",
+    "username": "Shakira51",
+    "email": "Gerald_Watsica68@yahoo.com",
+    "address": {
+        "streetA": "Luciano Fork",
+        "streetB": "685 Kiehn Dam",
+        "streetC": "07449 McCullough Courts Suite 321",
+        "streetD": "Suite 783",
+        "city": "Port Kaileeshire",
+        "state": "Maryland",
+        "country": "Singapore",
+        "zipcode": "92637-9156",
+        "geo": {
+            "lat": "-60.4050",
+            "lng": "-1.9900"
+        }
+    },
+    "phone": "(425) 898-8886",
+    "website": "annamarie.net",
+    "company": {
+        "name": "McGlynn, Davis and Cummings",
+        "catchPhrase": "Business-focused asynchronous concept",
+        "bs": "virtual streamline e-commerce"
+    },
+    "posts": [
+        {
+            "words": "quia voluptas ipsa",
+            "sentence": "Doloribus eaque reprehenderit unde unde ullam ut sit vel repellat.",
+            "sentences": "Possimus molestiae id est sunt voluptatem unde et consequatur. Iste nostrum qui. Consectetur quaerat recusandae. Fugiat ipsum rem molestiae aut temporibus saepe fugiat.",
+            "paragraph": "Et molestiae ipsam et et quia cupiditate. Et at laborum ullam voluptates. Eligendi placeat sed. Doloremque deleniti rerum voluptas sapiente. Et ut sit non eaque in. Rem porro quia aut officiis beatae."
+        },
+        {
+            "words": "corporis non et",
+            "sentence": "Culpa aut non fuga voluptatum tempore omnis quia.",
+            "sentences": "In et porro. Quos expedita corporis a quae dolor sit rem qui deleniti. Ut laboriosam aut neque magnam quia temporibus. Amet quia expedita totam iste error. Unde velit repudiandae qui dolor. Qui at rerum alias necessitatibus.",
+            "paragraph": "Nobis exercitationem sequi voluptatem quia atque quo. Veritatis labore inventore est. Est minima amet eius enim qui ut quis nam reiciendis. Quo fugit et."
+        },
+        {
+            "words": "earum quasi assumenda",
+            "sentence": "Illo sint et non quia.",
+            "sentences": "Omnis enim dolor amet labore perferendis impedit ipsam ducimus. Ut dolorem fugiat veritatis veniam necessitatibus vel. Et voluptatem ipsum eos qui architecto esse. Et possimus reiciendis dolor corporis aut incidunt. Rerum dolores est quo.",
+            "paragraph": "Modi nemo alias blanditiis fugiat. Magnam voluptate in et a qui ut quibusdam expedita est. Optio nam enim quisquam. Deleniti tempora quos provident nesciunt."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "706.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rodriguez, Schultz and Bednar",
+            "name": "Credit Card Account 6217",
+            "type": "deposit",
+            "account": "39447365"
+        },
+        {
+            "amount": "247.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sauer Inc",
+            "name": "Money Market Account 2380",
+            "type": "withdrawal",
+            "account": "37814545"
+        },
+        {
+            "amount": "394.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Williamson - Hand",
+            "name": "Savings Account 3859",
+            "type": "payment",
+            "account": "76810531"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Marlen Hamill",
+    "username": "Jazmyn8",
+    "email": "Mara.McGlynn40@gmail.com",
+    "address": {
+        "streetA": "Magnus Plaza",
+        "streetB": "63090 Kieran Spring",
+        "streetC": "0476 Anna Shores Apt. 431",
+        "streetD": "Apt. 327",
+        "city": "Gaylordburgh",
+        "state": "Pennsylvania",
+        "country": "Switzerland",
+        "zipcode": "96833-9409",
+        "geo": {
+            "lat": "-23.4764",
+            "lng": "155.6924"
+        }
+    },
+    "phone": "239-414-6515 x326",
+    "website": "lois.com",
+    "company": {
+        "name": "Balistreri - Nikolaus",
+        "catchPhrase": "Fully-configurable multimedia framework",
+        "bs": "innovative enable e-markets"
+    },
+    "posts": [
+        {
+            "words": "quia sit inventore",
+            "sentence": "Ab aliquam rem voluptatibus.",
+            "sentences": "Qui qui vitae at sint molestias et rerum. Voluptatem hic deserunt. Quas quae qui. Commodi et nulla eligendi aut modi rem laborum.",
+            "paragraph": "Voluptates illum incidunt nisi velit asperiores possimus. Libero velit consectetur qui minima consequatur. Doloremque sint sapiente hic minima officia pariatur repellat explicabo."
+        },
+        {
+            "words": "deserunt doloribus ea",
+            "sentence": "Rerum expedita odio nobis sed magni consequatur.",
+            "sentences": "Non minima nemo enim et. Sequi aut harum est. Perferendis aliquid expedita omnis odio accusantium sed.",
+            "paragraph": "Rerum occaecati ea. Animi quia quia id hic at aspernatur. Earum at nulla blanditiis. Aliquam voluptatibus non commodi officiis labore illum possimus."
+        },
+        {
+            "words": "fugiat laboriosam non",
+            "sentence": "Voluptatem nihil numquam odio vel eligendi.",
+            "sentences": "Rerum deleniti facilis voluptatem ea. Inventore quaerat animi dignissimos quae repellendus. Ullam magnam iusto fuga nemo veritatis vitae. Corporis quia dolor praesentium rerum id quia nobis. Autem et dolor sed iusto hic et reprehenderit doloribus. Id voluptatem corrupti autem.",
+            "paragraph": "Aut ea quia illum qui est quia quaerat fugit. Rerum et esse molestias. Nihil blanditiis culpa qui rerum tempora aspernatur soluta accusantium. Aperiam nesciunt ipsa sequi omnis eius error voluptatem aliquid sit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "175.31",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Blick - Zieme",
+            "name": "Credit Card Account 9363",
+            "type": "invoice",
+            "account": "43327032"
+        },
+        {
+            "amount": "209.29",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bayer, Beier and Ondricka",
+            "name": "Home Loan Account 3055",
+            "type": "withdrawal",
+            "account": "59252042"
+        },
+        {
+            "amount": "864.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Effertz - Stehr",
+            "name": "Savings Account 4717",
+            "type": "invoice",
+            "account": "24855770"
+        }
+    ]
+}

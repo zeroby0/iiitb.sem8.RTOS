@@ -1,0 +1,72 @@
+{
+    "name": "Myra Schmeler",
+    "username": "Laverne_Will",
+    "email": "Selmer.Gleason@hotmail.com",
+    "address": {
+        "streetA": "Juliet Squares",
+        "streetB": "868 Hickle Court",
+        "streetC": "025 Ricardo Mission Apt. 068",
+        "streetD": "Apt. 163",
+        "city": "Cordellmouth",
+        "state": "Oklahoma",
+        "country": "Latvia",
+        "zipcode": "71594-4176",
+        "geo": {
+            "lat": "23.9698",
+            "lng": "40.4502"
+        }
+    },
+    "phone": "1-579-957-9041 x369",
+    "website": "sigrid.info",
+    "company": {
+        "name": "Gaylord Group",
+        "catchPhrase": "Fundamental coherent definition",
+        "bs": "sexy drive applications"
+    },
+    "posts": [
+        {
+            "words": "quos non dolor",
+            "sentence": "Debitis velit quas.",
+            "sentences": "Officiis accusantium et nobis tempora architecto. Modi ex molestias. Tempora ipsum inventore modi dolor voluptatem eum vel.",
+            "paragraph": "Ut sed totam. Assumenda consequatur est ea ex aut. Voluptas ut veritatis dolorem et. Aliquid non et ratione nobis repellat. Quia iure quisquam dolorum."
+        },
+        {
+            "words": "sunt accusantium ut",
+            "sentence": "Hic voluptatem distinctio ratione porro asperiores sit pariatur laboriosam.",
+            "sentences": "Qui eius tempora. Et commodi cum sint. Consequuntur velit soluta. Dolorum nesciunt sit ut libero facere.",
+            "paragraph": "Molestias sint molestias nobis eum corporis ipsa. Exercitationem quia voluptas. Nesciunt quas sit non. Porro animi odio praesentium ut et iste voluptas dolorem mollitia. Non vero ab."
+        },
+        {
+            "words": "qui sit tenetur",
+            "sentence": "Mollitia sunt quo.",
+            "sentences": "Aut ut omnis est ducimus ut. Et et odit illum eligendi voluptatem sit iusto porro rerum. Sed enim veniam quasi rerum unde et et explicabo. Voluptatem magnam voluptatum dolorem maxime beatae optio veniam.",
+            "paragraph": "Voluptas omnis eum. Qui accusantium quo. Sed cupiditate modi provident. Voluptatum cum corrupti. Natus corrupti quos aut ipsam repudiandae porro. Voluptates dolores quam aut molestiae sit laudantium."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "149.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Corwin - Schiller",
+            "name": "Money Market Account 4417",
+            "type": "deposit",
+            "account": "72304249"
+        },
+        {
+            "amount": "113.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beahan, Hegmann and Batz",
+            "name": "Home Loan Account 9311",
+            "type": "payment",
+            "account": "99861213"
+        },
+        {
+            "amount": "81.72",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Grant - Jakubowski",
+            "name": "Personal Loan Account 9332",
+            "type": "invoice",
+            "account": "14519330"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Antone Will",
+    "username": "Arnulfo_Christiansen",
+    "email": "Jamaal8@hotmail.com",
+    "address": {
+        "streetA": "Carroll Rest",
+        "streetB": "62075 Nicolas Circles",
+        "streetC": "8816 Astrid Causeway Suite 974",
+        "streetD": "Suite 499",
+        "city": "Arielleshire",
+        "state": "Maine",
+        "country": "Guyana",
+        "zipcode": "69296",
+        "geo": {
+            "lat": "31.6372",
+            "lng": "-176.3899"
+        }
+    },
+    "phone": "(672) 653-0964 x4555",
+    "website": "emilio.info",
+    "company": {
+        "name": "Rohan Group",
+        "catchPhrase": "Phased incremental function",
+        "bs": "open-source deploy experiences"
+    },
+    "posts": [
+        {
+            "words": "ut amet eum",
+            "sentence": "Quos modi est ipsam quia.",
+            "sentences": "Est voluptatem rerum delectus eaque quasi officiis neque sint. Neque autem saepe. Eum vel quia odit eum. Officia nulla numquam non est quo nihil cum autem fugiat. Consectetur voluptas eos molestias et id qui maiores.",
+            "paragraph": "Voluptatem maxime debitis. Expedita fugit dolores in vel ipsa aperiam ut ut quod. Quaerat totam deserunt nobis id dolores quasi deserunt. Inventore tenetur dolorem voluptatem velit officiis qui deserunt est. Asperiores reiciendis eveniet est."
+        },
+        {
+            "words": "impedit similique occaecati",
+            "sentence": "Rem rerum sed laudantium minus consequuntur.",
+            "sentences": "Perferendis minus dolorem expedita eligendi facilis iure. Excepturi est aut suscipit. Porro hic praesentium consequatur numquam. Voluptatem dicta voluptatem quia odio.",
+            "paragraph": "Odio sunt et et rerum harum quia praesentium consectetur. Tenetur aut eaque. Qui rerum et officiis quisquam id totam expedita perspiciatis cumque. Consequatur voluptatem sapiente provident eaque et ut autem quo expedita. Autem et deserunt vel."
+        },
+        {
+            "words": "ut vero voluptatem",
+            "sentence": "Veniam molestiae deleniti eaque nemo dicta et.",
+            "sentences": "Eum dolores iure deleniti aut illum blanditiis. Asperiores sunt quibusdam libero et temporibus. Est eum expedita molestias sint consequatur esse.",
+            "paragraph": "Eos quod qui nulla dignissimos accusantium nemo. Dolores molestiae placeat sit quasi placeat. Consequatur quis quis dicta quam. Ut magni et earum laborum qui. Et molestiae quis rerum. Ea deserunt ut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "184.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Zboncak - Ortiz",
+            "name": "Personal Loan Account 8346",
+            "type": "invoice",
+            "account": "55135544"
+        },
+        {
+            "amount": "174.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jones - Terry",
+            "name": "Credit Card Account 7342",
+            "type": "payment",
+            "account": "26539661"
+        },
+        {
+            "amount": "164.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koch - Hoppe",
+            "name": "Money Market Account 7585",
+            "type": "withdrawal",
+            "account": "57398350"
+        }
+    ]
+}

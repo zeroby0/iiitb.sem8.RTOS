@@ -1,0 +1,72 @@
+{
+    "name": "Shyanne Mosciski",
+    "username": "Rafaela_Ullrich57",
+    "email": "Tomas52@hotmail.com",
+    "address": {
+        "streetA": "Aubree Shores",
+        "streetB": "135 Antoinette Radial",
+        "streetC": "31712 Gutkowski Lodge Apt. 977",
+        "streetD": "Suite 775",
+        "city": "Jazmynview",
+        "state": "Iowa",
+        "country": "Taiwan",
+        "zipcode": "47377",
+        "geo": {
+            "lat": "-35.8479",
+            "lng": "50.2420"
+        }
+    },
+    "phone": "1-700-584-7284 x567",
+    "website": "arvid.net",
+    "company": {
+        "name": "Stehr, Armstrong and Ferry",
+        "catchPhrase": "Function-based zero tolerance application",
+        "bs": "intuitive incubate supply-chains"
+    },
+    "posts": [
+        {
+            "words": "et omnis facilis",
+            "sentence": "Laudantium autem rem rerum rerum ea molestias.",
+            "sentences": "Voluptates quia ut reiciendis exercitationem maxime. Et consequatur sed voluptas quo aut.",
+            "paragraph": "Ducimus distinctio similique rerum aut perspiciatis. Officiis modi labore rerum. Eum repudiandae voluptas nemo nam corporis fugiat et incidunt."
+        },
+        {
+            "words": "eligendi iusto maiores",
+            "sentence": "Consectetur optio et delectus voluptatem dolorem accusantium non.",
+            "sentences": "Nulla voluptas dolorum. Nesciunt non qui debitis et fugit excepturi dolorem magnam.",
+            "paragraph": "Non atque similique doloribus recusandae et voluptatem. Dicta aut vitae. Sed tempore voluptatem. Sapiente non eum dolor labore. Quo inventore voluptate sed recusandae aliquam eius voluptatem molestias."
+        },
+        {
+            "words": "omnis sint quasi",
+            "sentence": "Nihil at nam quia culpa.",
+            "sentences": "Rem possimus veniam rerum et quos suscipit voluptas. Molestias sapiente dignissimos ipsum ut. Fugit soluta numquam omnis illo. Fugiat accusamus reprehenderit et ducimus veritatis assumenda ut.",
+            "paragraph": "Eum dignissimos sit eum id dolores voluptas nesciunt eos. Temporibus sit cumque. Ut adipisci explicabo quos. Hic ad tempore accusantium quam quasi velit. Totam ipsa aliquam et earum tempore voluptas sint laudantium."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "124.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Zieme - Nolan",
+            "name": "Auto Loan Account 8879",
+            "type": "payment",
+            "account": "07514341"
+        },
+        {
+            "amount": "804.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koelpin, Ziemann and Harvey",
+            "name": "Credit Card Account 9594",
+            "type": "payment",
+            "account": "16497789"
+        },
+        {
+            "amount": "970.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Boehm - Kuphal",
+            "name": "Personal Loan Account 4869",
+            "type": "withdrawal",
+            "account": "07635162"
+        }
+    ]
+}

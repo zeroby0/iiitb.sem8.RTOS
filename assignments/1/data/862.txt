@@ -1,0 +1,72 @@
+{
+    "name": "Sienna Mitchell",
+    "username": "Thomas.Rowe24",
+    "email": "Broderick.Anderson@hotmail.com",
+    "address": {
+        "streetA": "Rosario Passage",
+        "streetB": "9624 Tillman Ferry",
+        "streetC": "87462 Satterfield View Suite 123",
+        "streetD": "Suite 744",
+        "city": "North Annafort",
+        "state": "California",
+        "country": "Aruba",
+        "zipcode": "57662",
+        "geo": {
+            "lat": "-66.0059",
+            "lng": "43.7406"
+        }
+    },
+    "phone": "386.246.7674 x03055",
+    "website": "tyrell.net",
+    "company": {
+        "name": "Pacocha, Vandervort and Murazik",
+        "catchPhrase": "Cross-group non-volatile capacity",
+        "bs": "dot-com integrate schemas"
+    },
+    "posts": [
+        {
+            "words": "commodi reiciendis aperiam",
+            "sentence": "Aut quis accusamus et dolorem corrupti vero officiis.",
+            "sentences": "Qui deserunt error ut eius dignissimos repellat iure. Laudantium rerum itaque iure amet quaerat aut sit. Voluptas illum qui deserunt consectetur. Eos delectus qui cumque molestiae vel sapiente consequatur dolores atque. Qui sit quam id recusandae laboriosam.",
+            "paragraph": "Aut doloremque dolores quo ipsum sit fuga eaque sit cumque. Fuga odio amet rerum amet rem ab. Quaerat quos ullam quo. Voluptas deserunt et doloribus illo error sed. Illum voluptates labore omnis omnis veritatis laudantium occaecati fugiat dolores."
+        },
+        {
+            "words": "molestiae aperiam illum",
+            "sentence": "Perspiciatis placeat rerum in.",
+            "sentences": "Veritatis cupiditate sunt aut officia beatae. Inventore in rerum neque blanditiis. Sed maiores animi tempore dolorem nihil sed cum.",
+            "paragraph": "Pariatur laboriosam nesciunt rerum. Incidunt aliquid delectus ipsam vero cumque vel. Dolore sit dolores deleniti error cupiditate rerum sit dignissimos. Molestiae accusantium quod illo voluptatem."
+        },
+        {
+            "words": "enim dolor aut",
+            "sentence": "Ex alias neque incidunt atque voluptate.",
+            "sentences": "Et non culpa. Necessitatibus nisi maxime magnam incidunt.",
+            "paragraph": "Exercitationem aut laboriosam omnis tenetur. Sed amet eligendi adipisci dolores. Iusto id beatae nulla ea."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "197.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Swaniawski Inc",
+            "name": "Home Loan Account 0764",
+            "type": "withdrawal",
+            "account": "31177881"
+        },
+        {
+            "amount": "13.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ziemann, Cummings and Mayer",
+            "name": "Investment Account 7546",
+            "type": "withdrawal",
+            "account": "62659985"
+        },
+        {
+            "amount": "211.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pfeffer Group",
+            "name": "Personal Loan Account 0820",
+            "type": "payment",
+            "account": "82976639"
+        }
+    ]
+}

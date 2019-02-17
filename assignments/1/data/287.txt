@@ -1,0 +1,72 @@
+{
+    "name": "Helena Cummerata DDS",
+    "username": "Jayme_Kirlin96",
+    "email": "Cletus56@hotmail.com",
+    "address": {
+        "streetA": "Okey Plaza",
+        "streetB": "462 Jacobs Prairie",
+        "streetC": "28985 Trantow Keys Apt. 821",
+        "streetD": "Apt. 068",
+        "city": "North Johathan",
+        "state": "Alaska",
+        "country": "Cuba",
+        "zipcode": "31583-4206",
+        "geo": {
+            "lat": "80.4635",
+            "lng": "-67.9630"
+        }
+    },
+    "phone": "952-392-2310 x93616",
+    "website": "sigmund.name",
+    "company": {
+        "name": "Gorczany - Miller",
+        "catchPhrase": "Synchronised web-enabled moratorium",
+        "bs": "24/365 leverage experiences"
+    },
+    "posts": [
+        {
+            "words": "consequatur iure minus",
+            "sentence": "Necessitatibus corporis impedit veniam eum aut recusandae et.",
+            "sentences": "Consequatur qui est incidunt eos. Est eligendi ipsa reiciendis voluptatem nihil explicabo molestiae aliquam ut. Debitis architecto omnis aut dolore saepe libero. Ut cum nostrum odio quia.",
+            "paragraph": "Ullam possimus possimus laudantium necessitatibus ex. Rem omnis reiciendis. Quam modi at et temporibus quisquam corporis. Autem molestiae expedita minima."
+        },
+        {
+            "words": "ea et qui",
+            "sentence": "Eum asperiores itaque corporis accusamus nobis sit adipisci tempore.",
+            "sentences": "Nemo dolorum fugit omnis omnis. Ut qui autem eos. Eos officiis pariatur non. Non incidunt enim aliquam quis. Aut voluptates vel aut nulla non.",
+            "paragraph": "Est non dolor. Distinctio iste sit eum cupiditate officia ipsum eum voluptas. Nam nihil non sint nulla cupiditate nulla accusamus occaecati aperiam. Labore molestias hic et est aliquid molestiae nisi iusto. Ducimus odit non praesentium quo repellat laboriosam voluptatum quia."
+        },
+        {
+            "words": "sit saepe soluta",
+            "sentence": "Voluptatibus ut est asperiores sequi blanditiis molestiae.",
+            "sentences": "Dolorum consequatur quo amet eaque explicabo atque. Dolores voluptatem harum minus quia.",
+            "paragraph": "Exercitationem perspiciatis voluptas voluptatibus sint consequuntur. Accusamus repellendus occaecati rerum itaque totam cupiditate itaque expedita. Vero similique nobis commodi aspernatur sequi optio cupiditate impedit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "563.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rutherford Inc",
+            "name": "Checking Account 2643",
+            "type": "payment",
+            "account": "76628167"
+        },
+        {
+            "amount": "339.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Becker, Predovic and Swift",
+            "name": "Home Loan Account 0952",
+            "type": "withdrawal",
+            "account": "32368707"
+        },
+        {
+            "amount": "623.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Baumbach - Ortiz",
+            "name": "Credit Card Account 2886",
+            "type": "withdrawal",
+            "account": "00891919"
+        }
+    ]
+}

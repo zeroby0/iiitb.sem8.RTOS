@@ -1,0 +1,72 @@
+{
+    "name": "Betty Fritsch",
+    "username": "Will_Harvey",
+    "email": "Hulda_Goyette@hotmail.com",
+    "address": {
+        "streetA": "Schaden Squares",
+        "streetB": "9725 Rippin Expressway",
+        "streetC": "7996 Jayce Camp Suite 404",
+        "streetD": "Apt. 273",
+        "city": "Westville",
+        "state": "Colorado",
+        "country": "Marshall Islands",
+        "zipcode": "97713",
+        "geo": {
+            "lat": "-85.6185",
+            "lng": "-85.6496"
+        }
+    },
+    "phone": "1-193-213-6687 x8533",
+    "website": "terry.com",
+    "company": {
+        "name": "Heidenreich, Hartmann and Ernser",
+        "catchPhrase": "Progressive stable monitoring",
+        "bs": "efficient e-enable metrics"
+    },
+    "posts": [
+        {
+            "words": "aut est explicabo",
+            "sentence": "Voluptate dolore est dolore.",
+            "sentences": "Sunt aspernatur sit consequuntur sint voluptatem enim tenetur quis. Molestiae qui nostrum aspernatur excepturi. Ut sunt et modi aliquam.",
+            "paragraph": "Ut est ut corrupti ea id et aut et quo. Dolorem quasi omnis dolores qui et. Unde enim sit ad odio est saepe."
+        },
+        {
+            "words": "numquam omnis esse",
+            "sentence": "Nostrum libero quia qui.",
+            "sentences": "Molestias ut et blanditiis officiis qui odit. Sed dolore sed explicabo ut deleniti ut saepe sit nam.",
+            "paragraph": "Nulla tempore deleniti recusandae dolorum. Nesciunt dolores necessitatibus esse sit enim dolor iste. Officia ut id a non corrupti laudantium animi sint. Dolor provident et voluptatem occaecati et sint. Aliquid quis voluptatem sit et nostrum autem amet. Temporibus adipisci ea."
+        },
+        {
+            "words": "totam accusantium facere",
+            "sentence": "Beatae quis odio dolor cupiditate ex qui totam doloremque.",
+            "sentences": "Consequatur officiis quaerat quia commodi ab beatae qui dolores. Numquam hic ratione et.",
+            "paragraph": "Cum id perspiciatis. Consequatur cupiditate eum voluptate voluptatem. Nihil corrupti vel vitae est autem dignissimos velit neque. Nesciunt rerum facilis placeat hic ut. Qui hic dolor ratione non quos libero. Doloremque molestiae dicta ut et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "290.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Orn - Morar",
+            "name": "Credit Card Account 5131",
+            "type": "withdrawal",
+            "account": "03600273"
+        },
+        {
+            "amount": "547.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Eichmann - Batz",
+            "name": "Money Market Account 2206",
+            "type": "payment",
+            "account": "03881753"
+        },
+        {
+            "amount": "5.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nitzsche - Hansen",
+            "name": "Personal Loan Account 6990",
+            "type": "deposit",
+            "account": "86541304"
+        }
+    ]
+}

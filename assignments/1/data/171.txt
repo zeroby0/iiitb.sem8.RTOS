@@ -1,0 +1,72 @@
+{
+    "name": "Dr. Raegan Maggio",
+    "username": "Camryn.OHara84",
+    "email": "Hayden_Jacobs44@yahoo.com",
+    "address": {
+        "streetA": "Casper Roads",
+        "streetB": "9748 Anderson Courts",
+        "streetC": "04570 Kailee Extensions Suite 879",
+        "streetD": "Apt. 695",
+        "city": "North Leonmouth",
+        "state": "New York",
+        "country": "Fiji",
+        "zipcode": "69381-1716",
+        "geo": {
+            "lat": "-85.7121",
+            "lng": "-24.3192"
+        }
+    },
+    "phone": "(740) 120-4686",
+    "website": "jan.org",
+    "company": {
+        "name": "Welch LLC",
+        "catchPhrase": "Ameliorated attitude-oriented circuit",
+        "bs": "end-to-end deploy infomediaries"
+    },
+    "posts": [
+        {
+            "words": "eligendi ipsa eius",
+            "sentence": "Et alias dolores aut asperiores.",
+            "sentences": "Quos esse ratione. Rerum earum nostrum culpa ut.",
+            "paragraph": "Quod numquam ut facere ut hic voluptas. Sint rerum sed vitae consequatur. Laudantium minus aliquam quae ab quasi officiis itaque."
+        },
+        {
+            "words": "perferendis quaerat adipisci",
+            "sentence": "Deleniti nam in optio.",
+            "sentences": "Velit voluptates dolore sint iure. Veniam iste quas expedita ut nesciunt. Accusantium libero perspiciatis et praesentium explicabo voluptatum iusto. Sed ullam maiores non. Laboriosam ea dolor omnis et.",
+            "paragraph": "Tenetur provident nobis magnam odio minus ea. Dignissimos debitis sint. Qui sit vero. Sed magnam eos et vel cum recusandae totam architecto velit."
+        },
+        {
+            "words": "dignissimos numquam consequatur",
+            "sentence": "Rerum voluptas at sed aut adipisci et pariatur voluptas.",
+            "sentences": "Autem doloremque voluptates. Iusto quia aut. Et libero consequatur ipsum.",
+            "paragraph": "Et illum quis quos sed eaque accusamus et maiores dolore. Distinctio esse enim iste praesentium. Hic odio praesentium ratione dolor."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "71.72",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schulist - Barton",
+            "name": "Investment Account 0224",
+            "type": "deposit",
+            "account": "87651610"
+        },
+        {
+            "amount": "853.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rice, Swaniawski and Mayer",
+            "name": "Home Loan Account 8690",
+            "type": "invoice",
+            "account": "23918976"
+        },
+        {
+            "amount": "161.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bode - Keeling",
+            "name": "Savings Account 0399",
+            "type": "withdrawal",
+            "account": "43616981"
+        }
+    ]
+}

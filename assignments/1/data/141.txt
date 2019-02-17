@@ -1,0 +1,72 @@
+{
+    "name": "Maye Schmidt",
+    "username": "Johnathon_Boehm50",
+    "email": "Brook_Renner@hotmail.com",
+    "address": {
+        "streetA": "Klocko Lodge",
+        "streetB": "9961 Ward Knoll",
+        "streetC": "75325 Koss Common Apt. 246",
+        "streetD": "Suite 905",
+        "city": "East Rosellashire",
+        "state": "Mississippi",
+        "country": "Somalia",
+        "zipcode": "81470-9562",
+        "geo": {
+            "lat": "4.8859",
+            "lng": "14.1039"
+        }
+    },
+    "phone": "(560) 176-8157",
+    "website": "arturo.net",
+    "company": {
+        "name": "Keebler Inc",
+        "catchPhrase": "Optimized local matrices",
+        "bs": "robust recontextualize interfaces"
+    },
+    "posts": [
+        {
+            "words": "esse sit minus",
+            "sentence": "Itaque sed est nesciunt sint praesentium tenetur quaerat adipisci.",
+            "sentences": "Quaerat unde id culpa ea. Rerum consectetur asperiores exercitationem.",
+            "paragraph": "Eum quos vero sunt unde at qui. Culpa mollitia et aut consectetur pariatur modi praesentium numquam fuga. Velit vitae qui omnis itaque."
+        },
+        {
+            "words": "est quos facere",
+            "sentence": "Dolore et aliquid maxime consequatur nesciunt voluptatem tempora.",
+            "sentences": "Nisi nihil commodi aut voluptas dolores odit voluptas quia. Aut debitis nemo sapiente quo ea autem labore in. Id velit sapiente ut aut nihil pariatur. Ratione aut alias nostrum qui necessitatibus repellendus. Dolores quis tenetur similique qui nesciunt distinctio est et maiores. Ullam aut amet.",
+            "paragraph": "Laudantium reiciendis numquam quas vel libero ducimus. Culpa accusamus quasi rerum consequatur earum aut expedita. Voluptas sed et blanditiis illo rem ea omnis mollitia. Nam distinctio omnis magni nesciunt quo aut."
+        },
+        {
+            "words": "a velit molestiae",
+            "sentence": "Ut qui quod.",
+            "sentences": "Non consequatur est. Itaque dolores ea dolores enim quo qui. Ea ut nihil fugit. Illo eveniet et. Consequatur occaecati omnis quis eos. Numquam repellat praesentium ipsam non.",
+            "paragraph": "Quia deserunt aliquid saepe ad blanditiis culpa est cum numquam. Voluptatum ad vitae iusto. Veritatis vel reiciendis sequi rerum mollitia eos enim eligendi mollitia. Saepe voluptas dolorem praesentium doloribus enim voluptas magni. Illum commodi et qui corrupti ratione nihil. Quia maxime quasi corporis incidunt."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "55.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Nikolaus Inc",
+            "name": "Savings Account 2868",
+            "type": "invoice",
+            "account": "92648127"
+        },
+        {
+            "amount": "615.72",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Littel, Olson and Pfannerstill",
+            "name": "Personal Loan Account 5503",
+            "type": "withdrawal",
+            "account": "70903905"
+        },
+        {
+            "amount": "157.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Carter, Hodkiewicz and Tremblay",
+            "name": "Credit Card Account 8255",
+            "type": "payment",
+            "account": "44119605"
+        }
+    ]
+}

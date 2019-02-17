@@ -1,0 +1,72 @@
+{
+    "name": "Skyla Keeling",
+    "username": "Michel_Ernser",
+    "email": "Cleve87@hotmail.com",
+    "address": {
+        "streetA": "Eulalia Alley",
+        "streetB": "7151 Terrell Roads",
+        "streetC": "8069 Rodriguez Plaza Apt. 562",
+        "streetD": "Apt. 096",
+        "city": "O'Connerhaven",
+        "state": "Oklahoma",
+        "country": "Kenya",
+        "zipcode": "12412-4457",
+        "geo": {
+            "lat": "-79.8620",
+            "lng": "-23.1483"
+        }
+    },
+    "phone": "485-464-6779 x754",
+    "website": "susie.org",
+    "company": {
+        "name": "Rau Group",
+        "catchPhrase": "User-friendly static migration",
+        "bs": "strategic transition infomediaries"
+    },
+    "posts": [
+        {
+            "words": "fugit ut enim",
+            "sentence": "A laborum sit non qui dolore.",
+            "sentences": "Ex qui et occaecati rerum et voluptas. Odit corporis ipsa officia.",
+            "paragraph": "Laudantium sequi aliquid et. Ratione aut numquam. Excepturi est aliquam temporibus et corrupti id est mollitia. Harum est ipsam suscipit aut. Ut neque et sed. Ducimus ab sit est."
+        },
+        {
+            "words": "accusantium excepturi et",
+            "sentence": "Quia amet similique itaque.",
+            "sentences": "Quia repellendus optio ut quidem accusantium culpa quae illum aut. Non velit quae.",
+            "paragraph": "Labore cupiditate sed alias quam blanditiis. Soluta quibusdam optio temporibus non dolorem est tempora inventore. Eum accusamus laudantium illo beatae qui ea."
+        },
+        {
+            "words": "voluptatem voluptas officia",
+            "sentence": "Eius fugit et nobis odit aut porro nemo voluptatem.",
+            "sentences": "Nihil sit laborum laudantium eius necessitatibus officia eius et et. Tempore atque assumenda enim sit maxime optio. Tempore recusandae est dolor deserunt.",
+            "paragraph": "Laudantium inventore vel veritatis. Ab vitae nulla nihil sed mollitia non. Nam dicta ullam culpa sed quae dolorem. Alias officiis voluptatem est."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "448.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Turcotte - Dooley",
+            "name": "Savings Account 7774",
+            "type": "payment",
+            "account": "38874091"
+        },
+        {
+            "amount": "934.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Zboncak - Langworth",
+            "name": "Savings Account 7261",
+            "type": "invoice",
+            "account": "78740834"
+        },
+        {
+            "amount": "21.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Huels, Hoeger and Schmidt",
+            "name": "Money Market Account 6380",
+            "type": "invoice",
+            "account": "14106914"
+        }
+    ]
+}

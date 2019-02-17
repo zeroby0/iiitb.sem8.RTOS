@@ -1,0 +1,72 @@
+{
+    "name": "Brendan Stracke",
+    "username": "Kameron_Schroeder",
+    "email": "Jany_Cruickshank@yahoo.com",
+    "address": {
+        "streetA": "MacGyver Meadows",
+        "streetB": "6770 Lindsey Alley",
+        "streetC": "7152 Rosenbaum Trafficway Apt. 595",
+        "streetD": "Apt. 945",
+        "city": "West Parkerfurt",
+        "state": "Iowa",
+        "country": "South Georgia and the South Sandwich Islands",
+        "zipcode": "53105-1986",
+        "geo": {
+            "lat": "19.4475",
+            "lng": "60.1564"
+        }
+    },
+    "phone": "(088) 625-8634 x4636",
+    "website": "elissa.biz",
+    "company": {
+        "name": "Funk Inc",
+        "catchPhrase": "Persevering composite solution",
+        "bs": "B2C integrate infomediaries"
+    },
+    "posts": [
+        {
+            "words": "non quas et",
+            "sentence": "Repellat quis sint omnis maxime ut rerum maiores et.",
+            "sentences": "Mollitia possimus est expedita sunt qui rerum. Rem animi voluptatem facere et dignissimos aperiam aut corporis.",
+            "paragraph": "Dolorem id voluptatem dolorum eveniet rerum non quia eos. Laboriosam voluptatibus architecto consequatur illo. Ut saepe labore nulla doloribus delectus blanditiis. Modi iste accusantium voluptatem est aut repellat earum quia commodi."
+        },
+        {
+            "words": "laboriosam atque sit",
+            "sentence": "Repellendus eius reiciendis ea quo impedit velit id id.",
+            "sentences": "Totam nostrum error. Officiis velit asperiores omnis.",
+            "paragraph": "Odit officiis itaque repellat corporis corporis quaerat. Aperiam excepturi vel. Qui molestias velit quisquam autem. Odit excepturi facilis accusantium."
+        },
+        {
+            "words": "laudantium recusandae commodi",
+            "sentence": "Vero facere asperiores corrupti est quia nihil ducimus.",
+            "sentences": "Alias quia quae. Voluptatem ad optio eius error ullam ea nihil veritatis. Voluptates assumenda saepe. Voluptates necessitatibus cumque nemo eos laudantium sint vero sunt.",
+            "paragraph": "Autem sequi occaecati. Maiores iure labore rem corrupti sit deserunt dolorem reprehenderit enim. Quis cumque velit repellat dolores aut molestiae soluta veritatis cumque. Et nihil minus quos omnis sunt autem iusto. Neque ratione repellendus quia cupiditate dolor."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "687.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Hara Inc",
+            "name": "Home Loan Account 2845",
+            "type": "withdrawal",
+            "account": "63227644"
+        },
+        {
+            "amount": "294.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gerhold, Grady and Dooley",
+            "name": "Savings Account 5798",
+            "type": "invoice",
+            "account": "23917156"
+        },
+        {
+            "amount": "315.04",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Paucek LLC",
+            "name": "Checking Account 3601",
+            "type": "withdrawal",
+            "account": "97639916"
+        }
+    ]
+}

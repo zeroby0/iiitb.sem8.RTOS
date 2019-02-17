@@ -1,0 +1,72 @@
+{
+    "name": "Beryl Kuphal",
+    "username": "Jevon63",
+    "email": "Saige.Nitzsche57@yahoo.com",
+    "address": {
+        "streetA": "Shea Road",
+        "streetB": "00020 Nitzsche Lights",
+        "streetC": "26470 Bechtelar Avenue Apt. 009",
+        "streetD": "Suite 213",
+        "city": "Isadoremouth",
+        "state": "Idaho",
+        "country": "Suriname",
+        "zipcode": "79171",
+        "geo": {
+            "lat": "55.8713",
+            "lng": "137.9972"
+        }
+    },
+    "phone": "266.772.8137 x55631",
+    "website": "dagmar.name",
+    "company": {
+        "name": "Murazik - O'Conner",
+        "catchPhrase": "Grass-roots optimal core",
+        "bs": "one-to-one envisioneer metrics"
+    },
+    "posts": [
+        {
+            "words": "atque dolor mollitia",
+            "sentence": "Natus veritatis exercitationem aut est rerum quod.",
+            "sentences": "Ad et quia. Labore et quis provident aut pariatur error enim. Sed qui est id. Iure officia reprehenderit officia.",
+            "paragraph": "Eveniet beatae at iusto voluptatum dolorem corrupti. Accusantium enim ratione dolore non ullam qui. Est dolores cupiditate repudiandae molestiae voluptatem consequatur eum. Natus praesentium illo totam voluptatem asperiores enim non perferendis consequatur."
+        },
+        {
+            "words": "quia eaque quis",
+            "sentence": "Facilis quidem voluptatem necessitatibus nostrum sequi vel.",
+            "sentences": "Qui quaerat eligendi voluptatem voluptas illo repudiandae quia. Harum voluptatibus veniam quae. Distinctio amet quo adipisci dolores odio fugit et sapiente.",
+            "paragraph": "Qui consequatur nam necessitatibus tempore laboriosam harum quia. Cumque sunt qui sit nostrum perspiciatis. Et nihil possimus dolorum vel impedit quisquam. Nemo quis reprehenderit omnis vitae quam eaque omnis consequatur. Illo excepturi eius est enim autem aspernatur porro dolore alias."
+        },
+        {
+            "words": "qui quisquam nobis",
+            "sentence": "Aut voluptatem et.",
+            "sentences": "Earum dolore cupiditate accusantium atque laborum et enim animi magnam. Et veritatis expedita possimus beatae quaerat sit maxime. Illum pariatur accusamus inventore asperiores nostrum corrupti.",
+            "paragraph": "Cumque laudantium omnis dolores voluptatum. Et quia laudantium ullam repudiandae dolorem qui ab. Iure illo esse molestiae quae ex alias incidunt. Qui ad molestiae ut inventore dolorum nihil dolorum exercitationem. Rerum autem nemo. Consequatur sed dolor ab suscipit tempora et velit iure."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "63.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hyatt Group",
+            "name": "Auto Loan Account 1529",
+            "type": "deposit",
+            "account": "12961126"
+        },
+        {
+            "amount": "217.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dickinson - Harber",
+            "name": "Checking Account 3559",
+            "type": "withdrawal",
+            "account": "66531884"
+        },
+        {
+            "amount": "470.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schuster, Hirthe and Frami",
+            "name": "Checking Account 4487",
+            "type": "payment",
+            "account": "95154778"
+        }
+    ]
+}

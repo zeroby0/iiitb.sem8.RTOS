@@ -1,0 +1,72 @@
+{
+    "name": "Veronica Abbott",
+    "username": "Reba34",
+    "email": "Dena_Deckow0@yahoo.com",
+    "address": {
+        "streetA": "Runolfsson Way",
+        "streetB": "0626 Rex Junctions",
+        "streetC": "620 Lebsack Canyon Apt. 619",
+        "streetD": "Apt. 976",
+        "city": "New Antoniahaven",
+        "state": "Arizona",
+        "country": "Suriname",
+        "zipcode": "28442",
+        "geo": {
+            "lat": "61.7002",
+            "lng": "145.0863"
+        }
+    },
+    "phone": "1-390-887-0984",
+    "website": "liliana.net",
+    "company": {
+        "name": "Kessler, DuBuque and Effertz",
+        "catchPhrase": "Devolved demand-driven policy",
+        "bs": "frictionless grow e-commerce"
+    },
+    "posts": [
+        {
+            "words": "dolores aspernatur omnis",
+            "sentence": "Corporis necessitatibus incidunt voluptatem aut architecto dolorem est explicabo enim.",
+            "sentences": "Consectetur voluptas explicabo maiores velit veritatis iste. Ea quis aliquid incidunt temporibus incidunt a consequatur saepe. Aut voluptatibus quod fugiat quos sint ut pariatur velit. Et velit impedit perspiciatis ut consequatur. Eaque earum et accusantium sed sit architecto. Et quo deleniti quo.",
+            "paragraph": "Omnis quaerat dolore assumenda nihil distinctio est odio. Veniam quia adipisci tempore tempora dolorum quo voluptatem rerum nesciunt. At ducimus eos inventore est repudiandae aperiam."
+        },
+        {
+            "words": "possimus quo voluptatibus",
+            "sentence": "Velit nemo eos molestiae recusandae commodi.",
+            "sentences": "Ut consequatur libero et voluptatem. In natus id. Neque labore odit nobis vel tempora aperiam eum recusandae in. Est et nostrum ex. Vel omnis rerum.",
+            "paragraph": "Quam sapiente saepe exercitationem et iure est magnam velit officiis. Consequatur ipsa similique qui sapiente et. Numquam porro totam cupiditate laborum. Sint veniam voluptatem ex inventore id beatae quae qui."
+        },
+        {
+            "words": "sint dignissimos dicta",
+            "sentence": "Inventore sit sint.",
+            "sentences": "Ex dolorem nihil et eveniet rerum libero in similique. Vero et incidunt. Quaerat minima non quis ducimus sit dolores.",
+            "paragraph": "Facere eum ipsum quia ut molestias minima asperiores. Ad non quisquam fugiat. Fugit tenetur voluptas facilis nulla fuga eum tempore."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "831.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stoltenberg, O'Keefe and Williamson",
+            "name": "Checking Account 5881",
+            "type": "invoice",
+            "account": "99795005"
+        },
+        {
+            "amount": "978.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bechtelar - Ankunding",
+            "name": "Money Market Account 6961",
+            "type": "deposit",
+            "account": "92411605"
+        },
+        {
+            "amount": "342.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Upton Group",
+            "name": "Credit Card Account 4896",
+            "type": "withdrawal",
+            "account": "31305500"
+        }
+    ]
+}

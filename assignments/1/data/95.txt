@@ -1,0 +1,72 @@
+{
+    "name": "Markus Turcotte",
+    "username": "Jodie48",
+    "email": "Alessandra_Homenick13@hotmail.com",
+    "address": {
+        "streetA": "Welch Roads",
+        "streetB": "6307 Trenton Extension",
+        "streetC": "423 Morar Fall Apt. 722",
+        "streetD": "Suite 126",
+        "city": "North Dasia",
+        "state": "California",
+        "country": "Wallis and Futuna",
+        "zipcode": "19741",
+        "geo": {
+            "lat": "-31.3175",
+            "lng": "50.4273"
+        }
+    },
+    "phone": "753.443.3645 x1779",
+    "website": "lloyd.info",
+    "company": {
+        "name": "Nienow Group",
+        "catchPhrase": "Exclusive non-volatile methodology",
+        "bs": "dot-com reintermediate synergies"
+    },
+    "posts": [
+        {
+            "words": "et sunt voluptate",
+            "sentence": "Et sit quibusdam et quisquam et.",
+            "sentences": "Magnam consequuntur eaque sequi est. Asperiores nam delectus dignissimos id odit quibusdam beatae. Quibusdam tempore et neque asperiores numquam rerum voluptatibus libero voluptas.",
+            "paragraph": "Mollitia inventore maiores officia non cum tempore. Est aut est consequatur eos qui tenetur aut temporibus natus. Consequatur rerum ducimus aliquid. Tempore unde aut voluptatem dicta voluptas voluptate rerum tempora."
+        },
+        {
+            "words": "nulla voluptas dolores",
+            "sentence": "Fugit et architecto repudiandae at quas.",
+            "sentences": "Excepturi qui sit molestiae repellendus doloremque sit et. Qui aliquid atque quia harum. Placeat nobis exercitationem aut est quae dolor fugit iure. Aliquid soluta eveniet inventore. Quia quisquam dolor. Rerum et blanditiis.",
+            "paragraph": "Vero inventore pariatur. Velit soluta sit. Voluptate ab non in accusamus dolores ea nam nemo. Vel sunt natus id molestiae nulla quos. Autem excepturi omnis et voluptas ad ad et illo."
+        },
+        {
+            "words": "similique quia velit",
+            "sentence": "Numquam odio aperiam maxime voluptate odio maiores excepturi vel.",
+            "sentences": "Distinctio dignissimos sint labore est dolorum ipsa dolorem. Itaque harum qui. Quasi quo consequatur enim iusto veritatis quam aut laborum explicabo. Similique quia nihil tenetur distinctio deserunt ut veritatis et. Delectus animi ipsa consectetur enim dolor dicta dolores repudiandae vel.",
+            "paragraph": "Quidem iste porro voluptatem dignissimos atque eum sunt. Iure libero ipsam iusto ea non nulla ullam aut. Placeat iure distinctio consequatur ut. Non est adipisci sed. Magni aut voluptatem delectus. Pariatur illo error velit accusamus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "962.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "DuBuque Inc",
+            "name": "Home Loan Account 6506",
+            "type": "invoice",
+            "account": "51517377"
+        },
+        {
+            "amount": "150.31",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bayer, Adams and Greenholt",
+            "name": "Credit Card Account 7545",
+            "type": "invoice",
+            "account": "81778602"
+        },
+        {
+            "amount": "369.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Daugherty, Altenwerth and Robel",
+            "name": "Investment Account 2156",
+            "type": "invoice",
+            "account": "38049557"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Miss Trace Pagac",
+    "username": "Otho.Erdman",
+    "email": "Jermey.Lemke50@hotmail.com",
+    "address": {
+        "streetA": "Taryn Freeway",
+        "streetB": "59113 Leo Unions",
+        "streetC": "588 Wehner Loaf Suite 144",
+        "streetD": "Suite 788",
+        "city": "Mafaldaburgh",
+        "state": "Indiana",
+        "country": "Heard Island and McDonald Islands",
+        "zipcode": "27861-8333",
+        "geo": {
+            "lat": "-70.5957",
+            "lng": "37.5529"
+        }
+    },
+    "phone": "249-930-7572",
+    "website": "ethelyn.net",
+    "company": {
+        "name": "Boehm - Schultz",
+        "catchPhrase": "User-centric tertiary definition",
+        "bs": "collaborative disintermediate channels"
+    },
+    "posts": [
+        {
+            "words": "quasi sed a",
+            "sentence": "Excepturi vel optio corporis voluptatem tenetur.",
+            "sentences": "Qui ullam exercitationem necessitatibus quo iure et distinctio. Doloribus eos vel id eos. Non omnis tempora et repudiandae iste totam voluptas optio. Occaecati autem amet et eveniet qui dolores velit voluptatem. Officiis aut sapiente.",
+            "paragraph": "Aut quibusdam magnam consequatur voluptas pariatur autem eaque sed. Aut laboriosam assumenda sequi. Numquam illo dolore ut occaecati voluptatem. Similique explicabo non eum. Ducimus dolores similique ut eum expedita magni."
+        },
+        {
+            "words": "placeat recusandae magni",
+            "sentence": "Consequatur quo in et ut illo quia.",
+            "sentences": "Quis autem quia vel illum rerum non ipsa animi. Dolor molestiae repellendus sint ea eos.",
+            "paragraph": "Est molestiae at qui placeat commodi esse et hic. Est facere temporibus facilis aspernatur nihil vel. Maxime voluptas rerum et molestias sed aut."
+        },
+        {
+            "words": "nostrum perferendis et",
+            "sentence": "Corrupti veniam facere facere.",
+            "sentences": "Occaecati tempora et sequi. Itaque laudantium fuga quam aliquid incidunt. Qui et ad doloribus necessitatibus. Quasi impedit similique animi facilis laudantium maiores.",
+            "paragraph": "Deleniti omnis omnis facilis blanditiis vel tempore sit quibusdam sunt. Architecto non nemo porro eum ut voluptate. Enim blanditiis excepturi deleniti et sed molestiae nulla. Culpa voluptates laborum a non quia sed. Officia reprehenderit distinctio dolorem sed dolores molestias."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "210.51",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Walker - Rohan",
+            "name": "Credit Card Account 0972",
+            "type": "withdrawal",
+            "account": "34390946"
+        },
+        {
+            "amount": "274.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lynch LLC",
+            "name": "Personal Loan Account 2767",
+            "type": "deposit",
+            "account": "84303065"
+        },
+        {
+            "amount": "154.34",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wisoky, Morar and Dickens",
+            "name": "Credit Card Account 7151",
+            "type": "withdrawal",
+            "account": "13340177"
+        }
+    ]
+}

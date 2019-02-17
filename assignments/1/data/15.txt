@@ -1,0 +1,72 @@
+{
+    "name": "Donald Pfannerstill",
+    "username": "Alexys_Champlin17",
+    "email": "Derrick65@yahoo.com",
+    "address": {
+        "streetA": "Carlie Junction",
+        "streetB": "58536 Smith Ways",
+        "streetC": "997 Lynch Camp Suite 440",
+        "streetD": "Suite 814",
+        "city": "Dougport",
+        "state": "Ohio",
+        "country": "Holy See (Vatican City State)",
+        "zipcode": "27162",
+        "geo": {
+            "lat": "-75.0975",
+            "lng": "125.6861"
+        }
+    },
+    "phone": "364-242-5489",
+    "website": "daphne.biz",
+    "company": {
+        "name": "Gutkowski, Moore and Conroy",
+        "catchPhrase": "Reactive fault-tolerant definition",
+        "bs": "viral visualize methodologies"
+    },
+    "posts": [
+        {
+            "words": "ut aut modi",
+            "sentence": "Qui dolor exercitationem deleniti in aperiam.",
+            "sentences": "Distinctio voluptates omnis qui omnis voluptas qui nisi. Ut autem dicta qui magnam sit cum veritatis expedita.",
+            "paragraph": "Eum et nostrum. Asperiores repudiandae et quia sint nulla deleniti mollitia ut. Id tempora dolorum nam nihil dolorem reprehenderit. Vero et non. Sed incidunt libero est accusantium nemo."
+        },
+        {
+            "words": "totam necessitatibus doloribus",
+            "sentence": "Pariatur nihil omnis tempore minus.",
+            "sentences": "Esse qui et fuga. Dolores laborum neque doloremque quae est cupiditate vel eos.",
+            "paragraph": "Ipsa dolorem corrupti quos delectus. Ut ad error quaerat esse qui delectus debitis eius voluptatem. Eos amet aut explicabo rerum dolores. In nostrum dolores ut vel cum."
+        },
+        {
+            "words": "officiis et voluptatem",
+            "sentence": "Nemo maxime esse harum qui consequuntur quos rerum.",
+            "sentences": "Sit ut rerum consequuntur consequuntur. Cum assumenda exercitationem deserunt. Voluptatem ad vel suscipit nobis animi cumque eveniet et voluptas. Quis officiis omnis id.",
+            "paragraph": "Consequuntur qui veniam dolore iste fuga dolor non et sunt. Natus accusamus quibusdam esse nemo mollitia. In sapiente odit qui porro nesciunt quam praesentium. Ullam dolores sint quibusdam. Cupiditate sed natus voluptas porro quis. Sunt placeat natus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "932.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Olson - Funk",
+            "name": "Checking Account 2366",
+            "type": "deposit",
+            "account": "94553732"
+        },
+        {
+            "amount": "721.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McKenzie, Wuckert and Jacobs",
+            "name": "Home Loan Account 5344",
+            "type": "payment",
+            "account": "13107818"
+        },
+        {
+            "amount": "586.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Berge and Sons",
+            "name": "Credit Card Account 2464",
+            "type": "deposit",
+            "account": "19261624"
+        }
+    ]
+}

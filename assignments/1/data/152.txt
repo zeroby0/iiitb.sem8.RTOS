@@ -1,0 +1,72 @@
+{
+    "name": "Isai Armstrong",
+    "username": "Arden.Cruickshank",
+    "email": "Camylle8@gmail.com",
+    "address": {
+        "streetA": "Georgiana Mission",
+        "streetB": "28163 Kihn Mews",
+        "streetC": "74628 Juston Club Suite 249",
+        "streetD": "Apt. 167",
+        "city": "North Narciso",
+        "state": "Nevada",
+        "country": "Chile",
+        "zipcode": "43479-4828",
+        "geo": {
+            "lat": "28.6498",
+            "lng": "-5.5032"
+        }
+    },
+    "phone": "1-634-045-3345 x55361",
+    "website": "patricia.net",
+    "company": {
+        "name": "Grady - Kulas",
+        "catchPhrase": "Secured fresh-thinking standardization",
+        "bs": "open-source iterate channels"
+    },
+    "posts": [
+        {
+            "words": "non rerum facere",
+            "sentence": "Nobis distinctio et aperiam est eligendi.",
+            "sentences": "Aut aut error laboriosam qui consectetur error enim incidunt. Dolorum pariatur cumque qui quam.",
+            "paragraph": "Sit qui pariatur adipisci libero. Unde incidunt ratione omnis illum necessitatibus iusto. Doloribus fugit animi doloremque. Labore rerum quasi accusamus dolor quas sed eum distinctio. Id aut rerum expedita est laudantium placeat."
+        },
+        {
+            "words": "numquam impedit reprehenderit",
+            "sentence": "Facilis reprehenderit voluptatum enim.",
+            "sentences": "Velit aperiam numquam vel maxime rerum in. Quas quia in rerum numquam molestias cupiditate. Similique qui saepe vel numquam dolores rerum nostrum laboriosam. Maiores veritatis et ad adipisci repellendus iste sit ipsa.",
+            "paragraph": "Ad quas optio alias autem earum libero. Enim omnis in dicta. Aut quam blanditiis ut sunt. Dolores consequatur quia labore necessitatibus optio aliquid. Aspernatur similique beatae soluta ab enim consequuntur. Et eum eos velit ipsum beatae."
+        },
+        {
+            "words": "ullam vero atque",
+            "sentence": "Alias laudantium aut dolorem distinctio accusamus dolor.",
+            "sentences": "Amet est facere aut vitae in dolor et commodi. Nulla deserunt vel porro aliquam. Provident expedita sit aspernatur autem ratione ipsa. Commodi ut sit doloribus mollitia sint.",
+            "paragraph": "Tempore quo fuga. Debitis corporis rerum molestiae quibusdam assumenda quia rerum. Reiciendis minus consectetur alias esse est corrupti quidem. Dolores eius nihil aut voluptatem eos sit et et. Voluptatem voluptate voluptatibus quos accusantium excepturi corrupti porro molestias. Et voluptatem ab eum sunt praesentium in quo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "854.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Herman, Aufderhar and Turner",
+            "name": "Checking Account 1842",
+            "type": "payment",
+            "account": "76215995"
+        },
+        {
+            "amount": "749.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Buckridge Group",
+            "name": "Home Loan Account 2030",
+            "type": "payment",
+            "account": "53923985"
+        },
+        {
+            "amount": "611.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sanford, Gleason and Dare",
+            "name": "Personal Loan Account 0473",
+            "type": "payment",
+            "account": "83465919"
+        }
+    ]
+}

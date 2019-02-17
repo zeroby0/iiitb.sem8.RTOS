@@ -1,0 +1,72 @@
+{
+    "name": "Emerald Toy",
+    "username": "Levi84",
+    "email": "Llewellyn.Hills5@gmail.com",
+    "address": {
+        "streetA": "Jayda Drive",
+        "streetB": "701 Sibyl Summit",
+        "streetC": "7009 Dibbert Mews Suite 474",
+        "streetD": "Suite 339",
+        "city": "Romaineview",
+        "state": "Georgia",
+        "country": "Bahamas",
+        "zipcode": "46460-6959",
+        "geo": {
+            "lat": "17.5751",
+            "lng": "-38.4705"
+        }
+    },
+    "phone": "768-325-0306 x08827",
+    "website": "melba.com",
+    "company": {
+        "name": "Mraz - Crona",
+        "catchPhrase": "Operative clear-thinking support",
+        "bs": "proactive scale solutions"
+    },
+    "posts": [
+        {
+            "words": "beatae exercitationem exercitationem",
+            "sentence": "Aliquam sit enim placeat minus assumenda.",
+            "sentences": "Et nam ut ullam similique labore voluptas qui corporis iure. Voluptatem odio possimus sit consequatur sequi quod magnam. Repellendus nostrum sit iusto dolores optio qui laborum. Sunt dolores non consectetur voluptatem. Possimus et laboriosam. Quaerat incidunt ratione.",
+            "paragraph": "Sit cum consequatur laborum eos nulla quam. Aut ut adipisci sunt. Distinctio laudantium omnis totam consectetur sequi fugit corrupti. Quia dolorem voluptatibus laborum et odio."
+        },
+        {
+            "words": "vero nesciunt fuga",
+            "sentence": "Nesciunt tenetur non.",
+            "sentences": "Qui dolorum possimus dolorem eius reprehenderit omnis tempora omnis. Qui sed iure.",
+            "paragraph": "Culpa ea autem aut. Voluptas maxime nesciunt eos neque tenetur amet. Qui fugiat odio non sunt voluptas aut. Dolorem ad sed tenetur perspiciatis facilis consequatur et. Amet consequatur officia voluptates dolorem incidunt magnam consequatur eaque."
+        },
+        {
+            "words": "accusamus unde aspernatur",
+            "sentence": "Iusto cum amet.",
+            "sentences": "Facere id et accusantium placeat quibusdam. Commodi iusto omnis exercitationem qui non quis eum occaecati doloremque.",
+            "paragraph": "Culpa assumenda molestiae aut sit ratione odit. Ducimus dicta accusantium vero. Dolores omnis mollitia repellat perspiciatis sunt inventore."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "679.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cremin LLC",
+            "name": "Savings Account 2545",
+            "type": "invoice",
+            "account": "68627870"
+        },
+        {
+            "amount": "93.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Farrell, Lowe and Bradtke",
+            "name": "Money Market Account 9887",
+            "type": "invoice",
+            "account": "58944267"
+        },
+        {
+            "amount": "591.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Romaguera, Crist and Bauch",
+            "name": "Money Market Account 0947",
+            "type": "deposit",
+            "account": "05199737"
+        }
+    ]
+}

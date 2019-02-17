@@ -1,0 +1,72 @@
+{
+    "name": "Keeley Effertz",
+    "username": "Marvin_McKenzie80",
+    "email": "Consuelo_Trantow58@hotmail.com",
+    "address": {
+        "streetA": "Heller Bypass",
+        "streetB": "49970 Rocio Bypass",
+        "streetC": "587 Murray Ridges Suite 224",
+        "streetD": "Suite 999",
+        "city": "Kipton",
+        "state": "Indiana",
+        "country": "Antarctica (the territory South of 60 deg S)",
+        "zipcode": "12792-7330",
+        "geo": {
+            "lat": "-25.3666",
+            "lng": "-68.4279"
+        }
+    },
+    "phone": "1-420-493-4474",
+    "website": "erich.com",
+    "company": {
+        "name": "Bradtke - Wolf",
+        "catchPhrase": "Reverse-engineered needs-based support",
+        "bs": "holistic incubate experiences"
+    },
+    "posts": [
+        {
+            "words": "culpa est saepe",
+            "sentence": "Eveniet et cum quia.",
+            "sentences": "Nihil culpa unde sequi et architecto provident placeat nesciunt. Reiciendis necessitatibus quia temporibus minus ut quos totam dolores ut.",
+            "paragraph": "Non nostrum eius at labore ad cumque voluptatem at consequatur. Esse praesentium molestiae non quos omnis qui ut eveniet. Nihil quaerat sapiente. Error quam eos sint et consequuntur est. Iste voluptas labore nostrum consequatur quibusdam. Repudiandae quod aspernatur."
+        },
+        {
+            "words": "et qui perspiciatis",
+            "sentence": "Atque facere magni eos ducimus.",
+            "sentences": "Illum natus iusto excepturi unde illo fuga. Id magni saepe et. Qui quis itaque ipsa quia animi ut quo sapiente suscipit. Commodi quia consectetur.",
+            "paragraph": "Ducimus eum iure qui iusto ipsa. Nihil sed blanditiis debitis sed qui. Nihil sit temporibus autem eveniet inventore. Iure dicta aut facere et dolore officiis. Repellat nisi voluptate eaque vero neque. Optio eum voluptas voluptas odio nam praesentium qui inventore hic."
+        },
+        {
+            "words": "asperiores consequatur quis",
+            "sentence": "Repellat dolorum est non et qui dolores nostrum.",
+            "sentences": "Adipisci quia at eius. Id sit neque sed facere sit reprehenderit. Aut ad ut ipsam. Consequuntur hic ad quod voluptatem laborum dolorum.",
+            "paragraph": "Est et beatae est fuga eos provident non voluptates accusamus. Omnis enim provident sint eaque non omnis mollitia. Laborum quis in. Molestiae aut quae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "6.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Shanahan, Daugherty and Wilkinson",
+            "name": "Checking Account 2687",
+            "type": "deposit",
+            "account": "87987764"
+        },
+        {
+            "amount": "894.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hansen - McLaughlin",
+            "name": "Personal Loan Account 5761",
+            "type": "deposit",
+            "account": "70950817"
+        },
+        {
+            "amount": "656.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "VonRueden - Howe",
+            "name": "Investment Account 2355",
+            "type": "payment",
+            "account": "96369694"
+        }
+    ]
+}

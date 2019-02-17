@@ -1,0 +1,72 @@
+{
+    "name": "Stephania Gulgowski",
+    "username": "Augusta.Yost",
+    "email": "Marietta_Harvey@hotmail.com",
+    "address": {
+        "streetA": "Elmira Dam",
+        "streetB": "5968 Halvorson Rue",
+        "streetC": "039 Cali Way Apt. 791",
+        "streetD": "Suite 722",
+        "city": "Ferryton",
+        "state": "Texas",
+        "country": "Central African Republic",
+        "zipcode": "55162-5047",
+        "geo": {
+            "lat": "38.9877",
+            "lng": "-139.6543"
+        }
+    },
+    "phone": "077.852.6102 x221",
+    "website": "tyson.name",
+    "company": {
+        "name": "Smitham, Bauch and Lehner",
+        "catchPhrase": "Business-focused clear-thinking collaboration",
+        "bs": "strategic synergize experiences"
+    },
+    "posts": [
+        {
+            "words": "laudantium possimus porro",
+            "sentence": "Explicabo omnis quasi et.",
+            "sentences": "Quibusdam doloribus non cupiditate aut natus ut ut illum consequatur. Itaque et dicta minima. Quo sunt et. Architecto quo id velit iusto fugit quaerat et. Suscipit voluptas id aut et aspernatur excepturi voluptatem et.",
+            "paragraph": "Nulla expedita cum deleniti. Eum quasi culpa. Ea ex et fugiat et sint. Beatae fugiat beatae eum iusto molestiae aut provident."
+        },
+        {
+            "words": "culpa consequatur laudantium",
+            "sentence": "Culpa officia velit voluptatem tempora assumenda.",
+            "sentences": "Dolorum alias repellat rerum. Enim ut iure accusantium. Veritatis quis architecto voluptate necessitatibus iure sed voluptatem quo.",
+            "paragraph": "Aut at aliquam quis consequuntur et. Voluptatem sit ad commodi. Est cum nemo rem ea sunt qui a autem."
+        },
+        {
+            "words": "quia et aperiam",
+            "sentence": "Fugit et in.",
+            "sentences": "Aut rerum et at fugit laudantium ullam placeat alias. In maxime quibusdam expedita eius rerum. Voluptas quo neque delectus nostrum delectus. Aut fugiat sunt quo ut molestiae omnis voluptatem. Repudiandae explicabo temporibus aut temporibus vel.",
+            "paragraph": "Perferendis ut ut. Voluptates voluptatem sed aut pariatur blanditiis. Sit et incidunt adipisci nam. Perspiciatis ut ad ipsa optio aut enim maxime veritatis. Quos molestiae est qui quia dicta in."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "621.50",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Boyle and Sons",
+            "name": "Savings Account 7265",
+            "type": "withdrawal",
+            "account": "42496941"
+        },
+        {
+            "amount": "69.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Eichmann - Hansen",
+            "name": "Money Market Account 4239",
+            "type": "withdrawal",
+            "account": "86984497"
+        },
+        {
+            "amount": "522.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Boyer Group",
+            "name": "Credit Card Account 1893",
+            "type": "withdrawal",
+            "account": "05475022"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Forest Johnson",
+    "username": "Marvin_Hahn",
+    "email": "Bridget.Metz@hotmail.com",
+    "address": {
+        "streetA": "Gerda Knolls",
+        "streetB": "32940 Torey Plains",
+        "streetC": "047 Howe Via Suite 756",
+        "streetD": "Suite 807",
+        "city": "South Domenica",
+        "state": "Utah",
+        "country": "India",
+        "zipcode": "66338",
+        "geo": {
+            "lat": "71.8947",
+            "lng": "-106.9086"
+        }
+    },
+    "phone": "1-069-798-8868",
+    "website": "alden.com",
+    "company": {
+        "name": "Skiles - Sauer",
+        "catchPhrase": "Up-sized bifurcated migration",
+        "bs": "open-source maximize platforms"
+    },
+    "posts": [
+        {
+            "words": "voluptatem velit repellendus",
+            "sentence": "Et soluta vel aspernatur excepturi rem.",
+            "sentences": "Est non maiores accusantium est at nam ullam. Et commodi aut fuga vitae sit sed. Voluptatum non omnis facere architecto voluptas debitis sit et. Fuga incidunt est nam ut eum.",
+            "paragraph": "Minima non dolores aut quia maxime. Ea sunt quia quaerat voluptate nisi rerum illum cumque vitae. Et perspiciatis officiis sit ut. Iure minus fugiat voluptas suscipit quo illum quia non. In necessitatibus repudiandae impedit."
+        },
+        {
+            "words": "atque quisquam deserunt",
+            "sentence": "Quaerat et mollitia ducimus molestiae necessitatibus.",
+            "sentences": "Perferendis rerum tempore et praesentium. Voluptatum facere consequatur quia corporis ut pariatur corporis. Enim minus vel hic. Accusamus officia deserunt sit cum distinctio consectetur quo. Corrupti eos eum et. Minus rerum sunt dolorem ducimus est voluptatem.",
+            "paragraph": "Eveniet quo tempore et earum error id voluptatem illo accusamus. Culpa voluptatem id beatae. Fuga rerum hic error et ea."
+        },
+        {
+            "words": "aut rerum voluptates",
+            "sentence": "Dolorem fugiat cum.",
+            "sentences": "Fugiat ipsam repellat iusto. Quisquam provident sunt molestiae. Mollitia qui molestiae aliquam. Temporibus et ut voluptatem ipsam nemo non laboriosam sint.",
+            "paragraph": "Maiores id alias deserunt rerum eos voluptas voluptatem eveniet repellat. Officia nobis et quo molestiae. Consequatur nihil est repellat rerum a esse ab quisquam voluptatem. Consequuntur qui magni totam est earum reprehenderit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "808.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmidt - Steuber",
+            "name": "Checking Account 9648",
+            "type": "withdrawal",
+            "account": "04630750"
+        },
+        {
+            "amount": "64.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cole, Legros and Muller",
+            "name": "Money Market Account 3069",
+            "type": "invoice",
+            "account": "71533104"
+        },
+        {
+            "amount": "2.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Harber LLC",
+            "name": "Credit Card Account 5898",
+            "type": "withdrawal",
+            "account": "93807470"
+        }
+    ]
+}

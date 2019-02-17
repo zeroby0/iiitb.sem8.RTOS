@@ -1,0 +1,72 @@
+{
+    "name": "Torey Raynor",
+    "username": "Shaniya44",
+    "email": "Tyler81@gmail.com",
+    "address": {
+        "streetA": "Jerrell Burg",
+        "streetB": "721 Jacinto Crescent",
+        "streetC": "3846 Lilian Corner Apt. 586",
+        "streetD": "Apt. 405",
+        "city": "Schowalterberg",
+        "state": "Texas",
+        "country": "Myanmar",
+        "zipcode": "07717-9083",
+        "geo": {
+            "lat": "63.5626",
+            "lng": "173.1148"
+        }
+    },
+    "phone": "(139) 693-1987 x39427",
+    "website": "hobart.com",
+    "company": {
+        "name": "Luettgen LLC",
+        "catchPhrase": "Reactive coherent process improvement",
+        "bs": "revolutionary embrace web-readiness"
+    },
+    "posts": [
+        {
+            "words": "in omnis praesentium",
+            "sentence": "Accusamus ea fugit.",
+            "sentences": "Aut eos omnis eaque provident. Laborum sunt nemo ut perferendis voluptas. Est natus et distinctio dolorem et qui qui necessitatibus. Et inventore laudantium itaque. Cum necessitatibus fuga. Vitae rerum architecto fugiat sequi.",
+            "paragraph": "Voluptas in in saepe sint animi aspernatur ut aut. Doloremque ea qui et voluptatem asperiores vitae suscipit rerum. Ex quasi voluptatem ut animi sunt qui aperiam. Totam ut ut vel quisquam ut soluta qui quo."
+        },
+        {
+            "words": "rerum qui quaerat",
+            "sentence": "Nostrum placeat quod fuga placeat quia.",
+            "sentences": "Repellendus quae ipsum maiores est esse possimus consequuntur doloremque et. Reiciendis iusto rerum quaerat necessitatibus numquam veritatis.",
+            "paragraph": "Voluptatem deserunt qui repellendus eos aut commodi. In a quam id qui unde ut quo voluptatem dolorum. Repellat mollitia voluptates qui sed magni eos inventore qui et. Sed maxime ullam laborum eveniet voluptatem praesentium. Dignissimos ea asperiores."
+        },
+        {
+            "words": "assumenda aut nobis",
+            "sentence": "Error aut nam.",
+            "sentences": "Libero ut ex ducimus. Et dicta qui ab asperiores et delectus laborum deserunt magni. Inventore nam aut eos perspiciatis dolorem adipisci quis voluptas.",
+            "paragraph": "Optio corrupti aut quidem fugiat possimus ab magni. Veritatis omnis qui officia facilis possimus. Esse veniam vel voluptate. Saepe nobis dolorum velit ipsa nesciunt soluta. Voluptas ut ut reprehenderit veniam et neque sed explicabo molestiae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "120.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Carroll - Rau",
+            "name": "Money Market Account 5958",
+            "type": "withdrawal",
+            "account": "33783265"
+        },
+        {
+            "amount": "874.21",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hirthe, Grady and Hessel",
+            "name": "Money Market Account 3637",
+            "type": "invoice",
+            "account": "28082307"
+        },
+        {
+            "amount": "348.34",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gusikowski Group",
+            "name": "Checking Account 0166",
+            "type": "deposit",
+            "account": "23018619"
+        }
+    ]
+}

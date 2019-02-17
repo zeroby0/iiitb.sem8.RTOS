@@ -1,0 +1,72 @@
+{
+    "name": "Oceane Hickle",
+    "username": "Manley_Boehm26",
+    "email": "Eddie_Ernser@hotmail.com",
+    "address": {
+        "streetA": "Hegmann Ferry",
+        "streetB": "04595 Conner Islands",
+        "streetC": "996 Bogan Islands Suite 033",
+        "streetD": "Suite 246",
+        "city": "West Mara",
+        "state": "New Jersey",
+        "country": "Saint Helena",
+        "zipcode": "46966-9006",
+        "geo": {
+            "lat": "53.1840",
+            "lng": "-54.8380"
+        }
+    },
+    "phone": "245-408-2984 x779",
+    "website": "marcia.net",
+    "company": {
+        "name": "Connelly, Klein and Hermann",
+        "catchPhrase": "Persistent non-volatile firmware",
+        "bs": "cross-platform scale partnerships"
+    },
+    "posts": [
+        {
+            "words": "sunt dolorem id",
+            "sentence": "Nostrum saepe error est ut quisquam omnis error.",
+            "sentences": "Eligendi maiores dolor non. Porro repellat rerum ad eveniet a quam et aliquid. Minus doloribus et voluptas cum animi consequuntur distinctio. Libero fugit repellendus laborum debitis sapiente nam. Ea officiis sequi.",
+            "paragraph": "Ut est molestiae dolor unde est et veniam modi. Vero aperiam dolorem ratione vel asperiores rerum necessitatibus. Quidem quia et eligendi."
+        },
+        {
+            "words": "laborum quia quae",
+            "sentence": "Voluptate dolorem eaque dolore distinctio vel.",
+            "sentences": "Ut voluptas veritatis neque omnis ea corporis adipisci laborum. Sed aliquid est consequatur molestias dolorem a rem asperiores nisi. Aliquam quasi aut repellat eos. Voluptates rerum eos libero molestias aut qui nihil necessitatibus.",
+            "paragraph": "Delectus sunt dicta. Rerum quis ut fugiat fugiat aperiam minima sequi. Libero animi aspernatur accusamus voluptate deserunt et. Repellendus aut earum a eos animi dolor officiis expedita."
+        },
+        {
+            "words": "quibusdam ut perspiciatis",
+            "sentence": "Nihil fugit eos sint aut soluta quaerat totam.",
+            "sentences": "Est vero voluptates sit nihil doloribus. Ut perferendis voluptatem modi aut et sed non quidem. Molestias consequuntur aut rerum aliquid aut nobis dolor corrupti. Molestias quidem autem eos harum illum velit. Hic iste odit ut vitae similique commodi. Explicabo ut ut ea voluptates et.",
+            "paragraph": "Omnis soluta non aliquam dolorum quae qui consequatur at. Vel exercitationem non earum dolor dolorum voluptas. Eos iure animi explicabo distinctio alias occaecati sint aut maxime. Officiis ut similique odio perspiciatis alias porro ratione."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "541.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Crona Inc",
+            "name": "Personal Loan Account 0683",
+            "type": "withdrawal",
+            "account": "38942677"
+        },
+        {
+            "amount": "520.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rippin and Sons",
+            "name": "Personal Loan Account 9601",
+            "type": "payment",
+            "account": "85338086"
+        },
+        {
+            "amount": "861.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kirlin - Reinger",
+            "name": "Savings Account 9862",
+            "type": "withdrawal",
+            "account": "33064200"
+        }
+    ]
+}

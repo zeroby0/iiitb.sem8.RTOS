@@ -1,0 +1,72 @@
+{
+    "name": "Maggie Berge",
+    "username": "Benjamin.Koss0",
+    "email": "Roslyn.Moen41@gmail.com",
+    "address": {
+        "streetA": "Anderson Meadow",
+        "streetB": "1673 Ondricka Streets",
+        "streetC": "56488 Kulas Rapids Apt. 535",
+        "streetD": "Apt. 692",
+        "city": "Lemkehaven",
+        "state": "Rhode Island",
+        "country": "Slovakia (Slovak Republic)",
+        "zipcode": "46946",
+        "geo": {
+            "lat": "45.2192",
+            "lng": "170.9856"
+        }
+    },
+    "phone": "1-188-482-4593",
+    "website": "myrtis.biz",
+    "company": {
+        "name": "Muller - Marvin",
+        "catchPhrase": "Robust scalable pricing structure",
+        "bs": "sexy streamline communities"
+    },
+    "posts": [
+        {
+            "words": "pariatur mollitia autem",
+            "sentence": "Doloremque maiores voluptatem.",
+            "sentences": "Sunt velit dolore numquam. Quos inventore rem harum perspiciatis. Quasi officiis nemo itaque voluptatem sit. Quia voluptatibus in quam excepturi. Sunt nobis non minima laborum.",
+            "paragraph": "Repudiandae magnam eos voluptatem unde fugiat quae velit perferendis qui. Est natus facilis ex labore ea commodi earum sequi. Quae accusamus excepturi id. Aut enim vel. Non commodi quia facere aut aut ullam nobis voluptates odit. Est voluptatem debitis delectus sunt aut minima."
+        },
+        {
+            "words": "vitae eos adipisci",
+            "sentence": "Aut sequi autem veritatis repudiandae rerum omnis provident eum est.",
+            "sentences": "Autem itaque recusandae tenetur minima cum quibusdam cupiditate non. Iusto vel et iste aut quas minima. Eius quae eos vel ea. Est fugiat qui neque non eum nostrum.",
+            "paragraph": "Aperiam mollitia facilis qui et eaque sint odio. Beatae doloribus illo deserunt. Quia in eos dolorem eaque quis. Voluptatem quas impedit consequuntur. Et sequi tenetur deleniti ut ut. Sint non distinctio ipsum molestiae aut."
+        },
+        {
+            "words": "alias quasi sunt",
+            "sentence": "Unde consectetur quaerat dolorem harum ipsum quo enim qui.",
+            "sentences": "Rerum in laudantium sunt architecto voluptatem vel ratione. Explicabo asperiores eius aut.",
+            "paragraph": "Rerum molestiae sequi non placeat illo dolorum. Cum consequuntur tempora fugiat atque. Est illum magni voluptas magni itaque praesentium aut cumque dolores. Odit et repellendus perferendis qui odit temporibus beatae repellat sunt."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "796.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schuppe, Brekke and Hilpert",
+            "name": "Savings Account 0158",
+            "type": "withdrawal",
+            "account": "34870715"
+        },
+        {
+            "amount": "280.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Luettgen, Renner and Lemke",
+            "name": "Money Market Account 7218",
+            "type": "payment",
+            "account": "62103208"
+        },
+        {
+            "amount": "430.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Murray Inc",
+            "name": "Investment Account 3912",
+            "type": "payment",
+            "account": "18683152"
+        }
+    ]
+}

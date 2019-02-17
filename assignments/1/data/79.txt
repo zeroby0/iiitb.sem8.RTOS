@@ -1,0 +1,72 @@
+{
+    "name": "Sam Nienow",
+    "username": "Kaleb_Shields",
+    "email": "Darrick.Schmitt44@gmail.com",
+    "address": {
+        "streetA": "Crona Common",
+        "streetB": "9643 Maximillia Locks",
+        "streetC": "893 Hermina Spring Apt. 652",
+        "streetD": "Apt. 369",
+        "city": "South Kip",
+        "state": "Minnesota",
+        "country": "Malawi",
+        "zipcode": "52746",
+        "geo": {
+            "lat": "33.5930",
+            "lng": "-52.4077"
+        }
+    },
+    "phone": "942-146-2472",
+    "website": "everette.info",
+    "company": {
+        "name": "Buckridge - Funk",
+        "catchPhrase": "Synchronised transitional success",
+        "bs": "leading-edge disintermediate portals"
+    },
+    "posts": [
+        {
+            "words": "ut libero non",
+            "sentence": "Perspiciatis veritatis similique illo totam ullam provident.",
+            "sentences": "Qui facere velit eum. Sit eos et id quaerat. Cupiditate sint deserunt dolor.",
+            "paragraph": "Maxime sint laudantium. Laboriosam molestiae dicta ducimus nemo aut culpa eveniet. Sed repellat animi officia minima consectetur dolor necessitatibus quaerat sit."
+        },
+        {
+            "words": "quia voluptatem dolore",
+            "sentence": "Expedita autem voluptatem quis quasi soluta culpa velit.",
+            "sentences": "Ut quo et aut debitis rerum molestiae. Commodi qui harum non quisquam aut quas. Autem a at molestiae ut corporis cupiditate eum. Deleniti quis et neque rem officia autem dolores laudantium. Accusantium sapiente mollitia id cumque omnis accusantium.",
+            "paragraph": "Odio similique vel ea iusto cumque itaque consequatur quae. Qui eos autem sit autem et voluptates. Dolorum harum deleniti vel voluptate."
+        },
+        {
+            "words": "enim molestiae iusto",
+            "sentence": "Incidunt consequatur eveniet est at.",
+            "sentences": "Qui itaque minus. Molestiae qui qui quaerat quam.",
+            "paragraph": "Voluptate cumque sequi harum fugit iusto quo. Et repudiandae nostrum distinctio autem. Labore qui assumenda non quo. Perspiciatis quos ipsum mollitia eum dolorem et exercitationem. Ducimus illo laboriosam dolorum aut repudiandae laboriosam. Odio perspiciatis commodi esse et aut ipsum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "863.72",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Luettgen - Reynolds",
+            "name": "Auto Loan Account 5121",
+            "type": "deposit",
+            "account": "71726644"
+        },
+        {
+            "amount": "292.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobi, Bergstrom and Bechtelar",
+            "name": "Investment Account 0489",
+            "type": "deposit",
+            "account": "72657913"
+        },
+        {
+            "amount": "933.01",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Larkin - Abbott",
+            "name": "Checking Account 3900",
+            "type": "payment",
+            "account": "60187942"
+        }
+    ]
+}

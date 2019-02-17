@@ -1,0 +1,72 @@
+{
+    "name": "Dr. Hope Sipes",
+    "username": "Howell_Beatty",
+    "email": "Adaline.Pfannerstill@gmail.com",
+    "address": {
+        "streetA": "Abbie Well",
+        "streetB": "8622 Hickle Ford",
+        "streetC": "590 Lenore Mill Apt. 592",
+        "streetD": "Suite 201",
+        "city": "Wolffville",
+        "state": "Montana",
+        "country": "Zimbabwe",
+        "zipcode": "01310-2733",
+        "geo": {
+            "lat": "-30.9843",
+            "lng": "-33.0133"
+        }
+    },
+    "phone": "(814) 503-5031 x4310",
+    "website": "kylie.biz",
+    "company": {
+        "name": "Rempel - Bartell",
+        "catchPhrase": "Advanced background extranet",
+        "bs": "user-centric recontextualize networks"
+    },
+    "posts": [
+        {
+            "words": "cum autem excepturi",
+            "sentence": "Quis sunt voluptas architecto ea repellat eum dolorem voluptas perspiciatis.",
+            "sentences": "Repellat quia ea veniam quia non eius omnis. At magnam et. Beatae unde eum dolor. Repudiandae dolores nostrum voluptas. Earum cumque qui quisquam repellat et cupiditate quia. Fuga dicta ipsum.",
+            "paragraph": "Culpa voluptas officia facilis. Assumenda nobis sed. Rerum sapiente illo. Omnis officia et hic voluptatem aspernatur. Odit qui aliquid harum. Nemo natus eos optio ratione molestiae consectetur et."
+        },
+        {
+            "words": "laboriosam fugit velit",
+            "sentence": "Rerum rerum quam voluptas quis ratione quisquam.",
+            "sentences": "Nobis nemo voluptas. Sit eligendi facilis. Et reiciendis dolor laboriosam quas iste qui possimus. Odio et nobis accusamus dolorum ipsum voluptatibus. Et debitis aspernatur veniam dolorum.",
+            "paragraph": "Impedit recusandae voluptatem. Optio nihil dolores. Quo dicta facilis ad assumenda non est eius. Quas consequatur voluptas. Ut quam sit aut harum eius. Officia laudantium beatae."
+        },
+        {
+            "words": "molestiae atque quis",
+            "sentence": "Cumque labore neque.",
+            "sentences": "Eos inventore alias et culpa tempora. Molestias rerum ut. Sint odit nostrum est. Sed quia dignissimos enim voluptatibus qui aut. Quod quae sequi.",
+            "paragraph": "Et dolor in doloribus et. Id laborum qui fugit. Repellat ipsum excepturi cupiditate. Praesentium adipisci deleniti voluptatem molestiae. Et delectus inventore beatae ipsam corporis. Atque enim at suscipit suscipit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "510.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Walker and Sons",
+            "name": "Home Loan Account 1724",
+            "type": "invoice",
+            "account": "89738620"
+        },
+        {
+            "amount": "840.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaden Group",
+            "name": "Auto Loan Account 5417",
+            "type": "payment",
+            "account": "36239056"
+        },
+        {
+            "amount": "950.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wintheiser, Schmidt and Swaniawski",
+            "name": "Money Market Account 7065",
+            "type": "deposit",
+            "account": "04702768"
+        }
+    ]
+}

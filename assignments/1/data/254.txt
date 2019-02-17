@@ -1,0 +1,72 @@
+{
+    "name": "Reese Padberg",
+    "username": "Waldo.Braun87",
+    "email": "Adrianna55@yahoo.com",
+    "address": {
+        "streetA": "Lang Ridges",
+        "streetB": "98172 Terence Squares",
+        "streetC": "266 Annalise Greens Apt. 237",
+        "streetD": "Apt. 841",
+        "city": "Balistreriton",
+        "state": "Missouri",
+        "country": "Liberia",
+        "zipcode": "21209",
+        "geo": {
+            "lat": "52.5459",
+            "lng": "179.1628"
+        }
+    },
+    "phone": "1-201-669-9850 x54016",
+    "website": "dakota.net",
+    "company": {
+        "name": "Quitzon Inc",
+        "catchPhrase": "Pre-emptive zero defect data-warehouse",
+        "bs": "innovative streamline content"
+    },
+    "posts": [
+        {
+            "words": "in sapiente eos",
+            "sentence": "Consectetur vitae quod voluptates.",
+            "sentences": "Rerum velit corporis id modi. Labore ut sequi ex. Aliquam ad corporis minus eius at id est dignissimos ex.",
+            "paragraph": "Natus consequatur blanditiis amet. Et voluptas vel similique laudantium. Occaecati dicta officiis doloribus nisi. Recusandae neque eveniet velit et."
+        },
+        {
+            "words": "itaque exercitationem quisquam",
+            "sentence": "Dolore voluptas eligendi nesciunt quasi architecto ducimus quasi.",
+            "sentences": "Nemo cumque optio nihil qui modi. Nam ea est perspiciatis sint. Omnis eligendi ipsam rerum porro accusamus aspernatur qui nihil aut. Esse nisi corporis ad ex ut numquam. Enim nisi quibusdam odio repudiandae vel. Earum atque nobis nihil.",
+            "paragraph": "Eum et eos vel sint et. Sit fuga in voluptatum modi ducimus. Eos velit aut ut sunt id voluptas ipsum. Voluptatem quia assumenda. Autem cum et magnam quam dolore."
+        },
+        {
+            "words": "ipsa rerum neque",
+            "sentence": "Soluta nam tempora itaque aliquam itaque neque hic.",
+            "sentences": "Quae alias et voluptatibus aut. Quo quo occaecati harum.",
+            "paragraph": "Nihil nam sed itaque illo maiores totam veniam. Officiis magnam ratione porro quia. Reprehenderit architecto sint inventore. Corrupti nobis quis modi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "510.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Graham - Gerhold",
+            "name": "Investment Account 2037",
+            "type": "invoice",
+            "account": "07145485"
+        },
+        {
+            "amount": "92.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Toy - Crona",
+            "name": "Money Market Account 0062",
+            "type": "withdrawal",
+            "account": "63297948"
+        },
+        {
+            "amount": "194.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pollich - Gutkowski",
+            "name": "Auto Loan Account 4148",
+            "type": "withdrawal",
+            "account": "46938395"
+        }
+    ]
+}

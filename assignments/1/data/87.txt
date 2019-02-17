@@ -1,0 +1,72 @@
+{
+    "name": "Haylie Wyman",
+    "username": "May.Treutel27",
+    "email": "Jaiden_Blanda74@hotmail.com",
+    "address": {
+        "streetA": "Goodwin Gardens",
+        "streetB": "2787 Chanel Road",
+        "streetC": "9814 Columbus Walks Suite 653",
+        "streetD": "Apt. 323",
+        "city": "Lake Jaclynborough",
+        "state": "Virginia",
+        "country": "Netherlands",
+        "zipcode": "15935",
+        "geo": {
+            "lat": "-63.6401",
+            "lng": "-26.5981"
+        }
+    },
+    "phone": "(935) 789-6844 x6353",
+    "website": "flo.biz",
+    "company": {
+        "name": "Kutch Group",
+        "catchPhrase": "Multi-tiered encompassing moratorium",
+        "bs": "virtual orchestrate markets"
+    },
+    "posts": [
+        {
+            "words": "aliquam nobis ea",
+            "sentence": "Fugiat numquam consectetur nam eveniet aliquam corporis sapiente.",
+            "sentences": "Rerum quidem cum iure. Voluptate maxime culpa porro qui voluptatum esse consectetur iusto rem. Reiciendis dolorem sunt quas.",
+            "paragraph": "Quia sunt aut ratione aut quisquam omnis distinctio facere. Omnis est error veniam in iure magni est. Adipisci rerum impedit. Nesciunt cupiditate eos harum eos corrupti. Illo beatae repellendus totam odit magni repellendus provident. Quibusdam esse vero rerum aut harum asperiores."
+        },
+        {
+            "words": "ipsum doloremque odit",
+            "sentence": "Commodi ut sit aut.",
+            "sentences": "Nulla maiores quia deserunt dolor necessitatibus est expedita. Totam deserunt qui magnam modi illo aut aut tempore quasi. Repellat ut rem. Amet impedit quidem.",
+            "paragraph": "Saepe iure facere adipisci totam ab autem quia perferendis. Eum ut animi. Officia sint ea."
+        },
+        {
+            "words": "voluptatem reprehenderit ea",
+            "sentence": "Nulla quaerat dolores dolores.",
+            "sentences": "Dolor nostrum temporibus occaecati molestias et. Pariatur et dolores quia eligendi aperiam autem. Voluptatibus ipsa consequatur quibusdam.",
+            "paragraph": "Aut alias mollitia explicabo laboriosam totam iure optio rerum. Illo mollitia est numquam iusto nam eaque placeat et praesentium. Incidunt in voluptate ipsum voluptatem adipisci enim. Ducimus fuga voluptas atque sed porro in sed qui. Amet rerum ipsum in laudantium id sapiente sed."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "568.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Quigley and Sons",
+            "name": "Investment Account 4460",
+            "type": "deposit",
+            "account": "63008389"
+        },
+        {
+            "amount": "799.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kreiger, Schamberger and Heidenreich",
+            "name": "Credit Card Account 0838",
+            "type": "invoice",
+            "account": "91402953"
+        },
+        {
+            "amount": "558.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lebsack LLC",
+            "name": "Savings Account 0712",
+            "type": "deposit",
+            "account": "33210345"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Sherwood Jenkins V",
+    "username": "Jack_Christiansen41",
+    "email": "Grayce_Rodriguez69@gmail.com",
+    "address": {
+        "streetA": "Junior Ways",
+        "streetB": "7545 Dandre Trace",
+        "streetC": "687 Leffler Overpass Suite 204",
+        "streetD": "Apt. 391",
+        "city": "West Lolafurt",
+        "state": "Mississippi",
+        "country": "Isle of Man",
+        "zipcode": "25892",
+        "geo": {
+            "lat": "-69.2872",
+            "lng": "46.1342"
+        }
+    },
+    "phone": "(739) 013-7766",
+    "website": "larissa.net",
+    "company": {
+        "name": "Stokes and Sons",
+        "catchPhrase": "Enhanced optimal encryption",
+        "bs": "B2B reintermediate infrastructures"
+    },
+    "posts": [
+        {
+            "words": "doloribus aut non",
+            "sentence": "Omnis sunt aut est rem dolores sunt distinctio similique autem.",
+            "sentences": "Inventore sit voluptate voluptatem eos rerum eaque. Beatae nam ducimus beatae laudantium quam et ipsum sunt dolorum. Aut doloribus ut.",
+            "paragraph": "Quo provident in atque sequi quis id praesentium. Facilis quam earum autem laboriosam. Consequatur numquam suscipit et et ut. Animi iure dolorum deserunt dolores fuga."
+        },
+        {
+            "words": "impedit odit distinctio",
+            "sentence": "Blanditiis blanditiis natus unde minus dignissimos culpa occaecati.",
+            "sentences": "Accusantium similique voluptatem molestiae pariatur amet earum consequuntur quis. Distinctio sed voluptates. Velit et rem doloremque assumenda aut debitis laborum. Sint non ratione et cupiditate explicabo repellendus id totam aspernatur. Placeat id sequi ut rerum reiciendis.",
+            "paragraph": "Ad et illo quia distinctio vitae pariatur exercitationem. Non ut excepturi molestiae est adipisci quia maxime. Accusamus deserunt dolores magni aliquid. Suscipit deserunt quibusdam. Ab et provident consequuntur fuga laudantium quasi magnam temporibus."
+        },
+        {
+            "words": "qui et veniam",
+            "sentence": "Itaque odio aperiam.",
+            "sentences": "Sint a dolor ea fugit fugiat. Eos eum ut totam perspiciatis ducimus quam qui qui. Laudantium ea eveniet a velit iste. Est non autem maxime sit. Ipsam dolores accusamus nesciunt. Rem doloribus omnis occaecati.",
+            "paragraph": "Enim iste quidem aut perferendis nihil natus ipsum praesentium aspernatur. Reprehenderit veritatis saepe culpa sed. Laborum excepturi et architecto ducimus eaque eligendi. Nulla et expedita aut. Commodi ipsam voluptatem quia est."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "672.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kozey - Pagac",
+            "name": "Personal Loan Account 1902",
+            "type": "payment",
+            "account": "68712601"
+        },
+        {
+            "amount": "476.92",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Renner, Paucek and Grimes",
+            "name": "Home Loan Account 2833",
+            "type": "deposit",
+            "account": "09354571"
+        },
+        {
+            "amount": "82.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sporer Group",
+            "name": "Savings Account 9222",
+            "type": "invoice",
+            "account": "27191468"
+        }
+    ]
+}

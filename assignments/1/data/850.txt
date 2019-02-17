@@ -1,0 +1,72 @@
+{
+    "name": "Jana Ullrich",
+    "username": "Hilton_Ziemann33",
+    "email": "Cierra.Kuhn@hotmail.com",
+    "address": {
+        "streetA": "Garry Green",
+        "streetB": "44531 Nathaniel Cliff",
+        "streetC": "2820 Gorczany Corners Suite 053",
+        "streetD": "Suite 758",
+        "city": "Davismouth",
+        "state": "Kansas",
+        "country": "Papua New Guinea",
+        "zipcode": "88665-6233",
+        "geo": {
+            "lat": "-76.1517",
+            "lng": "-150.2445"
+        }
+    },
+    "phone": "1-449-653-2968",
+    "website": "jerrold.info",
+    "company": {
+        "name": "Bednar - Hansen",
+        "catchPhrase": "Progressive systemic capacity",
+        "bs": "front-end enable methodologies"
+    },
+    "posts": [
+        {
+            "words": "sapiente dolorum corrupti",
+            "sentence": "Voluptatibus nihil soluta ipsam nihil quibusdam.",
+            "sentences": "Sequi pariatur sint quo dignissimos vel exercitationem. Quisquam voluptatem aperiam veritatis quis optio quidem et.",
+            "paragraph": "Occaecati eos natus explicabo velit. Voluptas corrupti ea esse id autem deserunt amet qui voluptas. Sunt cum quia sapiente voluptate. Corrupti corrupti et sapiente. Hic nisi temporibus et quo. Id voluptates eius."
+        },
+        {
+            "words": "et quibusdam dignissimos",
+            "sentence": "Ut distinctio molestias natus in alias repudiandae iusto.",
+            "sentences": "Praesentium saepe qui est nemo explicabo et. Error ab error hic aut molestiae quia. Fugit sint impedit dolor corrupti deserunt et voluptatem porro.",
+            "paragraph": "Dolore illum officiis ut voluptatem eos totam aspernatur praesentium. Esse omnis saepe repudiandae nihil tempora saepe ipsa. Occaecati aliquid soluta et facilis maiores aut quis ipsa."
+        },
+        {
+            "words": "nisi officia temporibus",
+            "sentence": "Temporibus odit delectus.",
+            "sentences": "Sunt soluta voluptatibus iste architecto aut. Commodi nihil deleniti quia cupiditate et. Molestias nam ex non impedit ut maiores. Vero aut omnis animi. Et quia laborum laboriosam.",
+            "paragraph": "Repellat ut quo inventore. Qui adipisci in qui amet velit nihil occaecati rem. Repudiandae ipsam doloremque."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "223.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kilback and Sons",
+            "name": "Money Market Account 3715",
+            "type": "withdrawal",
+            "account": "79787066"
+        },
+        {
+            "amount": "842.17",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Price Group",
+            "name": "Home Loan Account 0740",
+            "type": "withdrawal",
+            "account": "87369385"
+        },
+        {
+            "amount": "724.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bergnaum - Greenholt",
+            "name": "Savings Account 2310",
+            "type": "payment",
+            "account": "26723400"
+        }
+    ]
+}

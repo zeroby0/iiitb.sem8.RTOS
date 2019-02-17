@@ -1,0 +1,72 @@
+{
+    "name": "Reuben Wunsch",
+    "username": "Viva_Willms81",
+    "email": "Naomi77@hotmail.com",
+    "address": {
+        "streetA": "Lela Plaza",
+        "streetB": "989 Moen Village",
+        "streetC": "9893 Natalie Tunnel Suite 615",
+        "streetD": "Suite 522",
+        "city": "Lake Macie",
+        "state": "South Carolina",
+        "country": "Panama",
+        "zipcode": "08492-8340",
+        "geo": {
+            "lat": "-79.2180",
+            "lng": "132.1452"
+        }
+    },
+    "phone": "1-020-760-7372 x74276",
+    "website": "luna.info",
+    "company": {
+        "name": "Hane, Auer and Gottlieb",
+        "catchPhrase": "Adaptive multimedia extranet",
+        "bs": "end-to-end target interfaces"
+    },
+    "posts": [
+        {
+            "words": "corrupti quisquam quo",
+            "sentence": "Et quo iusto aspernatur tempore eveniet nihil accusantium ut voluptatem.",
+            "sentences": "Sed quia qui. Et magnam inventore praesentium. Impedit explicabo distinctio.",
+            "paragraph": "Quis a et sit quia veniam ut. Laudantium nisi ipsum soluta rerum molestias rerum. Quibusdam eum deleniti. Sed eveniet occaecati. Eum et incidunt a."
+        },
+        {
+            "words": "distinctio maiores modi",
+            "sentence": "Ut eius aut explicabo qui sapiente eaque magni.",
+            "sentences": "Culpa sed ipsa facilis odio nisi blanditiis dolores animi. Assumenda veritatis magni nemo possimus consequatur placeat.",
+            "paragraph": "Dicta blanditiis cum consequatur officiis. Eum aspernatur ducimus. Mollitia magnam et sed praesentium corrupti et voluptatem esse. Dolor iure ratione quo quod eos ut. Velit veniam ad qui."
+        },
+        {
+            "words": "corporis voluptatem minima",
+            "sentence": "Eum qui sapiente impedit suscipit.",
+            "sentences": "Perspiciatis quia facere voluptas iure occaecati rerum et. Quidem ad qui aut temporibus iste. Qui nihil fugit omnis illo enim provident laboriosam ut eum. Iure et enim totam ut minus voluptas est alias dolorem.",
+            "paragraph": "Quidem doloribus rem aliquid voluptatem illo deleniti. Consequatur eum ipsam ipsam quasi autem dignissimos tempora minima. Optio sequi quo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "44.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Casper Group",
+            "name": "Credit Card Account 6936",
+            "type": "invoice",
+            "account": "44963127"
+        },
+        {
+            "amount": "310.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Corkery, Collier and Kutch",
+            "name": "Personal Loan Account 3633",
+            "type": "invoice",
+            "account": "36537878"
+        },
+        {
+            "amount": "106.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Shields, Padberg and Romaguera",
+            "name": "Home Loan Account 3904",
+            "type": "invoice",
+            "account": "94651892"
+        }
+    ]
+}

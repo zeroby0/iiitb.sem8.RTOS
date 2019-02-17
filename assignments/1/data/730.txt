@@ -1,0 +1,72 @@
+{
+    "name": "Peter Kling",
+    "username": "Petra.Kuphal",
+    "email": "Nathen_Parker31@yahoo.com",
+    "address": {
+        "streetA": "Dayna Walk",
+        "streetB": "556 VonRueden Field",
+        "streetC": "143 Crona Expressway Apt. 075",
+        "streetD": "Suite 421",
+        "city": "New Kolbyside",
+        "state": "Tennessee",
+        "country": "Paraguay",
+        "zipcode": "78347",
+        "geo": {
+            "lat": "63.7574",
+            "lng": "129.6140"
+        }
+    },
+    "phone": "(115) 526-1209 x17783",
+    "website": "rasheed.com",
+    "company": {
+        "name": "Ruecker - Beahan",
+        "catchPhrase": "Right-sized hybrid info-mediaries",
+        "bs": "end-to-end enhance supply-chains"
+    },
+    "posts": [
+        {
+            "words": "magnam quisquam odio",
+            "sentence": "Sequi ipsam quasi quia eos vel maiores facere.",
+            "sentences": "Enim modi dolor. Sit veritatis aperiam eligendi ab et vel porro. Et ea earum accusantium ut.",
+            "paragraph": "At dolores cum corporis nam hic excepturi saepe. Consequatur et magni harum praesentium quia repellendus dolor vitae vero. Necessitatibus dolore quis laborum eligendi vitae error adipisci. Optio ut fuga sint sequi voluptatem at eos. Rerum in accusamus voluptatem laudantium molestiae vel. Doloribus maxime quam similique possimus voluptas temporibus pariatur."
+        },
+        {
+            "words": "delectus facere porro",
+            "sentence": "Sunt officiis pariatur sit in voluptas velit.",
+            "sentences": "Eos ea nostrum velit consectetur omnis. Enim et quia molestias aspernatur ducimus doloremque. Eligendi non dolores sed pariatur harum. Labore voluptatibus vel at aut dolores quia vel ut vero.",
+            "paragraph": "Culpa perferendis est eum quisquam labore eligendi. Maiores necessitatibus quae. Assumenda voluptatem non et eos ut debitis incidunt. Est debitis quia officiis animi et ea voluptatem sit aliquam."
+        },
+        {
+            "words": "dignissimos sint eius",
+            "sentence": "Modi a deserunt molestias soluta et voluptatem.",
+            "sentences": "Laborum ratione sit. Distinctio quibusdam optio beatae delectus. Earum velit distinctio deserunt repellat sunt magni.",
+            "paragraph": "Possimus deleniti maiores vel quia eius et consequatur quibusdam quia. Eius eos magni reprehenderit dolor. Qui suscipit cumque ipsum quia qui animi facere nulla molestiae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "926.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koelpin and Sons",
+            "name": "Home Loan Account 4563",
+            "type": "invoice",
+            "account": "16645513"
+        },
+        {
+            "amount": "545.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Borer - Nader",
+            "name": "Money Market Account 0286",
+            "type": "deposit",
+            "account": "26237130"
+        },
+        {
+            "amount": "58.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Senger, Witting and Abshire",
+            "name": "Home Loan Account 6957",
+            "type": "invoice",
+            "account": "65843372"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Sydnie Johnson",
+    "username": "Delilah.Fay",
+    "email": "Kaela57@yahoo.com",
+    "address": {
+        "streetA": "Daugherty Dam",
+        "streetB": "936 Quitzon Passage",
+        "streetC": "2592 Daniel Spring Apt. 998",
+        "streetD": "Suite 621",
+        "city": "Port Raina",
+        "state": "Michigan",
+        "country": "Chile",
+        "zipcode": "50730-0486",
+        "geo": {
+            "lat": "-81.9868",
+            "lng": "-33.2660"
+        }
+    },
+    "phone": "028-106-2785",
+    "website": "tyrique.biz",
+    "company": {
+        "name": "Terry Inc",
+        "catchPhrase": "Cross-platform dynamic service-desk",
+        "bs": "bleeding-edge target platforms"
+    },
+    "posts": [
+        {
+            "words": "et nostrum aut",
+            "sentence": "Sit rerum ut vero laudantium sequi reprehenderit.",
+            "sentences": "Consequuntur dicta beatae voluptatem alias voluptate quibusdam eligendi fugit. Est praesentium sit. Iure velit velit laborum tempora natus sit autem velit.",
+            "paragraph": "Fugit aperiam ut voluptatum accusantium. Qui eos blanditiis sunt laborum quas quis non sit ipsum. Quisquam et repellat repudiandae. Quae esse id veniam quod. Expedita eos omnis quasi sit libero magnam tempore."
+        },
+        {
+            "words": "asperiores voluptatibus quia",
+            "sentence": "Consequatur eligendi aut eaque enim optio.",
+            "sentences": "Neque nemo natus. Minus laboriosam rerum voluptates libero illo nobis deserunt nam placeat. Temporibus eum dolores odio. Sint quos qui et sed consectetur sed harum. Rem quia earum.",
+            "paragraph": "Mollitia ut dolor totam quibusdam incidunt perspiciatis. Aut fugit quia nesciunt autem qui aspernatur. Dolorem ut sapiente non dignissimos molestiae eveniet possimus cumque at. Eos et nihil possimus est. Dolorum enim ut rem modi vel nemo est eveniet."
+        },
+        {
+            "words": "ipsam non eveniet",
+            "sentence": "Minus cumque sequi dolore corrupti consequuntur.",
+            "sentences": "Quia quisquam laudantium eos earum autem et. Sit expedita sed minima quisquam omnis iste sed. Architecto rem dolorem officia qui.",
+            "paragraph": "Veritatis fugit dolor assumenda voluptas. Eveniet debitis enim. Quo tempore autem nam molestiae animi dicta nemo assumenda. Et nostrum ut dolores cupiditate. Est delectus qui commodi et qui sint quibusdam explicabo eligendi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "289.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bednar, Altenwerth and Reichert",
+            "name": "Investment Account 0424",
+            "type": "deposit",
+            "account": "35086980"
+        },
+        {
+            "amount": "817.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Erdman - Kohler",
+            "name": "Auto Loan Account 0828",
+            "type": "payment",
+            "account": "63502890"
+        },
+        {
+            "amount": "751.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Leuschke - Howell",
+            "name": "Investment Account 6921",
+            "type": "invoice",
+            "account": "66739324"
+        }
+    ]
+}

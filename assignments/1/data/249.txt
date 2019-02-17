@@ -1,0 +1,72 @@
+{
+    "name": "Keira Koss",
+    "username": "Janessa.Jaskolski",
+    "email": "Noemy_Schmitt@gmail.com",
+    "address": {
+        "streetA": "Turner Roads",
+        "streetB": "74153 Bobbie Road",
+        "streetC": "3987 Reynolds Rue Apt. 695",
+        "streetD": "Suite 217",
+        "city": "Robeltown",
+        "state": "Delaware",
+        "country": "Japan",
+        "zipcode": "71046-9832",
+        "geo": {
+            "lat": "-7.3365",
+            "lng": "-38.2415"
+        }
+    },
+    "phone": "154.181.7858 x92023",
+    "website": "nickolas.net",
+    "company": {
+        "name": "Welch - Crona",
+        "catchPhrase": "Seamless multimedia synergy",
+        "bs": "sexy transition supply-chains"
+    },
+    "posts": [
+        {
+            "words": "at molestiae voluptate",
+            "sentence": "Fuga voluptas totam esse est tempore.",
+            "sentences": "Impedit velit cumque consectetur sed. Ad maxime est neque perferendis ab. Fugiat velit nihil. Nulla ratione aut architecto maxime odio saepe aut repudiandae. Vel sit dolorum nemo optio iste. Natus est cumque et dignissimos cupiditate animi sint minima.",
+            "paragraph": "Eaque dignissimos illo ut. Est reprehenderit sunt facilis. Consectetur non eum velit corrupti."
+        },
+        {
+            "words": "praesentium natus sed",
+            "sentence": "Necessitatibus et aliquid voluptas.",
+            "sentences": "Sit aperiam laborum. Sint ab numquam maiores. Incidunt impedit totam. Sint quidem consectetur quibusdam aspernatur delectus quidem repellendus. Deserunt ut repellat quasi est enim molestiae est odit.",
+            "paragraph": "Ipsa veritatis amet et dolorum consequatur amet sed. Assumenda enim ut pariatur. Quis non et omnis sint et. Sed minima fugiat nemo."
+        },
+        {
+            "words": "autem atque mollitia",
+            "sentence": "Recusandae sit qui.",
+            "sentences": "Voluptates voluptatem placeat voluptatem quibusdam voluptates ea aperiam nostrum eligendi. Sed ab id qui. Nobis commodi molestiae odio sapiente ut voluptatem pariatur natus aut. Non atque consequatur deleniti voluptates quis. Eum omnis ut sint fuga consectetur magni sapiente.",
+            "paragraph": "Et repudiandae saepe ad repellat. Non laborum cumque sed rerum eius. Officiis est repudiandae eos voluptatem. Sit repudiandae alias ea debitis error fugit fuga. Blanditiis aut dolor reprehenderit in et quo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "575.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ratke, McLaughlin and Batz",
+            "name": "Investment Account 4902",
+            "type": "deposit",
+            "account": "54384922"
+        },
+        {
+            "amount": "151.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bauch - Emmerich",
+            "name": "Credit Card Account 5171",
+            "type": "invoice",
+            "account": "96001597"
+        },
+        {
+            "amount": "884.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kreiger, Kshlerin and Gottlieb",
+            "name": "Checking Account 4089",
+            "type": "withdrawal",
+            "account": "17802100"
+        }
+    ]
+}

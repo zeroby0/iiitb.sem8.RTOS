@@ -1,0 +1,72 @@
+{
+    "name": "Ayden Heathcote",
+    "username": "Faye63",
+    "email": "Olga65@yahoo.com",
+    "address": {
+        "streetA": "Rosenbaum Viaduct",
+        "streetB": "860 Junius Vista",
+        "streetC": "1030 Bertram Trafficway Apt. 941",
+        "streetD": "Suite 838",
+        "city": "Arnoldfort",
+        "state": "Oklahoma",
+        "country": "Taiwan",
+        "zipcode": "65899",
+        "geo": {
+            "lat": "77.8267",
+            "lng": "-88.9624"
+        }
+    },
+    "phone": "1-470-352-5285",
+    "website": "pat.net",
+    "company": {
+        "name": "Muller, Will and Goldner",
+        "catchPhrase": "Vision-oriented responsive emulation",
+        "bs": "rich target content"
+    },
+    "posts": [
+        {
+            "words": "a beatae dolores",
+            "sentence": "Dolorem et ratione beatae nesciunt quia.",
+            "sentences": "Blanditiis eos unde vero et. Exercitationem dolor dolorem et error voluptatem dolorum aliquid. Autem velit facilis fuga doloribus eum illo ipsum dolorem enim. Corrupti corrupti voluptatibus omnis tempore aperiam sed. Corporis et eos accusamus deserunt nostrum.",
+            "paragraph": "Iure aut enim ad ipsum aliquid. Est aut quasi sunt quaerat quae dicta. Et praesentium omnis iusto sit aut quae impedit. Temporibus dignissimos consectetur enim."
+        },
+        {
+            "words": "omnis sed autem",
+            "sentence": "Consequatur asperiores eum.",
+            "sentences": "Nihil sit repellat adipisci et est animi velit. Voluptas aut non consequatur rerum excepturi et omnis vel. Quos labore perspiciatis libero est mollitia. Et et mollitia molestiae animi aut ipsam.",
+            "paragraph": "Deleniti dolore voluptatem numquam maxime hic sint. Eum quisquam tenetur provident vel illum sapiente dicta excepturi. Eveniet voluptatem non et. Omnis quibusdam veniam voluptatem eum dicta accusantium et. Facilis nobis doloremque fugiat repudiandae nihil earum. Ducimus consequatur quasi consequuntur alias non voluptate dolorem."
+        },
+        {
+            "words": "maxime distinctio earum",
+            "sentence": "Nam sunt id laudantium.",
+            "sentences": "Quod quo earum. Voluptate cupiditate aut expedita nesciunt. Sunt sequi non magni. Explicabo animi voluptate occaecati dolores dolorem omnis deleniti est.",
+            "paragraph": "A sint officia fugiat voluptatibus porro sed voluptas sed. Dicta molestiae odio aliquid. Est eius et illum quasi nam voluptas et dolorem temporibus. Hic iste nam eius ullam quis reiciendis possimus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "225.51",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Boehm, Mohr and Ziemann",
+            "name": "Auto Loan Account 7287",
+            "type": "deposit",
+            "account": "04469256"
+        },
+        {
+            "amount": "770.86",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Green Inc",
+            "name": "Checking Account 0563",
+            "type": "invoice",
+            "account": "63680436"
+        },
+        {
+            "amount": "537.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hilpert - Langosh",
+            "name": "Savings Account 6403",
+            "type": "invoice",
+            "account": "10023466"
+        }
+    ]
+}

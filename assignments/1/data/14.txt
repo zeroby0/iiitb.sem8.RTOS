@@ -1,0 +1,72 @@
+{
+    "name": "Alexzander Metz",
+    "username": "Asa.Green32",
+    "email": "Candace11@gmail.com",
+    "address": {
+        "streetA": "Wendell Lock",
+        "streetB": "913 Morissette Tunnel",
+        "streetC": "2174 Okuneva Heights Apt. 176",
+        "streetD": "Apt. 802",
+        "city": "New Vivien",
+        "state": "Tennessee",
+        "country": "Jersey",
+        "zipcode": "72593-4293",
+        "geo": {
+            "lat": "-29.1820",
+            "lng": "2.5476"
+        }
+    },
+    "phone": "1-815-715-3471",
+    "website": "kira.org",
+    "company": {
+        "name": "Langosh, Homenick and King",
+        "catchPhrase": "Synergized tertiary matrix",
+        "bs": "B2C deploy markets"
+    },
+    "posts": [
+        {
+            "words": "cupiditate voluptatem tempora",
+            "sentence": "Et tempora et quibusdam molestias facere atque incidunt excepturi et.",
+            "sentences": "Dignissimos aperiam molestiae dignissimos. Accusantium labore dolor nihil. Quo enim enim. Nesciunt ut blanditiis perspiciatis veritatis.",
+            "paragraph": "Nostrum commodi dolore culpa ut maiores cumque eveniet et dolorum. Reiciendis sint ea quo assumenda ut nesciunt eos rerum sunt. Tempora voluptas et aut omnis eos sit ea. Doloribus laborum ut repudiandae sed omnis perspiciatis."
+        },
+        {
+            "words": "impedit tempore voluptas",
+            "sentence": "Quas vero culpa quia.",
+            "sentences": "Libero est dolores. Minus labore quia officiis nesciunt. Consequatur labore reiciendis dolorem qui totam. Reprehenderit temporibus voluptatem porro nesciunt debitis rem recusandae. Molestiae fugiat qui aut et. Nihil nam illo unde molestiae unde quis.",
+            "paragraph": "Neque omnis sint accusantium modi ut at dignissimos. Et voluptas quod perspiciatis atque voluptatum. Beatae quisquam ea molestiae voluptatem ab libero. Commodi nulla corporis sapiente nihil aliquid ut similique. Aut temporibus quis eligendi voluptatibus neque harum accusantium deleniti dolorem. Quaerat molestias aut ipsam ut molestias ipsa."
+        },
+        {
+            "words": "nesciunt est et",
+            "sentence": "Culpa veritatis perspiciatis architecto.",
+            "sentences": "Quia blanditiis magnam reprehenderit laudantium sunt aliquam. Alias eveniet sapiente excepturi temporibus odio. Ipsum et hic suscipit qui sequi. Ab neque et temporibus nihil fugiat id qui.",
+            "paragraph": "Ratione quis architecto velit rerum magni. Assumenda commodi tenetur aspernatur. Et minima voluptates dolores laborum consequatur aut. Et non omnis expedita."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "613.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Greenholt and Sons",
+            "name": "Auto Loan Account 5714",
+            "type": "deposit",
+            "account": "18398708"
+        },
+        {
+            "amount": "506.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schneider Group",
+            "name": "Auto Loan Account 7545",
+            "type": "withdrawal",
+            "account": "68392659"
+        },
+        {
+            "amount": "684.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Herzog LLC",
+            "name": "Credit Card Account 4731",
+            "type": "deposit",
+            "account": "79954317"
+        }
+    ]
+}

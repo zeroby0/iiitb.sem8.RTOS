@@ -1,0 +1,72 @@
+{
+    "name": "Winifred Bernhard",
+    "username": "Berry10",
+    "email": "Clinton_Pacocha71@gmail.com",
+    "address": {
+        "streetA": "Augustus Coves",
+        "streetB": "5985 Lelia Village",
+        "streetC": "9121 Auer Plain Suite 092",
+        "streetD": "Suite 419",
+        "city": "Corbinfurt",
+        "state": "Kansas",
+        "country": "Guinea-Bissau",
+        "zipcode": "12305",
+        "geo": {
+            "lat": "-52.7683",
+            "lng": "153.3193"
+        }
+    },
+    "phone": "207.248.7382 x820",
+    "website": "serenity.org",
+    "company": {
+        "name": "Fahey - Emmerich",
+        "catchPhrase": "Digitized asynchronous attitude",
+        "bs": "cutting-edge facilitate infomediaries"
+    },
+    "posts": [
+        {
+            "words": "odio repudiandae deleniti",
+            "sentence": "Laboriosam non minima facere et officiis.",
+            "sentences": "Nesciunt tempore voluptas deserunt facere occaecati eligendi veniam. Nihil et et unde perferendis incidunt porro voluptatem. Est maiores repellendus quidem. Illo error enim dicta dolores assumenda.",
+            "paragraph": "Officia sit fuga sint nemo sit nihil itaque fugit ullam. Ab asperiores odio et nam esse debitis adipisci. In expedita cupiditate voluptatem quis accusamus corporis pariatur. Debitis dicta aperiam velit cum aut quasi deserunt dolorum sed. Atque et accusantium quia laborum aut eius."
+        },
+        {
+            "words": "nulla et qui",
+            "sentence": "Fugiat sed libero quo dignissimos ullam veniam saepe enim omnis.",
+            "sentences": "Quia culpa rem adipisci animi consequatur. Eius esse odio voluptate iste ut doloribus animi. Excepturi quia modi quis recusandae hic quasi. Possimus omnis tempore sunt et.",
+            "paragraph": "Temporibus id iure ut debitis quidem. Ullam eligendi rerum ratione id consequatur sed sunt. Dolores est eos voluptatem nulla."
+        },
+        {
+            "words": "temporibus aut atque",
+            "sentence": "Eaque voluptatem ipsa autem ea.",
+            "sentences": "Quam sint delectus sequi molestias. Et vel iure iste et adipisci cupiditate.",
+            "paragraph": "Possimus totam fugit mollitia ratione voluptas. Sed quam illo eum amet accusamus nobis. Neque repellendus sapiente."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "640.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Abbott, Ledner and Schoen",
+            "name": "Home Loan Account 3633",
+            "type": "deposit",
+            "account": "09730634"
+        },
+        {
+            "amount": "880.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bechtelar - Considine",
+            "name": "Credit Card Account 0385",
+            "type": "payment",
+            "account": "45540562"
+        },
+        {
+            "amount": "20.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beatty, Batz and Grady",
+            "name": "Personal Loan Account 0618",
+            "type": "payment",
+            "account": "94032692"
+        }
+    ]
+}

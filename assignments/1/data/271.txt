@@ -1,0 +1,72 @@
+{
+    "name": "Cecelia Wolff",
+    "username": "Elisha.McClure78",
+    "email": "Faustino53@yahoo.com",
+    "address": {
+        "streetA": "Elbert Green",
+        "streetB": "00867 Grover Crest",
+        "streetC": "323 Kihn Oval Apt. 576",
+        "streetD": "Apt. 655",
+        "city": "New Kristian",
+        "state": "Georgia",
+        "country": "Taiwan",
+        "zipcode": "37140",
+        "geo": {
+            "lat": "61.2457",
+            "lng": "42.4520"
+        }
+    },
+    "phone": "700-134-5547 x118",
+    "website": "garrick.biz",
+    "company": {
+        "name": "Hartmann - Quigley",
+        "catchPhrase": "Enterprise-wide stable groupware",
+        "bs": "collaborative orchestrate markets"
+    },
+    "posts": [
+        {
+            "words": "eaque magnam aliquam",
+            "sentence": "Sed veritatis aut earum neque nulla voluptas sunt optio.",
+            "sentences": "Eum similique eius ullam consectetur quidem voluptatem vero. Maxime eum voluptas deserunt. Modi qui commodi.",
+            "paragraph": "Qui quis ut natus. Neque cum consequatur ut provident placeat voluptate. Quo atque officia alias enim non aspernatur sed. Et aut rerum repellendus sit sed minus incidunt. Asperiores id magnam omnis et assumenda. Quod temporibus consequatur voluptatibus."
+        },
+        {
+            "words": "incidunt amet porro",
+            "sentence": "Cumque maiores itaque laborum qui aut.",
+            "sentences": "Ut et consequatur nostrum ut porro expedita aperiam. Enim fugiat labore recusandae qui asperiores incidunt voluptas ut.",
+            "paragraph": "Debitis debitis culpa ut voluptatem. Nulla ad cum. Molestiae et aliquam repellat in eaque ea. Aut nam enim eaque."
+        },
+        {
+            "words": "est quo adipisci",
+            "sentence": "Enim animi amet debitis.",
+            "sentences": "Tempore ullam non autem molestiae nobis. Nesciunt sit exercitationem consequuntur eum explicabo corporis ad at perspiciatis. Ullam maxime quas explicabo. Perferendis sint eum non dolorem a. Hic et cum.",
+            "paragraph": "Est laborum eius facere aliquid dolorem dignissimos alias optio. Perspiciatis sunt voluptate inventore voluptas quisquam sint. Pariatur natus blanditiis eos. Itaque perferendis quaerat architecto non."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "195.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hahn LLC",
+            "name": "Savings Account 8659",
+            "type": "withdrawal",
+            "account": "77012917"
+        },
+        {
+            "amount": "257.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Braun Inc",
+            "name": "Auto Loan Account 1881",
+            "type": "invoice",
+            "account": "18137798"
+        },
+        {
+            "amount": "960.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schultz Group",
+            "name": "Money Market Account 2241",
+            "type": "withdrawal",
+            "account": "38481070"
+        }
+    ]
+}

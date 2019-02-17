@@ -1,0 +1,72 @@
+{
+    "name": "Clinton Streich",
+    "username": "Tierra_Bosco94",
+    "email": "Noemi31@hotmail.com",
+    "address": {
+        "streetA": "Jacobs Walks",
+        "streetB": "5910 Hodkiewicz Mission",
+        "streetC": "797 Mafalda Mews Apt. 888",
+        "streetD": "Apt. 006",
+        "city": "Josefaburgh",
+        "state": "South Dakota",
+        "country": "Barbados",
+        "zipcode": "62829",
+        "geo": {
+            "lat": "84.9934",
+            "lng": "-142.2112"
+        }
+    },
+    "phone": "347.936.0493",
+    "website": "maiya.net",
+    "company": {
+        "name": "Altenwerth and Sons",
+        "catchPhrase": "Ameliorated needs-based artificial intelligence",
+        "bs": "integrated iterate methodologies"
+    },
+    "posts": [
+        {
+            "words": "quo iusto culpa",
+            "sentence": "Fugit consequatur ea illo ipsa et maxime doloribus.",
+            "sentences": "Id quia aut ipsum dolores nesciunt expedita. Dolor iure alias.",
+            "paragraph": "Eligendi debitis magnam cum voluptatum magni in soluta dolor sint. Omnis quo cum perferendis similique voluptas et rerum. Excepturi aut quam vel natus distinctio et aspernatur. Quo quod dolorem amet deleniti qui."
+        },
+        {
+            "words": "sunt vel mollitia",
+            "sentence": "Accusantium deleniti placeat voluptatibus facilis.",
+            "sentences": "Deleniti perferendis et voluptatibus quia et inventore. Neque sunt reprehenderit explicabo voluptatum sed. Ut magni consequatur ut beatae omnis modi qui.",
+            "paragraph": "Mollitia iure voluptatem esse dolore sit dolores. Consectetur aperiam alias ipsam et ab placeat id. Voluptas necessitatibus incidunt. In est eum eligendi quibusdam sapiente."
+        },
+        {
+            "words": "maxime adipisci nihil",
+            "sentence": "Maxime repellat pariatur neque nulla odio eum delectus assumenda veritatis.",
+            "sentences": "Ea deserunt temporibus rerum porro maxime laudantium doloribus. Eveniet sit nostrum perspiciatis iste recusandae reiciendis non non.",
+            "paragraph": "Nesciunt atque id unde tempore eum et. Consequuntur vitae minus explicabo esse dolor. Et quae sed vero sit. Voluptas non assumenda quia aperiam eum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "362.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Konopelski - Pagac",
+            "name": "Money Market Account 8148",
+            "type": "withdrawal",
+            "account": "74450113"
+        },
+        {
+            "amount": "816.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Homenick Group",
+            "name": "Savings Account 7093",
+            "type": "invoice",
+            "account": "32611987"
+        },
+        {
+            "amount": "37.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hickle, Cartwright and Prohaska",
+            "name": "Checking Account 5643",
+            "type": "withdrawal",
+            "account": "22821214"
+        }
+    ]
+}

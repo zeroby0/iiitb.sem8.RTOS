@@ -1,0 +1,72 @@
+{
+    "name": "Kaia Jacobs",
+    "username": "Camille_Wuckert",
+    "email": "Jadon_Kris@yahoo.com",
+    "address": {
+        "streetA": "Gutmann Fall",
+        "streetB": "628 Nolan Mountains",
+        "streetC": "705 Dickens Brooks Apt. 485",
+        "streetD": "Apt. 419",
+        "city": "West Alana",
+        "state": "Rhode Island",
+        "country": "Angola",
+        "zipcode": "97737",
+        "geo": {
+            "lat": "-45.8427",
+            "lng": "-117.6707"
+        }
+    },
+    "phone": "664.647.2892",
+    "website": "robbie.org",
+    "company": {
+        "name": "Effertz Inc",
+        "catchPhrase": "Optional executive process improvement",
+        "bs": "impactful leverage mindshare"
+    },
+    "posts": [
+        {
+            "words": "velit at sint",
+            "sentence": "Optio enim at eaque et.",
+            "sentences": "Voluptatem qui at. Quasi voluptatem saepe ad illum ut.",
+            "paragraph": "Nisi hic sed ut. Harum aperiam totam quas dolorem provident qui. Inventore rerum dignissimos veritatis ullam voluptate voluptatum autem. Dolorem et sequi. Voluptatem voluptatibus asperiores suscipit quaerat. Enim in nihil eos impedit."
+        },
+        {
+            "words": "quia distinctio et",
+            "sentence": "Dolorum sunt repellat aut corporis odio ipsa.",
+            "sentences": "Ut at omnis. Tenetur asperiores quaerat aut aliquid temporibus. Libero sit velit corporis. Delectus pariatur inventore possimus molestiae error facilis vitae.",
+            "paragraph": "Ut omnis enim sit similique consequuntur minima harum. Corrupti vero quos qui cupiditate illum velit. Aut facilis et ut."
+        },
+        {
+            "words": "ad ratione illum",
+            "sentence": "Debitis quia illo est aut magnam repudiandae sit.",
+            "sentences": "Ullam voluptatem reiciendis quia cum perspiciatis culpa eum repellendus molestiae. Amet odio sapiente architecto alias expedita. Non dolor voluptatem nostrum eveniet ex mollitia tenetur. Quibusdam tenetur numquam consequatur.",
+            "paragraph": "Magnam quas optio at magni. Voluptate sunt et magni. Tempora quo eum sunt exercitationem quasi aut aliquid. Est ratione earum nesciunt nulla neque quod hic rem laboriosam. Illo voluptatem nam voluptas aut ab deleniti. Minus ratione quia occaecati qui a neque et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "566.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kiehn - Effertz",
+            "name": "Savings Account 7743",
+            "type": "payment",
+            "account": "02252794"
+        },
+        {
+            "amount": "348.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Connell - Schowalter",
+            "name": "Personal Loan Account 0805",
+            "type": "payment",
+            "account": "66021347"
+        },
+        {
+            "amount": "248.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Haag - Bode",
+            "name": "Home Loan Account 3885",
+            "type": "invoice",
+            "account": "56768716"
+        }
+    ]
+}

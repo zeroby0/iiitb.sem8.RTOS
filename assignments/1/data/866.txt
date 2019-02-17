@@ -1,0 +1,72 @@
+{
+    "name": "Dane Auer",
+    "username": "Burley95",
+    "email": "Laurianne.Hudson@hotmail.com",
+    "address": {
+        "streetA": "Daniella Pine",
+        "streetB": "241 June Vista",
+        "streetC": "69817 Bogisich Corners Apt. 499",
+        "streetD": "Apt. 173",
+        "city": "Frankburgh",
+        "state": "Wisconsin",
+        "country": "Indonesia",
+        "zipcode": "94145-1792",
+        "geo": {
+            "lat": "-67.5186",
+            "lng": "69.8178"
+        }
+    },
+    "phone": "726.164.0630",
+    "website": "aric.info",
+    "company": {
+        "name": "Mante - Erdman",
+        "catchPhrase": "Compatible 3rd generation approach",
+        "bs": "compelling e-enable eyeballs"
+    },
+    "posts": [
+        {
+            "words": "sed veniam ad",
+            "sentence": "Corrupti non aperiam dolores voluptatum sunt nobis.",
+            "sentences": "Natus amet earum est recusandae vel beatae est. Aut molestias quia. Laudantium ea ut. Dolores veniam autem.",
+            "paragraph": "Dolorem temporibus ut unde. Vel quia minus maxime sed magnam. Dolorem dolores aperiam quo voluptas doloremque voluptatem qui molestiae facilis. Sunt ut laborum voluptas dolorem. Qui consectetur voluptas dicta porro qui et non. Totam consequatur voluptate."
+        },
+        {
+            "words": "eos non quos",
+            "sentence": "Unde et ab assumenda deserunt sunt vel natus.",
+            "sentences": "Labore modi sunt deleniti a quia. Dolore explicabo laborum tempore exercitationem. Qui error et.",
+            "paragraph": "Sit sint temporibus reprehenderit. Consequatur sed possimus et eveniet. Non ut accusantium quaerat. Et minima molestiae sed eaque nesciunt. Suscipit quas molestiae. Numquam dolores illo est reiciendis eligendi fugiat consectetur omnis."
+        },
+        {
+            "words": "inventore mollitia fugiat",
+            "sentence": "Eos ipsam corporis animi non aut veritatis.",
+            "sentences": "Voluptate et soluta corporis culpa sapiente. Odio non voluptas ut asperiores corrupti eum eligendi. Unde numquam vel. Debitis dicta rerum.",
+            "paragraph": "Iusto ipsum dicta debitis recusandae dolores animi suscipit labore. Sit quod sit consequatur. Alias voluptas doloremque minus quo ab magnam velit qui. Molestiae et numquam animi. Ex est harum id nisi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "664.95",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Satterfield LLC",
+            "name": "Personal Loan Account 3064",
+            "type": "withdrawal",
+            "account": "52505379"
+        },
+        {
+            "amount": "829.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Murphy - Graham",
+            "name": "Investment Account 6454",
+            "type": "deposit",
+            "account": "07209669"
+        },
+        {
+            "amount": "701.02",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Koepp LLC",
+            "name": "Auto Loan Account 5500",
+            "type": "withdrawal",
+            "account": "32361176"
+        }
+    ]
+}

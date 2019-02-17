@@ -1,0 +1,72 @@
+{
+    "name": "Rosalia Bailey",
+    "username": "Wyatt.Paucek69",
+    "email": "Bernardo41@hotmail.com",
+    "address": {
+        "streetA": "Dwight Divide",
+        "streetB": "97103 Bernier Mill",
+        "streetC": "730 Oberbrunner Coves Suite 894",
+        "streetD": "Suite 943",
+        "city": "Port Jakayla",
+        "state": "New Mexico",
+        "country": "Sao Tome and Principe",
+        "zipcode": "26553",
+        "geo": {
+            "lat": "15.8931",
+            "lng": "105.1454"
+        }
+    },
+    "phone": "271-635-1135 x0537",
+    "website": "skye.com",
+    "company": {
+        "name": "Ward - Ward",
+        "catchPhrase": "Progressive intangible methodology",
+        "bs": "best-of-breed aggregate networks"
+    },
+    "posts": [
+        {
+            "words": "tempora laborum vero",
+            "sentence": "Earum dolorem vitae voluptatem possimus et.",
+            "sentences": "Corrupti neque temporibus. Aliquid quam ducimus culpa magnam. Possimus quasi esse et voluptatibus fugiat maiores. Iusto repellat qui commodi placeat. Error a dolorum aliquam et ratione rerum quia sed voluptatem.",
+            "paragraph": "Veniam sint unde quis id saepe. Fugiat ut magnam quam voluptas quod quae aliquid voluptas. Quia sed eveniet ullam labore et veniam deleniti."
+        },
+        {
+            "words": "non qui id",
+            "sentence": "Magni ipsum dolor culpa impedit.",
+            "sentences": "Et expedita optio. Veniam voluptatum dolorem. Quidem molestias excepturi. Nostrum dolorem dicta enim officiis accusamus sed vero. Veniam dolor sapiente et labore fugit. Delectus adipisci quia at.",
+            "paragraph": "Aliquid sint optio. Harum aut expedita fuga repudiandae cumque iusto voluptatem magni similique. Officia eum et dignissimos repellendus nulla. Excepturi dicta tempora et provident blanditiis tempora animi."
+        },
+        {
+            "words": "dolorum mollitia iure",
+            "sentence": "Autem eos assumenda cupiditate consequuntur itaque et veritatis quam.",
+            "sentences": "Perferendis ipsam incidunt dolor rerum tempora maxime esse recusandae. Nisi rem inventore natus impedit. Debitis et qui velit. Aperiam omnis voluptatem reiciendis enim facilis porro. Totam soluta dolor ducimus voluptatem cumque.",
+            "paragraph": "Excepturi unde sunt consequatur aut culpa nihil saepe itaque. Sed sit suscipit soluta voluptas cupiditate. Ut dolor asperiores tenetur. Et cumque autem laboriosam. Minima ut nostrum ut voluptas assumenda tenetur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "349.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mertz - Hodkiewicz",
+            "name": "Investment Account 2956",
+            "type": "withdrawal",
+            "account": "89839283"
+        },
+        {
+            "amount": "995.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Breitenberg - Gottlieb",
+            "name": "Investment Account 5758",
+            "type": "withdrawal",
+            "account": "64275390"
+        },
+        {
+            "amount": "558.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Donnelly, Goyette and Halvorson",
+            "name": "Auto Loan Account 1428",
+            "type": "payment",
+            "account": "81542421"
+        }
+    ]
+}

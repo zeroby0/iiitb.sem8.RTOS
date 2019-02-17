@@ -1,0 +1,72 @@
+{
+    "name": "Eloy Wilderman",
+    "username": "Meghan.Balistreri18",
+    "email": "Elyssa_Hoppe@hotmail.com",
+    "address": {
+        "streetA": "Aaliyah Terrace",
+        "streetB": "910 Leuschke Ports",
+        "streetC": "5479 Witting Inlet Apt. 459",
+        "streetD": "Apt. 209",
+        "city": "Marisolview",
+        "state": "Maine",
+        "country": "Costa Rica",
+        "zipcode": "60104",
+        "geo": {
+            "lat": "-72.7521",
+            "lng": "-141.5344"
+        }
+    },
+    "phone": "1-771-623-9688",
+    "website": "rudy.com",
+    "company": {
+        "name": "Veum Inc",
+        "catchPhrase": "Switchable 24/7 archive",
+        "bs": "proactive implement architectures"
+    },
+    "posts": [
+        {
+            "words": "amet nihil distinctio",
+            "sentence": "Incidunt officia accusantium aut est nobis ut est.",
+            "sentences": "Sint et nulla adipisci quas enim vel architecto sequi ducimus. Nemo aut modi. Dignissimos tempore error beatae consequatur officiis minus quis.",
+            "paragraph": "Voluptatibus asperiores quia accusamus molestiae iste porro quia ab ut. Laboriosam dicta saepe et. Non occaecati magni nobis libero et et autem. Ut doloremque aut quas laboriosam asperiores qui."
+        },
+        {
+            "words": "mollitia officia eius",
+            "sentence": "Laudantium sed quo magnam quod accusamus minima suscipit.",
+            "sentences": "Impedit voluptatem magni. Non quas corporis qui est qui. Repellat alias hic.",
+            "paragraph": "Deserunt optio molestiae sed voluptas sit. Ullam praesentium temporibus non fugit. A reprehenderit reprehenderit aut porro. Omnis quae totam doloremque dolor ducimus eum quod accusamus. Sed ut aspernatur placeat. Ea ea deleniti nobis."
+        },
+        {
+            "words": "voluptate qui alias",
+            "sentence": "Eaque sapiente dolor et voluptas sed est veniam nam.",
+            "sentences": "Dolorem pariatur et aspernatur dolor. Laudantium nihil dignissimos est quidem voluptas odit necessitatibus tempora. Ut aspernatur in fugit quis vel beatae.",
+            "paragraph": "Quidem ipsum ullam dolorum sequi. Tenetur odio nam. Nam voluptatem voluptatem illo id quia. Similique voluptatem provident occaecati rem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "920.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmidt, Yundt and Mraz",
+            "name": "Money Market Account 4079",
+            "type": "deposit",
+            "account": "19728136"
+        },
+        {
+            "amount": "336.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Muller - Schaefer",
+            "name": "Investment Account 8311",
+            "type": "withdrawal",
+            "account": "70950544"
+        },
+        {
+            "amount": "15.28",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ankunding, Dare and DuBuque",
+            "name": "Home Loan Account 1430",
+            "type": "invoice",
+            "account": "08722579"
+        }
+    ]
+}

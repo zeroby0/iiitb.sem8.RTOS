@@ -1,0 +1,72 @@
+{
+    "name": "Dr. Miguel Johns",
+    "username": "Etha.Jaskolski",
+    "email": "Unique.Pacocha83@yahoo.com",
+    "address": {
+        "streetA": "Bethel Village",
+        "streetB": "60532 Schultz Stravenue",
+        "streetC": "7550 Tracey Place Suite 678",
+        "streetD": "Suite 955",
+        "city": "Hodkiewiczville",
+        "state": "New Mexico",
+        "country": "Uruguay",
+        "zipcode": "71656-6335",
+        "geo": {
+            "lat": "70.9149",
+            "lng": "46.9620"
+        }
+    },
+    "phone": "447.934.9795 x97242",
+    "website": "olaf.org",
+    "company": {
+        "name": "Cole - Conn",
+        "catchPhrase": "Organized multimedia knowledge base",
+        "bs": "bricks-and-clicks grow e-markets"
+    },
+    "posts": [
+        {
+            "words": "ut est assumenda",
+            "sentence": "Deleniti libero aperiam hic ut et vero.",
+            "sentences": "Delectus sit et rem nam. Quae sit voluptatum porro vel reiciendis ipsam neque ullam fuga.",
+            "paragraph": "Vitae nihil consequatur enim consequatur. Beatae repudiandae ipsa nemo ut non reprehenderit dolorum sit nemo. Soluta fugit laudantium reprehenderit. Quia ullam rem."
+        },
+        {
+            "words": "quos voluptatibus omnis",
+            "sentence": "Rerum a corrupti sed expedita dicta voluptatem fuga id quia.",
+            "sentences": "Voluptates saepe nam porro sit et ullam labore quis exercitationem. Ad sit culpa fugiat fugiat ducimus omnis id ex et. Eligendi consequatur ea. Consequatur fugiat sed voluptatum voluptatem et magni ea. Adipisci dolore praesentium fugit ullam.",
+            "paragraph": "Possimus nam praesentium omnis. Aperiam consequatur ad ut sapiente. Nam sed quod nihil quo quo cum praesentium. Rerum soluta ipsum ab explicabo voluptatibus veritatis. Porro vel laudantium quasi quod."
+        },
+        {
+            "words": "laborum officia aut",
+            "sentence": "Quaerat aliquam odit.",
+            "sentences": "Reiciendis aut asperiores doloribus dolorem et accusamus rerum voluptas consectetur. Voluptate minus cupiditate rerum et aut repudiandae. Omnis est quo nisi ut quia maxime officia. Molestiae autem soluta. Vero dicta qui velit placeat neque nisi beatae illum.",
+            "paragraph": "Rem sint qui doloribus impedit. Libero ipsam eius recusandae et modi id. Repellat omnis iusto et aut nemo. Sit magni rem aut ut ullam sit veniam doloremque sit. Nobis neque harum qui dolorem. Voluptates doloribus ut saepe."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "202.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hagenes Inc",
+            "name": "Credit Card Account 8750",
+            "type": "withdrawal",
+            "account": "87284976"
+        },
+        {
+            "amount": "324.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Murphy Group",
+            "name": "Personal Loan Account 3758",
+            "type": "deposit",
+            "account": "75089848"
+        },
+        {
+            "amount": "92.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rohan - Torp",
+            "name": "Credit Card Account 6353",
+            "type": "withdrawal",
+            "account": "86048346"
+        }
+    ]
+}

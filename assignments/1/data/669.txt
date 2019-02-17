@@ -1,0 +1,72 @@
+{
+    "name": "Mrs. Ivah Leuschke",
+    "username": "Charlene87",
+    "email": "Ken68@yahoo.com",
+    "address": {
+        "streetA": "Hoppe Drive",
+        "streetB": "482 Daron Place",
+        "streetC": "922 Koepp Divide Apt. 506",
+        "streetD": "Suite 867",
+        "city": "New Arnoberg",
+        "state": "Mississippi",
+        "country": "Denmark",
+        "zipcode": "42261",
+        "geo": {
+            "lat": "5.4979",
+            "lng": "6.0111"
+        }
+    },
+    "phone": "1-879-692-6292 x6280",
+    "website": "kaden.com",
+    "company": {
+        "name": "Upton, Jakubowski and Feil",
+        "catchPhrase": "Centralized object-oriented Graphical User Interface",
+        "bs": "real-time deploy web-readiness"
+    },
+    "posts": [
+        {
+            "words": "fugiat harum repellat",
+            "sentence": "Qui alias molestiae.",
+            "sentences": "Cumque et ut. Eaque laborum et placeat hic. Aspernatur nam et tempora. Ut blanditiis harum voluptas fuga. Quia quia cum.",
+            "paragraph": "Omnis et unde et officiis beatae. Quidem sunt temporibus deleniti sunt tempore. Est quos corporis autem rerum. Rerum nobis cupiditate quisquam consequatur voluptatem voluptas necessitatibus. Consequatur quaerat dolores et est et. Ipsam blanditiis repellat omnis repellendus sunt enim occaecati delectus."
+        },
+        {
+            "words": "fugit non sed",
+            "sentence": "Quaerat nam aut asperiores aperiam voluptatem qui est dolor.",
+            "sentences": "Voluptatibus mollitia iusto corrupti ut possimus dolor magni beatae. Voluptatem doloremque similique nostrum fugiat ipsa blanditiis quasi. Nam quasi cupiditate nihil. Et commodi dignissimos veniam cumque. Quo dolores aut et veritatis blanditiis quia ullam et nisi.",
+            "paragraph": "Ea aspernatur dolor magni veritatis. Excepturi corporis ipsum enim id nostrum occaecati illo et. Et reiciendis minus nobis autem rerum. Maxime asperiores est quis velit vero in tenetur ratione reiciendis. Saepe repellat fuga veritatis. Dolor tenetur veniam molestiae."
+        },
+        {
+            "words": "occaecati eum hic",
+            "sentence": "Sunt ut aut autem sed soluta.",
+            "sentences": "Sed totam dolor commodi ut earum qui. Est nostrum voluptatem velit. Cum reprehenderit saepe dicta aliquam voluptatibus et qui nostrum nulla.",
+            "paragraph": "Ut qui modi amet. Voluptas exercitationem dolorem nihil illo voluptatem pariatur officia. Natus fuga alias doloremque consequatur est. Vero quis eos exercitationem esse animi est sed."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "925.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Turner and Sons",
+            "name": "Home Loan Account 5203",
+            "type": "deposit",
+            "account": "76414182"
+        },
+        {
+            "amount": "264.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bosco, Hammes and Tillman",
+            "name": "Savings Account 5716",
+            "type": "deposit",
+            "account": "20062727"
+        },
+        {
+            "amount": "948.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Armstrong, Feil and Considine",
+            "name": "Savings Account 1147",
+            "type": "invoice",
+            "account": "14913518"
+        }
+    ]
+}

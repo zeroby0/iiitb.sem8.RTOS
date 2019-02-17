@@ -1,0 +1,72 @@
+{
+    "name": "Maya Mosciski",
+    "username": "Gregory_Bailey",
+    "email": "Santino_Douglas@hotmail.com",
+    "address": {
+        "streetA": "Jennifer Ridge",
+        "streetB": "06684 Wyman Roads",
+        "streetC": "532 Forest Spur Apt. 015",
+        "streetD": "Suite 131",
+        "city": "South Jameson",
+        "state": "New Jersey",
+        "country": "Saint Kitts and Nevis",
+        "zipcode": "88910",
+        "geo": {
+            "lat": "-44.2450",
+            "lng": "36.0277"
+        }
+    },
+    "phone": "1-963-227-8032 x56256",
+    "website": "dejuan.biz",
+    "company": {
+        "name": "Cassin, Hagenes and Marks",
+        "catchPhrase": "Synergistic upward-trending superstructure",
+        "bs": "B2B reintermediate partnerships"
+    },
+    "posts": [
+        {
+            "words": "cum molestiae reiciendis",
+            "sentence": "Dolor ad et eveniet molestias.",
+            "sentences": "Sapiente sed ab temporibus iste nostrum. Itaque doloribus aut. Officia facilis necessitatibus quo. Sint aspernatur et architecto. Deserunt debitis incidunt voluptatem. Officia magnam ullam ut adipisci fugiat ut nulla saepe.",
+            "paragraph": "Neque reiciendis consequatur labore sapiente suscipit est deleniti. Sequi repellat unde aperiam facere impedit ut ut enim vel. Tenetur ducimus molestiae quo animi et nam architecto ducimus iure. Tempore sint molestias provident fugit. Omnis aliquid rem."
+        },
+        {
+            "words": "porro architecto asperiores",
+            "sentence": "Et et hic et.",
+            "sentences": "Sit et molestiae et deserunt. Ex et molestiae quam nemo omnis qui. Incidunt quas magnam deleniti architecto illo corrupti omnis quis velit. Sunt sint est accusantium repellendus dolor sed unde magnam eius. Id omnis nam iure. Nobis aliquam sit molestiae debitis ab esse.",
+            "paragraph": "Veritatis ut dolorem nulla dolorem qui vitae possimus voluptas nisi. Corrupti dolore quasi. Qui et dolor reiciendis aliquam perspiciatis consequatur deleniti."
+        },
+        {
+            "words": "dignissimos fugiat velit",
+            "sentence": "Dolores id consectetur aut aut saepe nihil eos corrupti aut.",
+            "sentences": "Molestias aut voluptatem magni vero. Tempore eius numquam asperiores doloribus placeat incidunt libero blanditiis rerum. Aut consequatur ex accusamus voluptatem aliquam officiis culpa. Cupiditate at ea expedita. Magnam necessitatibus aut consequatur sit eius itaque sit qui.",
+            "paragraph": "Odit ut at qui eveniet accusantium dolorum. Voluptatem aut perferendis illum ut molestias autem dolorum. Repellendus aspernatur qui quis voluptates temporibus quibusdam autem similique eius. Possimus rerum doloremque hic reprehenderit. Et laboriosam reprehenderit molestiae optio voluptas dolores. Id autem aut et quia aut cupiditate neque molestiae magnam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "345.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Batz - Rempel",
+            "name": "Checking Account 6291",
+            "type": "invoice",
+            "account": "78998790"
+        },
+        {
+            "amount": "148.51",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rath, Prohaska and Tremblay",
+            "name": "Checking Account 8451",
+            "type": "payment",
+            "account": "49766081"
+        },
+        {
+            "amount": "498.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sanford Inc",
+            "name": "Checking Account 8145",
+            "type": "invoice",
+            "account": "48070774"
+        }
+    ]
+}

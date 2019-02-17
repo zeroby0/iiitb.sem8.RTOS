@@ -1,0 +1,72 @@
+{
+    "name": "Willie Hackett",
+    "username": "Dannie.Reilly12",
+    "email": "Camron_Schoen13@hotmail.com",
+    "address": {
+        "streetA": "Lowe Centers",
+        "streetB": "4397 Sipes Lights",
+        "streetC": "770 Kuhn Plains Suite 743",
+        "streetD": "Suite 714",
+        "city": "Kulasburgh",
+        "state": "Idaho",
+        "country": "Norfolk Island",
+        "zipcode": "17914",
+        "geo": {
+            "lat": "15.7087",
+            "lng": "-14.4514"
+        }
+    },
+    "phone": "1-312-871-4080 x728",
+    "website": "princess.org",
+    "company": {
+        "name": "Schiller - Franecki",
+        "catchPhrase": "Object-based attitude-oriented secured line",
+        "bs": "scalable transition vortals"
+    },
+    "posts": [
+        {
+            "words": "et nobis magnam",
+            "sentence": "Quos explicabo sit veniam.",
+            "sentences": "Nulla laborum quibusdam quas. Illo aspernatur non ea commodi laudantium suscipit. Molestias qui nobis accusamus. Similique consectetur sapiente.",
+            "paragraph": "Labore consequuntur est aut sapiente architecto exercitationem est et libero. Nisi ad excepturi. Excepturi quasi cum est molestiae est."
+        },
+        {
+            "words": "non nesciunt laudantium",
+            "sentence": "Quia officiis dolorem.",
+            "sentences": "Incidunt cum possimus quia sit laudantium dolor et nam nobis. Harum distinctio ut id praesentium itaque fugiat neque quos.",
+            "paragraph": "A quo voluptatum quia quia rerum quidem. Quis est ut. Repudiandae quos officiis temporibus. Perspiciatis ratione modi expedita sit. Natus quam et placeat libero debitis excepturi possimus. Aperiam ducimus qui occaecati qui fuga corporis aut quibusdam."
+        },
+        {
+            "words": "repellat sit nulla",
+            "sentence": "Pariatur nesciunt molestiae.",
+            "sentences": "Praesentium voluptates architecto blanditiis qui eius nisi. Rerum dolor aspernatur aliquam reiciendis quo suscipit et porro. Sit harum rerum voluptas ipsam et tenetur praesentium qui illum. Et eveniet eum aut. Consequatur eos soluta est. Quisquam eius voluptatem quidem temporibus.",
+            "paragraph": "Hic aut sed perferendis maxime qui tempore eum et dolores. Id et nesciunt eum similique modi molestiae aut qui. Sunt a mollitia. Distinctio accusantium autem. Corporis commodi modi consectetur eos et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "241.84",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sawayn and Sons",
+            "name": "Auto Loan Account 9459",
+            "type": "payment",
+            "account": "78538421"
+        },
+        {
+            "amount": "167.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuhic and Sons",
+            "name": "Personal Loan Account 0711",
+            "type": "withdrawal",
+            "account": "73581607"
+        },
+        {
+            "amount": "942.71",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wilderman - DuBuque",
+            "name": "Checking Account 5608",
+            "type": "deposit",
+            "account": "87984158"
+        }
+    ]
+}

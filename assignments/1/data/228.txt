@@ -1,0 +1,72 @@
+{
+    "name": "Talon Stroman",
+    "username": "Stephen_Hackett60",
+    "email": "Enid8@yahoo.com",
+    "address": {
+        "streetA": "Veum Turnpike",
+        "streetB": "564 Kessler Path",
+        "streetC": "2871 Garrick Lake Apt. 074",
+        "streetD": "Suite 635",
+        "city": "Cliffordview",
+        "state": "Oklahoma",
+        "country": "Uzbekistan",
+        "zipcode": "13454-1725",
+        "geo": {
+            "lat": "58.0938",
+            "lng": "36.7032"
+        }
+    },
+    "phone": "816.674.9135",
+    "website": "eliezer.com",
+    "company": {
+        "name": "Murphy Group",
+        "catchPhrase": "Extended explicit contingency",
+        "bs": "B2C engage e-services"
+    },
+    "posts": [
+        {
+            "words": "harum et tenetur",
+            "sentence": "Ab dolores et excepturi sit.",
+            "sentences": "Suscipit rerum quibusdam ducimus similique corporis. Minima at dolores eos eveniet minima eligendi minus sed hic. Molestias dignissimos incidunt ex aut nostrum. Placeat consectetur ex odio vel non error qui. Rem harum ipsam dolore facere earum rerum numquam.",
+            "paragraph": "Autem qui fugiat corporis blanditiis. Omnis totam dolores corrupti. Nihil ad iste omnis accusamus et accusantium temporibus. Ut quo nam autem minus aut architecto nostrum. Quo aperiam eveniet optio quos et. Porro ipsa quo."
+        },
+        {
+            "words": "veniam voluptatem distinctio",
+            "sentence": "Sint consequuntur qui ab saepe voluptatum perspiciatis impedit.",
+            "sentences": "Temporibus necessitatibus reprehenderit culpa sint dolorum asperiores. Id sit ut consequuntur laborum ut ea. Id quia aspernatur voluptatum. Sint aperiam molestiae est blanditiis ad vitae.",
+            "paragraph": "A quisquam culpa maiores expedita quo. Dolores fugit vitae facere quo quas consequatur aut. Facilis nulla iste aut inventore. Voluptatibus voluptas sint quam. Esse fugiat deserunt."
+        },
+        {
+            "words": "maiores quia qui",
+            "sentence": "Magni qui quis omnis accusamus non enim dolorem.",
+            "sentences": "Et qui corrupti laboriosam ducimus occaecati dicta sed incidunt ut. Ab dolor corporis tenetur rerum molestiae ipsa perferendis.",
+            "paragraph": "Aliquid dolore recusandae eveniet necessitatibus ipsa autem amet voluptas. Sit quae quo sed quaerat sunt. Sit pariatur expedita blanditiis. Pariatur ea ex eius. Sed fugit quas optio illum iusto. Et commodi aperiam perferendis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "306.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mitchell - Hammes",
+            "name": "Money Market Account 1348",
+            "type": "withdrawal",
+            "account": "21745121"
+        },
+        {
+            "amount": "983.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kemmer LLC",
+            "name": "Auto Loan Account 2260",
+            "type": "deposit",
+            "account": "57634441"
+        },
+        {
+            "amount": "476.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Sporer Group",
+            "name": "Savings Account 0610",
+            "type": "withdrawal",
+            "account": "14494353"
+        }
+    ]
+}

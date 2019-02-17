@@ -1,0 +1,72 @@
+{
+    "name": "Adonis Dickens",
+    "username": "Maida_OConnell",
+    "email": "Fredrick.McDermott11@yahoo.com",
+    "address": {
+        "streetA": "Olga Lodge",
+        "streetB": "38213 Bergnaum Lakes",
+        "streetC": "178 Zaria Creek Apt. 401",
+        "streetD": "Suite 559",
+        "city": "Torpburgh",
+        "state": "Mississippi",
+        "country": "Mauritania",
+        "zipcode": "51048-2223",
+        "geo": {
+            "lat": "-9.4964",
+            "lng": "-117.9687"
+        }
+    },
+    "phone": "1-146-167-9211 x0894",
+    "website": "pinkie.org",
+    "company": {
+        "name": "Cronin, Glover and Kozey",
+        "catchPhrase": "Function-based heuristic superstructure",
+        "bs": "sexy transition infrastructures"
+    },
+    "posts": [
+        {
+            "words": "et voluptates ut",
+            "sentence": "Ut voluptas ut molestias.",
+            "sentences": "Voluptatibus qui molestias vel quo dolor occaecati illo dolores nulla. Pariatur quia repudiandae consequatur. Nihil dolore et vitae veritatis quos et.",
+            "paragraph": "Maiores tempora occaecati aut rem odio id accusamus voluptatibus aperiam. Suscipit aut repellat aut. Quod vel voluptas nulla corrupti et est vel dolore."
+        },
+        {
+            "words": "laudantium porro ut",
+            "sentence": "Exercitationem delectus est tempora id omnis est maxime quos.",
+            "sentences": "Doloribus rerum numquam labore excepturi aperiam occaecati aperiam ut est. Perferendis et et. Et quas quis optio quos voluptatem. Iure officiis ea voluptates consectetur et sed molestiae. Maiores dignissimos magnam id ipsum aperiam quia.",
+            "paragraph": "Ipsam corrupti iste modi debitis et architecto consequatur aut in. Quo consequuntur iste est at magnam laborum. Consequatur vero magnam excepturi cumque dicta sint. Omnis nihil sunt et. Autem nostrum tempore ab molestias eaque ipsa nihil odio quas. Enim et quaerat maiores aut aut."
+        },
+        {
+            "words": "officiis sunt et",
+            "sentence": "Vero et quaerat consequatur possimus.",
+            "sentences": "Sed illo nam. Voluptatem voluptatem dolore ad saepe ut maiores. Dignissimos nobis a delectus dignissimos aut quia aperiam assumenda.",
+            "paragraph": "Quibusdam et odit temporibus voluptatem quas ut ipsum. Fugiat nulla rerum minima exercitationem modi voluptatem nostrum. Iusto blanditiis enim ut tenetur laborum sed corporis ullam quis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "740.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kassulke, Haag and Haley",
+            "name": "Personal Loan Account 0873",
+            "type": "deposit",
+            "account": "62230910"
+        },
+        {
+            "amount": "40.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Watsica and Sons",
+            "name": "Personal Loan Account 7093",
+            "type": "payment",
+            "account": "76534629"
+        },
+        {
+            "amount": "791.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Volkman Inc",
+            "name": "Personal Loan Account 8695",
+            "type": "withdrawal",
+            "account": "99459694"
+        }
+    ]
+}

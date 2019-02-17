@@ -1,0 +1,72 @@
+{
+    "name": "Kole Denesik",
+    "username": "Baron.Bahringer32",
+    "email": "Jayme47@hotmail.com",
+    "address": {
+        "streetA": "Dewayne Spur",
+        "streetB": "842 Vivienne Parks",
+        "streetC": "573 Feil Fort Apt. 178",
+        "streetD": "Suite 774",
+        "city": "Bernhardbury",
+        "state": "Indiana",
+        "country": "Belize",
+        "zipcode": "85931",
+        "geo": {
+            "lat": "-35.0117",
+            "lng": "-92.1537"
+        }
+    },
+    "phone": "(485) 570-8989 x7230",
+    "website": "logan.org",
+    "company": {
+        "name": "Johnston - Bogisich",
+        "catchPhrase": "Visionary homogeneous middleware",
+        "bs": "mission-critical evolve content"
+    },
+    "posts": [
+        {
+            "words": "et assumenda quia",
+            "sentence": "Non sed et.",
+            "sentences": "Est iusto possimus dolores aperiam enim. Voluptatum aut fugiat corporis voluptatem dolores voluptas amet. Voluptate doloremque blanditiis soluta consectetur omnis quia.",
+            "paragraph": "Aut sequi sit doloribus eos ex omnis aut dolor culpa. Sunt eligendi libero earum quas exercitationem placeat accusamus. Aperiam ab qui enim consequatur. Aspernatur id laudantium voluptatem quis modi qui expedita possimus saepe. Esse recusandae dicta omnis. Aut consequatur iste in aut et incidunt animi molestias."
+        },
+        {
+            "words": "corrupti iusto sit",
+            "sentence": "Quaerat cumque ab.",
+            "sentences": "Inventore at cupiditate. Omnis ut vel reiciendis incidunt et dolorem nobis ipsa. Alias possimus vero numquam aut. Ut quae voluptas quia aliquam veniam suscipit quas commodi debitis. Inventore eveniet praesentium in in sapiente.",
+            "paragraph": "Et qui et praesentium eos ipsam minus eius. Sint aspernatur quia dolores est veritatis. Hic voluptas vitae et vel voluptatibus omnis saepe laborum. Sit dolor officia magnam. Recusandae deserunt eaque. Est incidunt est."
+        },
+        {
+            "words": "qui molestias quia",
+            "sentence": "Et dolores ut nostrum nulla.",
+            "sentences": "Quasi nesciunt ut et sint et molestiae facere. Aliquid vitae ut recusandae sed ducimus et molestiae. Sunt itaque et et porro reiciendis nulla. Facere maxime accusantium sequi minima. Iusto deserunt et.",
+            "paragraph": "Reiciendis qui aspernatur illo. Qui nisi maiores non dolore. Ut doloribus quia in labore et eos. Maxime aliquid accusantium odio est. Et assumenda magni voluptatem ipsum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "6.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ward LLC",
+            "name": "Savings Account 3464",
+            "type": "deposit",
+            "account": "67604305"
+        },
+        {
+            "amount": "940.04",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bauch, Nolan and McLaughlin",
+            "name": "Credit Card Account 8446",
+            "type": "payment",
+            "account": "57991657"
+        },
+        {
+            "amount": "98.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Witting, Morar and Bins",
+            "name": "Auto Loan Account 7682",
+            "type": "invoice",
+            "account": "43619804"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Miss Modesto Dare",
+    "username": "Jerrell_Mayer",
+    "email": "Nichole_Hettinger@hotmail.com",
+    "address": {
+        "streetA": "Sunny Coves",
+        "streetB": "378 Lockman Point",
+        "streetC": "960 Lesch Stream Apt. 409",
+        "streetD": "Apt. 913",
+        "city": "McKenzieberg",
+        "state": "Vermont",
+        "country": "Chad",
+        "zipcode": "82530-0138",
+        "geo": {
+            "lat": "-58.1269",
+            "lng": "-72.0879"
+        }
+    },
+    "phone": "110.239.2799",
+    "website": "hipolito.net",
+    "company": {
+        "name": "Dicki, Rohan and Bahringer",
+        "catchPhrase": "Re-contextualized bi-directional hierarchy",
+        "bs": "revolutionary e-enable infrastructures"
+    },
+    "posts": [
+        {
+            "words": "totam sed omnis",
+            "sentence": "Nesciunt saepe enim.",
+            "sentences": "Iste unde doloribus ex est sunt itaque. Alias laboriosam nihil ut libero nulla fugit quia. Sunt dolores assumenda odit. Expedita autem corporis quibusdam eum. Sequi qui aliquam officia enim tempora et aut harum tempore. Nihil dolore quidem nulla maiores et delectus est magni.",
+            "paragraph": "Asperiores sit error occaecati debitis quam. Ducimus sit iure ea non. Qui ipsum sit dignissimos in aut nulla. Dignissimos perferendis quis molestias ea recusandae. Explicabo iure at itaque debitis atque sint quod aut cum."
+        },
+        {
+            "words": "aut dolorem dolor",
+            "sentence": "Voluptatem veritatis molestiae voluptatem ut atque at voluptas.",
+            "sentences": "Laboriosam fuga blanditiis rerum aut saepe nihil nulla libero voluptates. Totam sit qui. Corrupti enim quis quia neque repudiandae aspernatur.",
+            "paragraph": "Illo dolorem repudiandae ut consectetur commodi asperiores. Iste fuga enim et. Aut omnis saepe. Vel esse facilis dolor doloribus perferendis sit. Id perferendis et voluptatum voluptatibus est sapiente. Ducimus ut eveniet quibusdam numquam eaque."
+        },
+        {
+            "words": "aut hic laudantium",
+            "sentence": "Nesciunt qui aut ea totam.",
+            "sentences": "Corrupti rerum esse nihil fuga voluptas et. Ex sint nihil deserunt delectus ut sint eligendi. Nesciunt minus atque neque magni unde perferendis similique eius. Nulla quis voluptatum et nostrum. Cupiditate itaque quam eaque non provident incidunt dolorem. A labore eligendi commodi aliquid laborum.",
+            "paragraph": "Quisquam doloribus soluta enim rerum optio. Exercitationem dolores vel iste voluptatum rem doloribus est sunt. Nulla laboriosam et optio iste minima culpa vitae est omnis. Cupiditate maiores sit minus qui incidunt. Provident pariatur rerum aliquam. Est pariatur officiis error tempore."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "591.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Greenfelder - Fritsch",
+            "name": "Investment Account 1536",
+            "type": "withdrawal",
+            "account": "27610742"
+        },
+        {
+            "amount": "741.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaden - Nitzsche",
+            "name": "Investment Account 1952",
+            "type": "payment",
+            "account": "48565677"
+        },
+        {
+            "amount": "306.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kovacek - Kub",
+            "name": "Auto Loan Account 8363",
+            "type": "payment",
+            "account": "71434178"
+        }
+    ]
+}

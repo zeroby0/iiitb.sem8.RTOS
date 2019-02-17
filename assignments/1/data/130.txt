@@ -1,0 +1,72 @@
+{
+    "name": "Rico Dickens",
+    "username": "Jarret_Anderson43",
+    "email": "Syble_Shanahan62@gmail.com",
+    "address": {
+        "streetA": "Kristy Garden",
+        "streetB": "735 Dare Trail",
+        "streetC": "1245 Greenholt Lake Suite 043",
+        "streetD": "Apt. 959",
+        "city": "East Romainefurt",
+        "state": "Rhode Island",
+        "country": "Lesotho",
+        "zipcode": "28998",
+        "geo": {
+            "lat": "-47.4216",
+            "lng": "151.6680"
+        }
+    },
+    "phone": "1-593-833-6392",
+    "website": "marcus.name",
+    "company": {
+        "name": "Purdy and Sons",
+        "catchPhrase": "Universal directional firmware",
+        "bs": "cross-media redefine schemas"
+    },
+    "posts": [
+        {
+            "words": "non aut amet",
+            "sentence": "Blanditiis reiciendis nostrum enim distinctio ut expedita quos.",
+            "sentences": "Expedita commodi cum optio rerum deserunt odio. Rerum omnis perspiciatis reprehenderit dolorem officiis hic. Amet a dicta sequi. Excepturi ad perferendis. Officiis voluptatem qui rerum perferendis impedit enim.",
+            "paragraph": "Molestias a qui est. Cum quia qui illo id voluptas corporis reiciendis. Natus ut hic reiciendis dignissimos natus quia voluptas ut. Omnis voluptatibus inventore eius optio occaecati et at hic fuga. Sed possimus in accusamus nesciunt. Corrupti ullam sed numquam."
+        },
+        {
+            "words": "et animi cum",
+            "sentence": "Molestias expedita cupiditate qui.",
+            "sentences": "Impedit omnis repudiandae magni sed. Ipsum aperiam ipsum alias distinctio facere facilis et molestiae. Consectetur sit rerum voluptatibus dolor sed qui dicta ad. Esse nam debitis ratione doloremque perferendis sit. Aut ea aut et odio vel explicabo qui delectus tenetur.",
+            "paragraph": "Quia et nulla maxime voluptatibus enim aut iusto et. Doloremque ex nulla porro neque totam possimus iusto. Ipsa reprehenderit autem saepe fugit nostrum soluta officiis. Eveniet consequatur ratione eos omnis iste error ea. Sit dolor sed non omnis nobis."
+        },
+        {
+            "words": "dolore velit repudiandae",
+            "sentence": "Facilis velit sit.",
+            "sentences": "Vel necessitatibus natus accusamus aut ipsa aut ea consequatur dolores. Doloremque dolores sunt soluta illum ad repudiandae aut. Officia culpa qui doloremque qui velit et. Et quis error doloremque. Et quasi nemo quia aperiam minima deserunt qui id.",
+            "paragraph": "Hic aliquam qui quia. Non dicta necessitatibus excepturi eos sed quia voluptates laborum. Illo repellendus dolores necessitatibus et explicabo nihil dolore ratione consequatur. Nemo est qui facilis molestias. Soluta fugit aut expedita maiores. Sed odio rem pariatur alias ut rerum nostrum sunt."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "438.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rice Inc",
+            "name": "Credit Card Account 1692",
+            "type": "payment",
+            "account": "31950259"
+        },
+        {
+            "amount": "151.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Strosin - Kihn",
+            "name": "Investment Account 7803",
+            "type": "payment",
+            "account": "92946610"
+        },
+        {
+            "amount": "51.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fahey - Wintheiser",
+            "name": "Savings Account 6724",
+            "type": "withdrawal",
+            "account": "39072220"
+        }
+    ]
+}

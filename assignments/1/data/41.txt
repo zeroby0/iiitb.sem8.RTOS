@@ -1,0 +1,72 @@
+{
+    "name": "Etha Douglas",
+    "username": "Conner.Kris37",
+    "email": "Rene0@hotmail.com",
+    "address": {
+        "streetA": "Jose Mills",
+        "streetB": "67141 Richmond Drive",
+        "streetC": "935 Schowalter Squares Apt. 570",
+        "streetD": "Apt. 610",
+        "city": "Lake Jovanyland",
+        "state": "Alabama",
+        "country": "Slovakia (Slovak Republic)",
+        "zipcode": "37247",
+        "geo": {
+            "lat": "19.0096",
+            "lng": "-42.7049"
+        }
+    },
+    "phone": "206.630.8655 x189",
+    "website": "cassie.info",
+    "company": {
+        "name": "Emard - Price",
+        "catchPhrase": "Horizontal attitude-oriented process improvement",
+        "bs": "compelling embrace infrastructures"
+    },
+    "posts": [
+        {
+            "words": "repellendus non quasi",
+            "sentence": "Suscipit assumenda voluptatem.",
+            "sentences": "Excepturi ducimus esse ratione quos ratione consequatur et. Et rerum repellendus cum eveniet non ratione dicta. Adipisci eaque blanditiis iusto accusantium debitis alias culpa officia nam. Qui tempora repudiandae sed ratione autem maxime totam.",
+            "paragraph": "Est quibusdam in molestiae. Possimus aspernatur beatae quod consequuntur fuga dicta. Sunt voluptate veniam sunt dolor consequuntur et."
+        },
+        {
+            "words": "illum sequi assumenda",
+            "sentence": "Adipisci excepturi sed.",
+            "sentences": "Et officia aspernatur corporis dolores adipisci nam id repellat. Non aperiam aspernatur est ipsa vero enim. Sed deleniti quam magni corrupti quas. Repudiandae illo est expedita ipsa dolorum pariatur quos fugit quia.",
+            "paragraph": "Aspernatur est eos consectetur cupiditate. Et voluptatem fugiat ut ducimus doloribus. Ad excepturi blanditiis dolor harum deleniti."
+        },
+        {
+            "words": "molestiae aut placeat",
+            "sentence": "Rem officiis maxime.",
+            "sentences": "Dolore reprehenderit totam quos aut voluptate nemo eius et. Sit nesciunt non facilis ea architecto autem. Assumenda deserunt ut unde praesentium ipsam autem ab impedit ut. Sed dicta voluptas ipsum totam voluptatem iste cupiditate labore dolore. Possimus inventore quibusdam et fugiat sapiente placeat.",
+            "paragraph": "Beatae voluptas et ipsum id modi ipsa. Officia doloremque occaecati minus similique possimus accusantium quasi. Aut qui explicabo sunt sunt quis hic. Incidunt molestias consequuntur quam veniam tempora."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "304.97",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Towne - Littel",
+            "name": "Home Loan Account 6631",
+            "type": "payment",
+            "account": "40290853"
+        },
+        {
+            "amount": "337.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Baumbach, Wilderman and Wyman",
+            "name": "Credit Card Account 7847",
+            "type": "withdrawal",
+            "account": "82578805"
+        },
+        {
+            "amount": "598.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Balistreri - Block",
+            "name": "Personal Loan Account 1881",
+            "type": "payment",
+            "account": "08736920"
+        }
+    ]
+}

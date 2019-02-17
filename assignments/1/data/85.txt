@@ -1,0 +1,72 @@
+{
+    "name": "Hermann Prosacco",
+    "username": "Mary39",
+    "email": "Kurt50@gmail.com",
+    "address": {
+        "streetA": "Stroman Expressway",
+        "streetB": "6432 Arden Lodge",
+        "streetC": "303 Curt Shoals Suite 970",
+        "streetD": "Suite 852",
+        "city": "New Lucious",
+        "state": "Vermont",
+        "country": "Equatorial Guinea",
+        "zipcode": "62808",
+        "geo": {
+            "lat": "-14.4695",
+            "lng": "-15.4720"
+        }
+    },
+    "phone": "(478) 791-6078",
+    "website": "abagail.org",
+    "company": {
+        "name": "Beatty - Cartwright",
+        "catchPhrase": "Versatile fresh-thinking archive",
+        "bs": "ubiquitous engineer networks"
+    },
+    "posts": [
+        {
+            "words": "adipisci voluptatem quod",
+            "sentence": "Sunt est quis cum ipsam et architecto quisquam.",
+            "sentences": "Aut sit velit accusantium impedit corporis ipsa et. Beatae non et. Et hic voluptate ut et natus. Laudantium quasi rerum odit. Aut sit ipsam sed illo. Exercitationem commodi accusamus libero iusto accusamus.",
+            "paragraph": "Est quaerat maiores temporibus illum illo quia ipsam. Aut et omnis. Rerum vitae deserunt aut aperiam. Cumque a quam aut est."
+        },
+        {
+            "words": "quas explicabo voluptas",
+            "sentence": "Voluptatem molestias numquam sed qui ut.",
+            "sentences": "Officiis et quia sit exercitationem quia ipsa magni non dolore. Aliquam enim inventore quo quod nam magni ipsa. Non id maxime suscipit exercitationem. Non animi quia. Dolorum doloremque suscipit et dolor.",
+            "paragraph": "Atque dolorum modi fugit a saepe animi. Ut quae dolore veritatis. Et voluptates inventore similique omnis hic minus. Voluptatem repudiandae non. At nemo temporibus sed et tenetur. Ut numquam perspiciatis earum quae non fuga consequuntur."
+        },
+        {
+            "words": "nihil aut ut",
+            "sentence": "Quam eum dignissimos dolore fuga qui.",
+            "sentences": "Quia voluptates et fugiat numquam quam repellendus quos sit rerum. Porro maiores soluta quas quidem. Ratione eveniet odio reiciendis accusamus occaecati. Voluptatibus eos pariatur alias quisquam magni praesentium nihil saepe ipsa. Nemo assumenda aut omnis sed provident quo.",
+            "paragraph": "Est porro et occaecati. Atque est optio maxime autem. Architecto numquam ut nesciunt illum temporibus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "108.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jaskolski Inc",
+            "name": "Money Market Account 0491",
+            "type": "deposit",
+            "account": "60487364"
+        },
+        {
+            "amount": "144.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cartwright, Carter and Schulist",
+            "name": "Investment Account 5251",
+            "type": "withdrawal",
+            "account": "68745917"
+        },
+        {
+            "amount": "17.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wisoky Inc",
+            "name": "Money Market Account 3601",
+            "type": "deposit",
+            "account": "95277381"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Zechariah Haag",
+    "username": "Wiley_Lueilwitz",
+    "email": "Neoma.Wyman@gmail.com",
+    "address": {
+        "streetA": "Watson Stravenue",
+        "streetB": "493 Thiel Green",
+        "streetC": "5134 Zaria Turnpike Apt. 599",
+        "streetD": "Suite 953",
+        "city": "Port Macymouth",
+        "state": "Michigan",
+        "country": "Cyprus",
+        "zipcode": "39315-5615",
+        "geo": {
+            "lat": "53.7301",
+            "lng": "-46.4240"
+        }
+    },
+    "phone": "1-734-499-5470 x327",
+    "website": "pierre.info",
+    "company": {
+        "name": "Stanton - Hackett",
+        "catchPhrase": "Synergized holistic process improvement",
+        "bs": "next-generation transition infomediaries"
+    },
+    "posts": [
+        {
+            "words": "ab ut numquam",
+            "sentence": "Est necessitatibus consequatur asperiores quos quae amet exercitationem in incidunt.",
+            "sentences": "Suscipit et magni molestias illo. Architecto consequuntur et nulla ducimus repudiandae quos quia. Non eos qui qui ea et eaque. Deserunt cumque quisquam et. Ullam corporis accusamus illum consequatur laudantium dolorem modi nihil hic. Cumque quisquam harum exercitationem ea explicabo id dignissimos.",
+            "paragraph": "Animi quia et. Incidunt modi impedit ut sed nobis et excepturi. Ipsa quia atque sint."
+        },
+        {
+            "words": "eos quae iusto",
+            "sentence": "Hic dignissimos inventore ea aut.",
+            "sentences": "Velit nam occaecati. Dignissimos eos blanditiis animi unde. Accusantium aut consequatur odio molestiae vitae inventore repellat. Blanditiis nam culpa recusandae quo sit asperiores officia.",
+            "paragraph": "Ad amet qui nobis quis quisquam suscipit accusantium. Ratione enim impedit eum quod id modi sed error et. Qui culpa et dolore dolorem facere natus impedit. Velit ipsa incidunt. Rerum laudantium mollitia vero est qui autem cum qui. Sunt voluptate itaque iste odio amet est."
+        },
+        {
+            "words": "eos et dolorum",
+            "sentence": "Odit sequi sint et quia.",
+            "sentences": "Nemo velit asperiores autem assumenda quia sunt et. Dolores veniam iusto vel rerum debitis voluptas dolores labore. Sunt quia aut sed omnis. Non pariatur omnis dolor. Et nulla distinctio odio voluptatum.",
+            "paragraph": "Ut accusamus eveniet. Voluptatem qui quia repudiandae et ut ducimus eos perferendis. Reiciendis aut voluptas error nesciunt omnis eos in aliquid."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "394.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Effertz, Wehner and Kuhic",
+            "name": "Money Market Account 2548",
+            "type": "deposit",
+            "account": "25208948"
+        },
+        {
+            "amount": "840.78",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuphal LLC",
+            "name": "Home Loan Account 5061",
+            "type": "payment",
+            "account": "56188453"
+        },
+        {
+            "amount": "168.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobi - Dickens",
+            "name": "Auto Loan Account 5371",
+            "type": "invoice",
+            "account": "67875533"
+        }
+    ]
+}

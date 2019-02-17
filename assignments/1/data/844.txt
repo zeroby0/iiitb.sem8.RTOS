@@ -1,0 +1,72 @@
+{
+    "name": "Lorenzo Schumm",
+    "username": "Bennett.Cassin",
+    "email": "Keyon52@yahoo.com",
+    "address": {
+        "streetA": "O'Reilly Lights",
+        "streetB": "51431 Rempel Mountains",
+        "streetC": "047 Nikolaus Wall Apt. 166",
+        "streetD": "Apt. 048",
+        "city": "Friesenmouth",
+        "state": "Delaware",
+        "country": "Eritrea",
+        "zipcode": "01995",
+        "geo": {
+            "lat": "65.2202",
+            "lng": "93.0711"
+        }
+    },
+    "phone": "732-942-8219 x7149",
+    "website": "corene.com",
+    "company": {
+        "name": "Runte - Streich",
+        "catchPhrase": "Versatile interactive internet solution",
+        "bs": "world-class benchmark synergies"
+    },
+    "posts": [
+        {
+            "words": "iste pariatur commodi",
+            "sentence": "Nisi eius delectus illum ut dignissimos consequatur nam vel.",
+            "sentences": "Debitis nulla illum non ullam cupiditate eaque. Quidem nemo et maiores suscipit aspernatur. Alias et sit laudantium. Exercitationem officia velit expedita laudantium tenetur quos sint voluptas. Non iste veritatis nihil error sint. Accusamus cumque dolor optio voluptatibus repellat animi aliquam similique eos.",
+            "paragraph": "Ut nostrum quis nobis hic. Qui quis tempore et ratione saepe. Quae facilis eos quod error dolorum."
+        },
+        {
+            "words": "quia suscipit corrupti",
+            "sentence": "Magni ad et pariatur impedit cumque aliquid nihil.",
+            "sentences": "Enim facere atque quibusdam. Ut reprehenderit hic ea quia sunt. Nobis est commodi rerum nulla ullam repellendus amet. Et exercitationem reprehenderit iste. Ea enim labore inventore aliquam voluptatem optio omnis. Quia assumenda sequi laborum fugiat.",
+            "paragraph": "In itaque ea. Magnam labore quaerat cumque unde. Hic et dolore ipsa dolor qui et quis."
+        },
+        {
+            "words": "dicta vero aut",
+            "sentence": "Quasi ut corrupti et enim.",
+            "sentences": "Nulla quia dolorum excepturi natus porro. Ipsa omnis omnis dolor veniam eos incidunt vitae. Debitis deleniti et.",
+            "paragraph": "Accusantium voluptate laudantium aut mollitia et expedita voluptatem. Vero in mollitia perferendis. Error quo ab omnis sapiente perferendis occaecati rerum. Vitae repudiandae nihil tenetur voluptas."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "624.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kshlerin, Gislason and Blick",
+            "name": "Auto Loan Account 2789",
+            "type": "payment",
+            "account": "02257152"
+        },
+        {
+            "amount": "937.86",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaden and Sons",
+            "name": "Checking Account 5685",
+            "type": "invoice",
+            "account": "51667849"
+        },
+        {
+            "amount": "992.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Green - Reinger",
+            "name": "Savings Account 0925",
+            "type": "withdrawal",
+            "account": "86586765"
+        }
+    ]
+}

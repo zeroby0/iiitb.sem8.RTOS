@@ -1,0 +1,72 @@
+{
+    "name": "Ellen Daniel",
+    "username": "Jovan51",
+    "email": "Omer_Batz38@yahoo.com",
+    "address": {
+        "streetA": "Haskell Canyon",
+        "streetB": "96148 Meta Glens",
+        "streetC": "58418 Hickle Curve Apt. 893",
+        "streetD": "Apt. 271",
+        "city": "South Aliceshire",
+        "state": "North Carolina",
+        "country": "Bosnia and Herzegovina",
+        "zipcode": "31841",
+        "geo": {
+            "lat": "15.6058",
+            "lng": "178.2274"
+        }
+    },
+    "phone": "700-145-1362",
+    "website": "carole.net",
+    "company": {
+        "name": "Kessler Inc",
+        "catchPhrase": "Automated real-time moderator",
+        "bs": "turn-key extend synergies"
+    },
+    "posts": [
+        {
+            "words": "rerum voluptas fugiat",
+            "sentence": "Alias molestiae ullam non eaque in optio et illum odit.",
+            "sentences": "Eligendi aut veniam molestias ut vel odio iure. Illum est sint nostrum quas sint minima.",
+            "paragraph": "Quos beatae voluptas et ea sit quos quasi rem dignissimos. Nihil officia amet commodi voluptatum rem et. Error et quia quia nobis expedita est ducimus ipsum aut. Est dignissimos voluptatem veniam. Dolorem et qui quo facere. Ea neque libero."
+        },
+        {
+            "words": "fugit illo aut",
+            "sentence": "Libero ea voluptatum quia eaque accusamus.",
+            "sentences": "Ut ut optio non ipsa. Vel molestias error nesciunt consequatur molestias cumque. Ipsam explicabo libero facilis qui nihil et neque. Qui tenetur quaerat ad quos blanditiis aperiam voluptates est.",
+            "paragraph": "Velit aut aspernatur iure. Et optio praesentium. Quos atque sint voluptatem blanditiis illum culpa iure unde omnis. Eum voluptate aliquam reprehenderit. Quam aspernatur iste."
+        },
+        {
+            "words": "totam non est",
+            "sentence": "Illum veritatis aut qui possimus sit non omnis.",
+            "sentences": "Sint distinctio cupiditate non. Voluptas est ex aperiam veniam consectetur vel optio. Vero eius et rem nihil corrupti ipsa molestiae sunt.",
+            "paragraph": "Perspiciatis quam sapiente quia autem. Dolores cumque et excepturi voluptatem et quam quos laborum consequatur. Id quia explicabo at ea."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "850.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Miller, Dickens and Hirthe",
+            "name": "Auto Loan Account 7195",
+            "type": "invoice",
+            "account": "77952137"
+        },
+        {
+            "amount": "560.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schamberger, Shanahan and Lakin",
+            "name": "Auto Loan Account 7690",
+            "type": "invoice",
+            "account": "42882888"
+        },
+        {
+            "amount": "677.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jast - Wehner",
+            "name": "Investment Account 9404",
+            "type": "deposit",
+            "account": "60949511"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Kellie O'Reilly",
+    "username": "Osbaldo54",
+    "email": "Violette86@yahoo.com",
+    "address": {
+        "streetA": "Ortiz Island",
+        "streetB": "68784 Runolfsson Parkway",
+        "streetC": "5722 Fidel Bridge Suite 267",
+        "streetD": "Apt. 804",
+        "city": "West Samanta",
+        "state": "Florida",
+        "country": "Bahrain",
+        "zipcode": "21420-3368",
+        "geo": {
+            "lat": "2.0024",
+            "lng": "-123.6233"
+        }
+    },
+    "phone": "(545) 517-0988 x3170",
+    "website": "morton.net",
+    "company": {
+        "name": "Prohaska, Dickinson and Schuster",
+        "catchPhrase": "Down-sized 24/7 functionalities",
+        "bs": "visionary visualize metrics"
+    },
+    "posts": [
+        {
+            "words": "fuga nostrum voluptatem",
+            "sentence": "Voluptatum voluptatibus rem itaque illum dicta cupiditate.",
+            "sentences": "Voluptatum quibusdam nam incidunt amet eligendi ut quisquam eum. Voluptatibus et tenetur voluptatem voluptas dolor dolores eos ipsam nostrum. Est ipsum suscipit provident officia voluptatibus. Porro vel ut omnis natus totam quas et error explicabo.",
+            "paragraph": "Ad iure autem voluptas eum ut. Aliquid velit soluta ipsa eaque qui qui eum nesciunt necessitatibus. Soluta officiis fugiat ea ea hic excepturi odit earum consequuntur. Aut mollitia ipsum et. Minima voluptatum qui fuga velit natus id. Vero numquam quia sit perspiciatis sunt vitae."
+        },
+        {
+            "words": "ut quisquam sint",
+            "sentence": "Porro aut eos quisquam repellendus qui quia.",
+            "sentences": "Voluptatum excepturi qui blanditiis aut id. Officia commodi officia eum fugit placeat accusantium repudiandae et voluptas. Facere quia labore officiis optio. Ut excepturi in illum magnam ut et optio enim. Odio enim explicabo doloribus placeat.",
+            "paragraph": "Eveniet minus natus officia omnis. Temporibus autem facilis illum non sapiente. Nesciunt placeat omnis. Autem et quas molestiae sit incidunt quod. Sequi et numquam quidem. Doloremque rerum asperiores fugiat distinctio maxime nisi eaque non dignissimos."
+        },
+        {
+            "words": "eos praesentium aut",
+            "sentence": "Maiores quia vero quasi mollitia laudantium deserunt itaque explicabo laborum.",
+            "sentences": "Suscipit debitis dolorem. Cupiditate ut quia officiis repellat. Quia hic corrupti vitae delectus eos omnis. Assumenda et ducimus laborum aut.",
+            "paragraph": "Adipisci esse et doloremque ratione similique ut at repudiandae suscipit. Ducimus voluptas laboriosam esse sed corrupti praesentium quam. Molestiae qui atque."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "401.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Auer and Sons",
+            "name": "Auto Loan Account 8926",
+            "type": "withdrawal",
+            "account": "66645892"
+        },
+        {
+            "amount": "175.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuhn Group",
+            "name": "Savings Account 9269",
+            "type": "payment",
+            "account": "61251557"
+        },
+        {
+            "amount": "962.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Crooks, Rath and Moore",
+            "name": "Checking Account 3504",
+            "type": "deposit",
+            "account": "42498327"
+        }
+    ]
+}

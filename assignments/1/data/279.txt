@@ -1,0 +1,72 @@
+{
+    "name": "Carolina Russel",
+    "username": "Nya.Haley",
+    "email": "Nathan_Doyle@hotmail.com",
+    "address": {
+        "streetA": "Gibson Loop",
+        "streetB": "30914 Kertzmann Well",
+        "streetC": "057 Emmitt Ports Apt. 880",
+        "streetD": "Suite 025",
+        "city": "South Roscoeside",
+        "state": "Delaware",
+        "country": "Belize",
+        "zipcode": "98174-2500",
+        "geo": {
+            "lat": "-20.1432",
+            "lng": "13.5131"
+        }
+    },
+    "phone": "347-787-8987",
+    "website": "reese.biz",
+    "company": {
+        "name": "Langworth, Rowe and Breitenberg",
+        "catchPhrase": "Programmable asymmetric local area network",
+        "bs": "wireless orchestrate technologies"
+    },
+    "posts": [
+        {
+            "words": "qui qui laudantium",
+            "sentence": "Neque iste corporis blanditiis tempore.",
+            "sentences": "Odit temporibus voluptatem hic aut. Aliquid maxime saepe aut ea quod odio aut voluptatum. Reprehenderit voluptatem quo tempore corrupti id. Architecto sed repellat dolor.",
+            "paragraph": "Libero corrupti rerum occaecati autem. Incidunt quis accusamus eligendi alias officia quisquam aliquam ut eum. Placeat modi optio iusto. Et placeat est. Odit exercitationem sapiente sapiente quia omnis aut voluptatem ut."
+        },
+        {
+            "words": "eos corporis dignissimos",
+            "sentence": "Aliquam et quia nulla aut.",
+            "sentences": "Et expedita impedit debitis voluptas rerum tempore ipsa aut. Necessitatibus provident ducimus explicabo. Velit praesentium ipsa a quia aliquid.",
+            "paragraph": "Ex tenetur laborum iste et. Ipsa rerum occaecati. Et id nihil corrupti totam est consequatur delectus quaerat. Corporis dolore ipsum quo distinctio nemo dolore vel illo mollitia. Velit ut numquam. Quia et eligendi et consequatur sunt nihil."
+        },
+        {
+            "words": "velit ut maiores",
+            "sentence": "Et adipisci sit hic vitae qui odit laudantium distinctio maxime.",
+            "sentences": "Sed eaque expedita eaque et hic. Ipsum veniam itaque recusandae dolores distinctio et. Ipsum illum temporibus voluptatem. Tenetur et iure alias corrupti tempora iste quia.",
+            "paragraph": "In et voluptatem fugiat consequatur eius quis pariatur. Ducimus molestiae explicabo doloremque nesciunt sint optio nemo in est. Laudantium qui modi. Quaerat omnis quasi iste optio consequatur. Exercitationem dolorem ex."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "547.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Roob Group",
+            "name": "Home Loan Account 3419",
+            "type": "deposit",
+            "account": "20125183"
+        },
+        {
+            "amount": "574.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wilderman - Murazik",
+            "name": "Personal Loan Account 8176",
+            "type": "deposit",
+            "account": "37271832"
+        },
+        {
+            "amount": "265.57",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bechtelar LLC",
+            "name": "Investment Account 3045",
+            "type": "withdrawal",
+            "account": "12117487"
+        }
+    ]
+}

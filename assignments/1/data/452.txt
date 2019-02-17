@@ -1,0 +1,72 @@
+{
+    "name": "Maximillia Rowe",
+    "username": "Stephanie.Schmeler",
+    "email": "Savannah.DAmore@gmail.com",
+    "address": {
+        "streetA": "Gertrude Port",
+        "streetB": "6674 Schuster Way",
+        "streetC": "044 Dayne Hollow Suite 841",
+        "streetD": "Apt. 822",
+        "city": "Hammeston",
+        "state": "New Mexico",
+        "country": "Chile",
+        "zipcode": "82939",
+        "geo": {
+            "lat": "37.8324",
+            "lng": "41.5239"
+        }
+    },
+    "phone": "504.500.0932 x9592",
+    "website": "zackary.net",
+    "company": {
+        "name": "McGlynn, Veum and Hoppe",
+        "catchPhrase": "Advanced foreground database",
+        "bs": "value-added strategize platforms"
+    },
+    "posts": [
+        {
+            "words": "quibusdam esse porro",
+            "sentence": "Iure et voluptatem consequatur atque quo illo.",
+            "sentences": "Repellendus et delectus nemo neque repellendus facere voluptas provident. Veniam maiores assumenda mollitia et. Voluptatum totam voluptate laudantium velit delectus id nam quam quia. Sunt voluptas dignissimos aspernatur velit et facere veritatis. Sunt tempora a nisi at dolore aut sed corrupti aut.",
+            "paragraph": "Magnam odit eveniet incidunt eos error autem quam repudiandae. Magni totam in. Eaque quae expedita quos deserunt omnis et. Dicta est quaerat fugit aut consequuntur molestias similique temporibus qui. Magni animi est qui vel rerum aut ipsam nesciunt. Est aperiam quasi modi sed et placeat voluptatum veniam amet."
+        },
+        {
+            "words": "et qui aut",
+            "sentence": "Doloribus tempore qui qui minima quis.",
+            "sentences": "Impedit voluptas quia tempore repellat est sed libero totam expedita. Illum ea delectus atque blanditiis porro unde nostrum. Impedit est deserunt at inventore nobis sint sit facilis accusamus.",
+            "paragraph": "Perferendis harum alias ut quis aliquam. Dolores nemo consequatur labore quaerat eos. Voluptate consectetur et accusantium accusamus voluptatem. Repellat aut cum ea esse vel perspiciatis voluptatem qui voluptates. Expedita quia dolore dolor non ab. Aut labore distinctio quod ad neque."
+        },
+        {
+            "words": "enim illum quis",
+            "sentence": "Qui magnam et.",
+            "sentences": "Quisquam itaque atque. Et quas aut dolor possimus. Error id ducimus blanditiis enim reiciendis debitis fugiat est incidunt. Nulla error voluptatibus veniam alias quasi et quam nihil et.",
+            "paragraph": "Velit perferendis velit ut esse et aperiam. Voluptas accusamus tenetur id quaerat est quis praesentium blanditiis unde. Et non aliquam et excepturi quod fugit. Quidem modi aut voluptate nisi autem maiores illum unde unde. Est quidem sed. Atque et inventore exercitationem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "246.33",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Osinski, Kerluke and Ledner",
+            "name": "Money Market Account 2980",
+            "type": "invoice",
+            "account": "55298990"
+        },
+        {
+            "amount": "403.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schoen and Sons",
+            "name": "Personal Loan Account 5288",
+            "type": "invoice",
+            "account": "15607875"
+        },
+        {
+            "amount": "980.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ratke, Greenholt and Reichel",
+            "name": "Home Loan Account 4665",
+            "type": "withdrawal",
+            "account": "54503031"
+        }
+    ]
+}

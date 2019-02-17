@@ -1,0 +1,72 @@
+{
+    "name": "Eliezer Bauch",
+    "username": "Filomena72",
+    "email": "Zoe_Osinski@hotmail.com",
+    "address": {
+        "streetA": "Willms Fall",
+        "streetB": "582 Stamm Groves",
+        "streetC": "6747 Kraig Wall Suite 942",
+        "streetD": "Apt. 223",
+        "city": "New Shanyview",
+        "state": "Illinois",
+        "country": "Brunei Darussalam",
+        "zipcode": "24513",
+        "geo": {
+            "lat": "-57.3112",
+            "lng": "59.9131"
+        }
+    },
+    "phone": "1-884-845-6606",
+    "website": "gail.org",
+    "company": {
+        "name": "Kozey LLC",
+        "catchPhrase": "Cross-platform coherent capacity",
+        "bs": "clicks-and-mortar exploit deliverables"
+    },
+    "posts": [
+        {
+            "words": "et non aut",
+            "sentence": "Et et ut vel.",
+            "sentences": "Iusto tempore ducimus qui quo animi sed perspiciatis voluptatibus. Ut blanditiis impedit et illum animi excepturi odit. Eius labore aliquid officia.",
+            "paragraph": "Est sit sint sed quia eum illo nam. Tempore voluptatem ut quidem. Minima nam temporibus voluptatem et consequatur quos."
+        },
+        {
+            "words": "nulla impedit accusamus",
+            "sentence": "Beatae quaerat quia quia quis.",
+            "sentences": "Quasi quo sit. Blanditiis asperiores aut sit alias error nemo. Deserunt officiis neque voluptate similique eos est in illo. Sit veritatis nisi. Non et sed ut.",
+            "paragraph": "Voluptate provident eaque dolor sit eos dolorum non nulla deserunt. Saepe omnis libero possimus. Nostrum odio assumenda enim. Ipsam sed ab reiciendis nostrum dignissimos quis enim pariatur. Vero architecto ut repellat repudiandae labore ipsum. Rerum est adipisci."
+        },
+        {
+            "words": "tenetur autem consequuntur",
+            "sentence": "Ullam et delectus amet delectus.",
+            "sentences": "Ea optio quaerat nostrum veniam quia officiis. Corrupti nesciunt dicta ea quaerat porro architecto. Beatae eveniet placeat voluptates officia repellendus ducimus ex ullam. Harum atque dolorem reprehenderit voluptatem saepe consequatur quas ut ducimus.",
+            "paragraph": "Id aut placeat. Ducimus facere ipsum blanditiis voluptatem sapiente. Eaque sequi libero autem. Non ut sit omnis occaecati provident accusamus neque ratione dolore."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "621.74",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reilly LLC",
+            "name": "Auto Loan Account 2407",
+            "type": "payment",
+            "account": "10610741"
+        },
+        {
+            "amount": "58.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kreiger and Sons",
+            "name": "Savings Account 9121",
+            "type": "payment",
+            "account": "78405387"
+        },
+        {
+            "amount": "97.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lehner, Bode and Jacobson",
+            "name": "Credit Card Account 4717",
+            "type": "deposit",
+            "account": "10290570"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Mina Kertzmann",
+    "username": "Chelsey_Sanford71",
+    "email": "Tristin.Kertzmann@hotmail.com",
+    "address": {
+        "streetA": "McLaughlin Common",
+        "streetB": "276 Delfina Corners",
+        "streetC": "6328 Satterfield Summit Apt. 687",
+        "streetD": "Apt. 723",
+        "city": "Baumbachland",
+        "state": "Ohio",
+        "country": "Myanmar",
+        "zipcode": "06675-8101",
+        "geo": {
+            "lat": "66.1114",
+            "lng": "-111.9527"
+        }
+    },
+    "phone": "(419) 518-7909 x9374",
+    "website": "aida.biz",
+    "company": {
+        "name": "Pagac LLC",
+        "catchPhrase": "Enhanced full-range moderator",
+        "bs": "out-of-the-box deliver content"
+    },
+    "posts": [
+        {
+            "words": "qui a occaecati",
+            "sentence": "Alias error et animi sit sapiente.",
+            "sentences": "Quam sapiente assumenda minima odio quasi earum. Dolores ea possimus officia voluptatem modi. Neque dolores sed. Explicabo nemo velit architecto nesciunt veritatis. Odio tempore adipisci.",
+            "paragraph": "Impedit veritatis ut perspiciatis molestias. Dolorum quae perferendis iste explicabo qui est. Qui nam et."
+        },
+        {
+            "words": "in non quia",
+            "sentence": "Voluptates illum tempore incidunt qui aut odio sapiente.",
+            "sentences": "Delectus unde eius aut. Minima et saepe aperiam nihil.",
+            "paragraph": "Illum sunt et quibusdam est inventore assumenda aliquam. Fuga consequuntur ullam ipsum eos esse error facere. Aut culpa porro et ex mollitia."
+        },
+        {
+            "words": "voluptas deserunt qui",
+            "sentence": "Reprehenderit placeat in assumenda.",
+            "sentences": "Doloribus voluptatem laudantium accusamus itaque officia aperiam nisi. Eius sed rerum ut aut. Et consequuntur qui natus. Voluptatem fugit modi.",
+            "paragraph": "Aut dolorem quis tempora nulla. Nisi ut error ut ut omnis asperiores nam est. Repellendus ipsum laborum architecto asperiores ad. Consectetur et exercitationem necessitatibus. Quia dignissimos et consectetur et facere similique omnis consequatur at. Placeat reprehenderit nihil quia temporibus sed officiis modi ullam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "453.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Roberts, Gusikowski and Reilly",
+            "name": "Investment Account 3189",
+            "type": "payment",
+            "account": "41450511"
+        },
+        {
+            "amount": "878.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gibson, West and Kassulke",
+            "name": "Home Loan Account 4399",
+            "type": "deposit",
+            "account": "45713442"
+        },
+        {
+            "amount": "713.36",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Flatley, Metz and Wyman",
+            "name": "Money Market Account 3164",
+            "type": "withdrawal",
+            "account": "68578240"
+        }
+    ]
+}

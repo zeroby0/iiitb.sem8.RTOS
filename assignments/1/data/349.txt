@@ -1,0 +1,72 @@
+{
+    "name": "Anna O'Keefe",
+    "username": "Lambert.Schultz",
+    "email": "Kaci87@yahoo.com",
+    "address": {
+        "streetA": "Wallace Roads",
+        "streetB": "45335 Friesen Centers",
+        "streetC": "3619 Beier Mountain Suite 772",
+        "streetD": "Apt. 959",
+        "city": "Lake Tremayne",
+        "state": "Indiana",
+        "country": "Faroe Islands",
+        "zipcode": "50853",
+        "geo": {
+            "lat": "-26.4006",
+            "lng": "158.0058"
+        }
+    },
+    "phone": "100-422-4676",
+    "website": "dee.name",
+    "company": {
+        "name": "D'Amore - Kuphal",
+        "catchPhrase": "User-friendly responsive groupware",
+        "bs": "sticky benchmark convergence"
+    },
+    "posts": [
+        {
+            "words": "deleniti quia nesciunt",
+            "sentence": "Sed incidunt quo at.",
+            "sentences": "Ab reprehenderit necessitatibus. Assumenda architecto magni nihil qui quod pariatur perferendis voluptatem. Eum occaecati eligendi facilis. In ducimus maiores sunt dolorem. Dolore eaque nobis quis.",
+            "paragraph": "Fuga qui velit consequuntur harum. Quia dolorum blanditiis a sint aut doloremque quia repellendus atque. At earum quas nam provident labore enim perspiciatis maxime quam."
+        },
+        {
+            "words": "est ut eum",
+            "sentence": "Fuga accusamus qui voluptates eveniet dicta nobis eum.",
+            "sentences": "Eos corrupti eaque autem ipsam accusantium. Animi omnis debitis cum vel aut et nihil tempora non. Quis animi ipsam dolor tempore reprehenderit consequatur vitae non consectetur. Molestiae maxime sequi.",
+            "paragraph": "Qui harum hic omnis consequuntur magnam est sit. Aut deleniti ut velit et sed dolor quaerat ut. Nihil et minus officia cupiditate molestias illo enim culpa itaque. Dolorem fuga et est debitis saepe facilis. Dolorem ea molestiae voluptas."
+        },
+        {
+            "words": "rerum temporibus dolor",
+            "sentence": "Eum aliquid distinctio vitae.",
+            "sentences": "Quos facere amet ea est mollitia quam distinctio dolor sint. Beatae expedita quasi suscipit voluptatem necessitatibus minima. Id aperiam omnis aut sed atque a iure quisquam pariatur. Repudiandae veritatis sed vero deserunt. Et et sapiente magnam numquam perspiciatis non ut.",
+            "paragraph": "Nihil nesciunt explicabo. Saepe quas doloribus accusantium. Eligendi vitae fugit sit iste officia odit consequatur delectus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "971.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gibson - Hauck",
+            "name": "Credit Card Account 9952",
+            "type": "invoice",
+            "account": "29688236"
+        },
+        {
+            "amount": "993.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Upton - Wisozk",
+            "name": "Checking Account 9050",
+            "type": "payment",
+            "account": "83308574"
+        },
+        {
+            "amount": "911.30",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Feeney Inc",
+            "name": "Credit Card Account 0642",
+            "type": "withdrawal",
+            "account": "69637110"
+        }
+    ]
+}

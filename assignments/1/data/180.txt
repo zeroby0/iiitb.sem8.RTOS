@@ -1,0 +1,72 @@
+{
+    "name": "Marielle McDermott",
+    "username": "Garrett.Shields",
+    "email": "Jamel_Ferry41@yahoo.com",
+    "address": {
+        "streetA": "Dicki Island",
+        "streetB": "212 Hertha Lakes",
+        "streetC": "808 Precious Shores Apt. 787",
+        "streetD": "Apt. 702",
+        "city": "Pollichfort",
+        "state": "Ohio",
+        "country": "United Kingdom",
+        "zipcode": "20858",
+        "geo": {
+            "lat": "59.5358",
+            "lng": "50.3651"
+        }
+    },
+    "phone": "(591) 862-1050",
+    "website": "alysha.biz",
+    "company": {
+        "name": "Legros, Connelly and Larkin",
+        "catchPhrase": "Business-focused clear-thinking application",
+        "bs": "integrated mesh communities"
+    },
+    "posts": [
+        {
+            "words": "aut deserunt facere",
+            "sentence": "Rem asperiores hic deleniti laborum corrupti exercitationem nobis dolorum quibusdam.",
+            "sentences": "Aut et et quos assumenda. Facilis quae hic. Qui non et et ut consequatur atque. Veritatis in sunt et est commodi. Deleniti fugit pariatur voluptas et quo sed.",
+            "paragraph": "Sed deleniti rerum. Omnis iure qui quia sunt et quam. Unde qui autem ea nulla maxime provident expedita voluptates. Consequatur accusantium sed ipsum unde ea et est. Ea qui ex sunt in voluptatibus hic unde natus. Excepturi ab ea."
+        },
+        {
+            "words": "cum voluptate dolores",
+            "sentence": "Illum autem vero quas.",
+            "sentences": "Voluptas assumenda nihil architecto et tempore quo voluptas. Nobis iusto consequatur id. Quidem reprehenderit voluptatem consequatur est autem saepe et aut. Doloribus tenetur ut sit esse. Deserunt iusto iste minima iusto.",
+            "paragraph": "Tempore alias excepturi ut a ea eos dignissimos consequatur voluptate. At nesciunt nihil totam quo sint sunt qui. Veniam natus voluptatem sit nostrum perspiciatis in non alias nisi. Tempore inventore voluptas aut beatae. Cum eos culpa non quam. In perspiciatis ex ex magni enim tenetur voluptatem."
+        },
+        {
+            "words": "maiores laudantium animi",
+            "sentence": "Laborum expedita maiores dolore ut illum ut aut.",
+            "sentences": "Reiciendis sequi perferendis qui ut animi qui. Voluptate consequuntur cum sit molestiae sit assumenda aut quis nesciunt. Hic rem voluptatem. Fugit ea reiciendis omnis officia accusamus accusamus quia. Cupiditate itaque non eum id dolorem consequatur. Ab tempore ipsam sit.",
+            "paragraph": "Illo excepturi maxime non quod itaque voluptatibus quo doloremque corporis. Quisquam similique consectetur assumenda quibusdam quo maxime non. Dolorem minima velit voluptatem mollitia eveniet occaecati itaque. Omnis omnis neque adipisci. Et rerum ullam delectus libero iusto. Minus et omnis sed amet."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "886.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rolfson - Kunde",
+            "name": "Investment Account 5579",
+            "type": "invoice",
+            "account": "98690333"
+        },
+        {
+            "amount": "646.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Hara Group",
+            "name": "Investment Account 6717",
+            "type": "withdrawal",
+            "account": "09199211"
+        },
+        {
+            "amount": "392.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bruen Group",
+            "name": "Credit Card Account 8009",
+            "type": "deposit",
+            "account": "58603233"
+        }
+    ]
+}

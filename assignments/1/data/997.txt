@@ -1,0 +1,72 @@
+{
+    "name": "Germaine Anderson",
+    "username": "Wilhelmine_Bauch",
+    "email": "Josephine_Barton@hotmail.com",
+    "address": {
+        "streetA": "Jack Station",
+        "streetB": "546 Murphy Union",
+        "streetC": "9751 Wisozk Centers Apt. 840",
+        "streetD": "Suite 675",
+        "city": "Kunzeberg",
+        "state": "Georgia",
+        "country": "Norfolk Island",
+        "zipcode": "55740",
+        "geo": {
+            "lat": "-69.2513",
+            "lng": "56.4332"
+        }
+    },
+    "phone": "464-475-0931",
+    "website": "juwan.name",
+    "company": {
+        "name": "Botsford, West and Kilback",
+        "catchPhrase": "Horizontal zero defect process improvement",
+        "bs": "synergistic innovate experiences"
+    },
+    "posts": [
+        {
+            "words": "est mollitia totam",
+            "sentence": "Non id natus sed id.",
+            "sentences": "Non ab non eaque dolorem possimus totam nesciunt. Inventore voluptatum ut dolore et animi adipisci possimus. Distinctio quia quos. Laudantium et corrupti aut et suscipit nisi et.",
+            "paragraph": "Placeat repellendus sit hic. Sit sint est error quasi dolore cumque nisi nobis. Consequatur nostrum voluptatem quia quam molestiae repudiandae et."
+        },
+        {
+            "words": "et reiciendis quos",
+            "sentence": "Provident voluptatem quod.",
+            "sentences": "Enim est quod omnis. Non quia itaque nostrum. Quia voluptatibus odit assumenda esse dignissimos.",
+            "paragraph": "Quis explicabo ut. Quia aut libero distinctio adipisci facilis eos rerum quidem assumenda. Veritatis non consequatur quasi earum doloremque laborum earum. Sunt placeat nihil consequatur consectetur voluptates quasi accusamus. Maiores est doloribus asperiores occaecati facere quis."
+        },
+        {
+            "words": "molestiae eos assumenda",
+            "sentence": "Dolor corporis id eveniet commodi sit nihil velit.",
+            "sentences": "Maxime aperiam adipisci voluptas. Omnis et aut eveniet ullam minima enim illum tenetur repellendus. Qui perferendis odit. Harum voluptatem eum aut reiciendis enim sed. Totam veniam quo aut ab consequatur.",
+            "paragraph": "Magnam et quae quia et. Voluptas quas sunt adipisci voluptates minima rerum est ratione. Aut quos deleniti rerum fugit. Qui ab maxime esse a quos aut ad voluptatem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "580.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bosco - Stamm",
+            "name": "Auto Loan Account 0724",
+            "type": "invoice",
+            "account": "55084371"
+        },
+        {
+            "amount": "512.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Murazik and Sons",
+            "name": "Home Loan Account 3321",
+            "type": "deposit",
+            "account": "53609809"
+        },
+        {
+            "amount": "591.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bailey - Harvey",
+            "name": "Checking Account 1020",
+            "type": "payment",
+            "account": "17925222"
+        }
+    ]
+}

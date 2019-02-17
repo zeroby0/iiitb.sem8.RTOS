@@ -1,0 +1,72 @@
+{
+    "name": "Garry Doyle",
+    "username": "Madalyn37",
+    "email": "Rosemarie92@gmail.com",
+    "address": {
+        "streetA": "Murray Centers",
+        "streetB": "80741 Ondricka Ramp",
+        "streetC": "5437 Tianna Ford Suite 260",
+        "streetD": "Apt. 541",
+        "city": "Babyborough",
+        "state": "North Carolina",
+        "country": "Poland",
+        "zipcode": "29372",
+        "geo": {
+            "lat": "-29.0202",
+            "lng": "-59.6463"
+        }
+    },
+    "phone": "(002) 784-7583 x98063",
+    "website": "roslyn.com",
+    "company": {
+        "name": "Brown, Collier and Denesik",
+        "catchPhrase": "Multi-channelled intangible complexity",
+        "bs": "e-business harness vortals"
+    },
+    "posts": [
+        {
+            "words": "in rerum quo",
+            "sentence": "Repudiandae maxime enim voluptatum maxime et.",
+            "sentences": "Et hic quam suscipit ab voluptatem dolorem dolores. Quo iusto voluptatem. Aliquam est ex porro dolorem dolorem.",
+            "paragraph": "At nihil ipsam. Voluptatem ab tenetur. Consectetur eos quos sequi maxime ipsum aut. Est natus doloremque porro dolorem. Nesciunt aut velit doloribus at alias eaque aut est exercitationem. Et doloremque officia ipsum ex qui facilis."
+        },
+        {
+            "words": "accusantium corporis vel",
+            "sentence": "Blanditiis dolores nihil commodi quidem hic et.",
+            "sentences": "Fuga reprehenderit iste unde inventore aperiam hic consequatur optio sed. Mollitia quae ullam corporis velit amet commodi est hic. Perferendis voluptatem quam mollitia omnis explicabo repudiandae totam vel illum.",
+            "paragraph": "Ullam consequatur ipsa eum. Perspiciatis culpa quidem corporis nisi dolores aut. Eum blanditiis eum maxime ea cum inventore corporis. Assumenda quo eum et ut repellat ex blanditiis. Esse aut recusandae distinctio repellendus qui ut fuga beatae amet."
+        },
+        {
+            "words": "praesentium quod minus",
+            "sentence": "Deserunt repellendus ad dicta cum maiores fugit ut illum provident.",
+            "sentences": "Velit quis voluptatem a id dignissimos. Quo veritatis qui molestiae accusantium.",
+            "paragraph": "Facilis quis nobis vero eaque illum quos. Modi tempora inventore ad animi dolor perspiciatis rerum suscipit. Qui explicabo voluptas et rem et eos laudantium repudiandae. Officia sint quaerat culpa blanditiis facilis eos voluptas. Non nihil consequatur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "883.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jast, Kerluke and Larson",
+            "name": "Savings Account 4826",
+            "type": "invoice",
+            "account": "33772058"
+        },
+        {
+            "amount": "715.47",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ratke Inc",
+            "name": "Personal Loan Account 3070",
+            "type": "payment",
+            "account": "28199783"
+        },
+        {
+            "amount": "930.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schoen - Jacobi",
+            "name": "Investment Account 2558",
+            "type": "invoice",
+            "account": "74476539"
+        }
+    ]
+}

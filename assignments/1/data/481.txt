@@ -1,0 +1,72 @@
+{
+    "name": "Chyna Towne",
+    "username": "Velma_Schumm35",
+    "email": "Rosella28@yahoo.com",
+    "address": {
+        "streetA": "Metz Ville",
+        "streetB": "980 Wolf Road",
+        "streetC": "180 Prohaska Brook Suite 094",
+        "streetD": "Suite 821",
+        "city": "East Lindsayborough",
+        "state": "Texas",
+        "country": "Christmas Island",
+        "zipcode": "15407-3423",
+        "geo": {
+            "lat": "-44.1740",
+            "lng": "-68.1089"
+        }
+    },
+    "phone": "712.822.0411",
+    "website": "sylvan.name",
+    "company": {
+        "name": "Bergnaum, Morar and Kshlerin",
+        "catchPhrase": "Ergonomic value-added circuit",
+        "bs": "scalable brand architectures"
+    },
+    "posts": [
+        {
+            "words": "vel tempora ad",
+            "sentence": "Fuga eaque numquam laboriosam voluptatibus et voluptas beatae voluptas non.",
+            "sentences": "Quibusdam vitae similique quos. Neque architecto quo rerum nostrum mollitia dolorem iste possimus.",
+            "paragraph": "Est ratione voluptatem quia et nobis sint ad vel. Nihil velit non distinctio magni. Voluptatum vitae ipsum occaecati voluptatem soluta illum numquam iusto placeat. Eos hic aut molestiae tempora accusantium. Voluptates rerum ullam non."
+        },
+        {
+            "words": "doloribus consequatur adipisci",
+            "sentence": "Deserunt autem autem ut et.",
+            "sentences": "Non aut est harum reprehenderit iure ut quidem. Nisi iste rerum excepturi. Ut dolor natus nobis enim ratione. Optio voluptatem dicta voluptatem consequuntur ipsum consequatur. Dicta soluta similique esse sit nam voluptas nemo. Rem velit aperiam at sint quod et asperiores.",
+            "paragraph": "Esse illum vel voluptatem id vero. Mollitia corporis unde accusantium exercitationem. Veritatis expedita quia. Consectetur accusantium ipsa."
+        },
+        {
+            "words": "voluptate qui ipsam",
+            "sentence": "Aut ut rerum voluptatem odio alias cum sed.",
+            "sentences": "Debitis accusantium pariatur vero. Architecto nisi est distinctio ab. Id ex qui. Non iure eum. Repellat sit porro nobis id.",
+            "paragraph": "Et voluptatem et esse. Et tempore vero. Aut qui et voluptate quod dolores veritatis minus eaque cumque. Et quia animi similique qui voluptates omnis cupiditate est consequatur. Quisquam fugiat cupiditate nulla. Mollitia ut dicta atque sint et iure magnam aut quia."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "36.01",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Davis, Torp and Gutmann",
+            "name": "Savings Account 0469",
+            "type": "payment",
+            "account": "81514965"
+        },
+        {
+            "amount": "557.19",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Huels, Ratke and Nikolaus",
+            "name": "Home Loan Account 7889",
+            "type": "payment",
+            "account": "92436413"
+        },
+        {
+            "amount": "44.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wiza Inc",
+            "name": "Savings Account 4559",
+            "type": "payment",
+            "account": "99968178"
+        }
+    ]
+}

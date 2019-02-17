@@ -1,0 +1,72 @@
+{
+    "name": "Bethel Wyman",
+    "username": "Frida75",
+    "email": "Louisa_Gibson41@hotmail.com",
+    "address": {
+        "streetA": "Elna Spring",
+        "streetB": "39221 Larson Tunnel",
+        "streetC": "3104 Jerrell Bypass Suite 230",
+        "streetD": "Apt. 650",
+        "city": "Camrenport",
+        "state": "Maine",
+        "country": "Senegal",
+        "zipcode": "99173-9087",
+        "geo": {
+            "lat": "-35.9753",
+            "lng": "129.5018"
+        }
+    },
+    "phone": "104.354.5333 x00277",
+    "website": "ellis.net",
+    "company": {
+        "name": "Sipes, Ziemann and Hermiston",
+        "catchPhrase": "Enterprise-wide clear-thinking throughput",
+        "bs": "cutting-edge revolutionize interfaces"
+    },
+    "posts": [
+        {
+            "words": "aut nobis dolores",
+            "sentence": "Aut omnis in qui qui nihil.",
+            "sentences": "Culpa distinctio et optio. Ipsum iure ea aperiam. Libero ullam perferendis alias eos quisquam ipsum ut rem et. Aut dicta asperiores voluptates aperiam et minima magni eos consequatur. Ipsa quo modi ipsa aut quia.",
+            "paragraph": "Dolores vel qui illo qui dolores minus vero provident. Et maiores dolor. Repellat sequi id et tempore repellendus ratione. Dolores autem id facilis quia consequuntur et non voluptas. Amet inventore voluptate sunt exercitationem et est."
+        },
+        {
+            "words": "non nostrum explicabo",
+            "sentence": "Minus voluptatem distinctio sed placeat eos deleniti amet.",
+            "sentences": "Omnis doloribus ea minus nihil odio voluptatem rerum inventore voluptatem. Delectus deserunt alias ratione voluptatem saepe sunt quia. Fuga et dolorem hic quo voluptas sit mollitia non esse. Atque sapiente vero voluptates consequatur rem. Magni id ipsam rerum deserunt. Libero culpa sunt molestiae voluptate consequatur qui non quisquam reiciendis.",
+            "paragraph": "Velit perferendis est magnam vitae explicabo aut. Maxime deleniti voluptatem nam deleniti reiciendis non aperiam quia. Quos tenetur et aut similique. Accusantium eveniet eum facere voluptas."
+        },
+        {
+            "words": "qui non blanditiis",
+            "sentence": "Neque in corrupti mollitia ut est voluptate saepe.",
+            "sentences": "Commodi blanditiis quia aperiam voluptate est ut rerum nihil eos. Aspernatur a cum.",
+            "paragraph": "Autem aut esse. Adipisci accusamus et quo magni illo sapiente exercitationem unde. Quo laborum voluptas perferendis ab dolor."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "562.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaden Inc",
+            "name": "Investment Account 2508",
+            "type": "invoice",
+            "account": "76352861"
+        },
+        {
+            "amount": "239.73",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Harris - Gleichner",
+            "name": "Checking Account 6396",
+            "type": "withdrawal",
+            "account": "65477128"
+        },
+        {
+            "amount": "909.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "West - Hamill",
+            "name": "Home Loan Account 1439",
+            "type": "withdrawal",
+            "account": "32605125"
+        }
+    ]
+}

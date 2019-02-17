@@ -1,0 +1,72 @@
+{
+    "name": "Kaden Barrows II",
+    "username": "Madge.Conn",
+    "email": "Mack.Lehner@hotmail.com",
+    "address": {
+        "streetA": "Dario Ways",
+        "streetB": "5573 Aufderhar Landing",
+        "streetC": "040 Eleazar Road Apt. 573",
+        "streetD": "Apt. 598",
+        "city": "South Scotmouth",
+        "state": "Georgia",
+        "country": "Jersey",
+        "zipcode": "68947",
+        "geo": {
+            "lat": "18.6114",
+            "lng": "30.3927"
+        }
+    },
+    "phone": "770.952.3984 x33402",
+    "website": "mossie.biz",
+    "company": {
+        "name": "Schmeler, Walsh and Altenwerth",
+        "catchPhrase": "Fundamental bi-directional adapter",
+        "bs": "collaborative integrate functionalities"
+    },
+    "posts": [
+        {
+            "words": "architecto dolore ratione",
+            "sentence": "Tempora perferendis velit suscipit minus voluptatem voluptates odit mollitia qui.",
+            "sentences": "Debitis doloremque quia aut sit adipisci eius eligendi. Rem ipsam quia. Voluptas aut voluptatem nihil ut. Consequatur saepe saepe voluptates porro.",
+            "paragraph": "Sapiente dolorem autem earum totam repudiandae itaque blanditiis. Et fuga saepe ratione dolor debitis. Impedit qui voluptatem cupiditate et aperiam id."
+        },
+        {
+            "words": "qui qui maxime",
+            "sentence": "Nihil praesentium eos quisquam eveniet rem et corporis architecto.",
+            "sentences": "Expedita ratione adipisci explicabo illum minima. Et est ut et qui sed quos et omnis. Nostrum sed et voluptas commodi eius voluptatem repudiandae similique quas. Autem quo iste nihil. Consequatur similique quam eum et exercitationem numquam autem numquam iure.",
+            "paragraph": "Praesentium magni alias assumenda repellendus doloremque aut nihil qui impedit. Hic recusandae eveniet quidem facere voluptatem. Totam libero ullam quia iure."
+        },
+        {
+            "words": "amet quas aperiam",
+            "sentence": "Incidunt et id numquam.",
+            "sentences": "Eos consequuntur voluptatem ut non officia facere nesciunt quo ut. Consequatur velit neque iste. Pariatur facilis dignissimos. Molestiae commodi aut ipsum impedit est harum suscipit omnis.",
+            "paragraph": "Deleniti omnis enim sunt suscipit veniam quo. Nostrum similique eaque omnis aut ut non ad. Nulla repudiandae at dignissimos repudiandae error occaecati occaecati ut ipsa. Rerum qui dignissimos eos totam in dolorem repellendus porro recusandae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "252.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuhlman LLC",
+            "name": "Credit Card Account 1618",
+            "type": "payment",
+            "account": "16591202"
+        },
+        {
+            "amount": "537.66",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Monahan and Sons",
+            "name": "Personal Loan Account 4015",
+            "type": "withdrawal",
+            "account": "72463506"
+        },
+        {
+            "amount": "915.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuhic - Bailey",
+            "name": "Investment Account 1186",
+            "type": "payment",
+            "account": "02960990"
+        }
+    ]
+}

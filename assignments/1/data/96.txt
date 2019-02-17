@@ -1,0 +1,72 @@
+{
+    "name": "Tyrese Welch",
+    "username": "Rusty_Pfeffer42",
+    "email": "Mariano41@gmail.com",
+    "address": {
+        "streetA": "Osinski Drives",
+        "streetB": "6460 Scottie Islands",
+        "streetC": "8503 Kutch Stream Suite 386",
+        "streetD": "Suite 149",
+        "city": "South Hank",
+        "state": "Vermont",
+        "country": "Zambia",
+        "zipcode": "42945",
+        "geo": {
+            "lat": "-63.7392",
+            "lng": "69.0238"
+        }
+    },
+    "phone": "(805) 735-7371 x26111",
+    "website": "florida.net",
+    "company": {
+        "name": "Koelpin Inc",
+        "catchPhrase": "Customizable object-oriented extranet",
+        "bs": "compelling morph architectures"
+    },
+    "posts": [
+        {
+            "words": "sapiente enim totam",
+            "sentence": "Autem beatae ratione.",
+            "sentences": "Mollitia iure voluptates fugiat sunt molestiae. Consequatur consectetur consectetur qui amet velit. Dicta possimus nesciunt eveniet provident et possimus a quam dolorem.",
+            "paragraph": "Maxime sint voluptatem libero qui et. Illum magni numquam repudiandae. Ipsum aut dolore et. Consequatur porro quae expedita quo debitis."
+        },
+        {
+            "words": "et consectetur repellat",
+            "sentence": "Qui cupiditate rerum sapiente.",
+            "sentences": "Veritatis qui aut assumenda libero quam. Odit iusto sunt. Et possimus voluptas sunt placeat perspiciatis reprehenderit veniam.",
+            "paragraph": "Perspiciatis ullam architecto eum saepe. Vel voluptatum enim. Magni voluptate sed. Sunt sunt sit tenetur quia voluptatem."
+        },
+        {
+            "words": "sapiente possimus vel",
+            "sentence": "Tempore suscipit quis doloribus occaecati est id.",
+            "sentences": "Molestiae sunt voluptatibus ex repudiandae dolores sit qui necessitatibus perferendis. Mollitia qui sint. Ea enim ea ea eos voluptate laudantium amet aperiam.",
+            "paragraph": "Doloremque assumenda optio molestiae amet iure est sit harum. Voluptatem optio et. Nihil beatae minus omnis alias sunt et laborum nulla. Asperiores et molestias ea dolores pariatur consequatur ut autem. Magni aut aliquam eaque."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "553.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lynch, Bergnaum and Gaylord",
+            "name": "Personal Loan Account 8402",
+            "type": "withdrawal",
+            "account": "03202132"
+        },
+        {
+            "amount": "992.74",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Adams, Block and Ratke",
+            "name": "Money Market Account 0863",
+            "type": "deposit",
+            "account": "71812940"
+        },
+        {
+            "amount": "75.98",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Waters, Pollich and Carter",
+            "name": "Home Loan Account 6322",
+            "type": "withdrawal",
+            "account": "21496397"
+        }
+    ]
+}

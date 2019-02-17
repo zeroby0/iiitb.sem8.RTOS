@@ -1,0 +1,72 @@
+{
+    "name": "Rigoberto Jast",
+    "username": "Bryce45",
+    "email": "Dedrick_Rowe36@yahoo.com",
+    "address": {
+        "streetA": "Konopelski Plains",
+        "streetB": "216 Brigitte Dale",
+        "streetC": "5978 Becker Valley Apt. 492",
+        "streetD": "Suite 060",
+        "city": "West Krystinaton",
+        "state": "Pennsylvania",
+        "country": "Saint Lucia",
+        "zipcode": "48574-2627",
+        "geo": {
+            "lat": "70.4495",
+            "lng": "-112.0782"
+        }
+    },
+    "phone": "(881) 988-6913 x6740",
+    "website": "jesse.info",
+    "company": {
+        "name": "Sawayn, Heidenreich and Swaniawski",
+        "catchPhrase": "Open-architected grid-enabled flexibility",
+        "bs": "leading-edge deliver interfaces"
+    },
+    "posts": [
+        {
+            "words": "pariatur repellendus eum",
+            "sentence": "Dolorem molestiae incidunt voluptates fuga sit non.",
+            "sentences": "Eos rerum sed fugit dolores minima. Voluptas voluptatum et repellendus ut nulla et optio. Nihil eos recusandae voluptatem accusamus et ut et.",
+            "paragraph": "Ea sapiente tempore consequatur. Cum placeat eaque odit aliquid quia aut odio facere omnis. Magni totam voluptate officiis facilis. Molestiae aut est sit quibusdam nostrum velit aut soluta sint."
+        },
+        {
+            "words": "voluptas iste quibusdam",
+            "sentence": "Sit aut et sed enim tempore.",
+            "sentences": "Cumque iure accusamus. Qui neque harum aut necessitatibus ut sapiente atque. Dolor omnis quis dolore magnam alias pariatur cum minus corporis. Consectetur explicabo laborum illo.",
+            "paragraph": "Non facere unde sed pariatur facere inventore. Ratione corporis non eaque quos officiis et. Dolores eveniet reiciendis esse itaque voluptatem. Non voluptatem et eos et est."
+        },
+        {
+            "words": "voluptatem quia debitis",
+            "sentence": "Ea mollitia dolorem voluptatem doloremque ut necessitatibus laudantium necessitatibus blanditiis.",
+            "sentences": "Labore esse aut. Cupiditate aspernatur voluptatem quisquam. Et occaecati incidunt quibusdam autem aliquid omnis excepturi recusandae sint. Quibusdam non quae quod autem et dolor. Labore rerum at veritatis cum.",
+            "paragraph": "Velit voluptatem illum. Dicta magni odit sit perferendis. Placeat consectetur adipisci dolor. Doloribus occaecati possimus tenetur et sunt sapiente repudiandae excepturi consequuntur. Sapiente et laborum eos tempora autem recusandae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "264.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Orn - Hoppe",
+            "name": "Investment Account 1553",
+            "type": "deposit",
+            "account": "78538971"
+        },
+        {
+            "amount": "665.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Conroy Inc",
+            "name": "Credit Card Account 8473",
+            "type": "withdrawal",
+            "account": "50185300"
+        },
+        {
+            "amount": "223.50",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tremblay, Friesen and Pacocha",
+            "name": "Savings Account 1173",
+            "type": "deposit",
+            "account": "27479401"
+        }
+    ]
+}

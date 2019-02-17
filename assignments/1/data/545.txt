@@ -1,0 +1,72 @@
+{
+    "name": "Estevan Beatty V",
+    "username": "Carey_Stracke",
+    "email": "Dustin70@hotmail.com",
+    "address": {
+        "streetA": "Jaylen Terrace",
+        "streetB": "40309 Ondricka Light",
+        "streetC": "2541 Randy Prairie Suite 040",
+        "streetD": "Apt. 012",
+        "city": "Lake Leanna",
+        "state": "Arkansas",
+        "country": "Central African Republic",
+        "zipcode": "19077",
+        "geo": {
+            "lat": "39.1043",
+            "lng": "-147.4571"
+        }
+    },
+    "phone": "957-749-4173",
+    "website": "kari.org",
+    "company": {
+        "name": "Hayes, Harber and Hoppe",
+        "catchPhrase": "Upgradable motivating matrices",
+        "bs": "strategic deploy metrics"
+    },
+    "posts": [
+        {
+            "words": "a aut eius",
+            "sentence": "Qui adipisci modi qui ut maiores qui voluptate.",
+            "sentences": "Rerum nesciunt earum error ex. Velit totam ullam est in iste. Praesentium aut magni laborum consequatur voluptates quae consequatur. Quo recusandae omnis aut.",
+            "paragraph": "Quo officiis at et cum et accusamus officiis mollitia. Fuga provident sit maxime optio sed cupiditate quo. Aut ut assumenda corporis sunt quia natus minus ab."
+        },
+        {
+            "words": "et ullam aut",
+            "sentence": "Quasi laborum voluptatibus aperiam quas voluptates.",
+            "sentences": "Quis et omnis totam ea. Ducimus et et voluptatum enim distinctio qui aspernatur enim officiis. Et autem fuga dolorum hic impedit dolores dolorum. Labore consequatur non dolore quia aut molestias accusamus ea beatae. Error voluptates quod dolores sit aut aut nihil facilis ea. Omnis minima eaque rem architecto et incidunt voluptatem.",
+            "paragraph": "Ut aperiam nemo natus voluptatibus sint a fuga iste mollitia. Voluptas iste iste voluptas. Repellat deleniti rerum nihil ipsa debitis. Aut nesciunt quia atque soluta dolores quia id sunt aliquam. Est et inventore. Est repudiandae distinctio aperiam quidem."
+        },
+        {
+            "words": "est eius quas",
+            "sentence": "Aperiam sit recusandae quis.",
+            "sentences": "Veniam iste autem hic reprehenderit. Ut impedit voluptatem incidunt id molestiae dolorum quia asperiores ut. Est quasi dolorum aut aliquid necessitatibus expedita adipisci.",
+            "paragraph": "Qui qui eum quaerat reiciendis sunt esse est. Illo ut sunt. Qui magnam enim consequatur soluta asperiores eum. Et quidem voluptatem dolorem ducimus quia. Cupiditate dolores voluptatem et tenetur nostrum nihil. Laborum iste maxime accusamus odit tenetur modi quidem ut ipsam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "488.76",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pfannerstill, Monahan and Bradtke",
+            "name": "Checking Account 1056",
+            "type": "withdrawal",
+            "account": "04098366"
+        },
+        {
+            "amount": "890.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ruecker - Buckridge",
+            "name": "Auto Loan Account 4463",
+            "type": "invoice",
+            "account": "37288784"
+        },
+        {
+            "amount": "532.79",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hilpert - Windler",
+            "name": "Credit Card Account 5957",
+            "type": "deposit",
+            "account": "65078203"
+        }
+    ]
+}

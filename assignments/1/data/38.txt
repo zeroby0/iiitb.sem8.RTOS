@@ -1,0 +1,72 @@
+{
+    "name": "Kelsie Hand",
+    "username": "Nedra.Turcotte69",
+    "email": "Mitchel50@gmail.com",
+    "address": {
+        "streetA": "Bert Road",
+        "streetB": "533 Chadd Fall",
+        "streetC": "713 Zulauf Court Suite 927",
+        "streetD": "Apt. 034",
+        "city": "West Alaina",
+        "state": "Hawaii",
+        "country": "Bahamas",
+        "zipcode": "87500",
+        "geo": {
+            "lat": "-18.6275",
+            "lng": "-33.6761"
+        }
+    },
+    "phone": "1-905-987-2051",
+    "website": "ricky.com",
+    "company": {
+        "name": "Kulas, Casper and Homenick",
+        "catchPhrase": "Optional static emulation",
+        "bs": "extensible facilitate platforms"
+    },
+    "posts": [
+        {
+            "words": "natus fugiat velit",
+            "sentence": "Similique amet facilis veniam.",
+            "sentences": "Adipisci itaque nam libero. Est neque sed rerum et. Nesciunt deserunt officia harum ut beatae. Vitae ut non. Ab recusandae autem voluptas at rerum expedita. Possimus eaque distinctio nisi non.",
+            "paragraph": "Temporibus est dolorem blanditiis vero dolorem minima ab eveniet. Velit eveniet laudantium sunt id quasi fuga distinctio. Similique eum suscipit. Consequatur adipisci aut autem at dolore voluptas beatae. Dolor qui in impedit ut quaerat iusto veniam."
+        },
+        {
+            "words": "labore ex natus",
+            "sentence": "Voluptatum eos dolores earum et et quasi repellat ut.",
+            "sentences": "Deserunt ullam tempora. Officia rem ut qui officiis voluptas maxime est qui totam. Aliquid est eos sit. Dolore et placeat. Eius alias ipsum sint vitae et est. Est quo quibusdam quod dolores aliquid ullam et.",
+            "paragraph": "Provident doloribus qui eaque. Delectus enim quasi. Doloribus consequatur distinctio earum molestiae corporis. Voluptatem iste quis."
+        },
+        {
+            "words": "sit sed autem",
+            "sentence": "Ipsam dolorem exercitationem exercitationem quo quo dolor fugiat magnam consequatur.",
+            "sentences": "Qui voluptatum hic minima. Natus ipsum corrupti omnis. Illo aut dolores totam.",
+            "paragraph": "Cupiditate enim qui ut error quia qui sunt nam. Aut labore in et qui est. Ea id impedit est sed labore."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "663.82",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McGlynn - Greenholt",
+            "name": "Investment Account 5772",
+            "type": "invoice",
+            "account": "66529959"
+        },
+        {
+            "amount": "846.38",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Morissette Inc",
+            "name": "Investment Account 9266",
+            "type": "withdrawal",
+            "account": "06026333"
+        },
+        {
+            "amount": "209.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Turcotte, Kshlerin and Schuppe",
+            "name": "Investment Account 0992",
+            "type": "deposit",
+            "account": "65943295"
+        }
+    ]
+}

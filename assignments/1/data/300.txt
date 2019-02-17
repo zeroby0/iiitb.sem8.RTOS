@@ -1,0 +1,72 @@
+{
+    "name": "Wilma Prohaska III",
+    "username": "Felipa.Grady",
+    "email": "Jasmin97@hotmail.com",
+    "address": {
+        "streetA": "Schiller Oval",
+        "streetB": "706 Waelchi Landing",
+        "streetC": "8557 Hackett Loop Apt. 411",
+        "streetD": "Apt. 195",
+        "city": "Sanfordton",
+        "state": "Wyoming",
+        "country": "Barbados",
+        "zipcode": "50009",
+        "geo": {
+            "lat": "26.1107",
+            "lng": "18.4445"
+        }
+    },
+    "phone": "1-778-959-6723",
+    "website": "hilton.com",
+    "company": {
+        "name": "Trantow LLC",
+        "catchPhrase": "Re-engineered coherent moratorium",
+        "bs": "integrated redefine web services"
+    },
+    "posts": [
+        {
+            "words": "aut quae id",
+            "sentence": "Quasi ab in molestiae eum consectetur et omnis.",
+            "sentences": "Omnis eum repellat quae sint voluptatem. Alias aperiam tempora fugit corporis. Dolorem blanditiis consequatur provident praesentium cum velit quos ut nostrum. Ex error et eligendi quasi tenetur. Officia nesciunt consequuntur consequatur quis laudantium.",
+            "paragraph": "Harum consequuntur ipsam nostrum nemo in suscipit perferendis molestiae quia. Autem esse fugiat quasi quia a. Harum cumque possimus autem possimus porro cumque maiores fuga iste."
+        },
+        {
+            "words": "quaerat officia dolor",
+            "sentence": "Aut et iste sit aut.",
+            "sentences": "Qui suscipit repellat aut veniam error recusandae cum. Ut non qui explicabo harum maiores et voluptatum unde dignissimos. Eos eligendi dolores consequatur qui eos. Aspernatur molestiae nostrum ex quas est dolores. Suscipit in consequuntur culpa et sit eligendi ea voluptatem. Dolore harum possimus quo illo non repudiandae reiciendis repudiandae dolorem.",
+            "paragraph": "Consequatur omnis nesciunt ipsa et voluptatem autem illo ea. Et vero doloribus odio qui illo. Impedit incidunt saepe repellendus ea aut perspiciatis nostrum commodi harum. Fuga est perferendis."
+        },
+        {
+            "words": "sunt ea accusantium",
+            "sentence": "Itaque vel consequuntur quia pariatur hic voluptatem.",
+            "sentences": "Consequuntur temporibus magni deleniti provident est fuga quasi laudantium. Quo repellendus ab voluptatum distinctio et rem. Molestiae vel itaque est sed veritatis eum architecto. Id nihil et sunt nihil cupiditate.",
+            "paragraph": "Corporis quas culpa dolor quis eum est enim qui. Suscipit et eos ipsam sit et facere. Modi qui rem. Quos mollitia eos temporibus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "871.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "DuBuque Group",
+            "name": "Savings Account 5085",
+            "type": "payment",
+            "account": "02881232"
+        },
+        {
+            "amount": "446.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Torphy - Lueilwitz",
+            "name": "Checking Account 5456",
+            "type": "deposit",
+            "account": "05492975"
+        },
+        {
+            "amount": "817.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Toy, Kiehn and Stracke",
+            "name": "Investment Account 1543",
+            "type": "payment",
+            "account": "50529466"
+        }
+    ]
+}

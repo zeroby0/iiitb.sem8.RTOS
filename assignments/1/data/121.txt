@@ -1,0 +1,72 @@
+{
+    "name": "Sedrick Gerlach",
+    "username": "Myra_Nitzsche",
+    "email": "Nikko88@gmail.com",
+    "address": {
+        "streetA": "Violet Hills",
+        "streetB": "37665 Kirlin Ways",
+        "streetC": "30212 Leannon Cliff Suite 612",
+        "streetD": "Apt. 683",
+        "city": "Lindview",
+        "state": "Oregon",
+        "country": "Taiwan",
+        "zipcode": "35204",
+        "geo": {
+            "lat": "-11.5451",
+            "lng": "-113.6750"
+        }
+    },
+    "phone": "1-532-268-5328",
+    "website": "olin.org",
+    "company": {
+        "name": "Goldner - Daugherty",
+        "catchPhrase": "Configurable holistic pricing structure",
+        "bs": "e-business visualize architectures"
+    },
+    "posts": [
+        {
+            "words": "qui aut mollitia",
+            "sentence": "Est et voluptates perspiciatis rerum veniam occaecati aliquam ut.",
+            "sentences": "Sint laborum ut error nemo voluptatibus saepe quisquam. Sit enim aut autem temporibus dolorum aut nulla eum. Facilis tempora autem est. Placeat inventore veniam libero repudiandae quidem corrupti ratione. Doloribus voluptas sint repudiandae nulla. Dicta porro sunt magnam.",
+            "paragraph": "Doloremque necessitatibus impedit voluptas tempore. In necessitatibus modi dolor et nobis vitae. Ut alias quibusdam maxime nulla ut hic. Quia et quidem quos. Ut qui doloremque voluptatem voluptatum est consequuntur."
+        },
+        {
+            "words": "dolor voluptatibus impedit",
+            "sentence": "Doloribus explicabo ut quasi a.",
+            "sentences": "Placeat facere sed dolores et. Eos tempora consequatur ut sunt nisi illum quia deleniti veritatis. Ut ad qui explicabo. Qui dolores sint. Omnis ea optio necessitatibus officiis laborum et voluptate qui.",
+            "paragraph": "Quia voluptas et necessitatibus expedita distinctio debitis. Magnam sed amet magni commodi quis illum dignissimos. Dolores aut repellendus. Qui a dolores."
+        },
+        {
+            "words": "quis sit similique",
+            "sentence": "Dolorem consequatur sint eum voluptatem adipisci.",
+            "sentences": "Quas debitis nihil facere. Illo voluptatum ipsum. Alias et repellat omnis dolorum molestiae tempora et.",
+            "paragraph": "Tempora maiores expedita. Voluptatum culpa qui. Voluptatibus id aliquid doloremque dolore cum omnis dolorem atque."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "375.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Goyette, Denesik and Gottlieb",
+            "name": "Checking Account 5557",
+            "type": "deposit",
+            "account": "82340673"
+        },
+        {
+            "amount": "893.10",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mueller LLC",
+            "name": "Home Loan Account 8252",
+            "type": "invoice",
+            "account": "54727624"
+        },
+        {
+            "amount": "330.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lemke and Sons",
+            "name": "Savings Account 8249",
+            "type": "withdrawal",
+            "account": "57440710"
+        }
+    ]
+}

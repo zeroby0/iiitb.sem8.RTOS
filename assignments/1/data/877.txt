@@ -1,0 +1,72 @@
+{
+    "name": "Edward Hansen",
+    "username": "Ansel84",
+    "email": "Khalid.Tremblay@gmail.com",
+    "address": {
+        "streetA": "Jerde Springs",
+        "streetB": "252 Emmie Island",
+        "streetC": "2388 Junius Spring Apt. 256",
+        "streetD": "Suite 190",
+        "city": "West Brock",
+        "state": "Ohio",
+        "country": "Ghana",
+        "zipcode": "28377",
+        "geo": {
+            "lat": "-2.9917",
+            "lng": "108.7047"
+        }
+    },
+    "phone": "056.401.6871",
+    "website": "kennith.info",
+    "company": {
+        "name": "Langosh Group",
+        "catchPhrase": "Virtual optimal toolset",
+        "bs": "sexy evolve networks"
+    },
+    "posts": [
+        {
+            "words": "rerum asperiores velit",
+            "sentence": "Sunt quaerat quidem cum quas quaerat magni porro et aliquid.",
+            "sentences": "Aliquam perspiciatis quam aut hic quis. Natus quaerat qui in. Labore cupiditate est eum voluptatem repudiandae doloremque sed molestiae sit.",
+            "paragraph": "Dicta officia excepturi aut. Est nam iure ad exercitationem mollitia placeat est. Deleniti deserunt enim deleniti sed quos quo aliquid in aut. Aliquid vel quos quas voluptates."
+        },
+        {
+            "words": "in numquam ipsum",
+            "sentence": "Ut consequatur officia quo est architecto.",
+            "sentences": "Sunt consequatur repellendus omnis provident sint minus sit. Nobis ea rerum dignissimos tempore nesciunt quo sint aut. Laborum consequuntur omnis pariatur qui qui. Occaecati itaque rem molestias quia ut saepe et expedita. Quaerat fugit aut est explicabo et officiis esse. Repellat et porro unde doloremque id quae.",
+            "paragraph": "Assumenda velit et. Hic quia ab et ea blanditiis maxime dolor rerum laudantium. Eaque vel reprehenderit dignissimos. Illum et consequuntur. Ut ad nostrum molestiae eveniet voluptatem explicabo nisi."
+        },
+        {
+            "words": "et beatae et",
+            "sentence": "Laborum impedit id temporibus.",
+            "sentences": "Quasi ullam mollitia nostrum fuga aliquam magni. Qui officiis reprehenderit sequi deserunt fuga. Eligendi quos pariatur rem vitae iure suscipit est. Recusandae est voluptas omnis tenetur nihil aspernatur eos tempore est. Amet at quia voluptatem non aspernatur et deserunt. Inventore voluptatum suscipit sapiente commodi sed libero aut.",
+            "paragraph": "Facilis exercitationem et voluptatem expedita non vero sit itaque dignissimos. Corrupti ipsum expedita sint nihil necessitatibus voluptas distinctio quae. Corrupti ipsam nam incidunt. Quia saepe voluptatem reprehenderit. Alias aut id omnis. Laboriosam fuga deleniti ut aperiam sit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "270.52",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Baumbach LLC",
+            "name": "Savings Account 8518",
+            "type": "deposit",
+            "account": "05695638"
+        },
+        {
+            "amount": "255.01",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mante LLC",
+            "name": "Personal Loan Account 3799",
+            "type": "invoice",
+            "account": "40692424"
+        },
+        {
+            "amount": "554.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ferry - O'Kon",
+            "name": "Auto Loan Account 8361",
+            "type": "deposit",
+            "account": "83635793"
+        }
+    ]
+}

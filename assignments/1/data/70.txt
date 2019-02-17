@@ -1,0 +1,72 @@
+{
+    "name": "Cole Wisozk",
+    "username": "Quinton53",
+    "email": "Harmon_Koss70@gmail.com",
+    "address": {
+        "streetA": "Stanton Port",
+        "streetB": "68921 Anissa Mill",
+        "streetC": "56041 Norene Groves Apt. 922",
+        "streetD": "Apt. 910",
+        "city": "Hyatttown",
+        "state": "Washington",
+        "country": "Kenya",
+        "zipcode": "29005-7783",
+        "geo": {
+            "lat": "65.2426",
+            "lng": "-20.4212"
+        }
+    },
+    "phone": "837.647.4606 x621",
+    "website": "allie.biz",
+    "company": {
+        "name": "Welch, Bogisich and Gleason",
+        "catchPhrase": "Compatible secondary moderator",
+        "bs": "cutting-edge engineer content"
+    },
+    "posts": [
+        {
+            "words": "rerum rerum rerum",
+            "sentence": "Sit et aspernatur nostrum sit temporibus consequatur laudantium eveniet.",
+            "sentences": "Molestiae eum est non incidunt corporis. Porro cupiditate doloremque soluta quia sunt qui vitae vel. Placeat odio optio et dolorem occaecati recusandae necessitatibus est. Dicta omnis asperiores atque.",
+            "paragraph": "Voluptatem quia sed est atque et quas facilis perferendis. Ducimus est consequuntur assumenda ut. Ducimus dolor qui dolores ducimus est et labore sit. Aut vitae aliquam dolorem saepe. Et et illum autem eligendi sit iure est quia."
+        },
+        {
+            "words": "aut quia eos",
+            "sentence": "Dolores cum sit odit.",
+            "sentences": "Quia corporis earum enim earum at. Ipsa eos reiciendis et eum perspiciatis sit accusantium. Minima doloremque et ut deserunt.",
+            "paragraph": "Doloribus officiis non fugit. Ut quaerat velit illum sit vitae adipisci ut aut cupiditate. Perspiciatis asperiores quo. Sint sunt doloremque dolore ipsum non eum vitae voluptas voluptatibus. Ex dolores ut architecto aut id delectus optio cumque."
+        },
+        {
+            "words": "et ut atque",
+            "sentence": "Nemo quia occaecati quia.",
+            "sentences": "Voluptate iste necessitatibus laborum ea illo optio qui et veniam. Facilis totam tempora. Quo molestiae corrupti voluptatem eaque. Voluptatem repellat eos quam qui ut sed facere dignissimos mollitia. Cupiditate culpa ut dolores tempora.",
+            "paragraph": "Quae voluptatum voluptates. Similique eaque quasi architecto vero quis. Eius beatae non. Consequatur perferendis aperiam possimus quaerat. Similique velit explicabo placeat."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "81.83",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kozey - Runte",
+            "name": "Money Market Account 0095",
+            "type": "withdrawal",
+            "account": "00140204"
+        },
+        {
+            "amount": "494.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Leffler, Willms and Tillman",
+            "name": "Auto Loan Account 4778",
+            "type": "payment",
+            "account": "97871177"
+        },
+        {
+            "amount": "930.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Grady, Anderson and Wuckert",
+            "name": "Money Market Account 1900",
+            "type": "payment",
+            "account": "07320390"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Joan Gleason",
+    "username": "Filiberto_Stehr9",
+    "email": "Tania_Gislason@yahoo.com",
+    "address": {
+        "streetA": "Franz Inlet",
+        "streetB": "9382 Omari Wells",
+        "streetC": "2218 Valerie Drive Apt. 246",
+        "streetD": "Apt. 275",
+        "city": "Lake Armand",
+        "state": "Utah",
+        "country": "Norfolk Island",
+        "zipcode": "17203",
+        "geo": {
+            "lat": "-3.9543",
+            "lng": "-9.2231"
+        }
+    },
+    "phone": "(612) 274-0458 x567",
+    "website": "robbie.net",
+    "company": {
+        "name": "Runte, Kiehn and Streich",
+        "catchPhrase": "Triple-buffered analyzing throughput",
+        "bs": "mission-critical engage web services"
+    },
+    "posts": [
+        {
+            "words": "soluta consequatur sapiente",
+            "sentence": "Natus ut velit aut exercitationem tenetur vel.",
+            "sentences": "Eos nihil blanditiis accusantium consequatur sunt ipsam doloremque. Tempore sit assumenda aspernatur voluptatum voluptatibus.",
+            "paragraph": "Quo maiores molestiae aliquid quaerat at odit. Itaque sed reiciendis laudantium in. Accusantium non sunt nisi minus ut cupiditate enim quia. Quasi ut officia autem libero quisquam hic quas placeat iure. Dolores unde repellendus eaque et similique quia quos optio. Non voluptatum earum ipsa distinctio veniam mollitia voluptas harum accusamus."
+        },
+        {
+            "words": "aliquid vero natus",
+            "sentence": "Numquam tempore natus similique tenetur.",
+            "sentences": "Neque sapiente corporis omnis. Nostrum et quia doloremque aut ipsam. Itaque est dolores. Deleniti iusto sed aperiam odit fugiat fugit.",
+            "paragraph": "Nihil aut consectetur in ut ratione occaecati. Architecto voluptatem architecto eum impedit aperiam amet. Qui aut error delectus eos dolor. Numquam et ipsam veniam. Tenetur incidunt nostrum in quisquam maxime ut et soluta et. Temporibus omnis ut non et ad magnam et doloribus."
+        },
+        {
+            "words": "commodi inventore atque",
+            "sentence": "Explicabo et voluptatibus adipisci voluptates omnis maxime mollitia quia.",
+            "sentences": "Illo blanditiis quia quaerat est accusantium sed sit qui. Odio ut est repudiandae aperiam perferendis dignissimos blanditiis.",
+            "paragraph": "Nisi unde et. Voluptas quaerat sit commodi nisi earum sed sed qui. In perferendis suscipit ut architecto sit iusto qui officia. Ea et reprehenderit officia aliquid sunt deleniti quo."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "247.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Klocko, Gusikowski and Graham",
+            "name": "Personal Loan Account 7073",
+            "type": "withdrawal",
+            "account": "51708781"
+        },
+        {
+            "amount": "217.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Littel, Schulist and O'Kon",
+            "name": "Personal Loan Account 1438",
+            "type": "invoice",
+            "account": "79247555"
+        },
+        {
+            "amount": "574.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Blick, Stoltenberg and Johnson",
+            "name": "Money Market Account 0352",
+            "type": "deposit",
+            "account": "40755240"
+        }
+    ]
+}

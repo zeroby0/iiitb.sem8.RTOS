@@ -1,0 +1,72 @@
+{
+    "name": "Mckenzie Steuber II",
+    "username": "Whitney_Heidenreich",
+    "email": "Theo.Koch6@yahoo.com",
+    "address": {
+        "streetA": "Bruen Forks",
+        "streetB": "7145 Corwin Track",
+        "streetC": "2165 Rick Tunnel Apt. 112",
+        "streetD": "Suite 755",
+        "city": "New Rosalyn",
+        "state": "Montana",
+        "country": "Virgin Islands, U.S.",
+        "zipcode": "16950-2943",
+        "geo": {
+            "lat": "60.9753",
+            "lng": "148.7910"
+        }
+    },
+    "phone": "(066) 501-3751 x019",
+    "website": "ralph.name",
+    "company": {
+        "name": "Douglas, Beer and Quigley",
+        "catchPhrase": "Synergistic tangible orchestration",
+        "bs": "innovative reinvent applications"
+    },
+    "posts": [
+        {
+            "words": "at et quos",
+            "sentence": "Corrupti odit sunt qui placeat.",
+            "sentences": "Consectetur dolores aspernatur quisquam velit velit quidem rerum dolores quam. Eos maiores nihil enim exercitationem amet id molestias vero. Officia quae sed asperiores autem ipsum sed natus. Assumenda voluptatibus non temporibus sint. Similique nobis voluptatem officia et nesciunt ab aperiam iste. Enim reiciendis et.",
+            "paragraph": "Nobis harum dolorum. Enim et illum sequi consequuntur quam necessitatibus in quia. Et tenetur aut eaque placeat nihil. Voluptatum occaecati id aliquam ut tempora sequi totam. Nemo et ut voluptas fugit sed similique."
+        },
+        {
+            "words": "quia ab aut",
+            "sentence": "Error atque sint aliquid a vel delectus doloribus accusantium.",
+            "sentences": "Nostrum adipisci autem est ut et repellat. Temporibus impedit consequatur vel perferendis voluptate officia et molestiae. Ab ab qui.",
+            "paragraph": "Molestiae eum est dolores aperiam amet magni voluptatem. Eveniet temporibus et sed accusamus sit. Id quae eos est. Cum odio consequatur voluptatibus. Ab vitae in non et velit et consequatur quo dolores. Sit ea omnis deserunt sint explicabo."
+        },
+        {
+            "words": "eius et eius",
+            "sentence": "Et eius officia rerum dignissimos quisquam aut ipsam aut ea.",
+            "sentences": "Quae vel tempore consequuntur modi esse. Commodi aut dignissimos quidem quis adipisci quos.",
+            "paragraph": "Animi fuga dolor cumque adipisci neque maiores enim. Nihil nulla consequatur ullam impedit eos omnis voluptatibus. Dolorum unde placeat adipisci et dolor veniam dolorem nulla est."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "969.15",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cormier - Halvorson",
+            "name": "Investment Account 4483",
+            "type": "deposit",
+            "account": "11824672"
+        },
+        {
+            "amount": "511.48",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Crooks - Green",
+            "name": "Home Loan Account 8532",
+            "type": "withdrawal",
+            "account": "27333557"
+        },
+        {
+            "amount": "883.45",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Russel - Collier",
+            "name": "Checking Account 0976",
+            "type": "invoice",
+            "account": "34112224"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Mr. Shanny Hilll",
+    "username": "Ariel_Bernhard40",
+    "email": "Jamison.Gerhold80@hotmail.com",
+    "address": {
+        "streetA": "Emiliano Overpass",
+        "streetB": "92722 Kunze Rapid",
+        "streetC": "85821 Olson Parkways Apt. 764",
+        "streetD": "Suite 397",
+        "city": "Murraychester",
+        "state": "New Hampshire",
+        "country": "Cambodia",
+        "zipcode": "92600",
+        "geo": {
+            "lat": "-57.8521",
+            "lng": "168.1657"
+        }
+    },
+    "phone": "(066) 628-1811",
+    "website": "eden.org",
+    "company": {
+        "name": "Grady, Frami and Wehner",
+        "catchPhrase": "Reactive empowering algorithm",
+        "bs": "extensible transition platforms"
+    },
+    "posts": [
+        {
+            "words": "delectus alias delectus",
+            "sentence": "Temporibus dolores quia consequuntur ratione necessitatibus explicabo omnis porro sint.",
+            "sentences": "Esse fugiat quae quia. Nam vero numquam voluptatem natus. Numquam vero placeat et officiis impedit et et dolores sit. Praesentium error quod cum. Corporis odit ab voluptates asperiores.",
+            "paragraph": "Voluptas recusandae nesciunt aliquam velit. Quis ipsa et vel sit voluptatem amet nulla voluptatibus dolorem. Perferendis sapiente aut est rem fuga sit qui placeat ex. Molestias rerum vel sequi excepturi neque quia velit. Est qui laboriosam tenetur voluptate asperiores velit excepturi hic. Dolor facilis cupiditate optio voluptatem et."
+        },
+        {
+            "words": "eum ex ipsa",
+            "sentence": "Alias aut non.",
+            "sentences": "Numquam corrupti voluptate quidem quam provident similique. Aperiam doloremque sequi et ullam et ea. Voluptates exercitationem autem voluptatum.",
+            "paragraph": "Autem aut possimus omnis animi tempore expedita. Ea neque porro id. Molestias placeat saepe voluptas recusandae aliquam dicta quaerat quisquam. Magnam asperiores id quia in. Autem aliquid eveniet veritatis consequatur necessitatibus nobis consequatur dolores."
+        },
+        {
+            "words": "adipisci et aliquam",
+            "sentence": "Dolores nisi aut est commodi doloribus.",
+            "sentences": "Et ea unde voluptatum aut quia porro libero. Quos culpa voluptas quidem officia rerum incidunt perspiciatis et est. Ad nobis animi odio incidunt eos nostrum. Eaque reprehenderit ipsam consequatur quod perferendis fuga nihil atque hic.",
+            "paragraph": "Ducimus fugit cupiditate error eum deleniti amet. Eum impedit qui dolorem unde optio non et suscipit consequuntur. Voluptatem quis occaecati iste qui vel nihil quaerat dolores. Nihil eveniet sit sint laborum. Cupiditate cum laborum. Dolor rerum minima qui vitae impedit accusamus rem error dolorum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "488.94",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Beier - Goyette",
+            "name": "Savings Account 3881",
+            "type": "invoice",
+            "account": "20763856"
+        },
+        {
+            "amount": "260.43",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Morar Group",
+            "name": "Checking Account 1285",
+            "type": "invoice",
+            "account": "14677450"
+        },
+        {
+            "amount": "735.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McGlynn, Hessel and Grimes",
+            "name": "Checking Account 2029",
+            "type": "payment",
+            "account": "14536301"
+        }
+    ]
+}

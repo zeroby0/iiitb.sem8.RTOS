@@ -1,0 +1,72 @@
+{
+    "name": "Curtis Bergstrom",
+    "username": "Deshawn_Schmidt56",
+    "email": "Ruth.Christiansen@yahoo.com",
+    "address": {
+        "streetA": "Faye Meadows",
+        "streetB": "4904 Shanahan Square",
+        "streetC": "3645 Francisca Street Suite 919",
+        "streetD": "Apt. 292",
+        "city": "O'Konhaven",
+        "state": "Rhode Island",
+        "country": "Madagascar",
+        "zipcode": "82743-4348",
+        "geo": {
+            "lat": "88.0946",
+            "lng": "-74.1844"
+        }
+    },
+    "phone": "(705) 342-0297 x05589",
+    "website": "alvera.net",
+    "company": {
+        "name": "Mayer Group",
+        "catchPhrase": "Object-based non-volatile synergy",
+        "bs": "real-time incentivize vortals"
+    },
+    "posts": [
+        {
+            "words": "et maiores blanditiis",
+            "sentence": "Quae ducimus quam.",
+            "sentences": "Eveniet quia blanditiis hic similique non beatae ut est et. Quos ut rerum et cupiditate et. Magni facilis deserunt maiores ipsum optio magnam nihil. Hic tempora voluptatum eius. Nostrum velit occaecati accusantium fuga ducimus repellat fugiat porro. Repellat in voluptatum dolor maxime fugiat voluptatem qui ea consequatur.",
+            "paragraph": "In ullam beatae ad illum dolorem a. Necessitatibus blanditiis est non dolores praesentium cumque facilis. Aut soluta eveniet sit voluptatibus quibusdam dolorem. Impedit dolores fugiat quaerat aut. Accusantium atque ipsam voluptatum quisquam quo sint vero. Rem tempore rerum."
+        },
+        {
+            "words": "voluptas eum et",
+            "sentence": "Molestias et deleniti error ducimus.",
+            "sentences": "Rerum alias dolore. Ut sit et cupiditate. Hic labore dolor inventore quos ut. Natus dolores saepe similique quos est sapiente voluptate odio voluptatem.",
+            "paragraph": "Est libero aspernatur recusandae praesentium. Facilis iure mollitia ut qui magni rerum illo tenetur. Aut accusantium autem assumenda enim et."
+        },
+        {
+            "words": "facere recusandae officia",
+            "sentence": "Qui vero in iure sint.",
+            "sentences": "Non numquam consequuntur temporibus aut est ex voluptas. Et est quaerat. Culpa dolores a aspernatur ad molestiae esse.",
+            "paragraph": "Recusandae doloribus dolor beatae eveniet minus sunt officia. Molestias voluptatem at ex voluptatum ea error earum. Rerum unde nihil et sunt doloremque qui. Qui sequi ab et. Eos illo nostrum quasi est aperiam ipsa quo eos."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "929.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Von - Satterfield",
+            "name": "Savings Account 7369",
+            "type": "payment",
+            "account": "43835036"
+        },
+        {
+            "amount": "934.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Runolfsdottir LLC",
+            "name": "Personal Loan Account 3981",
+            "type": "deposit",
+            "account": "83073829"
+        },
+        {
+            "amount": "390.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hirthe - McKenzie",
+            "name": "Auto Loan Account 9130",
+            "type": "invoice",
+            "account": "40935222"
+        }
+    ]
+}

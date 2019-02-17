@@ -1,0 +1,72 @@
+{
+    "name": "Maximo Schneider",
+    "username": "Kristy_Graham58",
+    "email": "Isabella90@yahoo.com",
+    "address": {
+        "streetA": "Nelson View",
+        "streetB": "520 Wilton Circles",
+        "streetC": "8845 Davis Port Suite 700",
+        "streetD": "Apt. 409",
+        "city": "Princeport",
+        "state": "South Carolina",
+        "country": "Guatemala",
+        "zipcode": "26343",
+        "geo": {
+            "lat": "-77.1847",
+            "lng": "-126.9251"
+        }
+    },
+    "phone": "1-336-445-8678 x2207",
+    "website": "hester.net",
+    "company": {
+        "name": "Brown - Durgan",
+        "catchPhrase": "Future-proofed system-worthy strategy",
+        "bs": "intuitive architect functionalities"
+    },
+    "posts": [
+        {
+            "words": "et rem provident",
+            "sentence": "Id aut non voluptas asperiores qui blanditiis.",
+            "sentences": "Dolores dolorum cumque dolor omnis neque sint dolor. Impedit corrupti autem eius illo autem facilis in. Vero ipsum illo ut magnam delectus sed et ab. Tempore unde unde et suscipit. Dolor sunt recusandae.",
+            "paragraph": "Minima ab distinctio aspernatur numquam ea veniam quia iusto quae. Et similique culpa et consequatur dignissimos et sunt. Neque voluptas occaecati molestias assumenda inventore. Et exercitationem adipisci molestiae est voluptas quia exercitationem. Temporibus velit quaerat autem ipsum sit hic omnis. Cum exercitationem sequi et ut voluptas et."
+        },
+        {
+            "words": "rerum molestias dolores",
+            "sentence": "Sunt ipsa adipisci omnis rem.",
+            "sentences": "Asperiores non commodi in. Autem voluptates ad sed adipisci. Ab velit quo commodi.",
+            "paragraph": "Enim ut provident. Harum et aut dolorem magni qui praesentium. Tenetur et molestiae animi qui et necessitatibus. Laboriosam sunt aut labore tenetur ut."
+        },
+        {
+            "words": "autem cupiditate qui",
+            "sentence": "Modi aliquid ut alias nesciunt excepturi consequuntur.",
+            "sentences": "Corrupti odio ullam sit ratione aliquam unde. Ipsum at optio animi dolorem. Eos corrupti officia dolores sunt amet consequatur. Odit sit rem aperiam qui doloremque amet nisi eum. Voluptas recusandae voluptatem.",
+            "paragraph": "Et minus excepturi sed explicabo aut iusto. Rerum vitae ducimus laborum laudantium sed. Dolor sunt nisi fugit est fugit qui dignissimos nihil. Sit repellendus et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "418.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Funk and Sons",
+            "name": "Savings Account 9962",
+            "type": "payment",
+            "account": "12996278"
+        },
+        {
+            "amount": "152.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Considine Group",
+            "name": "Auto Loan Account 4369",
+            "type": "invoice",
+            "account": "94576239"
+        },
+        {
+            "amount": "809.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Casper, Hackett and Wilderman",
+            "name": "Credit Card Account 2755",
+            "type": "payment",
+            "account": "99663304"
+        }
+    ]
+}

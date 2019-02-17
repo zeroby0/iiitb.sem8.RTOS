@@ -1,0 +1,72 @@
+{
+    "name": "Margarita Ratke",
+    "username": "Adell_McKenzie26",
+    "email": "Crystal.Blick97@gmail.com",
+    "address": {
+        "streetA": "Lizeth Parks",
+        "streetB": "87738 Elwin Estates",
+        "streetC": "8616 Linnie Rest Apt. 526",
+        "streetD": "Suite 435",
+        "city": "Lake Jerrold",
+        "state": "New Mexico",
+        "country": "Togo",
+        "zipcode": "79756",
+        "geo": {
+            "lat": "58.8908",
+            "lng": "-163.4981"
+        }
+    },
+    "phone": "488.144.8767 x5268",
+    "website": "brandi.name",
+    "company": {
+        "name": "Schimmel LLC",
+        "catchPhrase": "Ergonomic context-sensitive array",
+        "bs": "impactful whiteboard technologies"
+    },
+    "posts": [
+        {
+            "words": "temporibus sit omnis",
+            "sentence": "Explicabo dignissimos dignissimos exercitationem.",
+            "sentences": "Saepe quisquam cupiditate quos impedit nihil. Impedit praesentium quo. Rerum ut consequatur velit asperiores incidunt dolores eligendi.",
+            "paragraph": "Atque quia adipisci odit dolor. Cumque voluptate dolore et ea consequatur. Ullam est consectetur eveniet laboriosam soluta nesciunt occaecati. Illum delectus autem atque repellendus ipsum."
+        },
+        {
+            "words": "consequatur maiores deserunt",
+            "sentence": "Ad dolorem doloribus culpa animi quod possimus.",
+            "sentences": "Aspernatur at non omnis debitis est quisquam quasi accusantium illo. Rerum commodi ut esse distinctio iste temporibus molestiae corrupti eaque. Non aut porro quia.",
+            "paragraph": "Consequuntur animi consequatur. Vel beatae voluptates aut voluptatem facere at numquam. Veritatis soluta officia ea ad illo aut et."
+        },
+        {
+            "words": "nisi corrupti voluptates",
+            "sentence": "Ea unde dolore.",
+            "sentences": "Et natus officia. Totam est labore ducimus quisquam est mollitia. Aut harum eos et exercitationem.",
+            "paragraph": "Nulla et temporibus aut cum minus. Fuga quis occaecati vero quibusdam. Hic asperiores recusandae est vero nam. Qui hic qui fugiat eos quibusdam quisquam est hic modi. Quia iure commodi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "664.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McCullough - Gislason",
+            "name": "Personal Loan Account 5353",
+            "type": "payment",
+            "account": "87732217"
+        },
+        {
+            "amount": "711.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Glover - Champlin",
+            "name": "Savings Account 9799",
+            "type": "withdrawal",
+            "account": "62045152"
+        },
+        {
+            "amount": "326.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Weissnat - Reinger",
+            "name": "Money Market Account 2085",
+            "type": "payment",
+            "account": "54798230"
+        }
+    ]
+}

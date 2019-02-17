@@ -1,0 +1,72 @@
+{
+    "name": "Constantin Boyer DVM",
+    "username": "Sadye_Grimes",
+    "email": "Shawn39@hotmail.com",
+    "address": {
+        "streetA": "Assunta Court",
+        "streetB": "12427 Gwen Branch",
+        "streetC": "3793 Sanford Pines Suite 984",
+        "streetD": "Apt. 989",
+        "city": "Hayesbury",
+        "state": "Missouri",
+        "country": "Peru",
+        "zipcode": "46734-4040",
+        "geo": {
+            "lat": "5.7829",
+            "lng": "144.0371"
+        }
+    },
+    "phone": "1-973-347-5071",
+    "website": "augustus.net",
+    "company": {
+        "name": "Simonis and Sons",
+        "catchPhrase": "Down-sized regional time-frame",
+        "bs": "leading-edge enable initiatives"
+    },
+    "posts": [
+        {
+            "words": "rerum nihil inventore",
+            "sentence": "Ut qui accusantium quos eum ipsa debitis et maxime rerum.",
+            "sentences": "Aut molestiae autem aut voluptas. Aut voluptatem ut.",
+            "paragraph": "Eius illo eos deleniti odio fugit et blanditiis et sequi. Vel doloremque aliquam quia nisi dolores laborum. Voluptatem id sit dolorem aut. Voluptatem veniam totam dolorem et omnis nulla."
+        },
+        {
+            "words": "laudantium eligendi ea",
+            "sentence": "Quo voluptatem eaque quibusdam.",
+            "sentences": "Molestiae adipisci rerum reprehenderit aperiam at. Error ipsum molestiae est vel similique quo nam ipsam. Temporibus ipsa numquam nihil magnam aliquid et laudantium. Aut cupiditate omnis iusto. Sit et dolores illum provident. Aut perferendis exercitationem et sapiente laudantium amet beatae eum.",
+            "paragraph": "Dolorem vel incidunt rerum. Non ut quo. Sequi blanditiis enim quia fuga qui aliquam repellat. Qui qui nemo dolore. Dolor qui consequatur qui et. Sed et ut nemo vel aspernatur blanditiis."
+        },
+        {
+            "words": "ab repellendus saepe",
+            "sentence": "Iste cumque sed et quasi vero ducimus consequatur nemo.",
+            "sentences": "Alias alias culpa eius esse. Nulla culpa facere sit non omnis tempora beatae ad. Ut ipsam ut hic vitae ut nesciunt fugiat id.",
+            "paragraph": "Voluptas est est excepturi molestias aliquam. Laudantium alias eum qui. Doloremque eveniet asperiores rerum aperiam voluptates sed fuga praesentium id."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "192.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hoppe, Predovic and Bechtelar",
+            "name": "Checking Account 7464",
+            "type": "deposit",
+            "account": "14594189"
+        },
+        {
+            "amount": "338.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mills, Ebert and Kiehn",
+            "name": "Savings Account 4152",
+            "type": "deposit",
+            "account": "23674272"
+        },
+        {
+            "amount": "580.87",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "O'Kon - Dooley",
+            "name": "Credit Card Account 2906",
+            "type": "invoice",
+            "account": "61315924"
+        }
+    ]
+}

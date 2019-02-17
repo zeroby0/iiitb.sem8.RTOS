@@ -1,0 +1,72 @@
+{
+    "name": "Soledad Hettinger",
+    "username": "Thad.Okuneva12",
+    "email": "Bradley_Schulist75@yahoo.com",
+    "address": {
+        "streetA": "Jeromy Forest",
+        "streetB": "8596 Fisher Street",
+        "streetC": "68046 Dameon Ways Apt. 720",
+        "streetD": "Suite 930",
+        "city": "New Isom",
+        "state": "Indiana",
+        "country": "Ghana",
+        "zipcode": "62206",
+        "geo": {
+            "lat": "81.3369",
+            "lng": "92.9674"
+        }
+    },
+    "phone": "(766) 999-4948 x4353",
+    "website": "hortense.biz",
+    "company": {
+        "name": "Mosciski - Wiegand",
+        "catchPhrase": "Triple-buffered neutral algorithm",
+        "bs": "web-enabled deliver web-readiness"
+    },
+    "posts": [
+        {
+            "words": "eum sit dolore",
+            "sentence": "Optio voluptas ullam earum.",
+            "sentences": "Quibusdam unde nihil ipsa recusandae quod. Placeat et velit optio maiores qui non reprehenderit voluptas.",
+            "paragraph": "Ipsa voluptatibus aut molestias illum. Et qui debitis et. Aspernatur dolores laudantium odit incidunt. Sit voluptas quia modi qui corrupti dolores. Eos dolorum cupiditate. Eum est consequuntur blanditiis commodi quia."
+        },
+        {
+            "words": "non minus enim",
+            "sentence": "Ea tempore qui sunt.",
+            "sentences": "Porro magni aut accusantium dolorem commodi. Suscipit aliquid ea quia. Necessitatibus et soluta nam qui et itaque tenetur.",
+            "paragraph": "Doloremque ea ipsa quaerat qui suscipit voluptate quidem dolorem sit. Eos beatae reiciendis accusantium voluptatum necessitatibus nihil. Dolorem et ad veniam sit aut reiciendis. Non aut quibusdam minus ducimus blanditiis culpa aperiam facilis eum."
+        },
+        {
+            "words": "hic nihil quia",
+            "sentence": "Rem qui magni qui eum qui.",
+            "sentences": "Sit explicabo perferendis totam id. Saepe quos facilis in mollitia ducimus id quos vel est.",
+            "paragraph": "Non numquam vitae accusamus. Dignissimos modi voluptatum dolore sit nemo. Quo accusamus maiores perferendis ducimus officia eos. Aperiam quam voluptatibus sapiente nam expedita. Dolor totam necessitatibus qui quia non ut cum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "754.24",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Green - Goldner",
+            "name": "Checking Account 8544",
+            "type": "invoice",
+            "account": "76867839"
+        },
+        {
+            "amount": "628.31",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hoeger - King",
+            "name": "Investment Account 7849",
+            "type": "payment",
+            "account": "47061749"
+        },
+        {
+            "amount": "47.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "MacGyver and Sons",
+            "name": "Checking Account 1442",
+            "type": "deposit",
+            "account": "34223911"
+        }
+    ]
+}

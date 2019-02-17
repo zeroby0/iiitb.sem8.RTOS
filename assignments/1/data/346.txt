@@ -1,0 +1,72 @@
+{
+    "name": "Carlos Wolf",
+    "username": "Bert_Murray60",
+    "email": "Bettie.Schuster@hotmail.com",
+    "address": {
+        "streetA": "Grant Fall",
+        "streetB": "113 Gisselle Overpass",
+        "streetC": "35856 Parisian Flats Apt. 870",
+        "streetD": "Suite 391",
+        "city": "North Vito",
+        "state": "California",
+        "country": "Kuwait",
+        "zipcode": "22892",
+        "geo": {
+            "lat": "52.4822",
+            "lng": "57.3769"
+        }
+    },
+    "phone": "141-847-2340",
+    "website": "cesar.org",
+    "company": {
+        "name": "Dibbert and Sons",
+        "catchPhrase": "Right-sized zero tolerance projection",
+        "bs": "end-to-end leverage platforms"
+    },
+    "posts": [
+        {
+            "words": "sed facilis maiores",
+            "sentence": "Cumque ratione molestiae earum modi.",
+            "sentences": "Distinctio debitis itaque qui. Ea error pariatur accusamus necessitatibus. Voluptatem at aspernatur saepe. Culpa quos aut dignissimos et. Consequatur velit quia molestias.",
+            "paragraph": "In nihil odio. Maxime mollitia aliquam enim dolor animi. Odit quas non. Atque ea vitae assumenda. Qui ex est quos. Quisquam unde voluptates fugiat sit quaerat fuga."
+        },
+        {
+            "words": "rem harum sunt",
+            "sentence": "Laborum alias harum sint doloribus velit doloremque quas et nostrum.",
+            "sentences": "Sed ducimus architecto. Error incidunt est.",
+            "paragraph": "Earum nemo animi sunt blanditiis aut. Impedit illo facere ut inventore laudantium. Sequi voluptas maiores molestiae aut minima. Unde placeat doloribus in ut consectetur consequatur itaque dolores."
+        },
+        {
+            "words": "quos perspiciatis totam",
+            "sentence": "Magni dolorum molestiae illum officiis ex est tempora et.",
+            "sentences": "Dolorem et doloremque deserunt numquam recusandae. Sit eum commodi reprehenderit laudantium et sit dolor ut. Quo dolorem dicta quasi inventore fugit officiis et voluptatem non. Nesciunt perferendis iure esse aut.",
+            "paragraph": "Quam omnis aut. Natus dolores doloremque velit et sunt. Consequatur necessitatibus autem non fugit fugit ullam ipsum nisi soluta. Aut maxime quaerat et molestias. Consequatur voluptas tempora sapiente repudiandae consequatur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "99.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Predovic, Veum and Krajcik",
+            "name": "Personal Loan Account 0371",
+            "type": "withdrawal",
+            "account": "52253197"
+        },
+        {
+            "amount": "913.11",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bahringer Inc",
+            "name": "Savings Account 8608",
+            "type": "payment",
+            "account": "43711614"
+        },
+        {
+            "amount": "153.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gleason and Sons",
+            "name": "Credit Card Account 9108",
+            "type": "deposit",
+            "account": "74449715"
+        }
+    ]
+}

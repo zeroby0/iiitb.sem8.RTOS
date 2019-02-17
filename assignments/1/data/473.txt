@@ -1,0 +1,72 @@
+{
+    "name": "Larry Torphy",
+    "username": "Melyssa.Gislason57",
+    "email": "Alfred_Zemlak@gmail.com",
+    "address": {
+        "streetA": "Hailey Spurs",
+        "streetB": "420 Schowalter Stravenue",
+        "streetC": "6172 Antonette Lodge Suite 182",
+        "streetD": "Suite 805",
+        "city": "New Agnesview",
+        "state": "Georgia",
+        "country": "Namibia",
+        "zipcode": "77665",
+        "geo": {
+            "lat": "45.4849",
+            "lng": "26.4154"
+        }
+    },
+    "phone": "965.623.4908 x44340",
+    "website": "ignacio.net",
+    "company": {
+        "name": "Hilll Inc",
+        "catchPhrase": "Profound logistical flexibility",
+        "bs": "front-end recontextualize ROI"
+    },
+    "posts": [
+        {
+            "words": "delectus autem non",
+            "sentence": "Accusantium nisi voluptatem.",
+            "sentences": "Sit ut cum autem consequatur et. Recusandae cupiditate quo minus. Porro atque fugiat assumenda cumque quisquam odit eaque ipsam ut. Expedita inventore debitis laborum et aut nemo temporibus dicta.",
+            "paragraph": "Labore consectetur consequatur aperiam ducimus. Voluptatem omnis voluptas et assumenda dolores. Rerum ad est ut et ipsam error tempore accusamus. Soluta sint odit maiores voluptatibus consequuntur ut perspiciatis."
+        },
+        {
+            "words": "laboriosam ut harum",
+            "sentence": "Commodi aliquam sit cupiditate cupiditate voluptates accusantium et.",
+            "sentences": "Aut sequi rerum amet. Ea eum voluptate fuga est sint impedit cumque. Sed quia quisquam tenetur voluptates tempora omnis. Id eos dolor adipisci earum fugiat qui vel. Dolore ex nisi consequatur. Adipisci debitis quod autem mollitia.",
+            "paragraph": "Reprehenderit eum animi voluptatibus aut doloremque rerum qui. Maxime optio ab voluptas dignissimos commodi ex quia corporis et. Optio voluptas ad porro quia. Beatae accusantium est suscipit. Et ea sit autem quisquam quod odit."
+        },
+        {
+            "words": "animi corporis ut",
+            "sentence": "Reprehenderit autem quia.",
+            "sentences": "Provident consectetur omnis sit voluptatem quos quis non cupiditate consequuntur. Expedita saepe corporis asperiores nemo doloribus dolor est cumque. Soluta alias vel animi esse molestiae omnis quae quos asperiores. Voluptatem non magnam quod adipisci nisi nam illum sit.",
+            "paragraph": "Illo voluptas occaecati ratione perferendis rem tempore excepturi. Reprehenderit quibusdam dolor debitis odit aut et. Similique aliquid ea quos vero sapiente labore a atque."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "375.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hyatt - Beahan",
+            "name": "Savings Account 7281",
+            "type": "withdrawal",
+            "account": "36923989"
+        },
+        {
+            "amount": "41.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Quigley, Oberbrunner and Schmidt",
+            "name": "Personal Loan Account 4502",
+            "type": "deposit",
+            "account": "79665315"
+        },
+        {
+            "amount": "131.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmidt Group",
+            "name": "Auto Loan Account 7162",
+            "type": "payment",
+            "account": "46045578"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Lexie Hills MD",
+    "username": "Vinnie60",
+    "email": "Kailey93@yahoo.com",
+    "address": {
+        "streetA": "Schultz Point",
+        "streetB": "569 Jacobi Trace",
+        "streetC": "55186 Langosh Lake Suite 550",
+        "streetD": "Suite 023",
+        "city": "Adalineborough",
+        "state": "Georgia",
+        "country": "Iceland",
+        "zipcode": "23965-7021",
+        "geo": {
+            "lat": "-8.7551",
+            "lng": "162.9917"
+        }
+    },
+    "phone": "482-902-5404",
+    "website": "lacey.com",
+    "company": {
+        "name": "Abbott, Cole and Hartmann",
+        "catchPhrase": "Enterprise-wide local instruction set",
+        "bs": "plug-and-play utilize bandwidth"
+    },
+    "posts": [
+        {
+            "words": "eligendi molestiae incidunt",
+            "sentence": "Quibusdam expedita ut vel magnam molestiae quae qui.",
+            "sentences": "Sunt libero sunt. Voluptatem esse consequuntur fuga magnam nostrum optio. Voluptas aut voluptas error id ut in voluptates minima. Beatae non non nihil temporibus ut voluptatem iure. Eveniet aut est aspernatur. Sint est dolores sit explicabo voluptatem ab quis.",
+            "paragraph": "Tenetur fugit placeat quam voluptates sed ipsum pariatur quo. Et tenetur enim dolor numquam labore eius consequuntur atque fugiat. Voluptates esse rerum tenetur."
+        },
+        {
+            "words": "in dignissimos optio",
+            "sentence": "Et dolores eos.",
+            "sentences": "Cum explicabo iusto harum enim est. Quis est doloremque nemo odio.",
+            "paragraph": "Rerum cupiditate et numquam voluptatibus labore. Vel inventore laborum. Dolores est ullam inventore natus illum qui repellendus molestias. Beatae nobis asperiores vero nam. Animi similique est accusamus vero magni omnis sed veniam. Aliquid laboriosam cupiditate vel quo ut aut cupiditate nulla error."
+        },
+        {
+            "words": "neque sint doloremque",
+            "sentence": "Repudiandae consequuntur illo pariatur earum.",
+            "sentences": "Maiores quia perspiciatis ad tempora et facere. Eveniet et sint et enim fuga eos aut. Quasi cum voluptatem vel qui accusantium. Modi repudiandae nesciunt.",
+            "paragraph": "Rem dolores pariatur nulla vero consequuntur. Numquam laudantium omnis atque quam. Incidunt tenetur non non. Provident quo occaecati aspernatur eum deleniti aperiam."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "257.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lang, Monahan and Wehner",
+            "name": "Home Loan Account 3082",
+            "type": "payment",
+            "account": "96862699"
+        },
+        {
+            "amount": "493.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Rath - Donnelly",
+            "name": "Auto Loan Account 4348",
+            "type": "withdrawal",
+            "account": "88713559"
+        },
+        {
+            "amount": "259.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McGlynn, Rippin and Towne",
+            "name": "Home Loan Account 3860",
+            "type": "invoice",
+            "account": "32174374"
+        }
+    ]
+}

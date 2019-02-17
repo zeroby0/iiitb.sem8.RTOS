@@ -1,0 +1,72 @@
+{
+    "name": "Larissa Denesik",
+    "username": "Florence.Ledner4",
+    "email": "Nikita_Hagenes24@hotmail.com",
+    "address": {
+        "streetA": "Moen Isle",
+        "streetB": "341 Graham Radial",
+        "streetC": "04652 Kitty Ville Suite 308",
+        "streetD": "Suite 049",
+        "city": "Lakintown",
+        "state": "Florida",
+        "country": "Senegal",
+        "zipcode": "59909-8136",
+        "geo": {
+            "lat": "-48.3261",
+            "lng": "77.8524"
+        }
+    },
+    "phone": "982-482-9918 x699",
+    "website": "dorothy.net",
+    "company": {
+        "name": "Collins, Reilly and Spencer",
+        "catchPhrase": "Proactive 3rd generation policy",
+        "bs": "enterprise matrix eyeballs"
+    },
+    "posts": [
+        {
+            "words": "et laborum voluptatem",
+            "sentence": "Qui libero non repellendus iure veritatis.",
+            "sentences": "Omnis et necessitatibus. Ut omnis suscipit fugiat ab et in.",
+            "paragraph": "Repudiandae nihil et quia. Atque nobis molestiae adipisci odit. Voluptatibus dolorem officiis aliquid. Natus totam qui tempora saepe corrupti reiciendis odit voluptas."
+        },
+        {
+            "words": "cupiditate neque dolorem",
+            "sentence": "Occaecati et et dolores a.",
+            "sentences": "Cumque aliquid laborum alias sed. Quo fugit et ea repellendus voluptatibus et perferendis. Nam rerum laborum et maiores accusantium voluptate qui ad adipisci. Consequatur consequuntur vel omnis eveniet ipsam ut neque nemo.",
+            "paragraph": "Inventore blanditiis quibusdam dolor quaerat dolorum. Autem consequatur ut. Excepturi ut facere omnis rerum temporibus voluptatem. Nihil non eveniet et eligendi dolore dicta eum similique vero."
+        },
+        {
+            "words": "laboriosam laudantium minus",
+            "sentence": "In sint molestias.",
+            "sentences": "Explicabo repudiandae in. Incidunt esse ea sit.",
+            "paragraph": "Et autem expedita quam enim nihil dolore inventore animi repellendus. Pariatur asperiores nihil officia ratione maiores tempore enim sapiente dolore. Aperiam laborum molestias quibusdam. Ex ducimus occaecati. Error consequuntur minus tempore ipsum earum."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "231.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kuhn, Schuster and Crist",
+            "name": "Auto Loan Account 7920",
+            "type": "invoice",
+            "account": "61226823"
+        },
+        {
+            "amount": "57.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Feeney LLC",
+            "name": "Money Market Account 8939",
+            "type": "payment",
+            "account": "74602053"
+        },
+        {
+            "amount": "324.50",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gulgowski, Dare and Turner",
+            "name": "Savings Account 2785",
+            "type": "withdrawal",
+            "account": "53086686"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Sophie Bins",
+    "username": "Jude.Olson29",
+    "email": "Mohammed_Morissette32@gmail.com",
+    "address": {
+        "streetA": "Bernard Knolls",
+        "streetB": "5527 Ebba Wall",
+        "streetC": "12799 Davis Ridge Suite 597",
+        "streetD": "Suite 030",
+        "city": "New Tyrique",
+        "state": "Illinois",
+        "country": "Mexico",
+        "zipcode": "80176",
+        "geo": {
+            "lat": "-30.9795",
+            "lng": "-127.3089"
+        }
+    },
+    "phone": "1-318-483-9722 x725",
+    "website": "dora.info",
+    "company": {
+        "name": "Corkery, Moen and Rowe",
+        "catchPhrase": "Synergized foreground Graphic Interface",
+        "bs": "dynamic expedite synergies"
+    },
+    "posts": [
+        {
+            "words": "distinctio consectetur iusto",
+            "sentence": "Deleniti consequatur quam sapiente aspernatur nam aliquid.",
+            "sentences": "Est possimus et et voluptates. Quia sint ipsam aspernatur voluptatem tenetur qui laboriosam. Quae aliquam nostrum vel sed sed quia quis est. Accusamus at assumenda quam aut qui. Inventore doloremque eos atque dolorem eum rem.",
+            "paragraph": "Maiores tempora qui ipsum dolor possimus quasi. Facilis aut cum dolores labore. Excepturi numquam voluptatem et voluptatem accusamus tempora soluta est."
+        },
+        {
+            "words": "illo beatae quo",
+            "sentence": "Ea qui voluptatem tenetur veritatis maxime occaecati facilis.",
+            "sentences": "Praesentium hic possimus nam. Asperiores impedit iste fugit non veritatis. Repudiandae omnis tempore odit vel neque rem labore beatae aut. Tenetur quis totam ea quasi excepturi. Et distinctio modi ullam deserunt harum natus facere. Ut pariatur illum.",
+            "paragraph": "Distinctio ipsa dolor dignissimos quia nostrum est voluptas. Omnis doloribus saepe corporis sed corrupti optio. Aut dicta modi est omnis dolorum repellendus aut consequatur. Omnis assumenda et. Vitae ut excepturi sit placeat ex enim. Nam aliquid sint in aut sint molestiae amet aliquam modi."
+        },
+        {
+            "words": "suscipit ab aut",
+            "sentence": "Ab eveniet unde consequatur.",
+            "sentences": "Similique sunt iusto maxime enim provident quia voluptatem dolor. Quis impedit aperiam aut consequatur eum consequatur qui et.",
+            "paragraph": "Expedita aut exercitationem. Atque delectus quo sit nisi possimus distinctio ex sed illum. Blanditiis accusamus veniam et. Consequuntur et et. Porro voluptas rerum molestias eos non."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "817.60",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gleason - Yundt",
+            "name": "Money Market Account 8238",
+            "type": "withdrawal",
+            "account": "84540314"
+        },
+        {
+            "amount": "495.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tremblay - Collier",
+            "name": "Checking Account 3886",
+            "type": "deposit",
+            "account": "72884740"
+        },
+        {
+            "amount": "889.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmitt Inc",
+            "name": "Money Market Account 6059",
+            "type": "withdrawal",
+            "account": "09198888"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Una Jaskolski",
+    "username": "Viva.Bernhard42",
+    "email": "Judge_Dach@hotmail.com",
+    "address": {
+        "streetA": "Triston Mountains",
+        "streetB": "781 Lubowitz Islands",
+        "streetC": "7662 Cremin Run Suite 049",
+        "streetD": "Apt. 050",
+        "city": "Effertzton",
+        "state": "South Dakota",
+        "country": "Uzbekistan",
+        "zipcode": "57144-5627",
+        "geo": {
+            "lat": "-14.9626",
+            "lng": "-67.2243"
+        }
+    },
+    "phone": "(438) 207-8240",
+    "website": "angelo.biz",
+    "company": {
+        "name": "Pagac Inc",
+        "catchPhrase": "Customizable optimizing Graphic Interface",
+        "bs": "B2C engage users"
+    },
+    "posts": [
+        {
+            "words": "omnis cupiditate sint",
+            "sentence": "Nam rerum ut reiciendis.",
+            "sentences": "Voluptatem earum id commodi vel aut cum nulla provident voluptate. Maiores excepturi expedita adipisci voluptatum voluptatibus officiis distinctio hic. Enim quibusdam rem qui ut dolorem. Et minima cumque. Est tempora quo voluptas ut consequuntur nam officia.",
+            "paragraph": "Et eaque libero totam. Consequatur tenetur nihil laboriosam eligendi sit ut quas. Dicta aut quas aut vitae ad magni. Odit molestias voluptatem ratione explicabo nostrum."
+        },
+        {
+            "words": "dolores accusantium occaecati",
+            "sentence": "In velit aut.",
+            "sentences": "Harum tempore architecto enim optio ut numquam minima. Voluptatem nulla culpa. In et suscipit et eligendi omnis optio fuga aliquam blanditiis. Atque recusandae labore cupiditate voluptatibus molestias iure non maxime.",
+            "paragraph": "Accusantium voluptatem odit omnis corporis nihil. Ea laudantium quis. Pariatur officia corrupti. Sit consectetur voluptates facere ea autem."
+        },
+        {
+            "words": "sed est quis",
+            "sentence": "Molestias amet et ipsa.",
+            "sentences": "Fuga quis saepe perferendis et dolorum est doloremque quo. Iure sit quis esse. Dolor vel et rerum id fugit enim. Dolor temporibus et dolorem ut minus. Amet ut dignissimos enim non maxime.",
+            "paragraph": "Sit aut itaque quae eum officia veritatis enim saepe omnis. Rem aperiam accusantium pariatur voluptas amet ex. Voluptatem veniam ipsam eius similique autem qui. Necessitatibus ea atque commodi et quos quis aliquid. Voluptas voluptatem perspiciatis aut odio sint est veritatis consequatur. Sit hic architecto beatae quisquam quis et ratione sint est."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "502.65",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schmidt, Ryan and Wyman",
+            "name": "Money Market Account 8292",
+            "type": "invoice",
+            "account": "25455495"
+        },
+        {
+            "amount": "95.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Price - Crooks",
+            "name": "Savings Account 4953",
+            "type": "withdrawal",
+            "account": "48079168"
+        },
+        {
+            "amount": "131.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stracke, Windler and Bradtke",
+            "name": "Checking Account 4323",
+            "type": "deposit",
+            "account": "46402835"
+        }
+    ]
+}

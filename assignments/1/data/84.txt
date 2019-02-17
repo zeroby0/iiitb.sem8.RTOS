@@ -1,0 +1,72 @@
+{
+    "name": "Mack Williamson",
+    "username": "Linnea_Prohaska",
+    "email": "Brigitte29@gmail.com",
+    "address": {
+        "streetA": "Lindgren Street",
+        "streetB": "098 Christina Light",
+        "streetC": "902 Kshlerin Gardens Suite 044",
+        "streetD": "Apt. 793",
+        "city": "Kenyattamouth",
+        "state": "Oklahoma",
+        "country": "Switzerland",
+        "zipcode": "58062",
+        "geo": {
+            "lat": "-29.2841",
+            "lng": "100.1514"
+        }
+    },
+    "phone": "390.848.8939 x4363",
+    "website": "miles.name",
+    "company": {
+        "name": "Walsh, Macejkovic and Corkery",
+        "catchPhrase": "User-friendly zero tolerance core",
+        "bs": "cross-platform empower communities"
+    },
+    "posts": [
+        {
+            "words": "esse eos autem",
+            "sentence": "Aut tempore quia mollitia est aperiam explicabo.",
+            "sentences": "Blanditiis voluptatem quisquam pariatur. Accusamus sunt reiciendis asperiores. Deleniti nihil dolorum minus nihil corrupti aut.",
+            "paragraph": "Vel repudiandae aut. Sunt quidem consequatur. Velit nihil natus velit dolorum rerum."
+        },
+        {
+            "words": "architecto unde numquam",
+            "sentence": "Nisi rerum facilis mollitia.",
+            "sentences": "Dolorem et est sint fugiat et laboriosam inventore. Quisquam sunt cum nesciunt quo facere animi.",
+            "paragraph": "Nostrum et voluptatem in et dolorem. Aut similique ut asperiores et ut. Perferendis officia quod."
+        },
+        {
+            "words": "saepe quia perspiciatis",
+            "sentence": "Eos cum officiis dolores consectetur nihil incidunt doloribus.",
+            "sentences": "Inventore ut sed numquam et. Cumque totam repudiandae. Quibusdam veritatis quaerat voluptas ullam autem accusamus nam ullam. Et voluptatibus fugiat enim quae animi cum accusamus non.",
+            "paragraph": "In odio quaerat voluptates harum. Sapiente aut ut reprehenderit. Eius eaque quo et sed ut quo dolorem impedit."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "325.74",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Harvey - Kihn",
+            "name": "Savings Account 0929",
+            "type": "invoice",
+            "account": "24224463"
+        },
+        {
+            "amount": "489.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Turcotte, Schimmel and Huels",
+            "name": "Personal Loan Account 5674",
+            "type": "invoice",
+            "account": "86147274"
+        },
+        {
+            "amount": "383.50",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Haag, Erdman and Lebsack",
+            "name": "Checking Account 7507",
+            "type": "payment",
+            "account": "78644410"
+        }
+    ]
+}

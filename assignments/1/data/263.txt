@@ -1,0 +1,72 @@
+{
+    "name": "Melody Keeling",
+    "username": "Camila94",
+    "email": "Forrest_Hartmann@yahoo.com",
+    "address": {
+        "streetA": "Schneider Flats",
+        "streetB": "9843 Von Springs",
+        "streetC": "8984 Gail Union Suite 558",
+        "streetD": "Apt. 877",
+        "city": "West Ryanberg",
+        "state": "Georgia",
+        "country": "Iraq",
+        "zipcode": "11160",
+        "geo": {
+            "lat": "82.9016",
+            "lng": "44.9824"
+        }
+    },
+    "phone": "(590) 878-3530 x558",
+    "website": "chauncey.info",
+    "company": {
+        "name": "Kertzmann, Ziemann and Muller",
+        "catchPhrase": "Profit-focused content-based matrices",
+        "bs": "cross-media synthesize paradigms"
+    },
+    "posts": [
+        {
+            "words": "ullam reiciendis ipsa",
+            "sentence": "Tempora tenetur deleniti non ut voluptas molestias.",
+            "sentences": "Perferendis sed vel quia ut. Temporibus aut architecto. Sapiente voluptatem aut ullam est cum ipsam provident quia nisi. Est tempore eveniet eligendi et aut cum quidem necessitatibus ipsa. Voluptate porro accusantium quia similique commodi consequatur voluptatem.",
+            "paragraph": "Laboriosam consequatur voluptatem quis dignissimos velit voluptatem. Voluptatem officiis voluptas nihil distinctio aliquam natus. Alias est accusamus velit. Ut repellendus architecto repudiandae rerum itaque sint fugiat dolorum ipsam. Ipsum dolor autem dolorem. Laboriosam repellat explicabo dolores aspernatur aperiam dignissimos explicabo alias nisi."
+        },
+        {
+            "words": "vel aut consequatur",
+            "sentence": "Earum vitae vitae corrupti fuga earum architecto.",
+            "sentences": "Nisi fugiat esse cum dolor mollitia. Enim voluptatem aliquid et ut dolore eos. Dolorem dolores rerum illo a. Expedita nulla molestias quas voluptas labore. Accusamus voluptate non illum provident accusamus voluptatem rem nihil.",
+            "paragraph": "Veniam ea eum magni expedita distinctio commodi eum qui. Deleniti quaerat et nihil veritatis quis sit neque. Nihil beatae eaque voluptas aspernatur veritatis quasi. Est eum rerum non. Alias sit repellendus deleniti non incidunt quasi quaerat."
+        },
+        {
+            "words": "distinctio est et",
+            "sentence": "Aut quod necessitatibus rerum eaque sequi quo ea mollitia nihil.",
+            "sentences": "Saepe sunt laudantium est. Beatae quae rerum.",
+            "paragraph": "Sint illum excepturi odit commodi asperiores. Id vero nisi molestiae in. Vel qui consequuntur qui. Repudiandae totam vitae hic qui perspiciatis beatae unde ut et. Rem dolor et veniam eum eveniet repudiandae repellat. Dignissimos quidem temporibus sint hic magnam sit qui."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "494.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Anderson - Leannon",
+            "name": "Checking Account 8570",
+            "type": "deposit",
+            "account": "50883014"
+        },
+        {
+            "amount": "216.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Jacobs and Sons",
+            "name": "Checking Account 9329",
+            "type": "deposit",
+            "account": "01189267"
+        },
+        {
+            "amount": "202.04",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wunsch - Bradtke",
+            "name": "Auto Loan Account 4667",
+            "type": "withdrawal",
+            "account": "41137800"
+        }
+    ]
+}

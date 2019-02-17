@@ -1,0 +1,72 @@
+{
+    "name": "Jordyn Wunsch",
+    "username": "Mayra68",
+    "email": "Winifred20@yahoo.com",
+    "address": {
+        "streetA": "Ellsworth Row",
+        "streetB": "8010 Prosacco Isle",
+        "streetC": "813 Aufderhar Vista Apt. 543",
+        "streetD": "Apt. 016",
+        "city": "North Aida",
+        "state": "Idaho",
+        "country": "New Zealand",
+        "zipcode": "79628",
+        "geo": {
+            "lat": "20.3290",
+            "lng": "-116.4295"
+        }
+    },
+    "phone": "1-421-122-8504 x82399",
+    "website": "thea.com",
+    "company": {
+        "name": "Rosenbaum, White and Roberts",
+        "catchPhrase": "Multi-layered 5th generation monitoring",
+        "bs": "open-source transition action-items"
+    },
+    "posts": [
+        {
+            "words": "assumenda ducimus adipisci",
+            "sentence": "Vero veniam dolores quos exercitationem.",
+            "sentences": "Qui tempora nihil officiis assumenda enim. Quos voluptatem praesentium. Ab ipsam et sit rerum esse est corporis necessitatibus necessitatibus. Distinctio occaecati sunt et aliquam ratione facere. Error magnam et sit ratione.",
+            "paragraph": "Est sit perferendis. Velit deleniti rerum velit pariatur magnam. Incidunt aliquam minus suscipit molestiae autem velit. Modi alias maxime explicabo omnis."
+        },
+        {
+            "words": "suscipit reiciendis id",
+            "sentence": "Tempore quo sit assumenda eos excepturi.",
+            "sentences": "In debitis accusantium non enim officia excepturi maiores nesciunt dolores. Eum a ipsum consectetur et dolorem. Quia et sed quam dignissimos. Quis impedit dolorem enim dolorem repellendus nulla veniam et qui.",
+            "paragraph": "Perferendis cum corrupti voluptatem labore minus similique aliquam. Temporibus aut eos et perspiciatis. Autem sed sunt qui sit blanditiis recusandae aut ullam. Omnis exercitationem voluptatem ut. Id est praesentium in enim quos voluptatum corporis."
+        },
+        {
+            "words": "nulla mollitia voluptatem",
+            "sentence": "Deleniti sit excepturi veniam voluptatem doloribus.",
+            "sentences": "Aperiam quia beatae laborum. Fuga non ea placeat similique nihil et pariatur omnis iusto. Dicta aut recusandae mollitia voluptatem ipsam ea est. Dignissimos molestiae totam neque. Officia architecto autem et dolores earum commodi. Accusamus velit non perspiciatis suscipit officiis eum cupiditate facilis.",
+            "paragraph": "Alias iste accusamus sit modi nihil totam est qui. Rem nostrum molestiae ut dolorem delectus autem eveniet laboriosam cupiditate. Non aliquid repellat unde voluptatem pariatur porro autem quaerat quia. Libero molestiae consequatur accusantium rerum maxime et nesciunt. Et autem velit incidunt non rerum est ab eius. Molestiae voluptatum aspernatur quibusdam laudantium."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "454.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kshlerin - Pouros",
+            "name": "Credit Card Account 3545",
+            "type": "payment",
+            "account": "73357640"
+        },
+        {
+            "amount": "226.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Little - Smitham",
+            "name": "Home Loan Account 9833",
+            "type": "payment",
+            "account": "22114272"
+        },
+        {
+            "amount": "726.69",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Roberts Inc",
+            "name": "Savings Account 3861",
+            "type": "withdrawal",
+            "account": "42576865"
+        }
+    ]
+}

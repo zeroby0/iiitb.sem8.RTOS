@@ -1,0 +1,72 @@
+{
+    "name": "Dallin Schmidt",
+    "username": "Francesca.Pfannerstill",
+    "email": "Giovanni.Rice@yahoo.com",
+    "address": {
+        "streetA": "Huel Center",
+        "streetB": "2849 Maximus Crest",
+        "streetC": "8142 Tito Trail Apt. 603",
+        "streetD": "Suite 740",
+        "city": "Elodyland",
+        "state": "Iowa",
+        "country": "Mauritania",
+        "zipcode": "79228",
+        "geo": {
+            "lat": "-13.4701",
+            "lng": "8.1546"
+        }
+    },
+    "phone": "175.216.6129",
+    "website": "zoila.biz",
+    "company": {
+        "name": "Daugherty Inc",
+        "catchPhrase": "Function-based object-oriented adapter",
+        "bs": "integrated deploy applications"
+    },
+    "posts": [
+        {
+            "words": "qui nihil voluptas",
+            "sentence": "Asperiores quae aut ipsum.",
+            "sentences": "Vel labore aut qui vero. Sit quia voluptatem corporis recusandae et similique ipsam. Omnis et provident est. In modi temporibus. Est sunt ratione.",
+            "paragraph": "Velit delectus possimus unde ut. Quibusdam consequatur fugit qui animi. Dolores quas officia quo sed eligendi saepe magnam sit. Nesciunt amet voluptas necessitatibus dolor reprehenderit beatae doloremque."
+        },
+        {
+            "words": "similique corrupti ut",
+            "sentence": "Ea sed quo incidunt veritatis sit ipsum ipsam.",
+            "sentences": "Explicabo accusamus quam nisi voluptate. Nesciunt necessitatibus non in et aliquam consectetur. Ut tenetur aut rerum fuga non rerum. Est cum accusantium quia quo molestiae amet. Voluptates consequuntur qui dolor quia molestiae in et sed. Eum architecto laudantium natus cumque corrupti.",
+            "paragraph": "Maxime sequi cumque quo quidem fuga voluptates veniam dolore atque. Necessitatibus facilis sint dicta. Quisquam suscipit libero maxime qui."
+        },
+        {
+            "words": "eligendi aut dolorum",
+            "sentence": "Dolorem qui repellat blanditiis reiciendis necessitatibus.",
+            "sentences": "Asperiores ut eum cupiditate perferendis deleniti culpa voluptates pariatur praesentium. Voluptatem eligendi dolorem voluptatum totam reiciendis. Qui excepturi rem et reiciendis et. Maiores dolorem saepe hic ex dicta quidem.",
+            "paragraph": "Molestiae voluptas vero voluptas consequatur deserunt dolores neque quia. Et consequatur enim accusantium quia enim nulla et enim. Deleniti quas voluptatum ullam delectus impedit expedita ut beatae. Vitae dignissimos ad voluptatem alias inventore corrupti voluptatem architecto. Aut sed molestias hic."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "872.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mante, Jacobs and Rice",
+            "name": "Money Market Account 1244",
+            "type": "invoice",
+            "account": "37017394"
+        },
+        {
+            "amount": "239.49",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Fahey - Hoeger",
+            "name": "Money Market Account 1072",
+            "type": "withdrawal",
+            "account": "03281721"
+        },
+        {
+            "amount": "174.29",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stroman - Block",
+            "name": "Personal Loan Account 0721",
+            "type": "invoice",
+            "account": "00291874"
+        }
+    ]
+}

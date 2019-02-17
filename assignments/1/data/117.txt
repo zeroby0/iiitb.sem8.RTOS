@@ -1,0 +1,72 @@
+{
+    "name": "Wade West",
+    "username": "Thurman_Yundt",
+    "email": "Zion.Swaniawski@yahoo.com",
+    "address": {
+        "streetA": "Howe Highway",
+        "streetB": "346 Bailey Villages",
+        "streetC": "78869 Kathleen Inlet Apt. 517",
+        "streetD": "Apt. 671",
+        "city": "New Hobart",
+        "state": "Arizona",
+        "country": "United States of America",
+        "zipcode": "59687-5669",
+        "geo": {
+            "lat": "77.7957",
+            "lng": "60.3288"
+        }
+    },
+    "phone": "(640) 151-7472 x6434",
+    "website": "thelma.info",
+    "company": {
+        "name": "Christiansen Inc",
+        "catchPhrase": "Integrated disintermediate monitoring",
+        "bs": "open-source innovate supply-chains"
+    },
+    "posts": [
+        {
+            "words": "voluptas omnis et",
+            "sentence": "Ipsam cum vero a est velit totam asperiores quibusdam doloribus.",
+            "sentences": "Ut adipisci quasi placeat ipsam suscipit maiores repellendus. Corporis ipsam saepe sint nobis eveniet recusandae aut. Repellendus recusandae dolor. Qui earum voluptatem enim quia maxime. Eaque adipisci asperiores possimus.",
+            "paragraph": "Quaerat deleniti dolore est aspernatur vitae mollitia amet. Cum repudiandae sint nobis sed odio a dolor officia. Repellat illo unde. Dicta natus provident voluptas repudiandae enim voluptatem enim incidunt. Et et libero."
+        },
+        {
+            "words": "perspiciatis a aperiam",
+            "sentence": "Nulla ad ut amet impedit error ex.",
+            "sentences": "Doloremque cum aut fugit. Nam et aspernatur consectetur eos ea et atque autem. Velit vero consequatur quis quidem mollitia. Quia neque modi non in delectus aspernatur blanditiis.",
+            "paragraph": "Natus ea molestiae porro voluptates deleniti sed quos. Est sequi voluptatum alias sit qui et assumenda odio. Est nesciunt odio consectetur placeat tenetur qui. Eum alias hic dolor fuga. Exercitationem illo repellat."
+        },
+        {
+            "words": "et praesentium consequatur",
+            "sentence": "Inventore et libero molestiae natus eaque nam dolorem ad aut.",
+            "sentences": "Enim modi rerum quae maxime mollitia rerum veritatis. Velit omnis provident. Fuga suscipit quod temporibus accusantium nostrum ea.",
+            "paragraph": "Vitae cum quod eum voluptatem aperiam atque rerum. Non omnis rerum doloremque necessitatibus qui unde nam. Nobis non ut quos dolor ullam quibusdam. Iste dolor sint velit. Enim veritatis et ex cupiditate deleniti itaque voluptatem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "93.56",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gaylord Group",
+            "name": "Credit Card Account 7219",
+            "type": "payment",
+            "account": "20619043"
+        },
+        {
+            "amount": "549.12",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Parisian - Homenick",
+            "name": "Personal Loan Account 8256",
+            "type": "payment",
+            "account": "44473290"
+        },
+        {
+            "amount": "237.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kohler Group",
+            "name": "Money Market Account 7390",
+            "type": "payment",
+            "account": "18869647"
+        }
+    ]
+}

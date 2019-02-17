@@ -1,0 +1,72 @@
+{
+    "name": "Earnest Reynolds II",
+    "username": "Jayce86",
+    "email": "Wanda.OKon79@gmail.com",
+    "address": {
+        "streetA": "Deion Tunnel",
+        "streetB": "06480 Oberbrunner Island",
+        "streetC": "805 Langworth Manor Apt. 841",
+        "streetD": "Apt. 656",
+        "city": "New Israelland",
+        "state": "Nebraska",
+        "country": "Bouvet Island (Bouvetoya)",
+        "zipcode": "13083",
+        "geo": {
+            "lat": "-37.2570",
+            "lng": "-55.8852"
+        }
+    },
+    "phone": "613-903-9699",
+    "website": "brielle.biz",
+    "company": {
+        "name": "Hartmann Inc",
+        "catchPhrase": "Function-based coherent superstructure",
+        "bs": "synergistic drive relationships"
+    },
+    "posts": [
+        {
+            "words": "et magni vero",
+            "sentence": "Quia qui voluptatibus possimus et tempora id sed explicabo error.",
+            "sentences": "Possimus et optio corrupti. Quidem consectetur accusantium unde. Eveniet tempora molestiae ab et enim sequi ducimus. Soluta qui vero mollitia dolorem quis id odio totam rem.",
+            "paragraph": "Officia animi voluptatibus. Doloribus error expedita. Harum iste excepturi qui sed perspiciatis. Ducimus sequi a rem cum placeat voluptatem nisi aut ut. Doloribus enim dolore."
+        },
+        {
+            "words": "natus qui aut",
+            "sentence": "Enim aut officia et aut quia.",
+            "sentences": "Eius amet omnis nihil et labore. Temporibus temporibus ab. Mollitia sed odit qui odio et quibusdam. Enim sapiente repellendus magni nostrum esse rem.",
+            "paragraph": "Sed eligendi eos animi velit facere. Consectetur nesciunt et et sunt ut cum omnis. Et molestiae rerum."
+        },
+        {
+            "words": "odit maxime inventore",
+            "sentence": "Qui aperiam ea eius unde ut non.",
+            "sentences": "Fuga facilis magnam ipsam. Perspiciatis et atque voluptate. Saepe qui reprehenderit eum autem ut minima libero. Architecto et quis modi. Fugit iure doloribus ducimus sed et sed sunt exercitationem vel.",
+            "paragraph": "Natus quam tempora ex possimus. Quia repudiandae aliquid adipisci nihil blanditiis numquam. Fugit molestiae necessitatibus labore nemo. Quaerat maxime aliquid aliquam nulla. Optio consequatur vel et facere consequatur vero. Dicta excepturi nisi sapiente repellendus molestias."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "613.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McDermott - Von",
+            "name": "Auto Loan Account 9187",
+            "type": "deposit",
+            "account": "40425003"
+        },
+        {
+            "amount": "691.29",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wiegand - Johns",
+            "name": "Money Market Account 0477",
+            "type": "withdrawal",
+            "account": "73981278"
+        },
+        {
+            "amount": "648.40",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Anderson Group",
+            "name": "Checking Account 1676",
+            "type": "payment",
+            "account": "07619647"
+        }
+    ]
+}

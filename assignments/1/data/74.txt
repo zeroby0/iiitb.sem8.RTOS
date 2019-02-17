@@ -1,0 +1,72 @@
+{
+    "name": "Howell Collins",
+    "username": "Tiffany.Rohan12",
+    "email": "Antonina_Franecki@yahoo.com",
+    "address": {
+        "streetA": "Kuhn Wall",
+        "streetB": "1120 Yazmin Trafficway",
+        "streetC": "43685 Chelsey Circle Suite 368",
+        "streetD": "Suite 272",
+        "city": "Jonatanberg",
+        "state": "Florida",
+        "country": "Guam",
+        "zipcode": "83515",
+        "geo": {
+            "lat": "86.3013",
+            "lng": "-139.4434"
+        }
+    },
+    "phone": "205.935.9374 x239",
+    "website": "leon.net",
+    "company": {
+        "name": "Monahan - McGlynn",
+        "catchPhrase": "Versatile motivating archive",
+        "bs": "integrated extend e-services"
+    },
+    "posts": [
+        {
+            "words": "ut repellat odio",
+            "sentence": "Quia ut animi.",
+            "sentences": "Facilis quibusdam facere dolorem. Occaecati magnam ut qui. Recusandae reprehenderit voluptatem illum molestiae qui. Minus ut dignissimos voluptatem qui et non eum. Assumenda quis dolore officiis autem laboriosam cupiditate. Quis aspernatur laudantium libero illo et.",
+            "paragraph": "Excepturi nihil et mollitia. Qui ipsa et et distinctio. Dolor quia earum sed praesentium velit voluptas voluptate. Et quam natus adipisci sint ab. Cumque perspiciatis unde quasi dignissimos fugiat. Perspiciatis amet quaerat eveniet magnam."
+        },
+        {
+            "words": "necessitatibus possimus aspernatur",
+            "sentence": "Unde velit necessitatibus non reiciendis aut voluptatem.",
+            "sentences": "Aspernatur eos commodi veniam. Fugiat odio occaecati quae quia sed quibusdam dolorem veritatis. Quia assumenda pariatur sit doloribus blanditiis natus qui. Blanditiis quibusdam minus aut doloremque cum qui porro sequi. Amet voluptas excepturi veniam soluta autem est fuga maiores nostrum.",
+            "paragraph": "Debitis a sed ea natus cupiditate. Asperiores quia voluptatem in dignissimos iste in voluptas nemo doloremque. Recusandae similique eum quidem quam. Molestiae iste ut at illo. Vel accusantium illo. Adipisci porro aut."
+        },
+        {
+            "words": "fuga dicta dolores",
+            "sentence": "Ipsum veritatis tenetur maiores molestiae ut placeat cupiditate et sit.",
+            "sentences": "Id quo amet. Et delectus ut maxime sed eos et vero quis. Vel at quidem soluta. Nihil esse laboriosam ex ea quisquam. Consequatur omnis ipsam incidunt qui consequuntur inventore dolorem quae. Qui cupiditate nostrum.",
+            "paragraph": "Illo sed alias et omnis accusantium. Quidem sint doloremque provident. Est aut iusto laboriosam quo. Odio et repellendus ducimus iusto quia sequi nam et culpa. Adipisci eaque nobis et praesentium culpa eos et ut voluptatem. Accusantium iure placeat et accusamus cupiditate quia consequatur quisquam aut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "337.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ferry - Schultz",
+            "name": "Savings Account 6130",
+            "type": "payment",
+            "account": "26854420"
+        },
+        {
+            "amount": "821.63",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kiehn - Vandervort",
+            "name": "Money Market Account 1069",
+            "type": "payment",
+            "account": "26310809"
+        },
+        {
+            "amount": "89.35",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Stracke and Sons",
+            "name": "Investment Account 1122",
+            "type": "payment",
+            "account": "37970183"
+        }
+    ]
+}

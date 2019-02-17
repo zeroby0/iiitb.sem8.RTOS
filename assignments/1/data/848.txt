@@ -1,0 +1,72 @@
+{
+    "name": "Colin Haley",
+    "username": "Edwardo_Walter78",
+    "email": "Kimberly.Ruecker@yahoo.com",
+    "address": {
+        "streetA": "Auer Port",
+        "streetB": "5090 Cremin Trail",
+        "streetC": "988 Grant Land Suite 804",
+        "streetD": "Apt. 290",
+        "city": "Joville",
+        "state": "North Dakota",
+        "country": "Croatia",
+        "zipcode": "98051-9922",
+        "geo": {
+            "lat": "-34.2287",
+            "lng": "36.5065"
+        }
+    },
+    "phone": "(616) 287-4907 x28772",
+    "website": "erin.name",
+    "company": {
+        "name": "Upton, Kunde and Sanford",
+        "catchPhrase": "Right-sized analyzing matrix",
+        "bs": "next-generation extend convergence"
+    },
+    "posts": [
+        {
+            "words": "quasi ut aspernatur",
+            "sentence": "Tenetur amet ut reprehenderit sequi magnam aut ut nisi consectetur.",
+            "sentences": "Non ut laudantium nulla. Qui qui possimus quia. Pariatur similique totam pariatur nisi vel qui nam.",
+            "paragraph": "Rerum porro aliquid incidunt dolores et pariatur veniam quod voluptatibus. Ex possimus temporibus eligendi. Omnis sed mollitia voluptatem. Quam officiis facere deserunt eos ad vel commodi occaecati sint."
+        },
+        {
+            "words": "sint aut aut",
+            "sentence": "Consequatur at id quia aut quis omnis quidem inventore.",
+            "sentences": "Suscipit autem id debitis quibusdam ducimus reprehenderit quo optio. Reprehenderit doloribus vel. Corporis excepturi neque repellendus consequuntur cumque nihil similique eveniet molestiae. Voluptas eum delectus et laudantium voluptates quibusdam maiores nisi. Ea qui qui blanditiis voluptatem.",
+            "paragraph": "Doloremque et similique sunt provident delectus placeat ducimus dolorem. Distinctio ab ratione sint vel repudiandae. Delectus esse amet saepe odio et voluptatem velit nemo esse. Nemo doloremque hic laudantium. Quia ipsum corporis. Corporis ut iure ut illo."
+        },
+        {
+            "words": "quia iste sint",
+            "sentence": "Inventore distinctio rerum quo quibusdam suscipit fugiat magni.",
+            "sentences": "Reprehenderit consequatur aut velit tempora sit ratione tempora odit. Aut expedita repellendus nihil odio ullam qui. Autem id harum non est omnis adipisci corporis. Doloremque est quia et nulla earum a voluptas est. Voluptatem repellendus deleniti ea in explicabo.",
+            "paragraph": "Inventore assumenda atque et dolorum cum officiis. Molestiae ut fugiat qui. Nihil culpa quis excepturi iste est ut magni. Necessitatibus libero ipsa praesentium impedit ducimus. Quaerat aspernatur rerum. Hic mollitia in."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "973.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mohr, Wehner and Welch",
+            "name": "Investment Account 9725",
+            "type": "invoice",
+            "account": "79931182"
+        },
+        {
+            "amount": "463.64",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bernhard Inc",
+            "name": "Auto Loan Account 7502",
+            "type": "deposit",
+            "account": "15613990"
+        },
+        {
+            "amount": "533.89",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Langworth - Collins",
+            "name": "Investment Account 2771",
+            "type": "payment",
+            "account": "15111411"
+        }
+    ]
+}

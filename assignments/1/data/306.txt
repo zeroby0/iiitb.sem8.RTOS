@@ -1,0 +1,72 @@
+{
+    "name": "Fritz Labadie",
+    "username": "Tressa30",
+    "email": "Malvina.Morissette@hotmail.com",
+    "address": {
+        "streetA": "O'Kon Springs",
+        "streetB": "3842 Ortiz Glen",
+        "streetC": "709 Welch Overpass Apt. 182",
+        "streetD": "Apt. 355",
+        "city": "Littelhaven",
+        "state": "New York",
+        "country": "Turks and Caicos Islands",
+        "zipcode": "02225-8116",
+        "geo": {
+            "lat": "-18.8271",
+            "lng": "-75.1225"
+        }
+    },
+    "phone": "(342) 451-1515 x1416",
+    "website": "paxton.name",
+    "company": {
+        "name": "Senger, Schneider and Stamm",
+        "catchPhrase": "Open-architected empowering collaboration",
+        "bs": "cutting-edge maximize platforms"
+    },
+    "posts": [
+        {
+            "words": "repellat laboriosam ut",
+            "sentence": "Laboriosam omnis ea.",
+            "sentences": "Voluptates eos architecto. Dolorem eum ipsa corrupti.",
+            "paragraph": "Consequatur aut repellendus adipisci quos dolores illum harum. Cum et facilis dolor magnam debitis et ut sit repellat. Maiores et officia architecto consequatur cumque et. Nobis iusto numquam qui."
+        },
+        {
+            "words": "in temporibus in",
+            "sentence": "Quisquam reprehenderit et delectus eligendi.",
+            "sentences": "Non id ipsam quisquam. Velit et ut iste illo ut sit iusto corporis. Voluptatum architecto modi sequi magnam pariatur omnis voluptas.",
+            "paragraph": "Minus magnam et aut praesentium illo labore. Tempore facilis asperiores qui nemo molestiae eum veniam aut esse. Minima consequuntur ullam qui rerum. Ut excepturi sed optio vero maxime et et laboriosam. Vero et atque. Et officia et cumque eligendi exercitationem atque."
+        },
+        {
+            "words": "illum tenetur mollitia",
+            "sentence": "Quis quia veritatis repellendus voluptate quo ipsum dolor.",
+            "sentences": "Modi doloremque est asperiores velit. Et sed vitae ut quo. Aut aut id. Saepe autem nulla id.",
+            "paragraph": "Quasi delectus qui. Ipsa est reprehenderit ducimus consequatur ipsam beatae nesciunt. Amet dicta hic cum perspiciatis. Vel libero et in. Dolores est facilis labore aspernatur dignissimos magni. Reiciendis soluta eveniet ab eaque at enim non."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "449.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McGlynn, Reichert and Wuckert",
+            "name": "Money Market Account 9636",
+            "type": "deposit",
+            "account": "08799281"
+        },
+        {
+            "amount": "320.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ledner Group",
+            "name": "Home Loan Account 6516",
+            "type": "invoice",
+            "account": "33050297"
+        },
+        {
+            "amount": "943.67",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Reichert - Turcotte",
+            "name": "Checking Account 8370",
+            "type": "invoice",
+            "account": "35088520"
+        }
+    ]
+}

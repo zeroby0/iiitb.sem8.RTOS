@@ -1,0 +1,72 @@
+{
+    "name": "Kristian Greenfelder",
+    "username": "Kaya_Hintz83",
+    "email": "Michel25@hotmail.com",
+    "address": {
+        "streetA": "Ziemann Village",
+        "streetB": "4185 Vilma Trafficway",
+        "streetC": "890 Moen Ville Suite 449",
+        "streetD": "Apt. 705",
+        "city": "Thompsonton",
+        "state": "Connecticut",
+        "country": "Hungary",
+        "zipcode": "15939-1591",
+        "geo": {
+            "lat": "89.5774",
+            "lng": "-41.8723"
+        }
+    },
+    "phone": "(405) 577-6604 x13799",
+    "website": "general.biz",
+    "company": {
+        "name": "Streich and Sons",
+        "catchPhrase": "User-friendly systematic focus group",
+        "bs": "next-generation utilize schemas"
+    },
+    "posts": [
+        {
+            "words": "rem maxime voluptas",
+            "sentence": "Atque ratione repudiandae aliquam id libero ab nostrum corrupti.",
+            "sentences": "Harum labore fugit dolorem dolorem expedita eos. Praesentium quaerat in adipisci tempora animi. Ut voluptatibus tempore.",
+            "paragraph": "Ut hic sint ut est. At praesentium quo corrupti maiores accusantium hic. Fugit error est deserunt repellat. Tenetur animi ipsam deleniti architecto officia quia. Reprehenderit repellendus distinctio et dolorum saepe voluptates rerum porro."
+        },
+        {
+            "words": "a distinctio qui",
+            "sentence": "Esse iste quos cupiditate sequi laudantium nulla itaque.",
+            "sentences": "Et blanditiis consequatur voluptas aliquam in. Consequatur qui sequi earum non rerum dicta laborum consequuntur ex. Quo odit nihil vitae. Consectetur sed impedit quas officia nihil nostrum in odio quas. Voluptatem beatae fuga est ipsum et vitae eius dolor eum.",
+            "paragraph": "Reiciendis nobis cumque occaecati iure eum omnis. Voluptatem possimus ad vitae cum quasi architecto. Labore qui quibusdam nisi. Recusandae quibusdam ut exercitationem dicta voluptatum est sint id. Sit laudantium quis distinctio debitis excepturi libero."
+        },
+        {
+            "words": "quia quo delectus",
+            "sentence": "Iure delectus est eligendi repudiandae labore est.",
+            "sentences": "Modi qui quia sunt iusto voluptas perferendis ut voluptatum. Ipsum magni consequatur dolores odio repudiandae qui. Sint odio recusandae sed facere.",
+            "paragraph": "Praesentium minima aliquam neque. Sint error molestias ducimus aliquid ut. Facilis quaerat velit quibusdam. Corrupti quasi vel omnis dolor. Quae optio numquam fuga illo exercitationem. Nobis excepturi corrupti aspernatur et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "100.99",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Crooks - Schinner",
+            "name": "Money Market Account 0465",
+            "type": "deposit",
+            "account": "02657695"
+        },
+        {
+            "amount": "139.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kling LLC",
+            "name": "Checking Account 8323",
+            "type": "withdrawal",
+            "account": "07183772"
+        },
+        {
+            "amount": "464.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Metz Inc",
+            "name": "Home Loan Account 6960",
+            "type": "withdrawal",
+            "account": "66381465"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Torrance Glover",
+    "username": "Rod43",
+    "email": "Hunter79@hotmail.com",
+    "address": {
+        "streetA": "Mraz Park",
+        "streetB": "97248 Cole Bypass",
+        "streetC": "2832 Ernser Courts Suite 972",
+        "streetD": "Suite 349",
+        "city": "East Bailey",
+        "state": "Delaware",
+        "country": "Congo",
+        "zipcode": "15491",
+        "geo": {
+            "lat": "39.3997",
+            "lng": "-75.6707"
+        }
+    },
+    "phone": "032.085.3997 x34961",
+    "website": "justice.org",
+    "company": {
+        "name": "Hyatt Inc",
+        "catchPhrase": "Adaptive solution-oriented firmware",
+        "bs": "leading-edge generate initiatives"
+    },
+    "posts": [
+        {
+            "words": "et laudantium omnis",
+            "sentence": "Adipisci magnam optio rerum qui debitis nam eligendi dolores.",
+            "sentences": "Debitis deleniti maxime quo. Quia qui enim ea mollitia sed ut sit. Quidem et earum quibusdam quidem corrupti autem omnis porro repellat. Repudiandae voluptatem aut possimus velit rerum facilis nihil ad. Aspernatur voluptatibus qui necessitatibus laborum autem quam. Cumque et ea inventore laudantium ut et.",
+            "paragraph": "Rerum rerum ut vel. In nemo nobis quia laboriosam. Et doloribus totam doloremque corporis autem illum animi quia. Molestiae quas voluptatum numquam qui sunt asperiores eum. Nulla iste similique inventore quidem. Officia ea et qui et at quo odio mollitia adipisci."
+        },
+        {
+            "words": "et et at",
+            "sentence": "Aliquid est odit provident esse dolor voluptatibus deserunt.",
+            "sentences": "Dolorem assumenda commodi ducimus. Dolor deleniti magni eius itaque ea. Cum voluptas doloremque voluptas illo incidunt consequuntur et adipisci tempora.",
+            "paragraph": "Quae dignissimos et quaerat quidem eveniet esse. Fuga dolore distinctio. Et commodi maiores omnis reprehenderit. Sequi iste voluptatibus minus impedit enim omnis. Ut dolores tempora ab. Vitae exercitationem blanditiis aut voluptas officia officia laborum sed minima."
+        },
+        {
+            "words": "voluptatem est qui",
+            "sentence": "Atque rem facere.",
+            "sentences": "Non ab et labore in molestiae vel sint doloremque. Error suscipit et eos repudiandae. Quia non ex. Odit iusto molestiae atque debitis voluptatem. Est architecto illum qui ut neque commodi voluptate et. Laboriosam voluptates consequatur in.",
+            "paragraph": "Qui totam illo non saepe. Cumque veniam ipsum occaecati ex explicabo. Enim aut quasi aut sint magnam corrupti eos. Iusto totam reiciendis temporibus iste ipsum hic et laboriosam sed."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "230.01",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Roberts, Klocko and Olson",
+            "name": "Checking Account 8119",
+            "type": "withdrawal",
+            "account": "84986145"
+        },
+        {
+            "amount": "187.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Conroy Inc",
+            "name": "Personal Loan Account 1614",
+            "type": "withdrawal",
+            "account": "18207148"
+        },
+        {
+            "amount": "736.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lebsack - Parker",
+            "name": "Money Market Account 4448",
+            "type": "deposit",
+            "account": "16240825"
+        }
+    ]
+}

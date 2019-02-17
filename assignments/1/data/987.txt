@@ -1,0 +1,72 @@
+{
+    "name": "Kolby Cassin",
+    "username": "Rosalind31",
+    "email": "Alyce_Fritsch@yahoo.com",
+    "address": {
+        "streetA": "Hilll Gateway",
+        "streetB": "23967 Rhea Isle",
+        "streetC": "361 Neal Highway Suite 229",
+        "streetD": "Apt. 528",
+        "city": "New Virginia",
+        "state": "South Dakota",
+        "country": "Central African Republic",
+        "zipcode": "20500",
+        "geo": {
+            "lat": "17.4468",
+            "lng": "117.6911"
+        }
+    },
+    "phone": "1-483-714-8262 x40737",
+    "website": "mireya.name",
+    "company": {
+        "name": "Ortiz Inc",
+        "catchPhrase": "Re-contextualized next generation interface",
+        "bs": "revolutionary productize e-markets"
+    },
+    "posts": [
+        {
+            "words": "cum quia minus",
+            "sentence": "Officiis rem et aut molestiae voluptatem.",
+            "sentences": "Facilis dolor perferendis eius voluptates veritatis provident ea. Ullam illum qui. Rem tempore non perspiciatis debitis incidunt at qui. Ipsum aliquid eum tempore reprehenderit tempore laboriosam non.",
+            "paragraph": "Minima soluta necessitatibus. Et quia quas voluptates debitis officiis expedita perspiciatis esse. Ad nulla praesentium eum aut voluptatum qui eum. Aperiam officia est reprehenderit rem velit laborum autem rerum sit."
+        },
+        {
+            "words": "placeat ea aut",
+            "sentence": "Enim at quod.",
+            "sentences": "Occaecati est eius minima voluptatem voluptates et. Sunt omnis aut deleniti sint. Ut possimus reprehenderit earum. Minima tempora expedita maxime. Quis qui vel aut deleniti repellendus ut occaecati temporibus. Enim tempore et.",
+            "paragraph": "Est unde repudiandae nihil necessitatibus sunt laborum numquam vero et. Commodi deserunt quisquam corporis odio quo nemo itaque dolorem. Officia impedit unde ea sed in."
+        },
+        {
+            "words": "ea minus ipsum",
+            "sentence": "Sapiente eveniet sit commodi rem.",
+            "sentences": "Dignissimos amet dolore. Quibusdam velit amet odit. Tempore praesentium sed aperiam illum. Vel maxime ut amet qui voluptatem corrupti sed ut. Praesentium et molestiae velit rerum quae quaerat qui. Est accusantium qui optio eaque.",
+            "paragraph": "Aut molestiae minus deleniti eum. Et sit iusto veniam. Quo ut aspernatur dolore ut mollitia quos perferendis consectetur. Nisi officia fugit sequi sapiente. At dolor voluptas dolorem et mollitia. Eos quis beatae consequatur placeat vero non provident."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "673.74",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kessler - Fadel",
+            "name": "Investment Account 0961",
+            "type": "payment",
+            "account": "90496850"
+        },
+        {
+            "amount": "672.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ullrich, Blanda and Kub",
+            "name": "Home Loan Account 9124",
+            "type": "withdrawal",
+            "account": "86025465"
+        },
+        {
+            "amount": "206.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Tillman and Sons",
+            "name": "Home Loan Account 3690",
+            "type": "deposit",
+            "account": "46814486"
+        }
+    ]
+}

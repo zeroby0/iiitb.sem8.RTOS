@@ -1,0 +1,72 @@
+{
+    "name": "Dessie Schuppe",
+    "username": "Ottilie29",
+    "email": "Casimir10@hotmail.com",
+    "address": {
+        "streetA": "Magdalena Pines",
+        "streetB": "659 Claudie Summit",
+        "streetC": "930 Aniyah Hollow Suite 057",
+        "streetD": "Suite 316",
+        "city": "Lake Lilliestad",
+        "state": "New Jersey",
+        "country": "Tuvalu",
+        "zipcode": "97956",
+        "geo": {
+            "lat": "-10.1450",
+            "lng": "-147.6763"
+        }
+    },
+    "phone": "1-514-682-1096 x322",
+    "website": "westley.net",
+    "company": {
+        "name": "Wilderman - Bartell",
+        "catchPhrase": "Visionary radical frame",
+        "bs": "mission-critical visualize paradigms"
+    },
+    "posts": [
+        {
+            "words": "repellat ut asperiores",
+            "sentence": "Dicta et assumenda aspernatur ut excepturi id.",
+            "sentences": "Cumque veniam numquam tenetur ea. Sint libero est architecto repellat fuga adipisci unde id officia.",
+            "paragraph": "Molestiae corporis fugit eveniet unde totam. Eveniet qui eum possimus quos iste et. Id reiciendis doloremque consectetur quis incidunt dolorem."
+        },
+        {
+            "words": "quis sint aliquid",
+            "sentence": "Consequatur eos libero.",
+            "sentences": "Ratione aliquam fuga. Facere unde numquam illum ab eveniet rem odit illum.",
+            "paragraph": "Beatae consequuntur et omnis. Aut odit esse repellendus dolores quia delectus et. Voluptate tempore animi. Aut quis id repudiandae et iure. Id aut velit officiis incidunt quia illum officia delectus. Et voluptatem suscipit."
+        },
+        {
+            "words": "molestias voluptatem qui",
+            "sentence": "Perferendis facere laboriosam nostrum maxime aut rerum.",
+            "sentences": "Tempora corporis voluptatem sunt eligendi rerum natus neque inventore sint. Consequuntur neque sed cumque qui alias a ut culpa. In quas hic quia aut dicta ut ut possimus illo. Optio omnis rerum voluptas aut facere eos id est quo.",
+            "paragraph": "Voluptatem qui vero similique qui omnis molestias rerum architecto. Nulla voluptatem reiciendis saepe dolorem eaque quis totam et alias. Sit aliquam nulla rerum. Dolorum voluptas quis rem quaerat sunt."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "578.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Heaney - Bernier",
+            "name": "Money Market Account 8925",
+            "type": "payment",
+            "account": "34379402"
+        },
+        {
+            "amount": "19.62",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Turcotte, Zulauf and Larkin",
+            "name": "Investment Account 0759",
+            "type": "withdrawal",
+            "account": "66499363"
+        },
+        {
+            "amount": "718.88",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Thompson LLC",
+            "name": "Investment Account 4575",
+            "type": "withdrawal",
+            "account": "04010754"
+        }
+    ]
+}

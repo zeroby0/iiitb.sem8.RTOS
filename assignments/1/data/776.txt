@@ -1,0 +1,72 @@
+{
+    "name": "Edison Yundt",
+    "username": "Curt.Hamill",
+    "email": "Rosalia_Harris@hotmail.com",
+    "address": {
+        "streetA": "Myrna Junction",
+        "streetB": "343 Stamm Tunnel",
+        "streetC": "00082 Herminia Key Apt. 694",
+        "streetD": "Suite 153",
+        "city": "Bartolettiside",
+        "state": "Minnesota",
+        "country": "Zimbabwe",
+        "zipcode": "95887-8215",
+        "geo": {
+            "lat": "-78.6549",
+            "lng": "75.9534"
+        }
+    },
+    "phone": "(756) 485-5206 x7382",
+    "website": "ivory.name",
+    "company": {
+        "name": "Huel - Yost",
+        "catchPhrase": "Enterprise-wide foreground knowledge user",
+        "bs": "synergistic integrate architectures"
+    },
+    "posts": [
+        {
+            "words": "est quibusdam quam",
+            "sentence": "Quo quasi totam voluptatem nesciunt quas sint laudantium.",
+            "sentences": "Molestias sit odio officia aliquid et qui. Commodi animi non dolores. Sed quis maiores aut voluptatem consequatur omnis. Quasi consequatur nisi aspernatur voluptatum recusandae reiciendis numquam velit qui. Culpa sed incidunt provident dolor nemo consequuntur eaque non. Dicta minima impedit ipsam illo debitis voluptate.",
+            "paragraph": "Temporibus reiciendis voluptas qui dolor consequuntur dolor et et non. Et sed ullam ex. Ab consequatur possimus. Numquam quos alias id minus quos voluptatem est. Laboriosam rerum est quasi quam itaque sunt et aperiam quos. Optio dolorum nulla quia quia consequatur consectetur tempore facilis."
+        },
+        {
+            "words": "animi in nihil",
+            "sentence": "Unde placeat rerum.",
+            "sentences": "Mollitia tempora voluptates odit. Dolor nostrum et voluptatem magnam architecto perspiciatis vero ut est. Voluptas inventore voluptas. Quo minima inventore explicabo odit blanditiis id minus sed voluptatem.",
+            "paragraph": "Ab quos suscipit optio vitae. Fuga consequuntur sed a voluptates quas. Est ducimus perferendis excepturi architecto molestiae repellendus labore ut explicabo. Delectus aliquam voluptate ducimus libero distinctio sequi voluptas."
+        },
+        {
+            "words": "voluptates et error",
+            "sentence": "Facilis voluptas ad qui.",
+            "sentences": "Rerum quod suscipit mollitia fugiat corrupti aut ut quo. Non odio ut aspernatur aut quas.",
+            "paragraph": "Et harum facere autem. Rerum assumenda quibusdam qui quasi dicta veritatis. Aliquid non itaque quod alias deserunt vitae. Maiores ut assumenda corporis labore dolore fugit et debitis aliquid. Totam voluptas delectus. Magni adipisci similique natus error."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "970.96",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Will Group",
+            "name": "Personal Loan Account 3502",
+            "type": "payment",
+            "account": "26381346"
+        },
+        {
+            "amount": "527.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Raynor, Moen and Wunsch",
+            "name": "Money Market Account 6359",
+            "type": "deposit",
+            "account": "14310705"
+        },
+        {
+            "amount": "227.22",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Green, Halvorson and Crooks",
+            "name": "Savings Account 8496",
+            "type": "deposit",
+            "account": "17053898"
+        }
+    ]
+}

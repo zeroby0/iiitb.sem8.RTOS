@@ -1,0 +1,72 @@
+{
+    "name": "Vicky Bauch",
+    "username": "Cale.Grimes14",
+    "email": "Shaun71@hotmail.com",
+    "address": {
+        "streetA": "Orland Knoll",
+        "streetB": "76949 Powlowski Prairie",
+        "streetC": "035 Wintheiser Pike Suite 044",
+        "streetD": "Suite 584",
+        "city": "South Nealview",
+        "state": "Missouri",
+        "country": "Belgium",
+        "zipcode": "20542-6835",
+        "geo": {
+            "lat": "11.6884",
+            "lng": "179.3711"
+        }
+    },
+    "phone": "195.765.2890",
+    "website": "blaise.biz",
+    "company": {
+        "name": "Larkin, MacGyver and Hayes",
+        "catchPhrase": "User-friendly cohesive leverage",
+        "bs": "extensible exploit schemas"
+    },
+    "posts": [
+        {
+            "words": "tempora qui nisi",
+            "sentence": "Et quos vel unde qui.",
+            "sentences": "Est numquam neque qui. Omnis animi beatae et ut. Qui est qui non. Quis ratione aliquid non rerum enim velit recusandae distinctio. Sunt dolores tempore laboriosam expedita rerum dolore enim quis. Voluptas sint quae sequi aut omnis assumenda recusandae voluptatibus labore.",
+            "paragraph": "Possimus hic velit deleniti id similique repellendus est tenetur. Ea mollitia eaque corrupti dolor veniam ea ut sequi. Quia molestiae explicabo et et eos repudiandae laboriosam et omnis. Sunt nobis est laborum. Aut aliquid earum vel sed error consequatur eius."
+        },
+        {
+            "words": "eum ipsum officia",
+            "sentence": "Et consequuntur perspiciatis.",
+            "sentences": "Sint quam illo aspernatur. Aut corporis aperiam vitae reiciendis. Qui delectus quisquam distinctio ad est quia autem ut.",
+            "paragraph": "Aut minus sequi sit et. Assumenda ut perferendis ipsam nostrum voluptate non quia voluptatem. Aut nobis harum laudantium quia consectetur ipsum dolores. Id ullam quisquam quam voluptas totam facilis soluta."
+        },
+        {
+            "words": "deleniti iste optio",
+            "sentence": "Numquam est ea sit atque ratione rerum totam occaecati.",
+            "sentences": "Culpa eum aut in. Ut et expedita consequatur amet dolor quia eligendi dignissimos molestias. Quas aliquam sapiente temporibus autem voluptate aut et repudiandae.",
+            "paragraph": "Voluptas molestiae rem tempora officiis libero qui consequuntur. Numquam ab enim. Odit vitae quo qui optio. Aut dolorem perspiciatis dolor. Quas non natus et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "230.97",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Legros - Maggio",
+            "name": "Investment Account 2459",
+            "type": "payment",
+            "account": "57216684"
+        },
+        {
+            "amount": "3.05",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kessler - Funk",
+            "name": "Money Market Account 6003",
+            "type": "withdrawal",
+            "account": "54053621"
+        },
+        {
+            "amount": "776.27",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kunze - Wunsch",
+            "name": "Home Loan Account 5425",
+            "type": "deposit",
+            "account": "44238795"
+        }
+    ]
+}

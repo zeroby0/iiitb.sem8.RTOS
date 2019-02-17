@@ -1,0 +1,72 @@
+{
+    "name": "Mable Crist",
+    "username": "Mackenzie75",
+    "email": "Ellie.Dach24@yahoo.com",
+    "address": {
+        "streetA": "Timmy Cove",
+        "streetB": "81482 Kassulke Light",
+        "streetC": "2231 McLaughlin Walk Suite 276",
+        "streetD": "Suite 413",
+        "city": "West Maxine",
+        "state": "Colorado",
+        "country": "Colombia",
+        "zipcode": "39450-0946",
+        "geo": {
+            "lat": "2.5963",
+            "lng": "-116.4363"
+        }
+    },
+    "phone": "(412) 374-8252",
+    "website": "ross.info",
+    "company": {
+        "name": "Wisozk - Cormier",
+        "catchPhrase": "Ameliorated composite application",
+        "bs": "rich transition initiatives"
+    },
+    "posts": [
+        {
+            "words": "eos hic rerum",
+            "sentence": "Ut magnam et excepturi enim fugiat.",
+            "sentences": "Deserunt voluptatem enim consequatur deserunt. Minus rem eligendi quae deserunt quisquam et sed qui. Fuga numquam labore ut optio nam ea laudantium numquam.",
+            "paragraph": "Aut sint aperiam earum aspernatur fugit nulla cumque. Id maxime qui eaque et libero est. Sunt placeat debitis."
+        },
+        {
+            "words": "aut asperiores impedit",
+            "sentence": "Autem ipsum consectetur dolor neque et et quisquam assumenda voluptatem.",
+            "sentences": "Sint recusandae et culpa sit aut. Modi omnis consectetur. Earum consequatur temporibus dolor. Omnis laboriosam ullam est labore illum quidem sint. Sit ad quia et soluta consequatur officia ea. Laboriosam deleniti cum voluptate ducimus exercitationem.",
+            "paragraph": "Eius sit dolor iure. Harum quo sit quas deleniti amet et commodi provident a. Explicabo voluptas exercitationem corrupti eum. Omnis sunt quis qui aut aut facilis tenetur."
+        },
+        {
+            "words": "eum enim aspernatur",
+            "sentence": "Sed dolores dolores ut enim.",
+            "sentences": "Animi deleniti distinctio qui neque nulla dolorem nulla. Sed ut et nihil facilis ratione in laudantium quisquam. Qui ut quisquam. Voluptatem ut perferendis voluptates quia quos ipsa eaque possimus. Laudantium magnam distinctio ducimus cumque maxime consequatur aut. Beatae modi sed earum consectetur.",
+            "paragraph": "Illum dolores maiores doloremque omnis fuga modi natus consequuntur. Vel praesentium quo qui. Et et aut omnis. Aliquid placeat asperiores praesentium dolorem temporibus aut necessitatibus. Pariatur qui adipisci accusamus soluta quo repellendus. Necessitatibus expedita vel voluptates adipisci reprehenderit itaque et."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "388.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Cremin, Lowe and O'Kon",
+            "name": "Savings Account 3458",
+            "type": "deposit",
+            "account": "00195638"
+        },
+        {
+            "amount": "495.23",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Johnson, Wiza and Gulgowski",
+            "name": "Savings Account 0096",
+            "type": "invoice",
+            "account": "34287416"
+        },
+        {
+            "amount": "836.90",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Wiegand, Carroll and Abshire",
+            "name": "Savings Account 8797",
+            "type": "invoice",
+            "account": "88438860"
+        }
+    ]
+}

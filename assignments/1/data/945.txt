@@ -1,0 +1,72 @@
+{
+    "name": "Nigel Murazik",
+    "username": "Bernadine27",
+    "email": "Fernando26@yahoo.com",
+    "address": {
+        "streetA": "Kamryn Track",
+        "streetB": "64342 Kessler Groves",
+        "streetC": "33217 Daren Overpass Suite 195",
+        "streetD": "Apt. 682",
+        "city": "West Gerald",
+        "state": "Michigan",
+        "country": "Ethiopia",
+        "zipcode": "26180-7101",
+        "geo": {
+            "lat": "60.3981",
+            "lng": "45.1459"
+        }
+    },
+    "phone": "780-457-4139",
+    "website": "terrence.biz",
+    "company": {
+        "name": "Ernser, Gleichner and Balistreri",
+        "catchPhrase": "Focused interactive hierarchy",
+        "bs": "interactive exploit platforms"
+    },
+    "posts": [
+        {
+            "words": "dolore et aut",
+            "sentence": "Ipsam voluptatum aspernatur similique totam quia.",
+            "sentences": "Aspernatur voluptatem soluta quo expedita ipsum enim atque nihil non. Dolorum molestiae ab reprehenderit enim sapiente non est corrupti necessitatibus.",
+            "paragraph": "Vel quaerat magni illum veritatis tempora. Ipsam quia expedita dolores. Nobis neque nisi nihil vel et dolores."
+        },
+        {
+            "words": "libero eum aut",
+            "sentence": "Distinctio sequi impedit autem atque at quae cupiditate ut cupiditate.",
+            "sentences": "Dolorem enim omnis sit eum minima deleniti iusto impedit. Commodi et architecto. Aut nobis expedita dolor. Est nam consequatur in reiciendis ipsam.",
+            "paragraph": "Qui quae nesciunt minus fuga dolore excepturi consequuntur repellat est. Velit ad ducimus aut ducimus iusto est. Eum laboriosam velit omnis qui. Necessitatibus soluta praesentium recusandae eligendi aliquam dolor unde."
+        },
+        {
+            "words": "odit impedit sunt",
+            "sentence": "Cum ullam maxime consequatur omnis voluptas voluptatem et sed.",
+            "sentences": "Ut nam qui doloribus qui dolorem alias sit atque. Natus voluptas eius dolorem. Sint labore qui sequi et iste. Libero neque vel omnis vel architecto nulla. At alias laboriosam consequatur ea non et.",
+            "paragraph": "Ut accusamus ea dolores et voluptatum et inventore illo et. Et quia consequatur ipsum. Velit et dolorum non."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "355.29",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lowe - Wehner",
+            "name": "Personal Loan Account 1267",
+            "type": "invoice",
+            "account": "79462888"
+        },
+        {
+            "amount": "189.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Swift - Bradtke",
+            "name": "Home Loan Account 0587",
+            "type": "withdrawal",
+            "account": "18509413"
+        },
+        {
+            "amount": "141.93",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schuster, Waters and Sipes",
+            "name": "Savings Account 2485",
+            "type": "invoice",
+            "account": "45691668"
+        }
+    ]
+}

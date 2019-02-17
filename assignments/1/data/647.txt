@@ -1,0 +1,72 @@
+{
+    "name": "Mr. Marty Friesen",
+    "username": "Gudrun40",
+    "email": "Domingo73@yahoo.com",
+    "address": {
+        "streetA": "Block Fields",
+        "streetB": "365 Noel Ranch",
+        "streetC": "055 Reina Pine Apt. 025",
+        "streetD": "Suite 084",
+        "city": "South Raphaelmouth",
+        "state": "Kentucky",
+        "country": "Puerto Rico",
+        "zipcode": "42968",
+        "geo": {
+            "lat": "56.9135",
+            "lng": "89.0573"
+        }
+    },
+    "phone": "419-586-2372 x12705",
+    "website": "abel.net",
+    "company": {
+        "name": "Boyer LLC",
+        "catchPhrase": "Face to face global project",
+        "bs": "viral repurpose mindshare"
+    },
+    "posts": [
+        {
+            "words": "nihil quo quaerat",
+            "sentence": "Placeat sit dignissimos.",
+            "sentences": "Est reprehenderit similique repellendus hic eum et voluptatibus itaque dolore. Est expedita excepturi voluptatibus unde. Neque nam voluptates est aut non veniam voluptatem.",
+            "paragraph": "In ipsa dolorum laborum nihil accusantium esse. Ipsum ducimus sed et distinctio rerum modi nam alias. Sit voluptatem omnis necessitatibus vel laboriosam molestiae nostrum mollitia consequatur. Et quia iste pariatur ullam quam saepe. Quo dolores et aut unde nemo. Suscipit quaerat voluptatem tempore facere dolorem facilis aut."
+        },
+        {
+            "words": "molestias odit dolorem",
+            "sentence": "Et et est sed et pariatur quisquam consequatur laboriosam voluptatem.",
+            "sentences": "Vero autem nulla. Quas adipisci delectus eum vero velit facere consequatur. Et officiis earum consequuntur similique perferendis iure beatae.",
+            "paragraph": "Sunt laborum omnis quas mollitia possimus. Facere quia quaerat itaque dolorum earum et officia rerum totam. Vero quaerat repellat omnis aspernatur pariatur rem. Sit hic a consectetur inventore culpa optio quia quas distinctio. Unde rerum modi illo fugit porro aut temporibus earum ducimus. Architecto est veritatis quae qui omnis impedit aut."
+        },
+        {
+            "words": "et aut adipisci",
+            "sentence": "Quidem totam quo est ut quidem nostrum minus quibusdam.",
+            "sentences": "Sequi ut velit tempore maiores. Occaecati ipsam optio molestiae. Maxime aut nobis deleniti iste corporis quia et. A nesciunt repudiandae ipsum.",
+            "paragraph": "Neque necessitatibus et rerum et perferendis distinctio. Ea excepturi est culpa ut. Dolorem ut delectus alias possimus ad in. Dignissimos nesciunt ex."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "699.56",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Durgan - Denesik",
+            "name": "Checking Account 1368",
+            "type": "withdrawal",
+            "account": "54495195"
+        },
+        {
+            "amount": "606.44",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kassulke - McKenzie",
+            "name": "Money Market Account 4642",
+            "type": "invoice",
+            "account": "61270557"
+        },
+        {
+            "amount": "536.59",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Waelchi and Sons",
+            "name": "Credit Card Account 1526",
+            "type": "withdrawal",
+            "account": "76252837"
+        }
+    ]
+}

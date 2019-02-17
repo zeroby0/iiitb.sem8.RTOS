@@ -1,0 +1,72 @@
+{
+    "name": "Elenor Greenholt",
+    "username": "Trace11",
+    "email": "Gina.Schmidt67@gmail.com",
+    "address": {
+        "streetA": "Kutch Road",
+        "streetB": "636 Justen Glens",
+        "streetC": "6294 Warren Ferry Suite 210",
+        "streetD": "Apt. 829",
+        "city": "Zoeville",
+        "state": "Texas",
+        "country": "Armenia",
+        "zipcode": "56432",
+        "geo": {
+            "lat": "-58.6323",
+            "lng": "66.6270"
+        }
+    },
+    "phone": "(919) 418-6407 x209",
+    "website": "nathen.org",
+    "company": {
+        "name": "Quitzon Group",
+        "catchPhrase": "Virtual uniform model",
+        "bs": "end-to-end e-enable systems"
+    },
+    "posts": [
+        {
+            "words": "molestiae beatae quia",
+            "sentence": "Aspernatur et unde.",
+            "sentences": "Iusto voluptatibus dolor voluptatem dolore ipsum in qui sed. Dolor explicabo unde repudiandae beatae rem odit nostrum ducimus ut. Similique nemo fugit molestiae corporis dolore expedita. Et non et.",
+            "paragraph": "Sapiente aliquam dolorum quos ab ducimus et. Est qui et pariatur sit atque dolores assumenda. Et minima laboriosam rerum tempore aliquam magni ut."
+        },
+        {
+            "words": "optio illo et",
+            "sentence": "Nisi debitis sapiente architecto aspernatur consequuntur sequi eaque.",
+            "sentences": "Laudantium dicta sed quia beatae distinctio. Maiores animi neque perferendis optio sit. Cupiditate veritatis aliquam. Ut voluptatem et dolores necessitatibus aspernatur.",
+            "paragraph": "Et quam amet dolores. Quod quas asperiores necessitatibus eveniet sed voluptatum harum quibusdam. Commodi sed reprehenderit perspiciatis in. Voluptatibus ut necessitatibus iure."
+        },
+        {
+            "words": "doloremque ut quia",
+            "sentence": "Explicabo neque nam sint quibusdam.",
+            "sentences": "Minus omnis doloremque dolore ratione blanditiis iure voluptates consequuntur. Modi esse ab est distinctio. Et exercitationem aut sed totam quasi harum. Iusto qui ut. Dolorum qui animi qui tenetur et. Repellendus eum officia vitae in alias id qui dolorem eum.",
+            "paragraph": "Dolor et magnam nemo omnis consequatur officia assumenda. Quaerat et ut aut quaerat. Ut occaecati sunt similique quia tempore dolore. Sit et perspiciatis."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "28.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaden - Balistreri",
+            "name": "Savings Account 8260",
+            "type": "invoice",
+            "account": "14833010"
+        },
+        {
+            "amount": "11.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "McLaughlin LLC",
+            "name": "Home Loan Account 8493",
+            "type": "payment",
+            "account": "98607283"
+        },
+        {
+            "amount": "853.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hudson and Sons",
+            "name": "Credit Card Account 2092",
+            "type": "deposit",
+            "account": "70564925"
+        }
+    ]
+}

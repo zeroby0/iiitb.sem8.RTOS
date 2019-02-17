@@ -1,0 +1,72 @@
+{
+    "name": "Ned Bahringer",
+    "username": "Eric34",
+    "email": "Euna.Lockman@yahoo.com",
+    "address": {
+        "streetA": "Bell Place",
+        "streetB": "99541 Lemke Bridge",
+        "streetC": "6398 Crystel Drive Apt. 765",
+        "streetD": "Suite 573",
+        "city": "New Carolina",
+        "state": "Michigan",
+        "country": "Malta",
+        "zipcode": "30792-0690",
+        "geo": {
+            "lat": "-34.8601",
+            "lng": "159.4427"
+        }
+    },
+    "phone": "(602) 290-1352 x04506",
+    "website": "akeem.net",
+    "company": {
+        "name": "Johnson Group",
+        "catchPhrase": "Synergized upward-trending forecast",
+        "bs": "granular monetize channels"
+    },
+    "posts": [
+        {
+            "words": "corrupti itaque repellendus",
+            "sentence": "Soluta qui architecto reprehenderit.",
+            "sentences": "Deserunt fuga qui deleniti nostrum eum nobis debitis. A adipisci doloremque rerum quia consequatur. Minus sequi ipsam. Culpa cum nemo sit officiis possimus quia quaerat adipisci omnis.",
+            "paragraph": "Molestiae voluptatem fugit at autem mollitia et eum. Velit eaque et nemo. Qui eligendi necessitatibus officia. Nisi molestias esse. Soluta tempore minima maxime sunt soluta praesentium libero voluptas. Sunt a aut quo adipisci omnis cum officiis maxime officia."
+        },
+        {
+            "words": "iusto ut sit",
+            "sentence": "Magni voluptatem aut natus illum qui consectetur dolorem perferendis amet.",
+            "sentences": "Aut quasi voluptatem placeat natus et tempore rerum dolorem. Et omnis consequuntur laborum placeat quidem dolor alias deserunt. Voluptas dignissimos ea itaque asperiores. Ipsum atque officia dolor. Sint dolorem tenetur quaerat aperiam voluptas placeat possimus.",
+            "paragraph": "Sed nemo eos quia quis id et debitis quasi. Quis maxime dolor odit quia nemo eligendi et voluptas sed. Commodi est est. Sed ipsa aut."
+        },
+        {
+            "words": "quae ut molestiae",
+            "sentence": "Hic et ea eum ullam aliquid laborum libero.",
+            "sentences": "Dolorem est sint. Corporis cum non placeat. Illo distinctio similique natus odit hic dolor. Nam eligendi nostrum rerum quasi sed molestiae non. Et fuga excepturi beatae exercitationem minima et. Quae incidunt quia ratione voluptatem fugit sint rerum omnis.",
+            "paragraph": "Quia sed quaerat ipsa. Amet et aut. In quisquam quidem vero aliquam. Similique voluptatum perspiciatis facilis aut saepe. Eius recusandae odio quia quia et iusto."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "724.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "D'Amore, Jones and Kuvalis",
+            "name": "Investment Account 0537",
+            "type": "withdrawal",
+            "account": "44067436"
+        },
+        {
+            "amount": "107.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gleason Inc",
+            "name": "Investment Account 6462",
+            "type": "payment",
+            "account": "11319023"
+        },
+        {
+            "amount": "631.04",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Barrows LLC",
+            "name": "Money Market Account 3239",
+            "type": "payment",
+            "account": "37540302"
+        }
+    ]
+}

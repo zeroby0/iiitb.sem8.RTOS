@@ -1,0 +1,72 @@
+{
+    "name": "Clay Sipes",
+    "username": "Angus.Pollich37",
+    "email": "Santos_Durgan53@gmail.com",
+    "address": {
+        "streetA": "Asia Streets",
+        "streetB": "9038 Mohr Corners",
+        "streetC": "05967 Erin Wall Suite 797",
+        "streetD": "Suite 405",
+        "city": "Monahanshire",
+        "state": "North Dakota",
+        "country": "Netherlands",
+        "zipcode": "43853-1150",
+        "geo": {
+            "lat": "49.3593",
+            "lng": "-54.6495"
+        }
+    },
+    "phone": "663-061-7333 x0246",
+    "website": "antonia.net",
+    "company": {
+        "name": "Feest LLC",
+        "catchPhrase": "Down-sized dedicated encryption",
+        "bs": "killer synergize platforms"
+    },
+    "posts": [
+        {
+            "words": "ipsam autem et",
+            "sentence": "Soluta velit eius quia sit ut id.",
+            "sentences": "Dolor recusandae autem nisi qui totam possimus dolorem facilis voluptatibus. Odit dignissimos aut reiciendis. Consequuntur sunt rerum voluptatem et dicta. Iste in ut praesentium dolores alias non eos corporis nostrum. Officia ad ullam quis quia numquam qui est quisquam sit.",
+            "paragraph": "Sit aut ea in quam beatae voluptate placeat. Explicabo rerum qui aut ut ex soluta. Sequi velit atque pariatur. Nemo porro fugiat consequatur corporis est. Itaque labore dolores eum aliquam dolor dolores ea non nemo."
+        },
+        {
+            "words": "eaque voluptatem sit",
+            "sentence": "Adipisci qui consequatur deserunt qui rerum sapiente fugiat eveniet.",
+            "sentences": "Et hic aliquid aut sed molestiae in. Aliquid iure ut minima aperiam omnis. Aliquid dolores fugiat et vel ut qui aut accusamus. Quis omnis laboriosam eum sit suscipit fugiat. Atque ullam et dicta sint nisi nisi et unde occaecati. Esse voluptatem iusto maxime.",
+            "paragraph": "Et et aut unde aliquam et dolorum. Nemo expedita exercitationem distinctio. Quidem voluptates aliquam soluta est deleniti dolorem qui aspernatur suscipit. Nihil quam nisi enim consequatur et voluptatem est."
+        },
+        {
+            "words": "quo omnis eligendi",
+            "sentence": "Porro laborum reiciendis eius error earum natus.",
+            "sentences": "Qui corporis blanditiis perferendis ipsam voluptatem. Commodi odio ut quia.",
+            "paragraph": "Non sint vero consequatur ea. Ea excepturi debitis nulla est enim asperiores. Iusto voluptatem doloribus molestiae nemo dolorem ut facilis. Quidem deserunt voluptatem perspiciatis esse eaque fuga. Quisquam praesentium dolorem sit aut ut."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "384.77",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Lang Inc",
+            "name": "Checking Account 4765",
+            "type": "invoice",
+            "account": "71685386"
+        },
+        {
+            "amount": "700.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Goyette - Hoppe",
+            "name": "Investment Account 9570",
+            "type": "invoice",
+            "account": "27105776"
+        },
+        {
+            "amount": "30.24",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Schaden - Leuschke",
+            "name": "Checking Account 3761",
+            "type": "withdrawal",
+            "account": "33523415"
+        }
+    ]
+}

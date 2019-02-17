@@ -1,0 +1,72 @@
+{
+    "name": "Reynold Rice",
+    "username": "Novella_Baumbach66",
+    "email": "Hiram_Schulist27@yahoo.com",
+    "address": {
+        "streetA": "Lina Knolls",
+        "streetB": "2553 Bogisich Street",
+        "streetC": "43220 Terry Burgs Suite 348",
+        "streetD": "Apt. 690",
+        "city": "Crookshaven",
+        "state": "Minnesota",
+        "country": "Australia",
+        "zipcode": "27142",
+        "geo": {
+            "lat": "82.3209",
+            "lng": "146.9167"
+        }
+    },
+    "phone": "1-781-994-2134 x815",
+    "website": "constance.info",
+    "company": {
+        "name": "Ortiz Group",
+        "catchPhrase": "Monitored interactive model",
+        "bs": "24/7 aggregate methodologies"
+    },
+    "posts": [
+        {
+            "words": "officiis saepe doloremque",
+            "sentence": "In et distinctio qui velit natus.",
+            "sentences": "Et voluptatem fugiat quasi repellendus alias. Eius ut autem nostrum rerum quia eligendi voluptatem. Culpa quis repellendus sed consequuntur aut sint aut enim.",
+            "paragraph": "Maiores voluptate corrupti voluptate et natus laboriosam. Autem et eos id accusantium sunt odit repellendus cum sapiente. Aut corrupti aut quidem eius incidunt aspernatur. Doloribus saepe fugit similique non suscipit ut. Perspiciatis voluptatem recusandae quaerat blanditiis."
+        },
+        {
+            "words": "omnis quaerat iste",
+            "sentence": "Occaecati est cumque quidem fugit magnam sed reiciendis et.",
+            "sentences": "Quisquam inventore cum animi dolorem quaerat quis pariatur. Sunt dolor velit rerum accusantium velit id et. Omnis in consectetur blanditiis temporibus id facilis quam. At quia debitis ipsa aut.",
+            "paragraph": "In voluptas enim enim repellat necessitatibus. Minima aut itaque in aut voluptas ut repudiandae. Fuga in qui est. Quia suscipit pariatur nam eos. Ullam et magnam est non perspiciatis aut."
+        },
+        {
+            "words": "consequuntur dolorum nihil",
+            "sentence": "Fugiat eos enim occaecati voluptatibus inventore velit omnis.",
+            "sentences": "Autem assumenda recusandae et recusandae. In fugit ut consequatur dolorem omnis et assumenda eos neque. Dolorum numquam itaque natus enim numquam voluptas et. Ab iure sequi nihil natus. Deleniti ab dolorem. Nisi aut earum provident distinctio nihil et dolores.",
+            "paragraph": "Et quasi nostrum perspiciatis similique ratione modi nesciunt quo aut. Veniam vero in ab qui fuga aut consequatur libero. Reprehenderit ducimus accusantium facere aut nihil odio perspiciatis aspernatur et. Maiores minima beatae quae doloribus."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "759.09",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Pouros Group",
+            "name": "Credit Card Account 5170",
+            "type": "payment",
+            "account": "83869883"
+        },
+        {
+            "amount": "405.03",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Mueller and Sons",
+            "name": "Money Market Account 3132",
+            "type": "withdrawal",
+            "account": "65763712"
+        },
+        {
+            "amount": "392.41",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Gerhold, Mann and Bartoletti",
+            "name": "Personal Loan Account 0719",
+            "type": "payment",
+            "account": "10324217"
+        }
+    ]
+}

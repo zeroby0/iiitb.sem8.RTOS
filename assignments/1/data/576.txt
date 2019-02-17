@@ -1,0 +1,72 @@
+{
+    "name": "Albertha Kulas",
+    "username": "Fausto87",
+    "email": "Salvador.Bernhard@yahoo.com",
+    "address": {
+        "streetA": "O'Connell Radial",
+        "streetB": "88915 White Rue",
+        "streetC": "4170 Aurelie Lane Apt. 711",
+        "streetD": "Apt. 713",
+        "city": "Lake Leslie",
+        "state": "Iowa",
+        "country": "Norway",
+        "zipcode": "61502-4062",
+        "geo": {
+            "lat": "-69.8422",
+            "lng": "60.5056"
+        }
+    },
+    "phone": "(431) 763-7663 x37810",
+    "website": "gerardo.info",
+    "company": {
+        "name": "Bechtelar - Effertz",
+        "catchPhrase": "Balanced user-facing service-desk",
+        "bs": "robust recontextualize ROI"
+    },
+    "posts": [
+        {
+            "words": "beatae numquam consequatur",
+            "sentence": "Eum temporibus ut dicta magnam illum.",
+            "sentences": "Est ab nisi nulla. Blanditiis ipsa est et accusantium aut cupiditate quis voluptate nesciunt. Et voluptates molestias blanditiis rerum enim adipisci et. Odit cum in eius vero natus eum. Occaecati corrupti nihil rerum non quo.",
+            "paragraph": "Est nihil culpa ab qui nesciunt culpa quia dolorem nulla. Vitae temporibus numquam. Laborum facilis suscipit impedit. Soluta libero recusandae enim corporis nulla ab eos reprehenderit quo."
+        },
+        {
+            "words": "blanditiis nesciunt ipsa",
+            "sentence": "Dignissimos esse quisquam expedita cupiditate fugiat doloremque vel aperiam.",
+            "sentences": "Consequatur qui quia non aut vel laborum. Dolorem excepturi quas quaerat voluptatem dolores. Quaerat accusamus est ex molestiae nam et soluta fuga. Ducimus qui aut vel porro. Culpa et porro aliquid voluptatem et repudiandae. Aut tempora reiciendis ullam quidem reprehenderit itaque dignissimos adipisci.",
+            "paragraph": "Distinctio repudiandae eum earum non dolore impedit a. Magni vero adipisci nihil omnis quia. Voluptas dolores autem voluptas culpa consequatur. Omnis neque recusandae vitae maiores nihil occaecati eligendi. Praesentium eos ut sequi ipsum quisquam iure enim harum quae."
+        },
+        {
+            "words": "excepturi temporibus id",
+            "sentence": "Temporibus quam et nulla quibusdam molestias sequi quam ullam ut.",
+            "sentences": "Est consequuntur culpa saepe officia. Exercitationem cupiditate commodi debitis molestiae rem voluptatem totam. Qui temporibus eos molestias porro quasi iusto et. Aperiam delectus beatae ab animi doloribus ducimus. Vel possimus tempore at vitae.",
+            "paragraph": "Numquam quia qui omnis. Rem similique porro. Neque magni vero ipsum est cumque aut enim. Quidem non suscipit odit sint aliquid incidunt. Commodi reprehenderit et. Placeat inventore ratione qui et non voluptatem."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "99.20",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Ratke - Gutkowski",
+            "name": "Money Market Account 8392",
+            "type": "deposit",
+            "account": "58232947"
+        },
+        {
+            "amount": "433.91",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Connelly - Kozey",
+            "name": "Credit Card Account 3362",
+            "type": "withdrawal",
+            "account": "81765267"
+        },
+        {
+            "amount": "390.37",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kiehn, Baumbach and Turner",
+            "name": "Personal Loan Account 0231",
+            "type": "deposit",
+            "account": "23056018"
+        }
+    ]
+}

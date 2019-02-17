@@ -1,0 +1,72 @@
+{
+    "name": "Noemy Robel",
+    "username": "Ava32",
+    "email": "Flavio55@gmail.com",
+    "address": {
+        "streetA": "Bashirian Point",
+        "streetB": "6647 Langworth Views",
+        "streetC": "5552 Wuckert Forge Suite 308",
+        "streetD": "Apt. 955",
+        "city": "Port Tristinmouth",
+        "state": "Colorado",
+        "country": "United Kingdom",
+        "zipcode": "46030-3816",
+        "geo": {
+            "lat": "-22.9812",
+            "lng": "93.0537"
+        }
+    },
+    "phone": "1-054-092-7405 x8329",
+    "website": "berry.name",
+    "company": {
+        "name": "Collins - Jacobs",
+        "catchPhrase": "Re-engineered empowering protocol",
+        "bs": "proactive enhance methodologies"
+    },
+    "posts": [
+        {
+            "words": "officia sit nam",
+            "sentence": "Omnis ut qui earum ut unde dignissimos.",
+            "sentences": "Et ab et sapiente et quo reprehenderit culpa nisi. Inventore similique labore excepturi explicabo autem iste.",
+            "paragraph": "Autem esse reprehenderit dolorem sed sed. Velit earum necessitatibus qui. Nihil quidem adipisci laborum asperiores rerum."
+        },
+        {
+            "words": "recusandae voluptatem sit",
+            "sentence": "Quis nam illum nihil atque culpa.",
+            "sentences": "Quibusdam sequi explicabo. Quia harum voluptatibus voluptate laborum in.",
+            "paragraph": "Voluptates molestiae omnis sint. Et sint ut earum vel esse. Provident praesentium aut perferendis dolores corporis qui. Mollitia mollitia iste tenetur commodi."
+        },
+        {
+            "words": "corporis exercitationem autem",
+            "sentence": "Rerum ea deleniti repellat ea alias facere.",
+            "sentences": "Laborum autem adipisci aspernatur omnis ut iure et harum. Vero voluptates dignissimos voluptatem quo fugiat cumque et accusantium. Nulla quas a dolorem inventore in sit quibusdam. Fuga libero reiciendis occaecati eligendi accusantium necessitatibus exercitationem in delectus.",
+            "paragraph": "Sequi facilis beatae quas pariatur tempora. Labore velit et veritatis est velit nemo dolor qui. Perferendis quos consequuntur facilis quibusdam distinctio rerum quos. Eum neque facere est hic est eius facere nisi."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "511.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kunze and Sons",
+            "name": "Money Market Account 3441",
+            "type": "deposit",
+            "account": "73286705"
+        },
+        {
+            "amount": "398.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Olson - Cummings",
+            "name": "Credit Card Account 7294",
+            "type": "deposit",
+            "account": "49530011"
+        },
+        {
+            "amount": "457.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hammes - O'Reilly",
+            "name": "Money Market Account 7131",
+            "type": "invoice",
+            "account": "62225872"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Julius Kunze",
+    "username": "Delfina_Hermiston",
+    "email": "Alia74@hotmail.com",
+    "address": {
+        "streetA": "Ashton Square",
+        "streetB": "102 Bauch Mountains",
+        "streetC": "670 Denesik Parkway Suite 868",
+        "streetD": "Apt. 920",
+        "city": "New Garland",
+        "state": "Texas",
+        "country": "Egypt",
+        "zipcode": "73420",
+        "geo": {
+            "lat": "-6.7536",
+            "lng": "-38.0175"
+        }
+    },
+    "phone": "(862) 501-5685 x4868",
+    "website": "kallie.name",
+    "company": {
+        "name": "Effertz - Cummerata",
+        "catchPhrase": "De-engineered actuating system engine",
+        "bs": "efficient synthesize niches"
+    },
+    "posts": [
+        {
+            "words": "enim modi voluptatem",
+            "sentence": "Nulla optio quis eos maiores.",
+            "sentences": "Aut nobis sunt dolorem dignissimos vitae. Est nostrum dolorum fugiat culpa eum quasi ipsa aut. Eaque unde sunt aliquam eum ut consequatur. Dolores rerum corrupti debitis tempora ducimus voluptatem. Earum esse tempora. Aut qui rerum reprehenderit reiciendis officiis aliquid excepturi.",
+            "paragraph": "Velit et aliquid non tenetur blanditiis. Quis ipsam et quia praesentium. Optio magnam non soluta."
+        },
+        {
+            "words": "ipsum fugiat explicabo",
+            "sentence": "Omnis et architecto adipisci quidem.",
+            "sentences": "Maxime et quam autem et tempore distinctio. Eveniet et quos itaque molestiae sit. Non eaque dolores incidunt excepturi vel.",
+            "paragraph": "Pariatur quam eos aut. Placeat aliquid illo ullam error cupiditate. Alias natus est quidem non quae tempora."
+        },
+        {
+            "words": "et quisquam molestiae",
+            "sentence": "Reprehenderit beatae quae corrupti.",
+            "sentences": "Harum corrupti modi. Laudantium quasi ducimus quia voluptatem. Non dolor eaque velit. Ea vel omnis.",
+            "paragraph": "Molestiae minus perspiciatis recusandae enim qui commodi aspernatur sint. Nobis incidunt vitae similique reiciendis veritatis voluptatem quo. Placeat autem explicabo blanditiis. Error doloremque qui nihil cupiditate."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "180.46",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Konopelski and Sons",
+            "name": "Savings Account 6404",
+            "type": "withdrawal",
+            "account": "26549106"
+        },
+        {
+            "amount": "451.39",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Walker Group",
+            "name": "Auto Loan Account 5070",
+            "type": "invoice",
+            "account": "54722821"
+        },
+        {
+            "amount": "889.04",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hartmann, Streich and McKenzie",
+            "name": "Home Loan Account 1828",
+            "type": "withdrawal",
+            "account": "92818977"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Collin Ziemann",
+    "username": "Marianna_Morissette",
+    "email": "Velva88@gmail.com",
+    "address": {
+        "streetA": "Orion Lane",
+        "streetB": "1344 Kertzmann Alley",
+        "streetC": "2148 Erich Place Suite 523",
+        "streetD": "Apt. 925",
+        "city": "Jerrellfort",
+        "state": "Maryland",
+        "country": "France",
+        "zipcode": "90664-2700",
+        "geo": {
+            "lat": "-26.1719",
+            "lng": "-65.8997"
+        }
+    },
+    "phone": "411.923.0988",
+    "website": "elwyn.biz",
+    "company": {
+        "name": "Gorczany - Hettinger",
+        "catchPhrase": "Secured explicit monitoring",
+        "bs": "killer mesh networks"
+    },
+    "posts": [
+        {
+            "words": "at officia fuga",
+            "sentence": "Culpa quisquam ad.",
+            "sentences": "Aut sunt temporibus doloremque tempore ut. Odio illo adipisci est eos veniam quos. Placeat architecto illum nesciunt quia est et et libero harum. Debitis libero velit. Vel et autem reiciendis sit fugit exercitationem asperiores culpa.",
+            "paragraph": "Impedit unde voluptatem enim dolorem incidunt sed nobis qui. Incidunt suscipit consectetur quam nulla porro aut sit. Iure placeat sit non necessitatibus temporibus laudantium consequatur et sit. Quod suscipit officia tempore explicabo quos velit qui explicabo dolores. Aut inventore aliquam consequatur et architecto. Aut autem qui odit et et."
+        },
+        {
+            "words": "mollitia et distinctio",
+            "sentence": "Reprehenderit suscipit sed non placeat nemo in accusantium praesentium sed.",
+            "sentences": "Et ut distinctio odio reprehenderit. Odio velit est repudiandae totam sed minus. Optio distinctio omnis. Provident ullam dolores.",
+            "paragraph": "Officia fugit asperiores necessitatibus laboriosam cupiditate ipsum modi vel consequatur. Natus et eveniet nobis. Omnis nobis molestiae dolorem consequatur est iure eius qui. Et velit optio perspiciatis. Placeat et praesentium excepturi."
+        },
+        {
+            "words": "ut ipsum error",
+            "sentence": "Distinctio quia aut nisi dolore libero repudiandae non quibusdam.",
+            "sentences": "Tenetur iusto veritatis dolorem debitis. Laudantium ad ex ut aut eos earum. Ratione quasi maxime impedit.",
+            "paragraph": "Repellendus voluptatem autem sit et rerum laborum. Nobis dignissimos enim sequi ut fugit quia quo. Pariatur repellendus quibusdam tenetur."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "575.26",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Waters, Rutherford and Huels",
+            "name": "Investment Account 3441",
+            "type": "deposit",
+            "account": "00223262"
+        },
+        {
+            "amount": "311.75",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Prosacco LLC",
+            "name": "Home Loan Account 8609",
+            "type": "withdrawal",
+            "account": "79700668"
+        },
+        {
+            "amount": "762.85",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Purdy Inc",
+            "name": "Personal Loan Account 7311",
+            "type": "withdrawal",
+            "account": "80167671"
+        }
+    ]
+}

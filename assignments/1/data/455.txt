@@ -1,0 +1,72 @@
+{
+    "name": "Mireille Hermiston",
+    "username": "Maybell.Klocko",
+    "email": "Glenna.Mayer@yahoo.com",
+    "address": {
+        "streetA": "Jarred Islands",
+        "streetB": "518 Emmerich Shores",
+        "streetC": "6899 Darlene Plaza Apt. 805",
+        "streetD": "Apt. 254",
+        "city": "South Kathlynfurt",
+        "state": "South Carolina",
+        "country": "Montenegro",
+        "zipcode": "41596-1009",
+        "geo": {
+            "lat": "76.4462",
+            "lng": "49.6692"
+        }
+    },
+    "phone": "1-075-586-8241",
+    "website": "jarrett.name",
+    "company": {
+        "name": "Kihn and Sons",
+        "catchPhrase": "Expanded asynchronous standardization",
+        "bs": "next-generation extend technologies"
+    },
+    "posts": [
+        {
+            "words": "autem aliquid sequi",
+            "sentence": "Accusamus similique corrupti.",
+            "sentences": "Sit fuga consequuntur illo aliquid eos in excepturi quia velit. Adipisci omnis illo et saepe quam aut aut ut rem. Error nihil explicabo iste atque.",
+            "paragraph": "In soluta eaque praesentium nesciunt necessitatibus. Et ipsum et. Neque sequi consequatur ut dolor est id. Qui possimus quia id sit aliquid. Saepe facilis nostrum corporis excepturi dolorem in ut voluptatum. Beatae cupiditate et saepe vitae velit."
+        },
+        {
+            "words": "eos aut facilis",
+            "sentence": "Placeat beatae cupiditate aut ut.",
+            "sentences": "Nemo repellendus velit voluptatem dicta. Eos itaque optio quis tempore consectetur. Accusantium vero et deleniti aut ab amet.",
+            "paragraph": "Exercitationem fugiat quibusdam rerum omnis dolorem voluptatem aut. Fugiat in totam quaerat doloremque voluptatem. Ut qui nisi quis. Autem ipsam omnis temporibus magnam. Velit pariatur debitis mollitia voluptas et suscipit consequatur cumque voluptatum. Sit exercitationem illum quo atque et autem."
+        },
+        {
+            "words": "odio neque quia",
+            "sentence": "Ducimus nihil error accusantium occaecati.",
+            "sentences": "Aspernatur tempore ex et est temporibus eos odio alias vel. A qui et. Quia minus accusantium necessitatibus. Eos ipsam sit qui sunt voluptatem dolore voluptas. Omnis labore enim velit doloremque et itaque.",
+            "paragraph": "Est qui et distinctio enim eligendi. Cum ut corporis quo voluptatem consequatur nam. Et aperiam officiis voluptas. Id ipsam dolores molestias libero dolores debitis. Quia vel accusamus suscipit pariatur aliquid magnam. Saepe amet in repudiandae nihil ea consequatur voluptas magni."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "365.61",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Shanahan, Wisozk and Cartwright",
+            "name": "Money Market Account 8953",
+            "type": "withdrawal",
+            "account": "56822047"
+        },
+        {
+            "amount": "568.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Bauch, Funk and Auer",
+            "name": "Savings Account 0608",
+            "type": "invoice",
+            "account": "17634145"
+        },
+        {
+            "amount": "815.80",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Erdman and Sons",
+            "name": "Credit Card Account 6736",
+            "type": "invoice",
+            "account": "14320416"
+        }
+    ]
+}

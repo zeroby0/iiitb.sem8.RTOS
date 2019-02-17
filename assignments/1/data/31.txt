@@ -1,0 +1,72 @@
+{
+    "name": "Bernadine Davis",
+    "username": "Lyric.Murray",
+    "email": "Gabe_Zulauf@hotmail.com",
+    "address": {
+        "streetA": "Pollich Drive",
+        "streetB": "9523 Roosevelt Springs",
+        "streetC": "5375 Ryan Run Apt. 742",
+        "streetD": "Suite 197",
+        "city": "Fredricktown",
+        "state": "Ohio",
+        "country": "Saint Pierre and Miquelon",
+        "zipcode": "08361",
+        "geo": {
+            "lat": "-39.7801",
+            "lng": "-60.9915"
+        }
+    },
+    "phone": "1-926-115-6705",
+    "website": "buster.com",
+    "company": {
+        "name": "Mayer - Gerlach",
+        "catchPhrase": "Advanced executive time-frame",
+        "bs": "plug-and-play disintermediate ROI"
+    },
+    "posts": [
+        {
+            "words": "quia rerum vel",
+            "sentence": "Natus adipisci soluta natus quia nemo dolorem voluptatem quo.",
+            "sentences": "Quibusdam et illo. Quos ratione qui. Aliquid vel et et dolorem rerum laboriosam enim et. Voluptate aut saepe sit.",
+            "paragraph": "Numquam sapiente qui. Eligendi vero blanditiis ea corporis hic nesciunt tempora necessitatibus doloribus. Aut accusamus consequatur quas culpa voluptas."
+        },
+        {
+            "words": "atque non numquam",
+            "sentence": "Architecto voluptatem impedit doloribus dolor reprehenderit fuga.",
+            "sentences": "A fugit qui. Beatae quis magni pariatur.",
+            "paragraph": "Quos laboriosam earum quae incidunt cumque et excepturi consequatur esse. Est natus exercitationem. Possimus quo sequi sed. Aliquid est nemo aut ut dolores in quod aperiam. Est voluptatem eligendi adipisci ullam et."
+        },
+        {
+            "words": "harum autem nesciunt",
+            "sentence": "Provident neque nemo ipsum accusamus maxime praesentium accusamus.",
+            "sentences": "Sapiente et quia repellendus odio soluta et qui. Voluptas enim omnis voluptatibus eligendi consequuntur magni perspiciatis illum. Harum repellat suscipit. Debitis magni esse non. At sit consequatur magnam at ab dicta aut possimus.",
+            "paragraph": "Voluptatum ea et libero veritatis veritatis quas dicta eum. Est non cupiditate velit modi. Dolorem occaecati architecto et ipsa rerum. Incidunt saepe animi saepe sit asperiores ducimus vitae dolorem aut. Tenetur nobis nisi alias harum vel ipsam ab quis est."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "364.16",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kozey - Bogisich",
+            "name": "Home Loan Account 9401",
+            "type": "payment",
+            "account": "67594735"
+        },
+        {
+            "amount": "381.06",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Labadie - Kuvalis",
+            "name": "Savings Account 0538",
+            "type": "deposit",
+            "account": "22554551"
+        },
+        {
+            "amount": "532.70",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kautzer, Hammes and Roberts",
+            "name": "Savings Account 2847",
+            "type": "deposit",
+            "account": "52611228"
+        }
+    ]
+}

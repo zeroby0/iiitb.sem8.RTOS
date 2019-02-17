@@ -1,0 +1,72 @@
+{
+    "name": "Chaim Ritchie",
+    "username": "Marcelle40",
+    "email": "Astrid67@hotmail.com",
+    "address": {
+        "streetA": "Barney Forges",
+        "streetB": "459 Carter Roads",
+        "streetC": "9299 Feil Harbors Suite 718",
+        "streetD": "Suite 430",
+        "city": "Hackettbury",
+        "state": "Tennessee",
+        "country": "Cocos (Keeling) Islands",
+        "zipcode": "16587",
+        "geo": {
+            "lat": "60.7923",
+            "lng": "35.5341"
+        }
+    },
+    "phone": "558-763-6105 x37603",
+    "website": "dasia.org",
+    "company": {
+        "name": "Harvey, Lowe and Nikolaus",
+        "catchPhrase": "Enterprise-wide neutral local area network",
+        "bs": "open-source incubate channels"
+    },
+    "posts": [
+        {
+            "words": "sed fugiat sapiente",
+            "sentence": "Enim et iste.",
+            "sentences": "Quidem inventore et enim assumenda non sit. Ipsum dolorum qui accusamus similique numquam tenetur quo id aut. Ut quos et. Esse nulla maxime distinctio est minima consequatur commodi et magni.",
+            "paragraph": "Nam esse nam doloribus dolorem quia quos rem. Perspiciatis aperiam id consectetur labore a illum. Eius neque enim officia eius voluptatem voluptatem laboriosam voluptates reiciendis."
+        },
+        {
+            "words": "quasi consequuntur vero",
+            "sentence": "Velit dolorem facere.",
+            "sentences": "Rerum quia et voluptatem ipsum. Voluptatem facere non ea cupiditate dolore. Illo voluptatem quis vero qui ut fugiat non incidunt.",
+            "paragraph": "Voluptates recusandae odio repudiandae sed ea facilis totam eum placeat. Accusamus harum ut ut possimus in provident sed. Aut quaerat velit quod quis ad natus perferendis non. Et delectus sunt aut in et velit. Alias aliquam voluptate inventore tempore qui."
+        },
+        {
+            "words": "debitis perspiciatis sed",
+            "sentence": "Optio dolor aliquam qui est aut voluptatum non cum sunt.",
+            "sentences": "Voluptatem incidunt ut repellendus omnis voluptatum aut minus aspernatur. Numquam consequatur non aut velit excepturi quisquam mollitia quod dolor. Voluptas quis cum corporis vero. Modi nostrum maiores.",
+            "paragraph": "Fugit dolorum quasi nesciunt natus vel. Amet ipsum quae est ducimus quis soluta vel nam ratione. Provident odio reprehenderit a vero. Veniam ut eveniet ab rerum repellat est quo atque. Voluptatem molestiae dolores consequuntur maxime officiis aut magni."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "206.53",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Doyle Inc",
+            "name": "Auto Loan Account 6517",
+            "type": "payment",
+            "account": "07014189"
+        },
+        {
+            "amount": "111.13",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Collins - Rowe",
+            "name": "Personal Loan Account 7103",
+            "type": "payment",
+            "account": "47967074"
+        },
+        {
+            "amount": "264.08",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Streich, Batz and Hudson",
+            "name": "Investment Account 1512",
+            "type": "payment",
+            "account": "84169820"
+        }
+    ]
+}

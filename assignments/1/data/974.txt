@@ -1,0 +1,72 @@
+{
+    "name": "America White II",
+    "username": "Alvena.Farrell",
+    "email": "Wilhelm.Kreiger@yahoo.com",
+    "address": {
+        "streetA": "Crooks Wall",
+        "streetB": "575 Grimes Rest",
+        "streetC": "00331 Jast Prairie Suite 035",
+        "streetD": "Apt. 249",
+        "city": "South Maye",
+        "state": "Oregon",
+        "country": "Belarus",
+        "zipcode": "48637-6430",
+        "geo": {
+            "lat": "-81.9726",
+            "lng": "-106.2653"
+        }
+    },
+    "phone": "959-827-8769 x1592",
+    "website": "jennie.name",
+    "company": {
+        "name": "Grady, Quigley and Gerhold",
+        "catchPhrase": "Seamless eco-centric complexity",
+        "bs": "user-centric engineer portals"
+    },
+    "posts": [
+        {
+            "words": "fugiat sint iure",
+            "sentence": "Labore ut eum modi.",
+            "sentences": "Explicabo tenetur laudantium quo laudantium odio natus aperiam. Omnis ut tempore esse a voluptatibus omnis possimus nam.",
+            "paragraph": "Reprehenderit perspiciatis dolores velit dolorem tenetur. Facere quo ipsum reiciendis et error ea dolorem iste aperiam. Rem dolor temporibus. Dolores eum dolorum beatae nihil placeat sed reprehenderit. Deserunt dolores sed. Unde iusto est qui suscipit."
+        },
+        {
+            "words": "ipsam ullam sequi",
+            "sentence": "Ducimus a eum animi.",
+            "sentences": "Molestiae dolor doloremque beatae ipsum corrupti necessitatibus et fugiat ratione. Aperiam exercitationem doloremque illum sit neque. Unde natus et dolore aut doloremque natus. Expedita ipsum qui.",
+            "paragraph": "Consequatur autem quis harum quam sint cumque ratione sint. Dolor corporis a quas rerum aliquid qui quasi qui. Dolore aspernatur placeat in. Consequatur adipisci vel saepe aut consequatur exercitationem et. Et architecto at dolorem pariatur sapiente aliquid dolorum nam. Nihil qui nihil a ea distinctio non."
+        },
+        {
+            "words": "impedit ut autem",
+            "sentence": "Aperiam vel optio veritatis suscipit possimus occaecati.",
+            "sentences": "Consequatur veniam sed quibusdam ipsa harum enim. Porro blanditiis dolorem explicabo qui excepturi incidunt modi quaerat.",
+            "paragraph": "Reiciendis officiis molestiae ut in quod quia. Dignissimos maxime ut explicabo porro modi delectus ab repellendus impedit. Dignissimos quia ut maiores est rerum necessitatibus. Qui blanditiis rem id tempore qui suscipit iusto aut aut. Molestiae illum qui beatae."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "542.68",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Macejkovic, D'Amore and Kiehn",
+            "name": "Home Loan Account 9701",
+            "type": "payment",
+            "account": "09620003"
+        },
+        {
+            "amount": "931.14",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Harvey LLC",
+            "name": "Money Market Account 5699",
+            "type": "invoice",
+            "account": "12477696"
+        },
+        {
+            "amount": "159.34",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Goldner, McGlynn and Green",
+            "name": "Personal Loan Account 9424",
+            "type": "payment",
+            "account": "74402234"
+        }
+    ]
+}

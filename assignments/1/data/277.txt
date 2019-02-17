@@ -1,0 +1,72 @@
+{
+    "name": "Pablo Hills",
+    "username": "Arch_Rowe34",
+    "email": "Cecil_Wiegand@yahoo.com",
+    "address": {
+        "streetA": "Raquel Skyway",
+        "streetB": "892 Talia Dam",
+        "streetC": "68434 Wisozk Branch Suite 909",
+        "streetD": "Suite 929",
+        "city": "Maggioport",
+        "state": "Texas",
+        "country": "France",
+        "zipcode": "99360",
+        "geo": {
+            "lat": "20.0460",
+            "lng": "171.5644"
+        }
+    },
+    "phone": "1-757-198-4703",
+    "website": "eulah.net",
+    "company": {
+        "name": "Torphy, Osinski and Keeling",
+        "catchPhrase": "Seamless empowering portal",
+        "bs": "one-to-one e-enable platforms"
+    },
+    "posts": [
+        {
+            "words": "modi nam quis",
+            "sentence": "Dignissimos quam sapiente quod soluta eos excepturi similique voluptas.",
+            "sentences": "Exercitationem voluptates doloribus nemo quia ullam mollitia laborum temporibus enim. Exercitationem in porro a.",
+            "paragraph": "Atque reiciendis dolores voluptatum error itaque autem ullam ea. Cumque quaerat labore accusamus est voluptatem omnis tempore quaerat aut. A labore et in aliquid soluta ut deserunt officia. Nisi suscipit voluptas tenetur aut dolores vel est consequatur. Accusantium doloremque nemo ad omnis est."
+        },
+        {
+            "words": "perspiciatis ipsam eaque",
+            "sentence": "Aut voluptatem non eum ut aliquid enim pariatur ullam delectus.",
+            "sentences": "Corrupti minima eum deleniti architecto. Aperiam optio sint tenetur veritatis enim excepturi veritatis. Ea earum modi quae autem ut. Assumenda molestiae minima corporis ea expedita.",
+            "paragraph": "Molestias labore et enim sed architecto consequatur consequatur. Sequi illo optio corporis. Officia fuga omnis libero ut eos rerum dolores esse. Assumenda itaque culpa. Quos error dolor fuga deserunt aliquid veniam. Ut quasi aspernatur dolores quaerat minus et possimus qui consequatur."
+        },
+        {
+            "words": "aliquam cupiditate delectus",
+            "sentence": "Distinctio enim officiis nobis quia alias excepturi.",
+            "sentences": "Quasi ab a id voluptatibus doloribus consequatur. Quo atque aut sint ullam labore. Ratione illum possimus quia.",
+            "paragraph": "Rerum eius quis quia autem. Magni voluptatem quos in consequatur velit et sint molestiae nostrum. Molestias eum pariatur debitis et numquam quidem porro voluptates."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "177.55",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Russel - Moore",
+            "name": "Checking Account 1735",
+            "type": "payment",
+            "account": "21648298"
+        },
+        {
+            "amount": "716.32",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Hodkiewicz, Bayer and Borer",
+            "name": "Checking Account 8762",
+            "type": "withdrawal",
+            "account": "80599638"
+        },
+        {
+            "amount": "327.07",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Kerluke LLC",
+            "name": "Auto Loan Account 0046",
+            "type": "deposit",
+            "account": "47647665"
+        }
+    ]
+}

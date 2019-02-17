@@ -1,0 +1,72 @@
+{
+    "name": "Nels Howell",
+    "username": "Reva.Hilpert",
+    "email": "Christa34@hotmail.com",
+    "address": {
+        "streetA": "Brown Light",
+        "streetB": "60350 Gislason View",
+        "streetC": "899 Eleazar View Apt. 846",
+        "streetD": "Suite 476",
+        "city": "Macejkovicfort",
+        "state": "Minnesota",
+        "country": "Norway",
+        "zipcode": "47998",
+        "geo": {
+            "lat": "0.0316",
+            "lng": "-23.9133"
+        }
+    },
+    "phone": "(750) 568-7127 x8283",
+    "website": "foster.net",
+    "company": {
+        "name": "Jacobs, Bernhard and Dooley",
+        "catchPhrase": "Advanced actuating methodology",
+        "bs": "viral envisioneer portals"
+    },
+    "posts": [
+        {
+            "words": "eos facilis facilis",
+            "sentence": "Iusto laudantium sint dolore voluptatem esse.",
+            "sentences": "Et assumenda voluptas commodi perspiciatis doloribus doloribus. Quia eius mollitia consequatur hic sint porro. Sed aut rem reiciendis. Inventore alias voluptas est magni voluptas incidunt aut sit.",
+            "paragraph": "Numquam est eos. Cum error aut dolorem officiis sint repellendus et. Aliquid sit omnis sit et occaecati soluta."
+        },
+        {
+            "words": "ratione nisi dicta",
+            "sentence": "Reprehenderit quam nesciunt accusantium.",
+            "sentences": "Possimus nihil aliquam. Est suscipit eum quia rerum voluptas est fugit omnis. Rem at autem.",
+            "paragraph": "Esse ut impedit esse. Consequuntur ipsam magnam sunt recusandae in. Adipisci dolor sit non quia. Placeat sit excepturi cumque ipsum."
+        },
+        {
+            "words": "labore numquam ipsum",
+            "sentence": "Assumenda sed sunt.",
+            "sentences": "Aspernatur doloremque aut facere sunt. Ex mollitia sed quia enim ipsam laborum sed. Dolor dolorem illo maxime facere enim consectetur ex adipisci. Ipsum sint et enim officia ut odio dolor ab explicabo. Numquam dolores nulla odit aut consequuntur nobis architecto sed.",
+            "paragraph": "Vero in et. Sit sit ullam ea temporibus. Nam rerum ducimus laboriosam et voluptatem ipsum accusantium."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "164.18",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Conn LLC",
+            "name": "Home Loan Account 6669",
+            "type": "deposit",
+            "account": "01832130"
+        },
+        {
+            "amount": "167.25",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Spencer Group",
+            "name": "Home Loan Account 8852",
+            "type": "invoice",
+            "account": "59176941"
+        },
+        {
+            "amount": "809.81",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Littel, Kuhn and Feest",
+            "name": "Checking Account 4150",
+            "type": "withdrawal",
+            "account": "64800964"
+        }
+    ]
+}
