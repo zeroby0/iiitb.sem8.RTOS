@@ -14,8 +14,6 @@
 
 #define QUEUE_PERMISSIONS 0660
 
-bool verbose_mode = false;
-
 /**
 -
 - This struct encapsulates the message
@@ -25,7 +23,7 @@ bool verbose_mode = false;
 **/
 typedef struct message_content {
 	int client_qid;
-	char text[1024];
+	char text;
 } Message_content;
 
 /**

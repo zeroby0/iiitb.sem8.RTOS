@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h> // For memcpy
+#include <ctype.h> // For tolower and all
 
 #include <sys/types.h>
 #include <sys/ipc.h>
@@ -24,8 +25,7 @@ int main(int argc, char* argv[]) {
 		exit(-1);
 	}
 
-	printf("Server started\n");
-	printf("Server qid = %d\n", server_qid);
+	printf("Server started with qid %d\n", server_qid);
 
 	while(1) {
 		if(msgrcv(server_qid, &from_client, sizeof(Message), 0, 0) == -1) {
@@ -33,12 +33,14 @@ int main(int argc, char* argv[]) {
 			exit(-1);
 		}
 
-		printf("Message from client: \n");
-		printf("%s\n", from_client.content.text);
-		printf("Queue id of client: \n");
-		printf("%d\n", from_client.content.client_qid);
+		printf("\nMessage from client #%d\n", from_client.content.client_qid);
+		printf("%c\n", from_client.content.text);
 
-		// client_qid = from_client.content.client_qid;
+		if(islower(from_client.content.text)) {
+			from_client.content.text = toupper(from_client.content.text);
+		} else {
+			from_client.content.text = tolower(from_client.content.text);
+		}
 
 		if(msgsnd(from_client.content.client_qid, &from_client, sizeof(Message), 0) == -1) {
 			perror("Error replying to client");

@@ -32,13 +32,12 @@ int main(int argc, char* argv[]) {
 	to_server.type = 1;
 	to_server.content.client_qid = client_qid;
 
-	printf("Client started.\n");
-	printf("Client qid = %d\n", client_qid);
-	printf("Server qid = %d\n", server_qid);
+	printf("Client started with qid %d\nConnected to server %d\n", client_qid, server_qid);
 
-	printf("Message: ");
+	printf("\nMessage: ");
 
-	while(scanf(" %s", to_server.content.text)) {
+	// while(getc(&to_server.content.text)) {
+	while(scanf(" %c", &to_server.content.text)) {
 		if(msgsnd(server_qid, &to_server, sizeof(Message), 0) == -1) {
 			perror("Failed to send message to server.");
 			exit(-1);
@@ -49,7 +48,7 @@ int main(int argc, char* argv[]) {
 			exit(-1);
 		}
 
-		printf("From server: %s\nMessage: ", from_server.content.text);
+		printf("From server: %c\n\nMessage: ", from_server.content.text);
 	}
 
 	if(msgctl(client_qid, IPC_RMID, NULL) == -1) {
