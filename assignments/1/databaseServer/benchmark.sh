@@ -1,3 +1,9 @@
+# Change this to change the simultaneous
+# number of clients benchmark will be
+# run upto
+num=9
+
+
 rm -rf ./results/*
 
 mkdir -p ./results/images
@@ -5,13 +11,10 @@ mkdir -p ./results/images
 gcc server.c -o server
 gcc client.c -o client
 
-num=9
-
+# Run benchmarks
 for i in {1..$num}; do;
 	zsh runner.sh $i
 done;
-
-wait
 
 echo "Calculating statistics"
 

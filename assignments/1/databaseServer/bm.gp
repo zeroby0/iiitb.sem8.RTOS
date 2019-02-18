@@ -33,6 +33,7 @@ set ytic auto
 set xlabel "Sample"                 # Set X axis label
 set ylabel "Time taken (micro second)"               # Set Y axis label
 
+# Plot individual graphs
 
 do for [t=1:ARG1] {
   outfile = sprintf('./results/images/client-%d.png',t)
@@ -53,7 +54,7 @@ set ytic auto
 set xlabel "number of clients"
 
 
-
+# Plot stats
 
 set title 'Maximum time taken at server'
 set output './results/images/server-max.png'
