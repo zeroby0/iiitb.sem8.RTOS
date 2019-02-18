@@ -1,6 +1,6 @@
 ## Database server benchmarks
 
-Benchmarks can be taken using the `zsh` script [benchmark.sh](./benchmark.sh).
+Benchmarks can be taken using the `zsh` script [benchmark.sh](./benchmark.sh). This folder has a lot of tooling for benchmarks. The [EchoServer](../echo) is cleaner and might be easier to understand.
 
 Measurements are made upto **9 simultaneous clients**. Each n-simultaneous-clients simulation is run 500 times and Min, Max, and Mean are calculated. These limits can be changed from scripts [benchmark.sh](./benchmark.sh) and [runner.sh](./runner.sh) respectively. Change the gnuplot file [bm.gp](./bm.gp) to change how the benchmarks are plotted.
 
