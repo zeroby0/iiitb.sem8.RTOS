@@ -14,7 +14,7 @@ Time in microseconds from the moment message is received to the moment message s
 |![](./results/images/server-max.png)|![](./results/images/server-min.png)|![](./results/images/server-mean.png)|
 
 ## Client
-Time in microseconds from the moment message is sent to the moment is completely recieved.  Click on the pictures to enlarge. 
+Time in microseconds from the moment message is sent to the moment reply is completely recieved.  Click on the pictures to enlarge. 
 
 |Maximum|Minimum|Mean|
 |--|--|--|
