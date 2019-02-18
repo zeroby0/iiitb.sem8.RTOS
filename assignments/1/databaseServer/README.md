@@ -1,6 +1,6 @@
 ## Database server benchmarks
 
-Benchmarks can be taken using the zsh script benchmark.sh
+Benchmarks can be taken using the zsh script benchmark.sh.
 
 ## Server
 
