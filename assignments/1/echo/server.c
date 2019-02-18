@@ -1,19 +1,13 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h> // For memcpy
-#include <ctype.h> // For tolower and all
-
-#include <sys/types.h>
-#include <sys/ipc.h>
-#include <sys/msg.h>
+#include <stdio.h>    // For perror()
+#include <stdlib.h>   // For signals and exit()
+#include <sys/msg.h>  // For message queues
+#include <ctype.h>    // For tolower, toupper, islower
 
 #include "commons.h"
 
-int server_qid, client_qid;
-
 void closeQueues() {
 	if( msgctl(server_qid, IPC_RMID, NULL) == -1) {
-		perror("Failed to remove queue");
+		perror("Failed to remove server queue");
 	}
 }
 
@@ -33,7 +27,6 @@ int main(int argc, char* argv[]) {
 	signal(SIGKILL, sighandler); // kill
 	signal(SIGSEGV, sighandler); // segmentation violation
 
-
 	key_t server_queue_key;
 
 	if((server_queue_key = ftok(SERVER_PATH, PROJECT_ID)) == -1) {
@@ -46,18 +39,23 @@ int main(int argc, char* argv[]) {
 		exit(-1);
 	}
 
-	printf("Server started with qid %d\n", server_qid);
+	fprintf(stderr, "Server started with qid %d\n", server_qid);
+	fprintf(stderr, "Press ctrl-z to stop.\n");
+	//------
+
+
 
 	Echo echo;
 
 	while(1) {
 		if(msgrcv(server_qid, &echo, sizeof(Echo), 0, 0) == -1) {
 			perror("Error recieving from client");
+			closeQueues();
 			exit(-1);
 		}
 
-		printf("\nMessage from client #%d\n", echo.client_qid);
-		printf("%c\n", echo.text);
+		fprintf(stderr, "\nMessage from client #%d\n", echo.client_qid);
+		fprintf(stderr, "%c\n", echo.text);
 
 		if(islower(echo.text)) {
 			echo.text = toupper(echo.text);
@@ -67,6 +65,7 @@ int main(int argc, char* argv[]) {
 
 		if(msgsnd(echo.client_qid, &echo, sizeof(Echo), 0) == -1) {
 			perror("Error replying to client");
+			closeQueues();
 			exit(-1);
 		}
 	}

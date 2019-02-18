@@ -1,17 +1,12 @@
-#include <stdio.h>
-#include <stdlib.h>
-
-#include <sys/types.h>
-#include <sys/ipc.h>
-#include <sys/msg.h>
+#include <stdio.h>    // For perror()
+#include <stdlib.h>   // For signals and exit()
+#include <sys/msg.h>  // For message queues
 
 #include "commons.h"
 
-int server_qid, client_qid;
-
 void closeQueues() {
 	if( msgctl(client_qid, IPC_RMID, NULL) == -1) {
-		perror("Failed to remove queue");
+		perror("Failed to remove client queue");
 	}
 }
 
@@ -31,7 +26,6 @@ int main() {
 	signal(SIGKILL, sighandler); // kill
 	signal(SIGSEGV, sighandler); // segmentation violation
 
-
 	key_t server_queue_key;
 
 	if((server_queue_key = ftok(SERVER_PATH, PROJECT_ID)) == -1) {
@@ -41,6 +35,7 @@ int main() {
 
 	if((server_qid = msgget(server_queue_key, 0)) == -1) {
 		perror("Error connecting to server queue");
+		fprintf(stderr, "Check if the server is running.\n");
 		exit(-1);
 	}
 
@@ -50,23 +45,26 @@ int main() {
 		exit(-1);
 	}
 
+	fprintf(stderr, "Client started with qid %d\nConnected to server %d\n", client_qid, server_qid);
+	fprintf(stderr, "Press ctrl-z to stop.\n");
+	//------
+
+
 	Echo echo;
 	echo.type = 1;
-	echo.client_qid = client_qid;
-
-
-	printf("Client started with qid %d\nConnected to server %d\n", client_qid, server_qid);
+	echo.client_qid = client_qid;	
 
 	printf("\nMessage: ");
 	while(scanf(" %c", &echo.text)) {
-
 		if(msgsnd(server_qid, &echo, sizeof(Echo), 0) == -1) {
 			perror("Failed to send message to server.");
+			closeQueues();
 			exit(-1);
 		}
 
 		if(msgrcv(client_qid, &echo, sizeof(Echo), 0, 0) == -1) {
 			perror("Failed to recieve message from server");
+			closeQueues();
 			exit(-1);
 		}
 

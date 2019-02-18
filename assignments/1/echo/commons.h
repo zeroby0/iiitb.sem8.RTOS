@@ -23,3 +23,12 @@ typedef struct echo_buffer {
 	char text;
 } Echo;
 
+
+
+// Global variable so that closeQueues() can access them
+// Will be initialised in client and server
+int server_qid, client_qid; 
+
+// Will be implemented differently by client and server
+void closeQueues(); 
+void sighandler(int sig_num);
