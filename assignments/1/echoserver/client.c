@@ -7,6 +7,8 @@
 
 #include "commons.h"
 
+
+
 int main(int argc, char* argv[]) {
 	key_t server_queue_key;
 	int server_qid, client_qid;
