@@ -1,8 +1,8 @@
 # Change this to change the simultaneous
 # number of clients benchmark will be
 # run upto
-num=9
-
+max_simultaneous_clients=16
+runs_per_sim=10000
 
 rm -rf ./results/*
 
@@ -12,21 +12,22 @@ gcc server.c -o server
 gcc client.c -o client
 
 # Run benchmarks
-for i in {1..$num}; do;
-	zsh runner.sh $i
+for i in {1..$max_simultaneous_clients}; do;
+	zsh runner.sh $i $runs_per_sim
 done;
 
 echo "Calculating statistics"
 
-for i in {1..$num}; do;
+for i in {1..$max_simultaneous_clients}; do;
 
-	# Filter
-	awk '{ if ($0 >= 1 && $0 <= 10000) print $0 }' "./results/client-$i.csv" >  "./results/a-client-$i.csv"
-	awk '{ if ($0 >= 1 && $0 <= 10000) print $0 }' "./results/server-$i.csv" >  "./results/a-server-$i.csv"
-	rm "./results/client-$i.csv" 
-	rm "./results/server-$i.csv"
-	mv "./results/a-client-$i.csv" "./results/client-$i.csv"
-	mv "./results/a-server-$i.csv" "./results/server-$i.csv"
+	
+	# # Filtering out values > 10000
+	# awk '{ if ($0 >= 1 && $0 <= 10000) print $0 }' "./results/client-$i.csv" >  "./results/a-client-$i.csv"
+	# awk '{ if ($0 >= 1 && $0 <= 10000) print $0 }' "./results/server-$i.csv" >  "./results/a-server-$i.csv"
+	# rm "./results/client-$i.csv" 
+	# rm "./results/server-$i.csv"
+	# mv "./results/a-client-$i.csv" "./results/client-$i.csv"
+	# mv "./results/a-server-$i.csv" "./results/server-$i.csv"
 
 	# Calculate stats
 	awk -F= 'BEGIN { sum = 0; count = 0}       { sum = sum + $0; count = count + 1;} END {print sum/count}' "./results/client-$i.csv"  >> "./results/client-mean.csv"
@@ -40,4 +41,4 @@ done;
 
 echo "Plotting results"
 
-gnuplot -c bm.gp $num
+gnuplot -c bm.gp $max_simultaneous_clients

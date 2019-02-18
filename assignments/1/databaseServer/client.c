@@ -70,7 +70,7 @@ int main(int argc, char* argv[]) {
 
 	gettimeofday(&stop, NULL);
 
-	printf("%u\n", stop.tv_usec - start.tv_usec);
+	printf("%lu\n", (stop.tv_sec - start.tv_sec)*1000000 + (stop.tv_usec - start.tv_usec) );
 
 	shutdown();
 }

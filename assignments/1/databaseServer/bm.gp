@@ -27,13 +27,13 @@ set datafile separator ","           # Uncomment when using CSV files
 
 # set xtic 24*60*7
 
-
 set ytic auto
 
 set xlabel "Sample"                 # Set X axis label
 set ylabel "Time taken (micro second)"               # Set Y axis label
 
 # Plot individual graphs
+
 
 do for [t=1:ARG1] {
   outfile = sprintf('./results/images/client-%d.png',t)
@@ -51,7 +51,7 @@ do for [t=1:ARG1] {
 
 set ytic auto
 
-set xlabel "number of clients"
+set xlabel "number of clients - 1"
 
 
 # Plot stats

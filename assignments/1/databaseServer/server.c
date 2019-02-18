@@ -93,7 +93,7 @@ int main(int argc, char* argv[]) {
 		}
 
 		gettimeofday(&stop, NULL);
-		fprintf(outfile, "%u\n", stop.tv_usec - start.tv_usec);
+		fprintf(outfile, "%lu\n", (stop.tv_sec - start.tv_sec)*1000000 + (stop.tv_usec - start.tv_usec));
 
 	}
 
