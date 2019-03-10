@@ -17,17 +17,63 @@
 #include <sys/un.h>            // For struct sockaddr_un
 
 
-#define SERVER_PATH "aabbccddeeffgg"
+#define SERVER_ADDRESS "aabbccddeeffgg"
 #define MAX_SIMULTANEOUS_CONNECTIONS 5
 
 int server_fd;
 int client_fd;
 
+
+void shutdownServer();
+void sighandler();
+void setupSignalHandling();
+void gaurd();
+void gaurd_exit();
+
+
+int createSocket();
+void makeSocketReusable();
+void bindSocket();
+void makeSocketListen();
+int setupServer();
+
+int acceptConnection();
+
+void handleClient();
+
+int main() {
+  setupSignalHandling();
+
+  server_fd = setupServer(SERVER_ADDRESS, MAX_SIMULTANEOUS_CONNECTIONS);
+  printf("%d\n", server_fd);
+
+  while(1) {
+    client_fd = acceptConnection(server_fd);
+
+    if(fork() == 0) { // child
+      handleClient(client_fd);
+    }
+    
+  }
+}
+
+void handleClient(int client_fd) {
+  char letter;
+  if(read(client_fd, &letter, sizeof(char)) == -1) {
+    perror("Error reading from client.");
+  }
+  printf("From client: %c\n", letter);
+
+  exit(0);
+}
+
 void shutdownServer(int errno) {
+  // fprintf(stderr, "shutdownServer: Shutting down\n");
+
   shutdown(server_fd, SHUT_RDWR);
   close(server_fd);
 
-  unlink(SERVER_PATH);
+  unlink(SERVER_ADDRESS);
 
   exit(errno);
 }
@@ -37,6 +83,8 @@ void sighandler(int sig_num) {
 }
 
 void setupSignalHandling() {
+  // fprintf(stderr, "setupSignalHandling: Setting up signal handling\n");
+
   signal(SIGINT,  sighandler); // Interrupt
   signal(SIGTSTP, sighandler); // Stop from keyboard
   signal(SIGTERM, sighandler); // Software term signal
@@ -48,19 +96,23 @@ void setupSignalHandling() {
 }
 
 void gaurd(int returnVal, const char* message) {
+  // fprintf(stderr, "gaurd: Return val is %d\n", returnVal);
   if(returnVal == -1) {
     perror(message);
   }
 }
 
 void gaurd_exit(int returnVal, const char* message) {
+  // fprintf(stderr, "gaurd_exit: Return val is %d\n", returnVal);
   if(returnVal == -1) {
     perror(message);
+    shutdownServer(EXIT_FAILURE);
   }
-  shutdownServer(-1);
+  
 }
 
 int createSocket() {
+  // fprintf(stderr, "Creating socket\n");
   int socket_fd;
 
   /**
@@ -89,10 +141,12 @@ int createSocket() {
       for example, AF_LOCAL. See man pages.
 
   **/
-  if ((socket_fd = socket(PF_LOCAL, SOCK_STREAM, 0)) == -1) {
-    perror("Socket creation failed");
-    exit(EXIT_FAILURE);
-  }
+  gaurd_exit(
+      (socket_fd = socket(PF_LOCAL, SOCK_STREAM, 0)), 
+      "Socket creation failed"
+    );
+
+  // fprintf(stderr, "Socket created with fd: %d\n", socket_fd);
 
   return socket_fd;
 }
@@ -129,28 +183,16 @@ void makeSocketReusable(int socket_fd) {
 
   **/
   int reuseAddress = 1;
-  if(setsockopt(socket_fd, SOL_SOCKET, SO_REUSEADDR, (void *)&reuseAddress,  sizeof(reuseAddress)) == -1) {   
-    perror("An error occured when making the socket address reusable.");
-    sighandler(EXIT_FAILURE);  
-  }
-
+  gaurd_exit(
+      setsockopt(socket_fd, SOL_SOCKET, SO_REUSEADDR, (void *)&reuseAddress,  sizeof(reuseAddress)),
+      "An error occured when making the socket address reusable."
+    );
 
 }
 
+void bindSocket(int socket_fd, const char* socketAddress) {
 
-int main() {
-  setupSignalHandling();
-
-  unlink(SERVER_PATH); // Closing socket if already in use
-
-  server_fd = createSocket();
-
-
- 
-
-  printf("%d\n", server_fd);
-
-
+  unlink(socketAddress); // Closing socket if already in use
 
   /** 
     @ Binding the socket to an address
@@ -193,14 +235,16 @@ int main() {
   struct sockaddr_un address;
 
   address.sun_family = PF_LOCAL;
-  strcpy(address.sun_path, SERVER_PATH);
+  strcpy(address.sun_path, socketAddress);
 
-  if( bind(server_fd, (struct sockaddr *)&address, sizeof(address))  == -1) {
-    perror("An error occured while binding the socket");
-    sighandler(EXIT_FAILURE);
-  }
+  gaurd_exit(
+      bind(socket_fd, (struct sockaddr *)&address, sizeof(address)),
+      "An error occured while binding the socket"
+    );
 
+}
 
+void makeSocketListen(int socket_fd, int backlog_size) {
   /**
     @ Listening on the socket.
 
@@ -214,52 +258,52 @@ int main() {
     ^ MAX_SIMULTANEOUS_CONNECTIONS is what it says.
 
   **/
-  if ( listen(server_fd, MAX_SIMULTANEOUS_CONNECTIONS) == -1 ) {   
-    perror("An error occured while listening in server");  
-    sighandler(EXIT_FAILURE);    
-  }
+  gaurd_exit(
+      listen(socket_fd, backlog_size),
+      "Error listening on socket"
+    );
+}
 
+int acceptConnection(int socket_fd) {
+  int connection_fd;
+  /**
+    @ Accepting connections on the socket.
 
-  fprintf(stderr, "Waiting for clients.");
+    - int
+      accept(int socket, struct sockaddr address,
+         socklen_t address_len);
+    - man 2 accept
 
-  while(1) {
+    accept() extracts the first connection request on the queue
+    of pending connections, creates a new socket with the same 
+    properties of socket, and allocates a new file
+    descriptor for the socket.
 
-    /**
-      @ Accepting connections on the socket.
+    @ Arguments and their meaning.
 
-      - int
-        accept(int socket, struct sockaddr address,
-           socklen_t address_len);
-      - man 2 accept
+    ^ socket is the server's socket.
 
-      accept() extracts the first connection request on the queue
-      of pending connections, creates a new socket with the same 
-      properties of socket, and allocates a new file
-      descriptor for the socket.
+    ^ clients address is filled into the
+      second argument, struct sockaddr address.
 
-      @ Arguments and their meaning.
+    ^ address_len has the size of the second
+      argument, in bytes.
 
-      ^ socket is the server's socket.
+    We don't really need the clients address and such.
+    Just the file descriptor is plenty. So passing NULL.
+  **/
+  gaurd(
+      (connection_fd = accept(socket_fd, NULL, NULL)),
+      "Error accepting connection from client."
+    );
+  return connection_fd;
+}
 
-      ^ clients address is filled into the
-        second argument, struct sockaddr address.
+int setupServer(char* server_addr, int max_sim_clients) {
+  int socket_fd = createSocket();
+  makeSocketReusable(socket_fd);
+  bindSocket(socket_fd, server_addr);
+  makeSocketListen(socket_fd, max_sim_clients);
 
-      ^ address_len has the size of the second
-        argument, in bytes.
-
-      We don't really need the clients address and such.
-      Just the file descriptor is plenty. So passing NULL.
-    **/
-
-    if((client_fd = accept(server_fd, NULL, NULL)) == -1) {
-      perror("Error accepting connection from client.");
-    }
-
-    char letter;
-    if(read(client_fd, &letter, sizeof(char)) == -1) {
-      perror("Error reading from client.");
-    }
-
-    printf("From client: %c\n", letter);
-  }
+  return socket_fd;
 }
