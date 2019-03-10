@@ -150,10 +150,10 @@ int main() {
 
     ^ We use the struct sockaddr_un to send these options to bind.
 
-      struct sockaddr_un {
-        unsigned short sun_family;
-        char sun_path[108];
-      }
+        struct sockaddr_un {
+          unsigned short sun_family;
+          char sun_path[108];
+        }
 
       I believe _un means unix.
       For TCP sockets, you'd send sockaddr_in. _in is Internet.
