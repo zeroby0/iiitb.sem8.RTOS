@@ -1,11 +1,11 @@
 /**
 
-- Written by Aravind Reddy V <aravind.reddy@iiitb.org>
-- License: Public domain
+  - Written by Aravind Reddy V <aravind.reddy@iiitb.org>
+  - License: Public domain
 
-^ This program sends a single char to
-  a unix local socket server and
-  reads the reply.
+  ^ This program sends a single char to
+    a unix local socket server and
+    reads the reply.
 **/
 
 #include <stdio.h>             // For perror, fprintf
@@ -23,8 +23,7 @@ int client_fd;
 
 int main() {
 
-
-    /**
+  /**
     @ Creating a socket.
 
     - int
@@ -49,37 +48,29 @@ int main() {
       May have to change the arguments for other systems.
       for example, AF_LOCAL. See man pages.
 
-    **/
-    if ( (client_fd = socket(PF_LOCAL, SOCK_STREAM, 0)) == -1 ) {
-        perror("Socket creation failed.");
-        exit(EXIT_FAILURE);
-    }
+  **/
+  if ( (client_fd = socket(PF_LOCAL, SOCK_STREAM, 0)) == -1 ) {
+    perror("Socket creation failed.");
+    exit(EXIT_FAILURE);
+  }
 
 
-    struct sockaddr_un address;
+  struct sockaddr_un address;
 
-    address.sun_family = PF_LOCAL;
-    strcpy(address.sun_path, SERVER_PATH);
+  address.sun_family = PF_LOCAL;
+  strcpy(address.sun_path, SERVER_PATH);
 
-    if(connect(client_fd, (struct sockaddr *)&address, sizeof(address)) == -1) {
-        perror("An error occured while connecting to server.");
-        exit(EXIT_FAILURE);
-    }
+  if(connect(client_fd, (struct sockaddr *)&address, sizeof(address)) == -1) {
+    perror("An error occured while connecting to server.");
+    exit(EXIT_FAILURE);
+  }
 
-    char letter = 'A';
-    if(write(client_fd, &letter, sizeof(char)) == -1) {
-        perror("Error writing to server.");
-        exit(EXIT_FAILURE);
-    }
+  char letter = 'A';
+  if(write(client_fd, &letter, sizeof(char)) == -1) {
+    perror("Error writing to server.");
+    exit(EXIT_FAILURE);
+  }
 
-    // if(read(client_fd, &letter, sizeof(char)) == -1) {
-    //      perror("Error reading from server.");
-    //      exit(EXIT_FAILURE);
-    // }
-
-    shutdown(client_fd, SHUT_RDWR);
-    close(client_fd);
-
-
-
+  shutdown(client_fd, SHUT_RDWR);
+  close(client_fd);
 }
