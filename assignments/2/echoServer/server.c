@@ -6,18 +6,6 @@
   ^ This program listens for clients sending letters via sockets,
     and just echoes back whatever is received, after changing the
     case of the alphabet.
-
-  ^ Usually, we'd spawn a new thread whenever a new client
-    starts messaging, and handle the client in that thread.
-    
-    However, there's overhead attached to spawning threads,
-    and it quickly gets complex and unscalable.
-    
-    Fortunately for us, Unix provides a nifty function called
-    select(2). select let's us listen to many
-    file descriptors and see which become active.
-    
-    see man 2 select
 **/
 
 #include <stdio.h>             // For perror, fprintf
@@ -33,19 +21,22 @@
 #define MAX_SIMULTANEOUS_CONNECTIONS 5
 
 int server_fd;
+int client_fd;
 
-void sighandler(int sig_num) {
+void shutdownServer(int errno) {
   shutdown(server_fd, SHUT_RDWR);
   close(server_fd);
 
   unlink(SERVER_PATH);
 
-  exit(sig_num);
+  exit(errno);
 }
 
+void sighandler(int sig_num) {
+  shutdownServer(sig_num);
+}
 
-int main() {
-
+void setupSignalHandling() {
   signal(SIGINT,  sighandler); // Interrupt
   signal(SIGTSTP, sighandler); // Stop from keyboard
   signal(SIGTERM, sighandler); // Software term signal
@@ -54,9 +45,23 @@ int main() {
   signal(SIGILL,  sighandler); // Illegal instruction
   signal(SIGKILL, sighandler); // kill
   signal(SIGSEGV, sighandler); // segmentation violation
+}
 
-  unlink(SERVER_PATH); // Closing socket if already in use
+void gaurd(int returnVal, const char* message) {
+  if(returnVal == -1) {
+    perror(message);
+  }
+}
 
+void gaurd_exit(int returnVal, const char* message) {
+  if(returnVal == -1) {
+    perror(message);
+  }
+  shutdownServer(-1);
+}
+
+int createSocket() {
+  int socket_fd;
 
   /**
     @ Creating a socket.
@@ -84,14 +89,15 @@ int main() {
       for example, AF_LOCAL. See man pages.
 
   **/
-  if ((server_fd = socket(PF_LOCAL, SOCK_STREAM, 0)) == -1) {
+  if ((socket_fd = socket(PF_LOCAL, SOCK_STREAM, 0)) == -1) {
     perror("Socket creation failed");
     exit(EXIT_FAILURE);
   }
 
-  printf("%d\n", server_fd);
+  return socket_fd;
+}
 
-
+void makeSocketReusable(int socket_fd) {
   /**
     @ making the socket receive multiple connections.
 
@@ -123,11 +129,28 @@ int main() {
 
   **/
   int reuseAddress = 1;
-  if(setsockopt(server_fd, SOL_SOCKET, SO_REUSEADDR, (void *)&reuseAddress,  sizeof(reuseAddress)) == -1) {   
+  if(setsockopt(socket_fd, SOL_SOCKET, SO_REUSEADDR, (void *)&reuseAddress,  sizeof(reuseAddress)) == -1) {   
     perror("An error occured when making the socket address reusable.");
-
     sighandler(EXIT_FAILURE);  
-  }  
+  }
+
+
+}
+
+
+int main() {
+  setupSignalHandling();
+
+  unlink(SERVER_PATH); // Closing socket if already in use
+
+  server_fd = createSocket();
+
+
+ 
+
+  printf("%d\n", server_fd);
+
+
 
   /** 
     @ Binding the socket to an address
@@ -196,17 +219,8 @@ int main() {
     sighandler(EXIT_FAILURE);    
   }
 
-  /**
-  ^ I really like logging debug info to stderr.
 
-    That way, I can turn it off with just
-    ./a.out 2> /dev/null
-    and can pipe debug info and actual
-    output to different files.
-
-  **/
   fprintf(stderr, "Waiting for clients.");
-
 
   while(1) {
 
@@ -236,11 +250,9 @@ int main() {
       We don't really need the clients address and such.
       Just the file descriptor is plenty. So passing NULL.
     **/
-    int client_fd;
+
     if((client_fd = accept(server_fd, NULL, NULL)) == -1) {
       perror("Error accepting connection from client.");
-      // exit(EXIT_FAILURE);
-      // Not exiting because there might be other connections.
     }
 
     char letter;
