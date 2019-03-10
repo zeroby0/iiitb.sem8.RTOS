@@ -6,7 +6,6 @@
 ^ This program sends a single char to
   a unix local socket server and
   reads the reply.
-
 **/
 
 #include <stdio.h>             // For perror, fprintf
@@ -26,7 +25,6 @@ int main() {
 
 
     /**
-
     @ Creating a socket.
 
     - int
@@ -75,8 +73,8 @@ int main() {
     }
 
     // if(read(client_fd, &letter, sizeof(char)) == -1) {
-    //  perror("Error reading from server.");
-    //  exit(EXIT_FAILURE);
+    //      perror("Error reading from server.");
+    //      exit(EXIT_FAILURE);
     // }
 
     shutdown(client_fd, SHUT_RDWR);
