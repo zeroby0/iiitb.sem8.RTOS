@@ -36,6 +36,16 @@ void makeSocketListen();
 
 /** ------------------------ Exports ------------------------- **/
 
+int setupServer(char* server_addr, int max_sim_clients) {
+  int socket_fd = createSocket();
+  
+  makeSocketReusable(socket_fd);
+  bindSocket(socket_fd, server_addr);
+  makeSocketListen(socket_fd, max_sim_clients);
+
+  return socket_fd;
+}
+
 
 int acceptConnection(int socket_fd) {
   int connection_fd;
@@ -72,14 +82,7 @@ int acceptConnection(int socket_fd) {
   return connection_fd;
 }
 
-int setupServer(char* server_addr, int max_sim_clients) {
-  int socket_fd = createSocket();
-  makeSocketReusable(socket_fd);
-  bindSocket(socket_fd, server_addr);
-  makeSocketListen(socket_fd, max_sim_clients);
 
-  return socket_fd;
-}
 
 /* ---------------------------------------- */
 
@@ -156,7 +159,7 @@ void bindSocket(int socket_fd, const char* socketAddress) {
 
     @ Arguments and their meaning.
 
-    ^ server_fd is the servers file descriptor.
+    ^ server_fd is the server's file descriptor.
 
     ^ We use the struct sockaddr_un to send these options to bind.
 

@@ -2,21 +2,10 @@
 
   - Written by: Aravind Reddy V
   - License: Public domain
-
-  ^ This program listens for clients sending letters via sockets,
-    and just echoes back whatever is received, after incrementing
-    it by 1.
+  
 **/
 
-#include "server.h"
-/**
-Imports from server.h
-
-- setupSignalHandling()
-- setupServer()
-- acceptConnection()
-
-**/
+#include "server.h" // For setupSignalHandling(), setupServer(), acceptConnection()
 
 char* SERVER_ADDRESS =  "aabbccddeeff";
 int MAX_SIMULTANEOUS_CONNECTIONS = 64;

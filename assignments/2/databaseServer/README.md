@@ -1,4 +1,4 @@
-# Socket::Echo server
+# Socket::Database server
 
 ## Code layout
 
@@ -13,7 +13,7 @@
 
 Benchmarks can be taken using the `zsh` script [benchmark.sh](./benchmark.sh).
 
-Measurements are made upto **16 simultaneous clients**. Each n-simultaneous-clients simulation is run `10000` times and Min, Max, and Mean are calculated. These limits can be changed from scripts [benchmark.sh](./benchmark.sh). Change the gnuplot file [bm.gp](./bm.gp) to change how the benchmarks are plotted.
+Measurements are made upto **16 simultaneous clients**. Each n-simultaneous-clients simulation is run `1000` times and Min, Max, and Mean are calculated. These limits can be changed from scripts [benchmark.sh](./benchmark.sh). Change the gnuplot file [bm.gp](./bm.gp) to change how the benchmarks are plotted.
 
 Measured data from the benchmarks is available in the [results](./results) folder. When `i` clients are simultaneously running, `client-i.csv` has the measurements from clients. `{client}-{min/max/mean}.csv` has the min/max/mean of client.
 
@@ -29,9 +29,9 @@ Time in microseconds from the moment message is sent to the moment reply is comp
 
 ##### Client delay with N clients
 
-`N` clients are run at a time, and this is repeated `10000` times. 
+`N` clients are run at a time, and this is repeated `1000` times. 
 All clients measure the time taken and log to a file, 
-so there are `Nx10000` samples in the image for n-clients.
+so there are `Nx1000` samples in the image for n-clients.
 Click on the pictures to enlarge.
 
 
