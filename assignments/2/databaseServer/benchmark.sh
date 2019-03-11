@@ -1,5 +1,5 @@
 max_simultaneous_clients=16
-runs_per_sim=100
+runs_per_sim=10000
 
 rm -rf ./results/*
 mkdir -p ./results/images

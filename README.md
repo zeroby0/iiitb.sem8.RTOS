@@ -8,5 +8,5 @@ All the code is unlicensed and is released into the Public Domain. Read the ['Li
 	- [Echo Server](./assignments/1/echo)
 	- [Database Server](./assignments/1/databaseServer)
 2. [Unix Sockets](./assignments/2/)
-	- [Echo Server](./assignments/2/echo)
+	- [Echo Server](./assignments/2/echoServer)
 	- [Database Server](./assignments/2/databaseServer)
