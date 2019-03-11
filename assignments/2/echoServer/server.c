@@ -11,7 +11,7 @@
 #include <sys/time.h>
 
 char* SERVER_ADDRESS =  "aabbccddeeff";
-int MAX_SIMULTANEOUS_CONNECTIONS = 20;
+int MAX_SIMULTANEOUS_CONNECTIONS = 64;
 
 int server_fd;
 int client_fd;
@@ -28,6 +28,8 @@ int main() {
     if(fork() == 0) { // child
         handleClient(client_fd);
     }
+
+    close(client_fd);
 
   }
 }
@@ -46,6 +48,8 @@ void handleClient(int client_fd) {
       write(client_fd, &letter, sizeof(char)),
       "Error writing to client"
     );
+
+  close(client_fd);
 
   exit(0);
 }
