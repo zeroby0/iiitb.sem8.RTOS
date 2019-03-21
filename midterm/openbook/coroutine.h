@@ -11,6 +11,12 @@ typedef struct Coroutine {
 	pthread_t* thread;
 	pthread_mutex_t* thread_lock;
 	pthread_mutex_t* main_lock;
+
+	// Payload incase you want to add some data
+	void* payload1;
+	void* payload2;
+	void* payload3;
+	void* payload4;
 } Coroutine;
 
 Coroutine* coroutine_create(int id, void* (*function)(void*), pthread_mutex_t* main_lock);
