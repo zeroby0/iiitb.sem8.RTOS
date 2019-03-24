@@ -53,9 +53,9 @@ void handle_client(int client_fd) {
 	printf("%s\n", message);
 
 	if(write(client_fd, message, sizeof(message)) == -1) {
-    	perror("handle_client() -> write()\n\
-    			Error writing to client.");
-    }
+    		perror("handle_client() -> write()\n\
+    				Error writing to client.");
+        }
 
 	close(client_fd);
 
