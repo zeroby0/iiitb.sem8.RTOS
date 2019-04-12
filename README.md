@@ -11,8 +11,8 @@ All the code is unlicensed and is released into the Public Domain. Read the ['Li
 	- [Echo](./assignments/2/echoServer)
 	- [Database](./assignments/2/databaseServer)
 3. [Voip](./assignments/3/)
-	- [Server](./assignments/3/server)
-	- [Client](./assignments/3/client)
+	- [Server](./assignments/3/server.c)
+	- [Client](./assignments/3/client.c)
 	
 # Midterm
 1. [Coroutines](./midterm/openbook/)
