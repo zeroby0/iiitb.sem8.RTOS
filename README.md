@@ -23,7 +23,7 @@ All the code is unlicensed and is released into the Public Domain. Read the ['Li
 	- [Server](./midterm/takehome/src/server.c)
 
 # Project
-[Project](./project/)
+1. [Project](./project/)
 	- [Server](./project/server.py)
 	- [Backend](./project/backend.py)
 	- [scan](./project/wifiscan)
