@@ -1,0 +1,30 @@
+<!doctype html>
+<meta http-equiv="refresh" content="1; URL=http://{{ip}}:8000/{{family}}/{{device}}/">
+<title>Tracking device</title>
+
+<style type="text/css">
+footer { 
+  display: block;
+  position: absolute;
+  bottom: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+}
+
+#ftr {
+	display: inline;
+	padding-left: 80px;
+}
+</style>
+
+<h1>{{family}}</h1>
+<h1>{{device}}</h1>
+<h1>{{location}}</h1>
+<h1>{{probability}}</h1>
+
+<footer>
+  <a class="ftr"  href="http://{{ip}}:8000/{{family}}/{{device}}/">{{ip}}</a>
+  <a class="ftr"  href="http://{{ip}}/static/pdf.pdf">pdf link</a>
+</footer>

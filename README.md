@@ -21,3 +21,9 @@ All the code is unlicensed and is released into the Public Domain. Read the ['Li
 2. [Sensors](./midterm/takehome)
 	- [Client](./midterm/takehome/src/client.c)
 	- [Server](./midterm/takehome/src/server.c)
+
+# Project
+[Project](./project/)
+	- [Server](./project/server.py)
+	- [Backend](./project/backend.py)
+	- [scan](./project/wifiscan)
